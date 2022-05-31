@@ -1,0 +1,11 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Joshua Pritikin Counseling'
+theme = "hugo-book"
+
+disablePathToLower = true
+enableGitInfo = true
+
+[params]
+  BookRepo = 'https://github.com/jpritikin/coach'
+  
