@@ -7,7 +7,7 @@ section: Psychedelics
 
 ## Salvia Divinorum
 
-Related to the common spices mint and sage, salvia is a member of the Lamiaceae family and endemic to the Sierra Mazateca in the state of Oaxaca in Mexico.\[^maqueda2018] Unlike mint or sage, salvia is psychoactive. The psychoactive constituent is a structurally unique diterpenoid called salvinorin A, a potent [κ-opioid](https://en.wikipedia.org/wiki/%CE%9A-opioid\_receptor) agonist.
+Related to the common spices mint and sage, salvia is a member of the Lamiaceae family and endemic to the Sierra Mazateca in the state of Oaxaca in Mexico.[^maqueda2018] Unlike mint or sage, salvia is psychoactive. The psychoactive constituent is a structurally unique diterpenoid called salvinorin A, a potent [κ-opioid](https://en.wikipedia.org/wiki/%CE%9A-opioid\_receptor) agonist.
 
 Methods of ingestion include smoking, quid chewing, or tincture. The traditional method is quid chewing. Leaves are chewed and held in the mouth without swallowing for 10-15 minutes. The leaves taste like tea (camellia sinensis). The taste is not pleasant, but tolerable. \[TODO: Try caraway seeds] The psychedelic effect comes on after about 10-20 minutes from the beginning of chewing and lasts 30-90 minutes. Use with a tincture is similar, but instead of leaves, extracted salvinorin A is held in the mouth with a solvent, usually ethyl alcohol. Smoking with a water pipe is another method. To receive a large enough dose through inhalation, leaves are fortified with salvinorin A to increase the concentration 5-60 times (or higher). When absorbed through the lungs, the psychedelic effect comes on rapidly and lasts for 5-30 minutes.
 
@@ -15,7 +15,7 @@ In USA, salvia is [legal at the federal level](https://www.dea.gov/sites/default
 
 ## Subjective Effects in Passive Participants
 
-We summarize three placebo controlled studies.\[^maclean2012]\[^addy2012]\[^maqueda2015] Healthy hallucinogen-using adults were administered inhaled salvinorin A. Two studies used eye shades with music while one study use a dimly lit room with no music. The Hallucinogen Rating Scale (HRS) consists of six subscales:\[^strassman1994]
+We summarize three placebo controlled studies.[^maclean2012][^addy2012][^maqueda2015] Healthy hallucinogen-using adults were administered inhaled salvinorin A. Two studies used eye shades with music while one study use a dimly lit room with no music. The Hallucinogen Rating Scale (HRS) consists of six subscales:[^strassman1994]
 
 | subscale | description |
 | -------- | ---------- |
@@ -30,11 +30,11 @@ Salvia was statistically significant on all HRS subscales. Some participants rep
 
 ## My Credentials
 
-What qualifies somebody to be an authority on salvia? I have no idea. Navigating salvia is not an activity like rock climbing where it is known that certain training is relevant to outcomes. Salvia does not come with a user's manual. There is no correct way to use salvia. However, the same could be said about surfing. Suppose somebody goes out into the ocean with a surfboard for an hour. We may regard their experience a success if they enjoy it. Or we could adopt a measure of success more comparable to sport surfing. In sport surfing, those who ride bigger waves more artistically are more appreciated. Following the analogy, I suggest that the extent control is one way to measure a person's expertise with salvia. This guide is not for everybody. I write with a definite opinion about the salvia experience. You may not agree. That is fine. Not everybody approaches a beach with sport surfing in mind either.
+What qualifies somebody to be an authority on salvia? I have no idea. Navigating salvia is not an activity like rock climbing where it is known that certain training is relevant to outcomes. Salvia does not come with a user's manual. There is no correct way to use salvia. However, the same could be said about surfing. Suppose somebody goes out into the ocean with a surfboard for an hour. We may regard their experience a success if they enjoy it. Or we could adopt a measure of success more comparable to sport surfing. In sport surfing, those who ride bigger waves more artistically are more appreciated. Following the analogy, I suggest that the extent of control is one way to measure a person's expertise with salvia. This guide is not for everybody. I write with a definite opinion about the salvia experience. You may not agree. That is fine. Not everybody approaches a beach with sport surfing in mind either.
 
 ## Navigation
 
-James Arthur described his multi-year exploration of salvia.\[^arthur2010] In contrast, my approach requires little practice. Some can learn how to navigate in just a few sessions. *Gravity waves*, a colloquial way of referring to one of the things measured by HRS's somaesthesia subscale, are the key to navigating salvia.
+James Arthur described his multi-year exploration of salvia.[^arthur2010] In contrast, my approach requires little practice. Some can learn how to navigate in just a few sessions. *Gravity waves*, a colloquial way of referring to one of the things measured by HRS's somaesthesia subscale, are the key to navigating salvia.
 
 ### Preparation
 
@@ -58,7 +58,7 @@ Volition without distraction is how to navigate the transitional, unstable milie
 
 I favor the traditional method of quid chewing because more time is available to acclimate to the salvia experience. Although I have not checked personally, alcohol-based tinctures should work similarly. I am skeptical about the water pipe method due to the shorter duration of effect. To extend the duration, Christopher Solomon developed a special pipe that makes it somewhat easier to smoke five doses in sequence. I have not tried this pipe, but I suspect that the additional planning and decision making required to use it would interfere with the process of acclimation, described below.
 
-I ordered dried leaves online from Arena Ethnobotanicals, a now-defunct herb vendor formerly based in Carlsbad, California. As I mentioned before, gravity waves are the key to navigating salvia. The distinctive waves cross sensory modalities. For example, a single wave can be both visual and tactile simultaneously. The waves represent an opportunity for your attention to drift off into experiential repetition. This is the temptation that is bleeding through your senses.\[^synesthesia] Salvia magnifies gravity waves, makes them obvious, but they are present in an ordinary state of mind, just subtle. I remember feeling the gravity waves as an infant. These are my earliest, not altogether pleasant, memories.
+I ordered dried leaves online from Arena Ethnobotanicals, a now-defunct herb vendor formerly based in Carlsbad, California. As I mentioned before, gravity waves are the key to navigating salvia. The distinctive waves cross sensory modalities. For example, a single wave can be both visual and tactile simultaneously. The waves represent an opportunity for your attention to drift off into experiential repetition. This is the temptation that is bleeding through your senses.[^synesthesia] Salvia magnifies gravity waves, makes them obvious, but they are present in an ordinary state of mind, just subtle. I remember feeling the gravity waves as an infant. These are my earliest, not altogether pleasant, memories.
 
 If your attention follows a gravity wave then it is like entering a hall of mirrors. The repetitions are not exact, but there is a mixture of distortion and repetition. An analogy is your appearance when you place yourself between two mirrors that are facing each other. The repetitions of the image are most accurate near the center of the mirrors and grow in distortion toward the edges. Beyond the edges are dissociation and hallucination. If you are alert enough then you will not dissociate but saccade your attention back to the center, the present moment.
 
@@ -101,7 +101,7 @@ I have practiced meditation for more than 30 years and worked as a software engi
 I have described a particular way to navigate the salvia trip. Those who learn this navigational approach, let us call them salvia psychonauts. All human research on salvia should be revisited to consider including a comparison group of salvia psychonauts. For example:
 
 *   Subjective effects: Relative to passives on the HRS, I would expect psychonuats to find less somaesthesia, neutral affect, less impaired cognition, less perceptual distortion, high volition, and similarly high intensity.
-*   Functional connectivity: Recent work has compared brains of healthy hallucinogen-using adults with and without salvia.\[^doss2020] This prompts similar imaging experiments involving salvia psychonauts.
+*   Functional connectivity: Recent work has compared brains of healthy hallucinogen-using adults with and without salvia.[^doss2020] This prompts similar imaging experiments involving salvia psychonauts.
 
 ### What is the salvia experience?
 
@@ -112,26 +112,26 @@ Can we understand the parameters of the salvia experience in more detail?
 
 ### As a performance enhancing drug
 
-There is [at least one case report](https://medium.com/an-idea/meeting-the-shepardess-la-pastora-salvia-divinorum-58d0aac97ac4) of sexual experience during salvia intoxication. Could salvia be combined with orgasmic meditation,\[^prause2021] a structured, partnered largely non-verbal practice of clitoral stroking?
+There is [at least one case report](https://medium.com/an-idea/meeting-the-shepardess-la-pastora-salvia-divinorum-58d0aac97ac4) of sexual experience during salvia intoxication. Could salvia be combined with orgasmic meditation,[^prause2021] a structured, partnered largely non-verbal practice of clitoral stroking?
 
-\[^maclean2012]: MacLean, K. A., Johnson, M. W., Reissig, C. J., Prisinzano, T. E., Griffiths, R. R. (2012). Dose-related effects of salvinorin A in humans: Dissociative, hallucinogenic, and memory effects. *Psychopharmacology, 226*(2), 381--392.
+[^maclean2012]: MacLean, K. A., Johnson, M. W., Reissig, C. J., Prisinzano, T. E., Griffiths, R. R. (2012). Dose-related effects of salvinorin A in humans: Dissociative, hallucinogenic, and memory effects. *Psychopharmacology, 226*(2), 381--392.
 
-\[^addy2012]: Addy, P. H. (2012). Acute and post-acute behavioral and psychological effects of salvinorin A in humans. *Psychopharmacology, 220*(1), 195--204.
+[^addy2012]: Addy, P. H. (2012). Acute and post-acute behavioral and psychological effects of salvinorin A in humans. *Psychopharmacology, 220*(1), 195--204.
 
-\[^maqueda2015]: Maqueda, A. E., Valle, M., Addy, P. H., Antonijoan, R. M., Puntes, M., Coimbra, J., ... & Riba, J. (2015). Salvinorin-A induces intense dissociative effects, blocking external sensory perception and modulating interoception and sense of body ownership in humans. *International Journal of Neuropsychopharmacology, 18*(12), 1--4.
+[^maqueda2015]: Maqueda, A. E., Valle, M., Addy, P. H., Antonijoan, R. M., Puntes, M., Coimbra, J., ... & Riba, J. (2015). Salvinorin-A induces intense dissociative effects, blocking external sensory perception and modulating interoception and sense of body ownership in humans. *International Journal of Neuropsychopharmacology, 18*(12), 1--4.
 
-\[^strassman1994]: Strassman, R. J., Qualls, C. R., Uhlenhuth, E. H., & Kellner, R. (1994). Dose-response study of N, N-dimethyltryptamine in humans: II. Subjective effects and preliminary results of a new rating scale. *Archives of General Psychiatry, 51*(2), 98--108.
+[^strassman1994]: Strassman, R. J., Qualls, C. R., Uhlenhuth, E. H., & Kellner, R. (1994). Dose-response study of N, N-dimethyltryptamine in humans: II. Subjective effects and preliminary results of a new rating scale. *Archives of General Psychiatry, 51*(2), 98--108.
 
-\[^maqueda2018]: Maqueda, A. E. (2018). The Use of *Salvia divinorum* from a Mazatec Perspective. In B. C. Labate and C. Cavnar (Eds.) *Plant Medicines, Healing and Psychedelic Science* (pp. 55--70). Springer International Publishing.
-
-
-
-\[^arthur2010]: Arthur, J. D. (2010). *Salvia divinorum: Doorway to thought-free awareness.* Simon and Schuster.
+[^maqueda2018]: Maqueda, A. E. (2018). The Use of *Salvia divinorum* from a Mazatec Perspective. In B. C. Labate and C. Cavnar (Eds.) *Plant Medicines, Healing and Psychedelic Science* (pp. 55--70). Springer International Publishing.
 
 
 
-\[^synesthesia]: Synesthesia juxtapositions the information from one sense into another (e.g., hearing colors). The medium where the gravity waves exist is not a sense per-se, but a property of attention.
+[^arthur2010]: Arthur, J. D. (2010). *Salvia divinorum: Doorway to thought-free awareness.* Simon and Schuster.
 
-\[^doss2020]: Doss, M. K., May, D. G., Johnson, M. W., Clifton, J. M., Hedrick, S. L., Prisinzano, T. E., ... & Barrett, F. S. (2020). The acute effects of the atypical dissociative hallucinogen salvinorin A on functional connectivity in the human brain. *Scientific Reports, 10*(1), 1--12.
 
-\[^prause2021]: Prause, N., Siegle, G. J., & Coan, J. (2021). Partner intimate touch is associated with increased interpersonal closeness, especially in non-romantic partners. *PLOS ONE, 16*(3), e0246065.
+
+[^synesthesia]: Synesthesia juxtapositions the information from one sense into another (e.g., hearing colors). The medium where the gravity waves exist is not a sense per-se, but a property of attention.
+
+[^doss2020]: Doss, M. K., May, D. G., Johnson, M. W., Clifton, J. M., Hedrick, S. L., Prisinzano, T. E., ... & Barrett, F. S. (2020). The acute effects of the atypical dissociative hallucinogen salvinorin A on functional connectivity in the human brain. *Scientific Reports, 10*(1), 1--12.
+
+[^prause2021]: Prause, N., Siegle, G. J., & Coan, J. (2021). Partner intimate touch is associated with increased interpersonal closeness, especially in non-romantic partners. *PLOS ONE, 16*(3), e0246065.

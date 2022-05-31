@@ -1,6 +1,7 @@
 ---
-title: Overview
-section: Psychedelics
+title: Psychedelics
+bookCollapseSection: true
+weight: 4
 ---
 
 # Psychdelics
@@ -10,7 +11,7 @@ Reveal and amplify your inner experience.
 I have personal experience with:
 
 *   Psilocybin
-*   [Salvia divinorum](../32\_salvia)
+*   Salvia divinorum
 *   Cannabis
 *   Daime (a.k.a. ayahuasca)
 

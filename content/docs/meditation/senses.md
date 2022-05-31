@@ -1,6 +1,6 @@
 ---
 title: Withdraw from the senses
-section: Meditation
+weight: 1
 ---
 
 Patanjali

@@ -1,6 +1,7 @@
 ---
-title: Overview
-section: Meditation
+title: Meditation
+bookCollapseSection: true
+weight: 3
 ---
 
 I have had a life-long fascination with religion and spirituality. I

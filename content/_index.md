@@ -1,41 +1,48 @@
 ---
 title: Introduction
 type: docs
+bookToc: false
 ---
 
-# Acerbo datus maxime
+## Hi, I'm Joshua Pritikin.
+
+My goal is to empower you with more access to calm, confidence,
+courage, clarity, and connection. I use **Internal Family Systems**
+(IFS). IFS is an evidence-based mode of psychotherapy that has been
+proven to heal many forms of psychological suffering.
+
+IFS is a full range therapy. Most psychotherapy aims to help people
+get from ‘bad’ to ‘so-so,’ or from ‘so-so’ to ‘good’. IFS can also
+help people get from ‘good’ to ‘great’.
 
 {{< columns >}}
-## Astris ipse furtiva
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+## Areas of Experise
+
+- Anxiety & Stress
+- Relationship issues
+- Psychedelic integration
+- Life style, nutrition, & physical health
 
 <--->
 
-## Suis quot vota
+## Professional Background
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
+- I earned a Ph.D. in Quantitative Psychology in 2016 from University of
+Virginia. [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bibliography/56367505/public/?sort=date&direction=ascending)
+- I have practiced meditation for more than 30 years.
+- I completed IFS Level 1 course Nov 2022.
+- I am trauma-informed.
+- I am **not** a Licensed Professional Counselor.
+
 {{< /columns >}}
 
+## Location
 
-## Tempora nisi nunc
+I live in White City, Oregon (near Medford). I am seeing clients online via Zoom.
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+## Fees
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
+I charge $50 per hour. I do not accept insurance.
 
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+Contact me to set up a free 10 minutes conversation to see if we're a good fit.

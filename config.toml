@@ -7,5 +7,6 @@ disablePathToLower = true
 enableGitInfo = true
 
 [params]
+  BookTheme = 'auto'
   BookRepo = 'https://github.com/jpritikin/coach'
   BookSearch = false
