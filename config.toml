@@ -8,4 +8,4 @@ enableGitInfo = true
 
 [params]
   BookRepo = 'https://github.com/jpritikin/coach'
-  
+  BookSearch = false
