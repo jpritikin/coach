@@ -1,24 +1,49 @@
 ---
 title: Cannabis
 section: Psychedelics
+bookToc: false
 ---
 
-Ingested
+# Cannabis/Hemp
 
-Daytime
+Cannabis offers an extraordinary variety of psychoactive chemicals
+that interact in complex ways.[^russo2019] The two most important
+molecules are tetrahydrocannabinol (THC) and cannabidiol (CBD).
+Cannabis can facilitate many different kinds of experiences, some
+psychedelic.
 
-Fasting
+{{< hint info >}}
+Whether a substance has a psychedelic effect is, in a large part,
+a matter of intention, not an inherent property of the substance.
+{{< /hint >}}
 
-One week between trips
+"CBD ... antagonise[s] some undesirable effects of THC including intoxication, sedation and tachycardia, while contributing analgesic, anti-emetic, and anti-carcinogenic properties..."[^russo2006] However, there is little research on the psychological effect of THC:CBD ratios that are mostly CBD (1:50 or more extreme).[^zeyl2020]
 
-CBD isolate -- Similar to candle treatment
+## Administration Protocol
 
-CBD amplifies THC
+I wanted to use cannabis as a psychedelic. I came up with the following protocol.
 
-You only need trace amounts of THC. Feasible to concoct using only hemp extracts (less than 0.3% THC).
+- Ingested: Onset is 30 min to 2 hours. Full effect peaks within 4 hours. Effects can last up to 12 hours after use. Some residual effects can last up to 24 hours.
+- Daytime: Cannabinoids can make you sleepy, but if you sleep then you aren't fully enjoying the effects.
+- Fasting: There are cannabinoid receptors throughout the digestive system. Eating would add a confounding factor and make the experience less reproducible.
+- One week between trips: Cannabinoids take days to drain out of your system. Tolerance prevents a second trip on the day immediately following an administration session.
+- No extra oil: Cannabinoids are soluble in oil, but that doesn't mean you need a lot of oil to optimize absorption. Look for Rick Simpson Oil (RSO) extracts.
 
-[A tale of two cannabinoids: The therapeutic rationale for combining tetrahydrocannabinol and cannabidiol](https://www.sciencedirect.com/science/article/abs/pii/S0306987705004317?via%3Dihub)
+### CBD isolate powder
 
-1:250 THC:CBD [What Do You Know About Maryjane? A Systematic Review of the Current Data on the THC:CBD Ratio](https://www.tandfonline.com/doi/abs/10.1080/10826084.2020.1731547)
+Try both 250mg and 500mg. Does not produce a psychedelic experience. The
+effect is similar to [candle treatment]({{< relref "candle" >}}).
 
-[The Case for the Entourage Effect and Conventional Breeding of Clinical Cannabis: No “Strain,” No Gain](https://www.frontiersin.org/articles/10.3389/fpls.2018.01969/full)
+### Full spectrum hemp extract + CBD isolate powder
+
+Try 250mg CBD from full spectrum hemp extract + 250mg CBD isolate
+powder. Produces a psychedelic experience using only hemp extracts
+(less than 0.3% THC).  It seems you only need trace amounts of THC to obtain a psychedelic effect.
+
+## References
+
+[^russo2019]: Russo, E. B. (2019). The case for the entourage effect and conventional breeding of clinical cannabis: No “strain,” no gain. Frontiers in Plant Science, 9, 1969.
+
+[^russo2006]: Russo, E., & Guy, G. W. (2006). A tale of two cannabinoids: the therapeutic rationale for combining tetrahydrocannabinol and cannabidiol. Medical Hypotheses, 66(2), 234-246.
+
+[^zeyl2020]: Zeyl, V., Sawyer, K., & Wightman, R. S. (2020). What do you know about Maryjane? A systematic review of the current data on the THC: CBD ratio. Substance Use & Misuse, 55(8), 1223-1227.

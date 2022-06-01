@@ -6,6 +6,9 @@ theme = "hugo-book"
 disablePathToLower = true
 enableGitInfo = true
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 [params]
   BookTheme = 'auto'
   BookRepo = 'https://github.com/jpritikin/coach'

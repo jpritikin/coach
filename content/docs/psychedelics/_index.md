@@ -4,9 +4,9 @@ bookCollapseSection: true
 weight: 4
 ---
 
-# Psychdelics
+# Psychedelics
 
-Reveal and amplify your inner experience.
+Psychedelics are substances that reveal and amplify your inner experience.
 
 I have personal experience with:
 
@@ -18,3 +18,7 @@ I have personal experience with:
 I attend a [local psychedelic church](https://www.chlq.org/).
 
 I am also a member of the [Sacred Garden Church](https://sacredgarden.life/).
+
+{{< hint warning >}}
+Psychedelics are not for everybody.
+{{< /hint >}}

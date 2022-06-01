@@ -3,15 +3,15 @@ title: Salvia Divinorum
 section: Psychedelics
 ---
 
-# Joshua's Guide to Using Salvia
+# Guide to Using Salvia
 
 ## Salvia Divinorum
 
-Related to the common spices mint and sage, salvia is a member of the Lamiaceae family and endemic to the Sierra Mazateca in the state of Oaxaca in Mexico.[^maqueda2018] Unlike mint or sage, salvia is psychoactive. The psychoactive constituent is a structurally unique diterpenoid called salvinorin A, a potent [κ-opioid](https://en.wikipedia.org/wiki/%CE%9A-opioid\_receptor) agonist.
+Related to the common spices mint and sage, salvia is a member of the Lamiaceae family and endemic to the Sierra Mazateca in the state of Oaxaca in Mexico.[^maqueda2018] Unlike mint or sage, salvia is psychoactive. The psychoactive constituent is a structurally unique diterpenoid called salvinorin A, a potent [κ-opioid](https://en.wikipedia.org/wiki/%CE%9A-opioid_receptor) agonist.
 
 Methods of ingestion include smoking, quid chewing, or tincture. The traditional method is quid chewing. Leaves are chewed and held in the mouth without swallowing for 10-15 minutes. The leaves taste like tea (camellia sinensis). The taste is not pleasant, but tolerable. \[TODO: Try caraway seeds] The psychedelic effect comes on after about 10-20 minutes from the beginning of chewing and lasts 30-90 minutes. Use with a tincture is similar, but instead of leaves, extracted salvinorin A is held in the mouth with a solvent, usually ethyl alcohol. Smoking with a water pipe is another method. To receive a large enough dose through inhalation, leaves are fortified with salvinorin A to increase the concentration 5-60 times (or higher). When absorbed through the lungs, the psychedelic effect comes on rapidly and lasts for 5-30 minutes.
 
-In USA, salvia is [legal at the federal level](https://www.dea.gov/sites/default/files/2020-06/Salvia%20Divinorum-2020\_0.pdf), but it is illegal in some states. Check your [state's laws](https://en.wikipedia.org/wiki/Legal\_status\_of\_Salvia\_divinorum\_in\_the\_United\_States) before you order.
+In USA, salvia is [legal at the federal level](https://www.dea.gov/sites/default/files/2020-06/Salvia%20Divinorum-2020_0.pdf), but it is illegal in some states. Check your [state's laws](https://en.wikipedia.org/wiki/Legal_status_of_Salvia_divinorum_in_the_United_States) before you order.
 
 ## Subjective Effects in Passive Participants
 
@@ -113,6 +113,8 @@ Can we understand the parameters of the salvia experience in more detail?
 ### As a performance enhancing drug
 
 There is [at least one case report](https://medium.com/an-idea/meeting-the-shepardess-la-pastora-salvia-divinorum-58d0aac97ac4) of sexual experience during salvia intoxication. Could salvia be combined with orgasmic meditation,[^prause2021] a structured, partnered largely non-verbal practice of clitoral stroking?
+
+## References
 
 [^maclean2012]: MacLean, K. A., Johnson, M. W., Reissig, C. J., Prisinzano, T. E., Griffiths, R. R. (2012). Dose-related effects of salvinorin A in humans: Dissociative, hallucinogenic, and memory effects. *Psychopharmacology, 226*(2), 381--392.
 
