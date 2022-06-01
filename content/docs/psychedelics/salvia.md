@@ -15,7 +15,7 @@ In USA, salvia is [legal at the federal level](https://www.dea.gov/sites/default
 
 ## Subjective Effects in Passive Participants
 
-We summarize three placebo controlled studies.[^maclean2012][^addy2012][^maqueda2015] Healthy hallucinogen-using adults were administered inhaled salvinorin A. Two studies used eye shades with music while one study use a dimly lit room with no music. The Hallucinogen Rating Scale (HRS) consists of six subscales:[^strassman1994]
+We summarize three placebo controlled studies.[^maclean2012][^addy2012][^maqueda2015] Healthy hallucinogen-using adults were administered inhaled salvinorin A. Two studies used eye shades with music while one study used a dimly lit room with no music. The Hallucinogen Rating Scale (HRS) consists of six subscales:[^strassman1994]
 
 | subscale | description |
 | -------- | ---------- |

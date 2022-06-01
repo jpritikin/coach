@@ -30,7 +30,7 @@ People can become too enthusiastic about meditation. Jamie Wheal did a
 marvelous job of describing the dysfunctional social situations that can
 happen in his 2021 book *Recapture the Rapture* and is worth quoting at length:
 
-{{< expand "Show quote" >}}
+{{< details "Show quote" >}}
 {{< hint info >}}
 1. Grabbing the One Ring of Power   
 Absolute power corrupts absolutely. Like in Lord of the Rings, don’t be the misguided
@@ -118,7 +118,7 @@ entire mythology. Key decisions and commitments are encouraged or forced while i
 non-ordinary states, rather than deferring until a person returns to clearheaded
 sobriety and can offer full consent.
 {{< /hint >}}
-{{< /expand >}}
+{{< /details >}}
 
 ## Integrated
 
@@ -131,11 +131,11 @@ flowchart TD;
   Meditation --> A(Flow)
 {{< /mermaid >}}
 
-Psychedelics inspire and teach us how to meditate. However, psychedelic experience
-comsumes a lot of time and, in most cases, should have a maximum frequency of once a week.
+Psychedelics can inspire and teach us how to meditate. However, psychedelic trips
+comsume a lot of time and, in most cases, should have a maximum frequency of once a week.
 In contrast, meditation is a daily practice that can increase your access Self energy.
 Increased Self energy makes life somewhat less mundane and tedious.
-More often, we may enjoy full immersion in our activity (flow).
+More often, we may enjoy full immersion in our daily activities (flow).
 
 {{< hint info >}}
 Plant sacraments are our highest ranking teacher because plants don't become egomaniacal.

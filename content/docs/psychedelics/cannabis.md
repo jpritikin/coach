@@ -37,7 +37,7 @@ effect is similar to [candle treatment]({{< relref "candle" >}}).
 ### Full spectrum hemp extract + CBD isolate powder
 
 Try 250mg CBD from full spectrum hemp extract + 250mg CBD isolate
-powder. Produces a psychedelic experience using only hemp extracts
+powder. Produces a psychedelic experience using only hemp extract
 (less than 0.3% THC).  It seems you only need trace amounts of THC to obtain a psychedelic effect.
 
 ## References
