@@ -1,6 +1,6 @@
 ---
 title: Integration
-weight: 2
+weight: 3
 bookToc: false
 ---
 
@@ -138,15 +138,16 @@ Increased Self energy makes life somewhat less mundane and tedious.
 More often, we may enjoy full immersion in our daily activities (flow).
 
 {{< hint info >}}
-Plant sacraments are our highest ranking teacher because plants don't become egomaniacal.
+Plant (and fungi) sacraments are our highest ranking teacher because
+plants (and fungi) don't become egomaniacal.
 {{< /hint >}}
 
 ## References
 
-[^doblin1991]: Doblin, R. (1991). Pahnke’s “Good Friday experiment”: A long-term follow-up and methodological critique. Journal of Transpersonal Psychology, 23(1), 1-28.
+[^doblin1991]: Doblin, R. (1991). Pahnke’s “Good Friday experiment”: A long-term follow-up and methodological critique. *Journal of Transpersonal Psychology, 23*(1), 1-28.
 
-[^muraresku2020]: Muraresku, B. C. (2020). The Immortality Key: The Secret History of the Religion with No Name. St. Martin's Press.
+[^muraresku2020]: Muraresku, B. C. (2020). *The Immortality Key: The Secret History of the Religion with No Name.* St. Martin's Press.
 
-[^brown2016]: Brown, J. B., & Brown, J. M. (2016). The psychedelic gospels: The secret history of hallucinogens in Christianity. Simon and Schuster.
+[^brown2016]: Brown, J. B., & Brown, J. M. (2016). *The psychedelic gospels: The secret history of hallucinogens in Christianity.* Simon and Schuster.
 
-[^crowley2019]: Crowley, M., & Shulgin, A. (2019). Secret drugs of Buddhism: Psychedelic sacraments and the origins of the Vajrayana. Synergetic Press.
+[^crowley2019]: Crowley, M., & Shulgin, A. (2019). *Secret drugs of Buddhism: Psychedelic sacraments and the origins of the Vajrayana.* Synergetic Press.

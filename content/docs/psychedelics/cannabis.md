@@ -21,13 +21,13 @@ a matter of intention, not an inherent property of the substance.
 
 ## Administration Protocol
 
-I wanted to use cannabis as a psychedelic. I came up with the following protocol.
+To use cannabis as a psychedelic, I came up with the following protocol.
 
 - Ingested: Onset is 30 min to 2 hours. Full effect peaks within 4 hours. Effects can last up to 12 hours after use. Some residual effects can last up to 24 hours.
-- Daytime: Cannabinoids can make you sleepy, but if you sleep then you aren't fully enjoying the effects.
+- Daytime: Cannabinoids can make you pleasantly sleepy, but if you sleep then you aren't fully enjoying the effects.
 - Fasting: There are cannabinoid receptors throughout the digestive system. Eating would add a confounding factor and make the experience less reproducible.
-- One week between trips: Cannabinoids take days to drain out of your system. Tolerance prevents a second trip on the day immediately following an administration session.
-- No extra oil: Cannabinoids are soluble in oil, but that doesn't mean you need a lot of oil to optimize absorption. Look for Rick Simpson Oil (RSO) extracts.
+- One week between trips: Cannabinoids take days to drain out of your system. An attempted trip on the day immediately following an administration session will be blocked by built-up tolerance.
+- No extra oil: Cannabinoids are soluble in oil, but that doesn't mean you need a lot of oil to optimize absorption. Look for Rick Simpson Oil (RSO) style extractions.
 
 ### CBD isolate powder
 
@@ -42,8 +42,8 @@ powder. Produces a psychedelic experience using only hemp extract
 
 ## References
 
-[^russo2019]: Russo, E. B. (2019). The case for the entourage effect and conventional breeding of clinical cannabis: No “strain,” no gain. Frontiers in Plant Science, 9, 1969.
+[^russo2019]: Russo, E. B. (2019). The case for the entourage effect and conventional breeding of clinical cannabis: No “strain,” no gain. *Frontiers in Plant Science, 9*, 1969.
 
-[^russo2006]: Russo, E., & Guy, G. W. (2006). A tale of two cannabinoids: the therapeutic rationale for combining tetrahydrocannabinol and cannabidiol. Medical Hypotheses, 66(2), 234-246.
+[^russo2006]: Russo, E., & Guy, G. W. (2006). A tale of two cannabinoids: the therapeutic rationale for combining tetrahydrocannabinol and cannabidiol. *Medical Hypotheses, 66*(2), 234-246.
 
-[^zeyl2020]: Zeyl, V., Sawyer, K., & Wightman, R. S. (2020). What do you know about Maryjane? A systematic review of the current data on the THC: CBD ratio. Substance Use & Misuse, 55(8), 1223-1227.
+[^zeyl2020]: Zeyl, V., Sawyer, K., & Wightman, R. S. (2020). What do you know about Maryjane? A systematic review of the current data on the THC: CBD ratio. *Substance Use & Misuse, 55*(8), 1223-1227.

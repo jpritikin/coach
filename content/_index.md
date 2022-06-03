@@ -26,6 +26,9 @@ help people get from ‘good’ to ‘great’.
 ## Areas of Experise
 
 - Anxiety & Stress
+- Trauma recovery
+- Addiction
+- Depression
 - Relationship issues
 - Psychedelic integration
 - Life style, nutrition, & physical health
