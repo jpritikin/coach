@@ -1,33 +1,20 @@
 ---
 title: Health Audit
 weight: 5
+bookToc: false
 ---
 
 # Personal Health Audit
 
-## Mandate
-
-Operational security is all about avoiding avoidable mistakes. Computer security experts often limit focus to password and private key management, but physical health matters too. ISCU wants MakerDAO teams to glow with physical and mental health as well as prudent information security practices. Here we call for voluntary participation in a privacy-protected personal health audit.
-
 A few hundred years ago, it was easy to know whether your physical health was threatened. Fell off a tree and broke your arm? Hard to miss. With modern medicine, we now know a lot about treating acute insults. Treatments often work well; people often recover. The main threat to physical health in modern times is stealth, chronic illness. [In the United States, heart disease and cancer kill about 3 in a 1000 every year, and there is often not much warning.](https://www.cdc.gov/nchs/products/databriefs/db427.htm) [Most deaths due to heart disease are sudden.](https://nutritionfacts.org/video/how-to-reduce-the-risk-of-sudden-death/) Especially young adults less than 40 years old often feel suffused with vibrant healthy energy. Is your body lying to you about your health? Fortunately, there are some simple measurements that can reveal signs of stealth chronic disease progression.
 
-Workplace programs designed to improve physical health are somewhat unusual, but are not without precedent. The insurance company GEICO [has realized benefits with a dietary intervention](https://nutritionfacts.org/video/plant-based-workplace-intervention/). [Every dollar spent on wellness programs may offer a $3 return on investment.](https://pubmed.ncbi.nlm.nih.gov/20075081/) At ISCU, it is our ambition that [Phil Inje Chang](https://forum.makerdao.com/t/a-pioneer-in-real-world-assets-is-gone/13009/22) should be the last person associated with our organization to suffer a heart attack.
+## About me
 
-### Privacy Protection
-
-ISCU is not interested in collecting individual data. The only reporting that we want to do is a DAO-wide summary. Core Units should aggregate response data, with only the aggregated summary statistics shared with ISCU. Individuals should skip any question that they are not comfortable answering. To further obfuscate the data, Core Units can add 2-3 worth of random responses.
-
-### Credibility
-
-I earned a Ph.D., but I am not a medical doctor. Why am I qualified to conduct this type of audit? [In fact, most doctors know little about nutrition.](https://nutritionfacts.org/video/how-much-do-doctors-actually-know-about-nutrition/) I have studied nutrition as a hobby for many years and am trained to evaluate statistical evidence. My views are aligned with scientific professional organizations such as [International Journal of Disease Reversal and Prevention](https://www.ijdrp.org) and [American College of Lifestyle Medicine](https://www.lifestylemedicine.org/); and a variety of well known researchers in the field of nutrition such as [Caldwell B. Esselstyn](https://www.dresselstyn.com/), [Neal Barnard](https://www.pcrm.org), [Dean Ornish](https://www.ornish.com/), [T. Colin Campbell](https://nutritionstudies.org/), and [John McDougall](https://www.drmcdougall.com/). There is actually little scientific disagreement that a plant-based diet is the only diet proven to reverse cardiovascular disease. Based on this single fact alone, a plant-based diet should be our [default diet](https://nutritionfacts.org/video/taking-personal-responsibility-for-your-health/) until more evidence is available.
+I earned a Ph.D., but I am not a medical doctor. I have studied nutrition as a hobby for many years and am trained to evaluate statistical evidence. My views are aligned with scientific professional organizations such as [International Journal of Disease Reversal and Prevention](https://www.ijdrp.org) and [American College of Lifestyle Medicine](https://www.lifestylemedicine.org/); and a variety of well known researchers in the field of nutrition such as [Caldwell B. Esselstyn](https://www.dresselstyn.com/), [Neal Barnard](https://www.pcrm.org), [Dean Ornish](https://www.ornish.com/), [T. Colin Campbell](https://nutritionstudies.org/), and [John McDougall](https://www.drmcdougall.com/). There is actually little scientific disagreement that a plant-based diet is the only diet proven to reverse cardiovascular disease. Based on this single fact alone, a plant-based diet should be our [default diet](https://nutritionfacts.org/video/taking-personal-responsibility-for-your-health/) until more evidence is available.
 
 In interests of full disclosure, I have a special relationship with [Michael Greger](https://nutritionfacts.org/video/the-story-of-nutritionfacts-org/), an eminent nutrition researcher. My grandfather, [Nathan Pritikin](https://www.youtube.com/watch?v=qOj4rzSkqok), helped treat Michael Greger's grandmother for cardiovascular disease and so inspired Dr. Greger to become a medical doctor. Dr. Greger is also deeply committed to the dissemination of research. For example, his recent book [How Not to Diet](https://nutritionfacts.org/book/how-not-to-diet/) cites 4990 scientific articles. I follow Dr. Greger closely and feel confident to rely on his many research summaries.
 
 An easy way to learn more about nutrition is to watch two outstanding feature documentaries: [What the Health?](https://www.whatthehealthfilm.com/) and [Game Changers](https://gamechangersmovie.com/).
-
-### Alignment with Clean Money
-
-The community has endorsed the notion of [clean money](https://forum.makerdao.com/t/signal-request-would-you-like-to-see-makerdao-move-in-the-general-direction-indicated-by-the-post-the-case-for-clean-money/10932). One of the [aims of clean money](https://forum.makerdao.com/t/the-case-for-clean-money/10684) is to prevent or attenuate climate change. [Although climate change is mostly a national-scale problem,](https://www.youtube.com/watch?v=1J9LOqiXdpE) it is not a bad idea to make personal choices that align with protecting the environment. Choosing a plant-based diet is a way to reduce your climate footprint.
 
 ## Easy Quantification of Physical Health
 
@@ -41,7 +28,7 @@ When discussing obesity, people often focus on body weight (a measure of mass). 
 
 #### resting heart rate \<= 60
 
-Your heart has got a tough job; it has to work 24 hours a day, every day, without a break. In addition, your heart must adjust to changes in demand depending on your physical activity. Jumping rope takes a lot more blood circulation than loafing on the couch. In addition to gross changes in demand, your heart reacts to subtle changes in demand. One way to quantify the responsiveness of the heart is [heart-rate variability (HRV)](https://www.health.harvard.edu/blog/heart-rate-variability-new-way-track-well-2017112212789). To measure HRV, you need a high accuracy monitor and some software to process the signal. HRV is a measure of physical conditioning that may be informative to elite athletes, but [desk jockeys](https://www.theguardian.com/commentisfree/2015/mar/30/desk-jockey-unhealthy-safer-office-environment) should focus on the simple measure of resting, or minimum, heart rate. Minimum heart rate can be measured by counting the number of pulses while you are feeling chill and relaxed. If you find that your minimum heart rate is too high, [consider beans and aerobic exercise](https://nutritionfacts.org/video/slow-beating-heart-beans-vs-exercise/). The difference between a resting heart rate of 60 and 70 bpm can add up to a decade or more, over a lifespan. It may even be the case that [the number of heartbeats per lifetime is the same whether you are a hamster or a whale](https://nutritionfacts.org/video/finger-pulse-longevity/).
+Your heart has got a tough job; it has to work 24 hours a day, every day, without a break. In addition, your heart must adjust to changes in demand depending on your physical activity. Jumping rope takes a lot more blood circulation than loafing on the couch. In addition to gross changes in demand, your heart reacts to subtle changes in demand. One way to quantify the responsiveness of the heart is [heart-rate variability (HRV)](https://www.health.harvard.edu/blog/heart-rate-variability-new-way-track-well-2017112212789). To measure HRV, you need a high accuracy monitor and some software to process the signal. HRV is a measure of physical conditioning that may be informative to elite athletes, but [desk jockeys](https://www.theguardian.com/commentisfree/2015/mar/30/desk-jockey-unhealthy-safer-office-environment) should focus on the simple measure of resting, or minimum, heart rate. Minimum heart rate can be measured by counting the number of pulses while you are feeling chill and relaxed. If you find that your minimum heart rate is too high, [consider beans and aerobic exercise](https://nutritionfacts.org/video/slow-beating-heart-beans-vs-exercise/). The difference between a resting heart rate of 60 and 70 bpm can add up to a decade or more, over a lifespan.
 
 #### bowel movements per week > 7
 
