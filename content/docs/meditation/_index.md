@@ -53,8 +53,8 @@ traits are located in certain parts of the body. The chart on the right is
 from [Sahaja Yoga Meditation](https://us.sahajayoga.org/). In my opinion,
 only three things from this chart are the important:
 
-- Left side is associated with emotion.
-- Right side is associated with thinking.
+- Left side is associated with emotion & feeling.
+- Right side is associated with thinking & action.
 - Sahasrara chakra is at the top of the head and extends a few inches above the head.
 
 The rest of the content of the chart is better dealt with through the lens of IFS.
@@ -98,6 +98,19 @@ and invite communitas.[^turner2012]
 ### Timing
 
 The best time to practice meditation is 4:30 to 9:00 (am and pm) in your local time zone.
+
+### Sample Schedule
+
+| When | Activity | Duration |
+| ---- | -------- | -------- |
+| morning | drink green tea | - |
+|      | [withdrawal of the senses]({{< relref "senses"  >}}) | 10 min |
+|      | [sahasrara]({{< relref "sahasrara"  >}}) | 5-10 min |
+| before dinner | [foot soak]({{< relref "foot-soak"  >}}) \& [withdrawal of the senses]({{< relref "senses"  >}}) | 15 min |
+|      | [sahasrara]({{< relref "sahasrara"  >}}) | 10 min |
+| before sleep | [ice on the liver]({{< relref "liver"  >}}) | 15 min |
+
+This is just a sample schedule. Customize as per your preference.
 
 ## References
 

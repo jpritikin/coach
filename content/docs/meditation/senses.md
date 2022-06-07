@@ -32,4 +32,4 @@ visual input happens to exists within the field.
 
 I am most comfortable with the visual sense, but same method likely
 works similarly with other senses. Experiment with a sensory
-deprivation tank.
+deprivation tank?

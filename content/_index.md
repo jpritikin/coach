@@ -29,6 +29,9 @@ help people get from ‘good’ to ‘great’.
 - Trauma recovery
 - Addiction
 - Depression
+- OCD
+- Anger
+- PTSD and complex PTSD
 - Relationship issues
 - Psychedelic integration
 - Life style, nutrition, & physical health
@@ -39,7 +42,7 @@ help people get from ‘good’ to ‘great’.
 Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bibliography/56367505/public/?sort=date&direction=ascending) for publications.
 - Practicing meditation for more than 30 years.
 - Evaluator-participant in 16-hour [MAPS](https://maps.org/) online psychedelic education course.
-- Completed IFS Level 1 course Nov 2022.
+- IFS Level 1 course completed Nov 2022.
 - Am trauma-informed.
 - Am **not** a Licensed Professional Counselor.
 

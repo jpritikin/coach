@@ -23,10 +23,10 @@ a matter of intention, not an inherent property of the substance.
 
 To use cannabis as a psychedelic, I came up with the following protocol.
 
-- Ingested: Onset is 30 min to 2 hours. Full effect peaks within 4 hours. Effects can last up to 12 hours after use. Some residual effects can last up to 24 hours.
-- Daytime: Cannabinoids can make you pleasantly sleepy, but if you sleep then you aren't fully enjoying the effects.
+- Daytime: Cannabinoids can make one pleasantly sleepy, but if you sleep then you aren't fully enjoying the effects.
 - Fasting: There are cannabinoid receptors throughout the digestive system. Eating would add a confounding factor and make the experience less reproducible.
-- One week between trips: Cannabinoids take days to drain out of your system. An attempted trip on the day immediately following an administration session will be blocked by built-up tolerance.
+- Ingested: Longer duration of effect compared with inhalation, and does not injure the lungs.[^osullivan2021] Onset is 30 min to 2 hours. Full effect peaks within 4 hours. Effects can last up to 12 hours after use. Some residual effects can last up to 24 hours.
+- One week between trips: Ingested cannabinoids take days to drain out of your system. An attempted trip on the day immediately following an administration session will be blocked by built-up tolerance.
 - No extra oil: Cannabinoids are soluble in oil, but that doesn't mean you need a lot of oil to optimize absorption. Look for Rick Simpson Oil (RSO) style extractions.
 
 ### CBD isolate powder
@@ -37,7 +37,7 @@ effect is similar to [candle treatment]({{< relref "candle" >}}).
 ### Full spectrum hemp extract + CBD isolate powder
 
 Try 250mg CBD from full spectrum hemp extract + 250mg CBD isolate
-powder. Produces a psychedelic experience using only hemp extract
+powder. Produces a gentle psychedelic experience using only hemp extract
 (less than 0.3% THC).  It seems you only need trace amounts of THC to obtain a psychedelic effect.
 
 ## References
@@ -47,3 +47,5 @@ powder. Produces a psychedelic experience using only hemp extract
 [^russo2006]: Russo, E., & Guy, G. W. (2006). A tale of two cannabinoids: the therapeutic rationale for combining tetrahydrocannabinol and cannabidiol. *Medical Hypotheses, 66*(2), 234-246.
 
 [^zeyl2020]: Zeyl, V., Sawyer, K., & Wightman, R. S. (2020). What do you know about Maryjane? A systematic review of the current data on the THC: CBD ratio. *Substance Use & Misuse, 55*(8), 1223-1227.
+
+[^osullivan2021]: What about sublingual absorption? In Nov 2021, [Saoirse O'Sullivan reported](https://www.nickjikomes.com/post/ep-41-transcript-saoirse-o-sullivan-thc-cbd-inflammation-traumatic-brain-injury-diabetes) that sublingual absorption has not received careful scrutiny and is unlikely to actually take place.

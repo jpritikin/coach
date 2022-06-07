@@ -14,6 +14,8 @@ your attention.
 {{< columns >}}
 ![Icepack](icepack.jpg)
 
+Or you can use regular ice.
+
 <--->
 
 ![Ice on liver](liver.jpg)

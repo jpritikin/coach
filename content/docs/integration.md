@@ -8,6 +8,8 @@ bookToc: false
 
 How do we reconcile the beauty we feel in peak experiences with our mundane practical reality?
 
+If you have had psychedelic trips, they should be more than a faint memory.
+
 ## Meditation
 
 Meditation is an expression of integration; meditation is a way to

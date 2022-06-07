@@ -30,6 +30,13 @@ soaking]({{< relref "foot-soak" >}}).
 Instead of maneuvering the candle in front of your body, an assistant
 can maneuver the candle behind your back up and down on the left side.
 
+## Timing
+
+Candle treatment clears the emotional side. This can be a relief if
+you are in a relaxing environment, but can be difficult in a stressful
+environment. As your left side gets clear, you become more sensitive
+to the environment.
+
 ## Credit
 
 This technique is from [Sahaja Yoga Meditation](https://us.sahajayoga.org/).
