@@ -38,6 +38,8 @@ help people get from ‘good’ to ‘great’.
 
 ## Professional Background
 
+{{< columns >}}
+
 - Ph.D. Quantitative Psychology in 2016 from University of
 Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bibliography/56367505/public/?sort=date&direction=ascending) for publications.
 - Practicing meditation for more than 30 years.
@@ -45,6 +47,12 @@ Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bi
 - IFS Level 1 course completed Nov 2022.
 - Am trauma-informed.
 - Am **not** a Licensed Professional Counselor.
+
+<--->
+
+![Tie](tie_2.png)
+
+{{< /columns >}}
 
 {{< columns >}}
 

@@ -98,7 +98,7 @@ I have practiced meditation for more than 30 years and worked as a software engi
 
 ### Revisiting Prior Work
 
-I have described a particular way to navigate the salvia trip. Those who learn this navigational approach, let us call them salvia psychonauts. All human research on salvia should be revisited to consider including a comparison group of salvia psychonauts. For example:
+I have described a particular way to navigate the salvia trip. Those who learn this navigational approach, let us call them salvia psychonauts. Human research on salvia should be revisited to consider including a comparison group of salvia psychonauts. For example:
 
 *   Subjective effects: Relative to passives on the HRS, I would expect psychonuats to find less somaesthesia, neutral affect, less impaired cognition, less perceptual distortion, high volition, and similarly high intensity.
 *   Functional connectivity: Recent work has compared brains of healthy hallucinogen-using adults with and without salvia.[^doss2020] This prompts similar imaging experiments involving salvia psychonauts.
@@ -107,7 +107,7 @@ I have described a particular way to navigate the salvia trip. Those who learn t
 
 Can we understand the parameters of the salvia experience in more detail?
 
-*   Probe the kinds of tasks that are feasible for salvia psychonauts to perform while intoxicated. Can we tease out the nuances of the memory impairments already documented by MacLean (2012)? Is there a causal relationship between memory impairment and concentration?
+*   Probe the kinds of tasks that are feasible for salvia psychonauts to perform while intoxicated.[^doss2022] Can we tease out the nuances of the memory impairments already documented by MacLean (2012)?
 *   As a sighted person, gravity waves often have a visual component. How do blind people experience the gravity waves? What about people with other disabilities?
 
 ### As a performance enhancing drug
@@ -136,4 +136,7 @@ There is [at least one case report](https://medium.com/an-idea/meeting-the-shepa
 
 [^doss2020]: Doss, M. K., May, D. G., Johnson, M. W., Clifton, J. M., Hedrick, S. L., Prisinzano, T. E., ... & Barrett, F. S. (2020). The acute effects of the atypical dissociative hallucinogen salvinorin A on functional connectivity in the human brain. *Scientific Reports, 10*(1), 1--12.
 
+[^doss2022]: Doss, M., de Wit, H., & Gallo, D. A. (2022, June 2). The Acute Effects of Psychoactive Drugs on Emotional Episodic Memory Encoding, Consolidation, and Retrieval. https://doi.org/10.31234/osf.io/tkczm
+
 [^prause2021]: Prause, N., Siegle, G. J., & Coan, J. (2021). Partner intimate touch is associated with increased interpersonal closeness, especially in non-romantic partners. *PLOS ONE, 16*(3), e0246065.
+
