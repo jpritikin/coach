@@ -70,7 +70,8 @@ The rest of the content of the chart is better dealt with through the lens of IF
 Meditation is more like a dance than a desk lamp. There are moves to learn.
 The techniques that I describe in sub-sections assume that you are already
 proficient in meditation. Without a basic competence in IFS meditation,
-you may not obtain any benefit from these techniques.
+you may not obtain any benefit from these techniques. Moreover, these
+techniques may not work when under the influence of psychedelics.
 
 ### On breathing
 
