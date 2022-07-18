@@ -22,6 +22,8 @@ An easy way to learn more about nutrition is to watch two outstanding feature do
 
 Don't despair if you fail on some of the measures below. By definition, chronic disease takes a long time to kill you. You probably have at least a few years to figure out how to successfully address these risk factors.
 
+{{< details "I'm ready, show me the measures!" >}}
+
 #### waist circumference \< 0.5 height
 
 When discussing obesity, people often focus on body weight (a measure of mass). Indeed, obesity is associated with [immune system dysfunction and kidney and liver disease](https://nutritionfacts.org/video/the-effects-of-obesity-on-the-immune-system-and-kidney-and-liver-diseases/); [gallstones, acid reflux, and cardiovascular disease](https://nutritionfacts.org/video/the-effects-of-obesity-on-gallstones-acid-reflux-and-cardiovascular-disease/); [dementia, brain function, and fertility](https://nutritionfacts.org/video/the-effects-of-obesity-on-dementia-brain-function-and-fertility/); and [back pain, blood pressure, cancer, and diabetes](https://nutritionfacts.org/video/the-effects-of-obesity-on-back-pain-blood-pressure-cancer-and-diabetes/). However, measures of body mass (including the popular [body mass index](https://www.nhlbi.nih.gov/health/educational/lose\_wt/BMI/bmicalc.htm) metric) confound mass due to muscle and mass due to fat. Needless to say, [a heavy and muscular upper body with ripped six pack abs is not a sign of poor health](https://www.greatveganathletes.com/nimai-delgado-vegan-bodybuilder/). Moreover, [it is not so much body fat, but visceral body fat, abdominal fat, the fat around our internal organs, that most increases our risk of dying prematurely](https://nutritionfacts.org/video/keep-your-waist-circumference-to-less-than-half-your-height/). In a meta analysis of 78 studies, [waist to height ratio was found to be a better predictor of cardiometabolic outcomes than body mass index, with a recommended threshold of 0.5.](https://pubmed.ncbi.nlm.nih.gov/20819243/) You can easily eyeball or use a tape measure to assess body shape, no weight scale required.
@@ -49,3 +51,5 @@ LDL is an acronym for low-density lipoprotein. Lipoprotein is a category of subs
 #### 12 ng/mL \< ferritin \< 50 ng/mL
 
 Ferritin is a blood test measure of our backup iron stores. A ferritin test may be ordered when anemia, a lack enough healthy red blood cells, is suspected. A concentration below about 12 ng/mL would indicate iron deficiency. However, it is also possible to have too much ferritin. [Excess iron is associated with increased odds of cancer and diabetes.](https://nutritionfacts.org/video/donating-blood-to-prevent-cancer/)
+
+{{< /details >}}
