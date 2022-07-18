@@ -4,8 +4,6 @@ type: docs
 bookToc: false
 ---
 
-## Hi, I'm Joshua Pritikin.
-
 {{< columns >}}
 
 My goal is to empower you with more access to calm, confidence,
@@ -25,16 +23,22 @@ help people get from ‘good’ to ‘great’.
 
 ## Areas of Experise
 
-- Anxiety & Stress
-- Trauma recovery
-- Addiction
-- Depression
-- OCD
-- Anger
-- PTSD and complex PTSD
-- Relationship issues
+- Emotional & relationship issues (e.g, anger, anxiety, & stress)
 - Psychedelic integration
 - Life style, nutrition, & physical health
+
+{{< hint info >}}
+In IFS, we avoid diagnostic labels because these labels can be pathologizing.
+{{< /hint >}}
+
+{{< details "Show me American Psychiatric Association DSM diagnostic labels anyway" >}}
+- Attention-deficit/hyperactivity disorder (ADHD)
+- Addiction
+- Bipolar
+- Depression
+- Obsessive Compulsive Disorder (OCD)
+- Post-Traumatic Stress Disorder (PTSD)
+{{< /details >}}
 
 ## Professional Background
 
