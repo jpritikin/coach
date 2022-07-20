@@ -36,6 +36,7 @@ In IFS, we avoid diagnostic labels because these labels can be pathologizing.
 - Addiction
 - Bipolar
 - Depression
+- Dissociative Identity Disorder
 - Obsessive Compulsive Disorder (OCD)
 - Post-Traumatic Stress Disorder (PTSD)
 {{< /details >}}
@@ -50,7 +51,7 @@ Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bi
 - Evaluator-participant in 16-hour [MAPS](https://maps.org/) online psychedelic education course.
 - IFS Level 1 course completed Nov 2022.
 - Am trauma-informed.
-- Am **not** a Licensed Professional Counselor.
+- Am **not** licensed in Oregon or any other state.
 
 <--->
 

@@ -10,7 +10,7 @@ bookToc = false
 
 Just when you thought that science and spirituality were hopelessly irreconcilable, cogntive psychologist Donald Hoffman proposes a very interesting perspective.
 
-## The case against reality
+<--->
 
 Hoffman, D. (2019). *The case against reality: Why evolution hid the truth from our eyes.* WW Norton & Company.
 

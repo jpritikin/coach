@@ -8,7 +8,7 @@ bookToc: false
 
 How do we reconcile the beauty we feel in peak experiences with our mundane practical reality?
 
-If you have had psychedelic trips, they should be more than a faint memory.
+An enjoyable psychedelic trip should catalyze more than a faint memory.
 
 ## Meditation
 
@@ -134,7 +134,7 @@ flowchart TD;
 {{< /mermaid >}}
 
 Psychedelics can inspire and teach us how to meditate. However, psychedelic trips
-comsume a lot of time and, in most cases, should have a maximum frequency of once a week.
+comsume a lot of time and, if you have a job, can have a maximum frequency of once a week.
 In contrast, meditation is a daily practice that can increase your access Self energy.
 Increased Self energy makes life somewhat less mundane and tedious.
 More often, we may enjoy full immersion in our daily activities (flow).

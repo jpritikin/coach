@@ -24,7 +24,7 @@ Very effective for [Restless Legs Syndrome](https://www.ninds.nih.gov/health-inf
 {{< /columns >}}
 
 One virtue of this method of cold exposure is that it doesn't depend
-on the weather and requires little ice (1 quart is pictured).
+on the outside weather and requires little ice (1 quart is pictured).
 
 You can combine this technique with [liver treatment]({{< relref "liver" >}}).
 

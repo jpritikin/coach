@@ -9,7 +9,7 @@ bookToc: false
 
 ## Urban Design
 
-Most North American cities are designed around the car instead of the person.
+Most North American cities are designed for cars not people.
 
 {{< columns >}}
 
