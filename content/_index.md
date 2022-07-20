@@ -8,7 +8,7 @@ bookToc: false
 
 My goal is to empower you with more access to calm, confidence,
 courage, clarity, and connection. I use **Internal Family Systems**
-(IFS). IFS is an evidence-based mode of psychotherapy that has been
+(IFS). IFS is an [evidence-based](https://www.foundationifs.org/news-articles/79-ifs-an-evidence-based-practice) mode of psychotherapy that has been
 proven to heal many forms of psychological suffering.
 
 IFS is a full range therapy. Most psychotherapy aims to help people
