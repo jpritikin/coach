@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://joshuapritikin.surge.sh/'
 languageCode = 'en-us'
 title = 'Joshua Pritikin Counseling'
 theme = "hugo-book"
