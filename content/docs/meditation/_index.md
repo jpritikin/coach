@@ -44,27 +44,6 @@ Everybody should have the opportunity to climb Maslow's pyramid.
 
 ![Maslow's needs](maslow-needs2.webp)
 
-## Subtle system
-
-{{< columns >}}
-
-Some eastern traditions proposal a subtle system where certain personality
-traits are located in certain parts of the body. The chart on the right is
-from [Sahaja Yoga Meditation](https://us.sahajayoga.org/). In my opinion,
-only three things from this chart are the important:
-
-- Left side is associated with emotion & feeling.
-- Right side is associated with thinking & action.
-- Sahasrara chakra is at the top of the head and extends a few inches above the head.
-
-The rest of the content of the chart is better dealt with through the lens of IFS.
-
-<--->
-
-![Chakra chart](chakra.png)
-
-{{< /columns >}}
-
 ## Meditation Techniques
 
 Meditation is more like a dance than a desk lamp. There are moves to learn.
