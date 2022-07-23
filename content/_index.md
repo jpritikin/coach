@@ -51,6 +51,7 @@ Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bi
 - Practicing meditation for more than 30 years.
 - Evaluator-participant in 16-hour [MAPS](https://maps.org/) online psychedelic education course.
 - IFS Level 1 course completed Nov 2022.
+- Working toward [IFS Certification](https://ifs-institute.com/trainings/ifs-certification).
 - Am trauma-informed.
 - Am **not** licensed in Oregon or any other state.
 
