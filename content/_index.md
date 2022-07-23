@@ -29,7 +29,6 @@ help people get from ‘good’ to ‘great’.
 
 {{< hint info >}}
 In IFS, we avoid diagnostic labels because these labels can be pathologizing.
-{{< /hint >}}
 
 {{< details "Show me American Psychiatric Association DSM diagnostic labels anyway" >}}
 - Attention-deficit/hyperactivity disorder (ADHD)
@@ -39,7 +38,9 @@ In IFS, we avoid diagnostic labels because these labels can be pathologizing.
 - Dissociative Identity Disorder
 - Obsessive Compulsive Disorder (OCD)
 - Post-Traumatic Stress Disorder (PTSD)
+- Schizophrenia
 {{< /details >}}
+{{< /hint >}}
 
 ## Professional Background
 
