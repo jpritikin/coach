@@ -53,7 +53,7 @@ In IFS, we avoid diagnostic labels because these labels can be pathologizing.
 Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bibliography/56367505/public/?sort=date&direction=ascending) for publications.
 - Practicing meditation for more than 30 years.
 - Evaluator-participant in 16-hour [MAPS](https://maps.org/) online psychedelic education course.
-- IFS Level 1 course completed Nov 2022.
+- IFS Level 1 course completed Nov 2022 (797 Spruce Knob).
 - Working toward [IFS Certification](https://ifs-institute.com/trainings/ifs-certification).
 - Am trauma-informed.
 - Am **not** licensed in Oregon or any other state.
