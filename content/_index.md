@@ -80,8 +80,13 @@ I charge $50 per hour. I do not accept insurance.
 
 I offer a 50% discount for people with low income or persons of color. Please enquire.
 
-[Email me](mailto:jpritikin@pobox.com) to set up a free 10-15 minutes
-conversation to see whether we are a good fit.
+Set up a free 10-15 minutes conversation to see whether we are a good
+fit.
+
+<!-- ScheduleOnce button START -->
+<button id="SOIBTN_jpintroduction" style="background: #006DAF; color: #ffffff; padding: 10px 20px; border: 1px solid #c8c8c8; font: bold 14px Arial; cursor: pointer;" data-height="580" data-psz="00" data-so-page="jpintroduction" data-delay="1">Schedule an Appointment</button>
+<script type="text/javascript" src="https://cdn.oncehub.com/mergedjs/so.js"></script>
+<!-- ScheduleOnce button END -->
 
 {{< /columns >}}
 
