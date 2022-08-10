@@ -25,6 +25,9 @@ help people get from ‘good’ to ‘great’.
 
 - Emotional & relationship issues (e.g, anger, anxiety, & stress)
 - Psychedelic integration
+  - Help you prepare yourself to take your first psychedelic journey safely
+  - Help you understand and integrate your psychedelic journey(s)
+  - I do **not** prescribe, procure, or administer substances.
 - Life style, nutrition, & physical health
 
 {{< hint info >}}
