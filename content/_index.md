@@ -78,7 +78,7 @@ I am seeing clients online via Zoom.
 
 I charge $50 per hour. I do not accept insurance.
 
-I offer a 50% discount for people with low income or persons of color. Please enquire.
+I offer a 50% discount for people with low income. Please enquire.
 
 Set up a free 10-15 minutes conversation to see whether we are a good
 fit.
