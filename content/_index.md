@@ -23,27 +23,25 @@ help people get from ‘good’ to ‘great’.
 
 ## Areas of Experise
 
-- Emotional & relationship issues (e.g, anger, anxiety, & stress)
+- Emotional & relationship issues (e.g, anger, anxiety, stress, & depression)
 - Psychedelic integration
   - Help you prepare yourself to take your first psychedelic journey safely
   - Help you understand and integrate your psychedelic journey(s)
   - I do **not** prescribe, procure, or administer substances.
 - Life style, nutrition, & physical health
 
-{{< hint info >}}
-In IFS, we avoid diagnostic labels because these labels can be pathologizing.
-
-{{< details "Show me American Psychiatric Association DSM diagnostic labels anyway" >}}
-- Attention-deficit/hyperactivity disorder (ADHD)
+{{< details "In IFS, we avoid diagnostic labels because these labels can be **pathologizing**.<br/><br/>Click to show American Psychiatric Association DSM diagnostic labels anyway." >}}
+- Attention-Deficit/Hyperactivity Disorder (ADHD)
 - Addiction
+- Borderline Personality Discorder
 - Bipolar
 - Depression
 - Dissociative Identity Disorder
+- Eating Disorders
 - Obsessive Compulsive Disorder (OCD)
 - Post-Traumatic Stress Disorder (PTSD)
 - Schizophrenia
 {{< /details >}}
-{{< /hint >}}
 
 ## Professional Background
 
