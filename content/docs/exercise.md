@@ -37,7 +37,7 @@ Although the research has not been done yet, I would also weigh facets that supp
 
 Based on the above criteria, I have identified two activities that seem particularly promising:
 
-{{< details "Reveal my picks" >}}
+{{< details "Reveal my current favorites" >}}
 - [AcroYoga](https://www.acroyoga.org/)
 - Brazilian Jiu-Jitsu
 {{< /details >}}
