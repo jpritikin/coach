@@ -78,8 +78,7 @@ I charge $50 per hour. I do not accept insurance.
 
 I offer a 50% discount for people with low income. Please enquire.
 
-Set up a free 10-15 minutes conversation to see whether we are a good
-fit.
+Book a free 10-15 min chat to see whether we are a good fit.
 
 <!-- ScheduleOnce button START -->
 <button id="SOIBTN_jpintro" style="background: #006DAF; color: #ffffff; padding: 10px 20px; border: 1px solid #c8c8c8; font: bold 14px Arial; cursor: pointer;" data-height="580" data-psz="00" data-so-page="jpintro" data-delay="1">Schedule an Appointment</button>
