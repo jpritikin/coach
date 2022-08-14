@@ -26,8 +26,6 @@ I have personal experience with:
 *   Cannabis
 *   Daime (a.k.a. ayahuasca)
 
-I attend a [local branch of the Santo Daime](https://www.chlq.org/), a psychedelic church.
-
 I am also a member of the [Sacred Garden Church](https://sacredgarden.life/).
 
 {{< hint warning >}}

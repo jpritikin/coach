@@ -66,7 +66,7 @@ Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bi
 
 ## Location
 
-I live in White City, Oregon (near Medford).
+I live near Medford, Oregon.
 
 I am seeing clients online via Zoom.
 
