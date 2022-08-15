@@ -6,7 +6,7 @@ bookToc: false
 
 {{< columns >}}
 
-My goal is to empower you with more access to calm, confidence,
+My goal is to empower you to have more access to calm, confidence,
 courage, clarity, and connection. I use **Internal Family Systems**
 (IFS). IFS is an [evidence-based](https://www.foundationifs.org/news-articles/79-ifs-an-evidence-based-practice) mode of psychotherapy that has been
 proven to heal many forms of psychological suffering.
@@ -21,14 +21,14 @@ help people get from ‘good’ to ‘great’.
 
 {{< /columns >}}
 
-## Areas of Experise
+## Areas of Expertise
 
 - Emotional & relationship issues (e.g, anger, anxiety, stress, & depression)
 - Psychedelic integration
   - Help you prepare yourself to take your first psychedelic journey safely
   - Help you understand and integrate your psychedelic journey(s)
   - I do **not** prescribe, procure, or administer substances.
-- Life style, nutrition, & physical health
+- Lifestyle, nutrition, & physical health
 
 {{< details "In IFS, we avoid diagnostic labels because these labels can be **pathologizing**.<br/><br/>Click to show American Psychiatric Association DSM diagnostic labels anyway." >}}
 - Attention-Deficit/Hyperactivity Disorder (ADHD)
@@ -51,7 +51,7 @@ help people get from ‘good’ to ‘great’.
 Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bibliography/56367505/public/?sort=date&direction=ascending) for publications.
 - Practicing meditation for more than 30 years.
 - Evaluator-participant in 16-hour [MAPS](https://maps.org/) online psychedelic education course.
-- IFS Level 1 course completed Nov 2022 (797 Spruce Knob).
+- IFS Level 1 course completed Nov 2022
 - Working toward [IFS Certification](https://ifs-institute.com/trainings/ifs-certification).
 - Am trauma-informed.
 - Am **not** licensed in Oregon or any other state.
@@ -76,7 +76,7 @@ I am seeing clients online via Zoom.
 
 I charge $50 per hour. I do not accept insurance.
 
-I offer a 50% discount for people with low income. Please enquire.
+I offer a 50% discount for people with low income. Please inquire.
 
 Book a free 10-15 min chat to see whether we are a good fit.
 

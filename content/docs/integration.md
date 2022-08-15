@@ -14,13 +14,13 @@ An enjoyable psychedelic trip should catalyze more than a faint memory.
 
 Meditation is an expression of integration; meditation is a way to
 bring beauty into the mundane. There are many ways to learn how to
-meditate. If you work with me then you will learn how to meditate (if you don't know already).
+meditate. If you work with me then you can learn how to meditate (if you don't know already).
 
 {{< mermaid >}}
 flowchart TD;
   A(Internal Family Systems) --> Meditation;
   Psychedelics --> Meditation;
-  Other --> Meditation;
+  B(Meditation Teachings) --> Meditation;
 {{< /mermaid >}}
 
 Psychedelic experience is one important way to inspire interest in meditation.[^doblin1991]
@@ -122,6 +122,11 @@ sobriety and can offer full consent.
 {{< /hint >}}
 {{< /details >}}
 
+{{< hint info >}}
+Plant (and fungi) sacraments are our highest ranking teacher because
+plants (and fungi) don't become egomaniacal.
+{{< /hint >}}
+
 ## Integrated
 
 {{< mermaid >}}
@@ -134,15 +139,10 @@ flowchart TD;
 {{< /mermaid >}}
 
 Psychedelics can inspire and teach us how to meditate. However, psychedelic trips
-comsume a lot of time and, if you have a job, can have a maximum frequency of once a week.
-In contrast, meditation is a daily practice that can increase your access Self energy.
+consume a lot of time and, if you have a job, can have a maximum frequency of once a week.
+In contrast, meditation is a daily practice that can increase your access to Self energy.
 Increased Self energy makes life somewhat less mundane and tedious.
 More often, we may enjoy full immersion in our daily activities (flow).
-
-{{< hint info >}}
-Plant (and fungi) sacraments are our highest ranking teacher because
-plants (and fungi) don't become egomaniacal.
-{{< /hint >}}
 
 ## References
 

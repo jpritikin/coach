@@ -11,16 +11,9 @@ body. This technique is not like [cold exposure]({{< relref
 "cold-exposure" >}}); you don't need to exercise much control over
 your attention.
 
-{{< columns >}}
-![Icepack](icepack.jpg)
-
-Or you can use regular ice.
-
-<--->
-
 ![Ice on liver](liver.jpg)
-{{< /columns >}}
 
+This is a gel pack; you can use regular ice too.
 If you have normal anatomy, the liver is on the right side.
 
 ## Timing

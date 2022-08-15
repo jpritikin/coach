@@ -28,7 +28,7 @@ lacking any structure. Open your eyes slightly so that you can maintain
 awareness of the neutral field superimposed over your regular visual
 input. Change your identification: Instead of regarding your visual
 input as real, the undifferentiated field is real and your regular
-visual input happens to exists within the field.
+visual input happens to exist within the field.
 
 I am most comfortable with the visual sense, but same method likely
 works similarly with other senses. Experiment with a sensory
