@@ -24,7 +24,6 @@ help people get from ‘good’ to ‘great’.
 ## Areas of Expertise
 
 - Emotional & relationship issues
-  - Due to [ORS 675.020](https://oregon.public.law/statutes/ors_675.020), I cannot describe myself as a *psychotherapist*.
   - I providing *counseling* under [ORS 675.825(4)(a)](https://oregon.public.law/statutes/ors_675.825), which allows alternative counselors and practitioners to practice legally in Oregon without a license.
   - [IFS is similar to psychotherapy and addresses many of the same conditions.]({{< relref "dsm" >}})
 - Psychedelic integration
@@ -44,7 +43,7 @@ Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bi
 - IFS Level 1 course completed Nov 2022
 - Working toward [IFS Certification](https://ifs-institute.com/trainings/ifs-certification).
 - Am trauma-informed.
-- Am **not** licensed in Oregon or any other state.
+- Since I am **not** licensed in Oregon, I cannot describe myself as a *psychotherapist*. [ORS 675.020](https://oregon.public.law/statutes/ors_675.020)
 
 <--->
 
