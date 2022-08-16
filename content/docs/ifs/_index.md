@@ -3,6 +3,7 @@ title: IFS
 type: docs
 weight: 2
 bookToc: false
+bookCollapseSection: true
 ---
 
 # Internal Family Systems

@@ -8,10 +8,10 @@ bookToc: false
 
 My goal is to empower you to have more access to calm, confidence,
 courage, clarity, and connection. I use **Internal Family Systems**
-(IFS). IFS is an [evidence-based](https://www.foundationifs.org/news-articles/79-ifs-an-evidence-based-practice) mode of psychotherapy that has been
+(IFS). IFS is an [evidence-based](https://www.foundationifs.org/news-articles/79-ifs-an-evidence-based-practice) mode of counseling that has been
 proven to heal many forms of psychological suffering.
 
-IFS is a full range therapy. Most psychotherapy aims to help people
+IFS is a full range modality. Most psychotherapy aims to help people
 get from ‘bad’ to ‘so-so,’ or from ‘so-so’ to ‘good’. IFS can also
 help people get from ‘good’ to ‘great’.
 
@@ -23,25 +23,15 @@ help people get from ‘good’ to ‘great’.
 
 ## Areas of Expertise
 
-- Emotional & relationship issues (e.g, anger, anxiety, stress, & depression)
+- Emotional & relationship issues
+  - Due to [ORS 675.020](https://oregon.public.law/statutes/ors_675.020), I cannot describe myself as a *psychotherapist*.
+  - I providing *counseling* under [ORS 675.825(4)(a)](https://oregon.public.law/statutes/ors_675.825), which allows alternative counselors and practitioners to practice legally in Oregon without a license.
+  - [IFS is similar to psychotherapy and addresses many of the same conditions.]({{< relref "dsm" >}})
 - Psychedelic integration
   - Help you prepare yourself to take your first psychedelic journey safely
   - Help you understand and integrate your psychedelic journey(s)
   - I do **not** prescribe, procure, or administer substances.
 - Lifestyle, nutrition, & physical health
-
-{{< details "In IFS, we avoid diagnostic labels because these labels can be **pathologizing**.<br/><br/>Click to show American Psychiatric Association DSM diagnostic labels anyway." >}}
-- Attention-Deficit/Hyperactivity Disorder (ADHD)
-- Addiction
-- Borderline Personality Discorder
-- Bipolar
-- Depression
-- Dissociative Identity Disorder
-- Eating Disorders
-- Obsessive Compulsive Disorder (OCD)
-- Post-Traumatic Stress Disorder (PTSD)
-- Schizophrenia
-{{< /details >}}
 
 ## Professional Background
 
