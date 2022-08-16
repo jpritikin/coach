@@ -62,7 +62,7 @@ I am seeing clients online via Zoom.
 
 ## Fees
 
-I charge $50 per hour. I do not accept insurance.
+I charge $60 per hour. I do not accept insurance.
 
 I offer a 50% discount for people with low income. Please inquire.
 
