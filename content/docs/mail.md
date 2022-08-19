@@ -7,7 +7,7 @@ bookToc: false
 
 # Mailing Address
 
-I am currently only conducting appointments via telehealth and do not have office space.
+I am currently only conducting appointments via [telehealth](/#location) and do not have office space. My corporate entity can receive mail at:
 
 Jpritikin Industries, Inc  
 C/O 15872088 - Corporation Service Company  
