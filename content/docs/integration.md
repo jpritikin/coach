@@ -4,6 +4,17 @@ weight: 3
 bookToc: false
 ---
 
+<table>
+<tr>
+<td>
+<picture style="display: block;">
+<img alt="Celestial flower arrangement" src="celestial_flower_arrangement.webp">
+</picture>
+</td>
+<td class='rotate'><div>Credit: Midjourney "intricate celestial flower arrangement"</div></td>
+</tr/>
+</table>
+
 # The Question of Integration
 
 How do we reconcile the beauty we feel in peak experiences with our mundane practical reality?

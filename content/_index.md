@@ -4,6 +4,17 @@ type: docs
 bookToc: false
 ---
 
+<table>
+<tr>
+<td>
+<picture style="display: block;">
+<img alt="Therapist and client talking" src="therapist_and_client_talking_intimately.webp">
+</picture>
+</td>
+<td class='rotate'><div>Credit: Midjourney "therapist and client talking intimately, realistic style, ornate background"</div></td>
+</tr/>
+</table>
+
 {{< columns >}}
 
 My goal is to empower you to have more access to calm, confidence,
@@ -86,5 +97,5 @@ Book a free 10-15 min chat to see whether we are a good fit.
     <img src="line-up-480.png" alt="facial expressions">
 </picture>
 </td>
-<td><div style="transform: rotate(90deg); white-space: nowrap;">Dec 2019</div></td>
+<td class='rotate'><div>Dec 2019</div></td>
 </tr></table>
