@@ -8,10 +8,10 @@ bookToc: false
 <tr>
 <td>
 <picture style="display: block;">
-<img alt="Therapist and client talking" src="therapist_and_client_talking_intimately.webp">
+<img alt="Multitude of stories within the head" src="multitude_of_stories_within_the_head.webp">
 </picture>
 </td>
-<td class='rotate'><div>Credit: Midjourney "therapist and client talking intimately, realistic style, ornate background"</div></td>
+<td class='rotate'><div>Credit: Midjourney "multitude of stories within the head"</div></td>
 </tr/>
 </table>
 
@@ -57,7 +57,9 @@ Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bi
 
 <--->
 
-![Tie](tie_2.png)
+![Tie](hawaiian-tie.webp)
+
+Credit: Craiyon
 
 {{< /columns >}}
 
