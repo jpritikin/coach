@@ -19,15 +19,21 @@ Nutt, D. J., King, L. A., & Phillips, L. D. (2010). Drug harms in the UK: a mult
 
 Psychedelics are substances that reveal and amplify your inner experience.
 
-I have personal experience with:
+I have personal experience with
 
 *   Psilocybin
 *   Salvia divinorum
 *   Cannabis
 *   Daime (a.k.a. ayahuasca)
 
-I am also a member of the [Sacred Garden Church](https://sacredgarden.life/).
+I am a member of
+- [Sacred Garden Church](https://sacredgarden.life/)
+- [Santo Daime](https://en.wikipedia.org/wiki/Santo_Daime)[^catholic]
 
 {{< hint warning >}}
 Psychedelics are not for everybody.
 {{< /hint >}}
+
+## Notes:
+
+[^catholic]: I am a bit embarrassed to be affiliated with Catholicism given its [sordid history](https://en.wikipedia.org/wiki/Catholic_Church). In general, I admire the best of all of the world's religions.
