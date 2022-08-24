@@ -78,6 +78,18 @@ Book a free 10-15 min chat to see whether we are a good fit.
 
 {{< /columns >}}
 
+## Endorsements
+
+{{< columns >}}
+
+[Erica Ambis](https://www.psychologytoday.com/us/therapists/erica-ambis-gig-harbor-wa/979393)  
+Clinical Social Work/Therapist, MSW, LICSW  
+*Joshua is a very dedicated clinician and you are in great hands! IFS is an amazing model and I know he takes great pride in his practice.*
+
+<--->
+
+{{< /columns >}}
+
 ## Silly Photos
 
 <table>
