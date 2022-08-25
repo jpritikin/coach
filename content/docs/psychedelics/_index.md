@@ -15,9 +15,9 @@ Nutt, D. J., King, L. A., & Phillips, L. D. (2010). Drug harms in the UK: a mult
 
 {{< /details >}}
 
-## My experience
-
 {{< columns >}}
+
+## My experience
 
 Psychedelics are substances that reveal and amplify your inner experience.
 
