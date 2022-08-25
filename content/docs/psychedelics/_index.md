@@ -15,8 +15,7 @@ Nutt, D. J., King, L. A., & Phillips, L. D. (2010). Drug harms in the UK: a mult
 
 {{< /details >}}
 
-<div class="book-columns flex flex-wrap">
-<div class="flex-even markdown-inner">
+{{% columns %}}
 
 ## My experience
 
@@ -37,8 +36,7 @@ I am a member of
 Psychedelics are not for everybody.
 {{< /hint >}}
 
-</div>
-<div class="flex-even markdown-inner">
+<--->
 
 <table>
 <tr>
@@ -51,8 +49,7 @@ Psychedelics are not for everybody.
 </tr/>
 </table>
 
-</div>
-</div>
+{{% /columns %}}
 
 ## Notes
 
