@@ -17,6 +17,8 @@ Nutt, D. J., King, L. A., & Phillips, L. D. (2010). Drug harms in the UK: a mult
 
 ## My experience
 
+{{< columns >}}
+
 Psychedelics are substances that reveal and amplify your inner experience.
 
 I have personal experience with
@@ -28,12 +30,27 @@ I have personal experience with
 
 I am a member of
 - [Sacred Garden Church](https://sacredgarden.life/)
-- [Santo Daime](https://en.wikipedia.org/wiki/Santo_Daime)[^catholic]
+- [Santo Daime](https://en.wikipedia.org/wiki/Santo_Daime)
 
 {{< hint warning >}}
 Psychedelics are not for everybody.
 {{< /hint >}}
 
-## Notes:
+<--->
 
-[^catholic]: I am a bit embarrassed to be affiliated with Catholicism given its [sordid history](https://en.wikipedia.org/wiki/Catholic_Church). In general, I admire the best of all of the world's religions.
+<table>
+<tr>
+<td>
+<picture style="display: block;">
+<img alt="Sacred mandala" src="sacred_mandala.webp">
+</picture>
+</td>
+<td class='rotate'><div>Credit: Midjourney "sacred mandala"</div></td>
+</tr/>
+</table>
+
+{{< /columns >}}
+
+### Note:
+
+I am a bit embarrassed to be affiliated with Catholicism given its [sordid history](https://en.wikipedia.org/wiki/Catholic_Church). In general, I admire the best of all of the world's religions.
