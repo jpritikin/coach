@@ -88,7 +88,7 @@ Clinical Social Work/Therapist, MSW, LICSW
 
 <--->
 
-[Andrew W Nichols](andrewWnichols.com)  
+[Andrew W Nichols](http://andrewWnichols.com)  
 LMHC, PLLC  
 *I have been a therapist for 8 years and recently decided to attend
 training to learn IFS. In the training, of 30 participants, I met
