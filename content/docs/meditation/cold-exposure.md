@@ -15,13 +15,13 @@ lower temperature.[^carney2020]
 
 Very effective for [Restless Legs Syndrome](https://www.ninds.nih.gov/health-information/patient-caregiver-education/fact-sheets/restless-legs-syndrome-fact-sheet).
 
-{{< columns >}}
+{{% columns %}}
 ![Assembly of ice water](step1.jpg)
 
 <--->
 
 ![Ice water](step2.jpg)
-{{< /columns >}}
+{{% /columns %}}
 
 One virtue of this method of cold exposure is that it doesn't depend
 on the outside weather and requires little ice (1 quart is pictured).

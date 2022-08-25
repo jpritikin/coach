@@ -6,7 +6,7 @@ bookToc: false
 
 # Foot soaking
 
-{{< columns >}}
+{{% columns %}}
 
 Place some warm water in a dishpan with a handful of salt.
 
@@ -27,5 +27,5 @@ This technique is from [Sahaja Yoga Meditation](https://us.sahajayoga.org/).
 
 ![Foot soaking](foot-soak.png)
 
-{{< /columns >}}
+{{% /columns %}}
 

@@ -24,7 +24,7 @@ Dr. Schwartz’s Internal Family Systems (IFS) model has been transforming psych
 
 IFS is a paradigm-changing model because it gives us a powerful approach for healing ourselves, our culture, and our planet. As Dr. Schwartz teaches, “Our parts can sometimes be disruptive or harmful, but once they’re unburdened, they return to their essential goodness. When we learn to love all our parts, we can learn to love all people—and that will contribute to healing the world.”
 
-{{< columns >}}
+{{% columns %}}
 
 ## Survive Thrive Spiral Poster
 
@@ -40,7 +40,7 @@ IFS is a paradigm-changing model because it gives us a powerful approach for hea
 
 [Download](https://www.marielpastor.com/the-unburdened-system)
 
-{{< /columns >}}
+{{% /columns %}}
 
 ## Character Mapping: A Psychological Toolbox and Master Class for Actors, Writers, and Directors
 

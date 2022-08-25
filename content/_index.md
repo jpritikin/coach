@@ -15,7 +15,7 @@ bookToc: false
 </tr/>
 </table>
 
-{{< columns >}}
+{{% columns %}}
 
 My goal is to empower you to have more access to calm, confidence,
 courage, clarity, and connection. I use **Internal Family Systems**
@@ -30,7 +30,7 @@ help people get from ‘good’ to ‘great’.
 
 ![IFS range](ifs.png)
 
-{{< /columns >}}
+{{% /columns %}}
 
 ## Areas of Expertise
 
@@ -53,7 +53,7 @@ Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bi
 - Am trauma-informed.
 - Since I am **not** licensed in Oregon, I cannot describe myself as a *psychotherapist*. [ORS 675.020](https://oregon.public.law/statutes/ors_675.020)
 
-{{< columns >}}
+{{% columns %}}
 
 ## Location
 
@@ -76,11 +76,11 @@ Book a free 10-15 min chat to see whether we are a good fit.
 <script type="text/javascript" src="https://cdn.oncehub.com/mergedjs/so.js"></script>
 <!-- ScheduleOnce button END -->
 
-{{< /columns >}}
+{{% /columns %}}
 
 ## Endorsements
 
-{{< columns >}}
+{{% columns %}}
 
 [Erica Ambis](https://www.psychologytoday.com/us/therapists/erica-ambis-gig-harbor-wa/979393)  
 Clinical Social Work/Therapist, MSW, LICSW  
@@ -102,7 +102,7 @@ to listen to our trainer and learn as much as he could about how to use
 IFS effectively with clients. I think he’ll be a great therapist for
 anyone who wants to use IFS in their pursuit of healing.*
 
-{{< /columns >}}
+{{% /columns %}}
 
 ## Silly Photos
 

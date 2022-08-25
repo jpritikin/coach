@@ -11,7 +11,7 @@ bookToc: false
 
 Most North American cities are designed for cars not people.
 
-{{< columns >}}
+{{% columns %}}
 
 ![Strong Towns](StrongTowns.png)
 
@@ -23,11 +23,11 @@ Most North American cities are designed for cars not people.
 
 [Watch](https://www.youtube.com/c/NotJustBikes)
 
-{{< /columns >}}
+{{% /columns %}}
 
 ## Critical Thinking
 
-{{< columns >}}
+{{% columns %}}
 
 ### Logical Fallacies
 
@@ -43,4 +43,4 @@ Most North American cities are designed for cars not people.
 
 [Download](https://yourbias.is/)
 
-{{< /columns >}}
+{{% /columns %}}

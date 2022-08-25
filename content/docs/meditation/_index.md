@@ -11,7 +11,7 @@ weight: 3
 To try to answer this question, I have studied the contemplative
 traditions of many of the world's major religions:
 
-{{< columns >}}
+{{% columns %}}
 
 - Christianity
 - Islam
@@ -23,7 +23,7 @@ traditions of many of the world's major religions:
 - Daoism (Taoism)
 - Judaism
 
-{{< /columns >}}
+{{% /columns %}}
 
 I have also studied with a handful of contemporary meditation
 teachers. What I learned is that there is not much consensus about the

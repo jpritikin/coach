@@ -8,7 +8,7 @@ bookToc: false
 
 ## Patanjali section 2 verse 54:
 
-{{< columns >}}
+{{% columns %}}
 
 स्वविषयासम्प्रयोगे चित्तस्य स्वरूपानुकार इवेन्द्रियाणां प्रत्याहाः
 
@@ -18,7 +18,7 @@ When consciousness interiorizes by
 uncoupling from external objects, the senses do likewise; this is
 called withdrawal of the senses.
 
-{{< /columns >}}
+{{% /columns %}}
 
 ## Example
 

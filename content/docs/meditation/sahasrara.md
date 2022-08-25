@@ -13,11 +13,11 @@ claimed that she, "opened the sahasrara." Hence, one would expect some
 technique for meditating on the sahasrara. Here is a mash-up of two
 such techniques from Sahaja Yoga.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/I7sv1sPUinw" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="I7sv1sPUinw" title="Demo of Sahasrara meditation" >}}
 
 ## Details
 
-{{< columns >}}
+{{% columns %}}
 
 Although the primary location of the sahasrara is above the head, one
 discovery from Sahaja Yoga is that the chakras are associated with
@@ -35,7 +35,7 @@ two parts of your body.
 
 ![Hands](hands.png)
 
-{{< /columns >}}
+{{% /columns %}}
 
 To prevent your attention from wandering, randomly vary
 
@@ -51,7 +51,7 @@ Use to conclude a meditation session. Don't combine with other techniques.
 
 ## Patanjali section 3 verse 33
 
-{{< columns >}}
+{{% columns %}}
 
 मूर्धज्योतिषि सिद्धदर्शनम्
 
@@ -60,4 +60,4 @@ Use to conclude a meditation session. Don't combine with other techniques.
 Focusing with perfect discipline on the light in the crown of the
 head, one acquires the perspective of the perfected ones.
 
-{{< /columns >}}
+{{% /columns %}}
