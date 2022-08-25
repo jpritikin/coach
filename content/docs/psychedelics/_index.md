@@ -15,7 +15,8 @@ Nutt, D. J., King, L. A., & Phillips, L. D. (2010). Drug harms in the UK: a mult
 
 {{< /details >}}
 
-{{< columns >}}
+<div class="book-columns flex flex-wrap">
+<div class="flex-even markdown-inner">
 
 ## My experience
 
@@ -30,13 +31,14 @@ I have personal experience with
 
 I am a member of
 - [Sacred Garden Church](https://sacredgarden.life/)
-- [Santo Daime](https://en.wikipedia.org/wiki/Santo_Daime)
+- [Santo Daime](https://en.wikipedia.org/wiki/Santo_Dai)[^catholic]
 
 {{< hint warning >}}
 Psychedelics are not for everybody.
 {{< /hint >}}
 
-<--->
+</div>
+<div class="flex-even markdown-inner">
 
 <table>
 <tr>
@@ -49,8 +51,9 @@ Psychedelics are not for everybody.
 </tr/>
 </table>
 
-{{< /columns >}}
+</div>
+</div>
 
-### Note:
+## Notes
 
-I am a bit embarrassed to be affiliated with Catholicism given its [sordid history](https://en.wikipedia.org/wiki/Catholic_Church). In general, I admire the best of all of the world's religions.
+[^catholic]: I am a bit embarrassed to be affiliated with Catholicism given its [sordid history](https://en.wikipedia.org/wiki/Catholic_Church). In general, I admire the best of all of the world's religions.
