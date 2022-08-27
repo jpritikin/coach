@@ -10,6 +10,6 @@ enableGitInfo = true
   unsafe= true
 
 [params]
-  BookTheme = 'auto'
+  BookTheme = 'light'
   BookRepo = 'https://github.com/jpritikin/coach'
   BookSearch = false
