@@ -1,4 +1,4 @@
-baseURL = 'https://joshuapritikin.surge.sh/'
+baseURL = 'https://joshuapritikin.com/'
 languageCode = 'en-us'
 title = 'Joshua Pritikin Counseling'
 theme = "hugo-book"
