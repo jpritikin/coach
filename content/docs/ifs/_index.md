@@ -12,6 +12,8 @@ bookCollapseSection: true
 
 {{< youtube id="KbTFJHKVDoM" title="An Overview of Internal Family Systems (IFS) by Dr. Richard Schwartz" >}}
 
+Note: Audio is very faint for the first minute.
+
 {{% columns %}}
 
 ## Survive Thrive Spiral Poster
