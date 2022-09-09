@@ -9,7 +9,7 @@ weight: 3
 ## What is meditation?
 
 To try to answer this question, I have studied the contemplative
-traditions of many of the world's major religions:
+traditions of many of the world's major religions. For example,
 
 {{% columns %}}
 
