@@ -6,7 +6,7 @@ bookToc: false
 
 # Breathing
 
-## Introduction
+## Prelude
 
 For a long time, I was skeptical that mindful breathing would have any
 special effect. I mean, we all breath all the time; it's the most
