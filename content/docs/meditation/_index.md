@@ -54,13 +54,7 @@ techniques may not work when under the influence of psychedelics.
 
 ### On breathing
 
-To calm yourself, exhale for a longer duration than your inhalation.[^adhana2013]
-
-{{< details "Show example" >}}
-{{< hint info >}}
-When a dog is lying down and wants to relax then she will often start her rest with two quick breaths followed by a long, slow exhale.
-{{< /hint >}}
-{{< /details >}}
+The only technique that I am familiar with is [here]({{< relref "breathing" >}}).
 
 There are other interesting techniques (Holotropic Breathwork, Wim Hof Method[^carney2017])
 with which I have little experience.
@@ -93,8 +87,6 @@ The best time to practice meditation is 4:30 to 9:00 (am and pm) in your local t
 This is just a sample schedule. Customize as per your preference.
 
 ## References
-
-[^adhana2013]: Adhana, R., Gupta, R., Dvivedi, J. Y. O. T. I., Ahmad, S., Dvivedii, J., & Ahmad, S. (2013). The influence of the 2: 1 yogic breathing technique on essential hypertension. *Indian J Physiol Pharmacol, 57*(1), 38-44.
 
 [^carney2017]: Carney, S. (2017). *What Doesn't Kill Us: How Freezing Water, Extreme Altitude, and Environmental Conditioning Will Renew Our Lost Evolutionary Strength.* Rodale.
 

@@ -33,3 +33,11 @@ visual input happens to exist within the field.
 I am most comfortable with the visual sense, but same method likely
 works similarly with other senses. Experiment with a sensory
 deprivation tank?
+
+## Commentary
+
+You can combine this technique with mindful [breathing]({{< relref
+"breathing" >}}).  The two techniques are highly synergistic. The
+momentary calm from mindful breathing makes it easier to withdraw from
+the senses, and withdrawal of the senses helps sustain the feeling of
+calm from mindful breathing.
