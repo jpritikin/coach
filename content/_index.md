@@ -57,7 +57,7 @@ Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bi
 
 ## Location
 
-I live near Medford, Oregon (near the California border).
+I live in White City, Oregon (near the California border).
 
 I am seeing clients online via Zoom.
 
