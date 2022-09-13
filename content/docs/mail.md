@@ -7,6 +7,8 @@ bookToc: false
 
 # Contact
 
+{{% columns %}}
+
 ## Electronic
 
 The best way to communicate is to use the [SimplePractice](https://joshua-pritikin.clientsecure.me/sign-in) portal.
@@ -22,3 +24,11 @@ C/O 15872088 - Corporation Service Company
 1127 Broadway St NE  
 Suite 310  
 Salem OR 97301 USA
+
+<--->
+
+![Mail delivery](mail-delivery.webp)
+
+Credit: Midjourney "a postal worker wearing a uniform carrying a stack of mail, under heavy rain and clouds"
+
+{{% /columns %}}
