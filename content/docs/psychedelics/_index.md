@@ -30,7 +30,7 @@ I have personal experience with
 
 I am a member of
 - [Sacred Garden Church](https://sacredgarden.life/)
-- [Santo Daime](https://en.wikipedia.org/wiki/Santo_Dai)[^catholic]
+- [Santo Daime](https://en.wikipedia.org/wiki/Santo_Dai)[^catholic] (link to [hymns](https://www.nossairmandade.com/))
 
 {{< hint warning >}}
 Psychedelics are not for everybody.
