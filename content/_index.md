@@ -84,7 +84,7 @@ Book a free 10-15 min chat to see whether we are a good fit.
 
 [Meg Coyne](https://www.psychologytoday.com/us/therapists/meg-coyne-chicago-il/42830)  
 Clinical Social Work/Therapist, LCSW  
-I engaged in two practice sessions with Joshua. By the second session, I could see him growing in confidence as a therapist. He is sensitive and sincere in his presentation.
+*I engaged in two practice sessions with Joshua. By the second session, I could see him growing in confidence as a therapist. He is sensitive and sincere in his presentation.*
 
 [Erica Ambis](https://www.psychologytoday.com/us/therapists/erica-ambis-gig-harbor-wa/979393)  
 Clinical Social Work/Therapist, MSW, LICSW  
