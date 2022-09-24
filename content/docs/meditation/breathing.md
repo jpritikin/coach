@@ -31,6 +31,12 @@ continuously calm then you are not breathing enough. If you get behind
 on breathing then feel free to take 1-2 quick deep breaths and then
 return to the protocol.
 
+Don't try to time the duration of inhales or exhales in seconds.
+Watching the clock or counting seconds can distract from encouraging a
+feeling of calm. A quick inhale is shorter duration than a long
+exhale; rough approximation of the relative durations is adequate
+precision.
+
 As far as I am aware, this is the only meditation technique that works
 mostly independently of the external environment.  You can practice
 this during Monday morning rush hour on the New York City subway (not
