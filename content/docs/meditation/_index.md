@@ -80,6 +80,7 @@ The best time to practice meditation is 4:30 to 9:00 (am and pm) in your local t
 | morning | drink green tea | - |
 |      | [withdrawal of the senses]({{< relref "senses"  >}}) | 10 min |
 |      | [sahasrara]({{< relref "sahasrara"  >}}) | 5-10 min |
+| lunch | eat calmly and undistracted[^lunch] | - |
 | before dinner | [foot soak]({{< relref "foot-soak"  >}}) \& [withdrawal of the senses]({{< relref "senses"  >}}) | 15 min |
 |      | [sahasrara]({{< relref "sahasrara"  >}}) | 10 min |
 | before sleep | [ice on the liver]({{< relref "liver"  >}}) | 15 min |
@@ -91,3 +92,5 @@ This is just a sample schedule. Customize as per your preference.
 [^carney2017]: Carney, S. (2017). *What Doesn't Kill Us: How Freezing Water, Extreme Altitude, and Environmental Conditioning Will Renew Our Lost Evolutionary Strength.* Rodale.
 
 [^turner2012]: Turner, E. (2012). *Communitas: The anthropology of collective joy.* Springer.
+
+[^lunch]: Calm and undistracted meals are generally a good idea, but particularly important for lunch.
