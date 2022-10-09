@@ -54,7 +54,9 @@ techniques may not work when under the influence of psychedelics.
 
 ### On breathing
 
-The only technique that I am familiar with is [here]({{< relref "breathing" >}}).
+Use an inspiratory muscle training device to improve your breathing mechanics.[^rutten]
+
+The only meditation technique that I am familiar with is [here]({{< relref "breathing" >}}).
 
 There are other interesting techniques (Holotropic Breathwork, Wim Hof Method[^carney2017])
 with which I have little experience.
@@ -88,6 +90,8 @@ The best time to practice meditation is 4:30 to 9:00 (am and pm) in your local t
 This is just a sample schedule. Customize as per your preference.
 
 ## References
+
+[^rutten]: One option is the [O2 trainer](https://o2lungtrainer.com).
 
 [^carney2017]: Carney, S. (2017). *What Doesn't Kill Us: How Freezing Water, Extreme Altitude, and Environmental Conditioning Will Renew Our Lost Evolutionary Strength.* Rodale.
 
