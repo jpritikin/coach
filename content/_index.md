@@ -59,7 +59,9 @@ Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bi
 
 I live in White City, Oregon (near the California border).
 
-I am seeing clients online via Zoom.
+I am seeing clients by videoconference.
+
+As I am not licensed, I can work with anyone, anywhere in the world.
 
 <--->
 
