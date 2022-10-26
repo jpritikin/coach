@@ -43,6 +43,8 @@ help people get from ‘good’ to ‘great’.
   - Help you understand and integrate your psychedelic journey(s)
   - I do **not** prescribe, procure, or administer substances.
 - Lifestyle, nutrition, & physical health
+  - I am **not** a licensed dietician.[^capture-of-nutrition]
+  - I am **not** a medical doctor.
 
 ## Professional Background
 
@@ -128,3 +130,5 @@ anyone who wants to use IFS in their pursuit of healing.*
 ## References
 
 [^art-therapy]: Similar to [this](https://nightcafe.studio/blogs/blog/ai-art-therapy), although I never worked with Cassandra Hood.
+
+[^capture-of-nutrition]: Is it probably a good thing that I am not a licensed dietician given [The corporate capture of the nutrition profession in the USA: the case of the Academy of Nutrition and Dietetics (2022)](https://www.cambridge.org/core/journals/public-health-nutrition/article/corporate-capture-of-the-nutrition-profession-in-the-usa-the-case-of-the-academy-of-nutrition-and-dietetics/9FCF66087DFD5661DF1AF2AD54DA0DF9).
