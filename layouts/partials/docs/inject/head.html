@@ -25,4 +25,21 @@
          margin-left: -10em;
          margin-right: -10em;
 }
+@keyframes glowing {
+        0% {
+          box-shadow: 0 0 2ex 0ex #fff;
+        }
+        60% {
+          box-shadow: 0 0 2ex 1.5ex #888;
+        }
+        80% {
+          box-shadow: 0 0 2ex 3ex #fff;
+        }
+        100% {
+          box-shadow: 0 0 2ex 0ex #fff;
+        }
+}
+button#SOIBTN_jpintro {
+        animation: glowing 5000ms infinite;
+}
 </style>
