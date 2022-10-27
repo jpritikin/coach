@@ -1,11 +1,11 @@
 ---
-title: Psychedelics
+title: Psychoactive Drugs
 bookCollapseSection: true
 weight: 4
 bookToc: false
 ---
 
-# Psychedelics
+# Psychoactive Drugs
 
 {{< details "Show me research on drug harms in the UK" >}}
 
@@ -27,6 +27,8 @@ I have personal experience with
 *   Salvia divinorum
 *   Cannabis
 *   Daime (a.k.a. ayahuasca)
+*   Piper methysticum (kava kava)
+*   Sceletium tortuosum (kanna)
 
 I am a member of
 - [Sacred Garden Church](https://sacredgarden.life/)
