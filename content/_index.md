@@ -37,7 +37,6 @@ help people get from ‘good’ to ‘great’.
 - Emotional & relationship issues
   - I provide *counseling* under [ORS 675.825(4)(a)](https://oregon.public.law/statutes/ors_675.825), which allows alternative counselors to practice legally in Oregon without a license.
   - [IFS is similar to psychotherapy, addressing many of the same conditions.]({{< relref "dsm" >}})
-  - AI-assisted art therapy[^art-therapy]
 - Psychedelic integration
   - Help you prepare to take your first psychedelic journey safely
   - Help you understand and integrate your psychedelic journey(s)
@@ -127,8 +126,6 @@ anyone who wants to use IFS in their pursuit of healing.*
 <td class='rotate'><div>Dec 2019</div></td>
 </tr></table>
 
-## References
-
-[^art-therapy]: Similar to [this](https://nightcafe.studio/blogs/blog/ai-art-therapy), although I never worked with Cassandra Hood.
+## Notes
 
 [^capture-of-nutrition]: Is it probably a good thing that I am not a licensed dietician given [The corporate capture of the nutrition profession in the USA: the case of the Academy of Nutrition and Dietetics (2022)](https://www.cambridge.org/core/journals/public-health-nutrition/article/corporate-capture-of-the-nutrition-profession-in-the-usa-the-case-of-the-academy-of-nutrition-and-dietetics/9FCF66087DFD5661DF1AF2AD54DA0DF9).
