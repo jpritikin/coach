@@ -49,7 +49,7 @@ help people get from ‘good’ to ‘great’.
 
 - Ph.D. Quantitative Psychology in 2016 from University of
 Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bibliography/56367505/public/?sort=date&direction=ascending) for publications.
-- Practicing meditation for more than 30 years.
+- Practicing meditation for more than 30 years. Cult surviver.[^lenz]
 - Evaluator-participant in 16-hour [MAPS](https://maps.org/) online psychedelic education course.
 - IFS Level 1 course completed Nov 2022. Working toward [IFS Certification](https://ifs-institute.com/trainings/ifs-certification). IFS Continuity Program subscriber since Sep 2022.
 - Am trauma-informed.
@@ -129,3 +129,5 @@ anyone who wants to use IFS in their pursuit of healing.*
 ## Notes
 
 [^capture-of-nutrition]: Is it probably a good thing that I am not a licensed dietician given [The corporate capture of the nutrition profession in the USA: the case of the Academy of Nutrition and Dietetics (2022)](https://www.cambridge.org/core/journals/public-health-nutrition/article/corporate-capture-of-the-nutrition-profession-in-the-usa-the-case-of-the-academy-of-nutrition-and-dietetics/9FCF66087DFD5661DF1AF2AD54DA0DF9).
+
+[^lenz]: Check out [https://fredericklenz.com/](https://fredericklenz.com/) and the associated [Smoke Screen Podcast](https://www.neonhum.com/show-pages/i-am-rama.html).
