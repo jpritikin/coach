@@ -3,6 +3,7 @@ title: Resources
 type: docs
 weight: 8
 bookToc: false
+bookCollapseSection: true
 ---
 
 # Resources
