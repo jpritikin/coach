@@ -63,7 +63,7 @@ Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bi
 
 I live in White City, Oregon (near the California border).
 
-I am seeing clients by video or audio-only calls (your choice).
+I am seeing clients by video or audio-only (your choice).
 
 As I am not licensed, I can work with anyone, anywhere in the world.
 
