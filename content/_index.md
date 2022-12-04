@@ -24,7 +24,7 @@ proven to heal many forms of psychological suffering.
 
 IFS is a full range modality. Most psychotherapy aims to help people
 get from ‘bad’ to ‘so-so,’ or from ‘so-so’ to ‘good’. IFS can also
-help people get from ‘good’ to ‘great’.
+help people get from ‘good’ to ‘great’. IFS is a [trauma-informed](https://www.verywellmind.com/trauma-informed-therapy-definition-and-techniques-5209445) model.
 
 <--->
 
@@ -52,7 +52,6 @@ Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bi
 - Practicing meditation for more than 30 years. Cult surviver.[^lenz]
 - Evaluator-participant in 16-hour [MAPS](https://maps.org/) online psychedelic education course.
 - IFS Level 1 course completed Nov 2022. Working toward [IFS Certification](https://ifs-institute.com/trainings/ifs-certification). IFS Continuity Program subscriber since Sep 2022.
-- Am trauma-informed.
 - Since I am **not** licensed in Oregon, I cannot describe myself as a *psychotherapist*. [ORS 675.020](https://oregon.public.law/statutes/ors_675.020)
 
 {{% columns %}}
