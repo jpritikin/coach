@@ -37,7 +37,7 @@ help people get from ‘good’ to ‘great’. IFS is a [trauma-informed](https
 - Emotional & relationship issues
   - I provide *counseling* under [ORS 675.825(4)(a)](https://oregon.public.law/statutes/ors_675.825), which allows alternative counselors to practice legally in Oregon without a license.
   - [IFS is similar to psychotherapy, addressing many of the same conditions.]({{< relref "dsm" >}})
-- Psychedelic integration
+- Psychedelic prep & integration
   - Help you prepare to take your first psychedelic journey safely
   - Help you understand and integrate your psychedelic journey(s)
   - I do **not** prescribe, procure, or administer substances.

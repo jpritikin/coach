@@ -134,8 +134,8 @@ sobriety and can offer full consent.
 {{< /details >}}
 
 {{< hint info >}}
-Plant (and fungi) sacraments are our highest ranking teacher because
-plants (and fungi) don't become egomaniacal.
+Non-placebo sacraments are our highest ranking teacher because
+chemicals don't become egomaniacal.
 {{< /hint >}}
 
 ## Integrated
