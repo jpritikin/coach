@@ -20,6 +20,8 @@ Book a free 10-15 min chat to see whether we are a good fit.
 <!-- ScheduleOnce button END -->
 </center>
 
+[Jump to details about location and fees.](/#location)
+
 ## Continuing Clients
 
 ### Electronic
@@ -42,6 +44,6 @@ Salem OR 97301 USA
 
 ![Mail delivery](mail-delivery.webp)
 
-Credit: Midjourney "a postal worker wearing a uniform carrying a stack of mail, under heavy rain and clouds"
+Credit: Midjourney "lone postal worker uniformed carrying a bag of mail :: rain clouds rural :: long exposure, photorealistic, intricate details --aspect 1:3 --chaos 10"
 
 {{% /columns %}}
