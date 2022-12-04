@@ -41,6 +41,9 @@ help people get from ‘good’ to ‘great’. IFS is a [trauma-informed](https
   - Help you prepare to take your first psychedelic journey safely
   - Help you understand and integrate your psychedelic journey(s)
   - I do **not** prescribe, procure, or administer substances.
+- Expecting your first child?
+  - Ready for a new full-time job without sleep? Learn the mental health tools you need **before** the proverbial shit hits the fan.
+  - If you put more skill and effort into the first three years, you and your child will reap a lifetime of benefits.
 - Lifestyle, nutrition, & physical health
   - I am **not** a licensed dietician.[^capture-of-nutrition]
   - I am **not** a medical doctor.
