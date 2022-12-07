@@ -8,40 +8,9 @@ bookCollapseSection: true
 
 # Resources
 
-## Urban Design
-
-Most North American cities are designed for cars not people.
-
-{{% columns %}}
-
-![Strong Towns](StrongTowns.png)
-
-[Visit](https://www.strongtowns.org/)
-
-<--->
-
-![Not Just Bikes](NotJustBikes.jpg)
-
-[Watch](https://www.youtube.com/c/NotJustBikes)
-
-{{% /columns %}}
-
-## Critical Thinking
-
-{{% columns %}}
-
-### Logical Fallacies
-
-![Logical Fallacies](LogicPoster_LosRes.png)
-
-[Download](https://yourlogicalfallacyis.com/)
-
-<--->
-
-### Cognitive Biases
-
-![Cognitive Biases](BiasesPoster_LowRes.jpg)
-
-[Download](https://yourbias.is/)
-
-{{% /columns %}}
+As an IFS Practitioner, I try to be strict with myself about attending
+to structure and process while maintaining indifference to content.  I
+believe that a good counselor is extremely neutral, to encourage the
+client's inner system to lead.  In real life, however, I am highly
+opinionated about diverse content areas. This is the safe space for me
+to broadcast my opinions.
