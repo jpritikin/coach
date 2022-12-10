@@ -1,12 +1,12 @@
 ---
-title: Resources
+title: Neutrality
 type: docs
 weight: 8
 bookToc: false
 bookCollapseSection: true
 ---
 
-# Resources
+# Neutrality
 
 <table>
 <tr>
