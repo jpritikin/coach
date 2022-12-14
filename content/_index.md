@@ -66,9 +66,9 @@ As I am not licensed, I can work with anyone, anywhere in the world.
 
 ## Fees
 
-My normal rate is $120 per hour. Reserve time in 15 min increments. I do not accept insurance.
+My rate is $120 per hour. Reserve time in 15 min increments. I do not accept insurance.
 
-People with low income, or veterans or active military may request up to an 80% discount.
+People with low income, or veterans or active military may request a sliding scale rate.
 
 Book a free 10-15 min chat to see whether we are a good fit.
 
