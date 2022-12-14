@@ -4,16 +4,11 @@ type: docs
 bookToc: false
 ---
 
-<table>
-<tr>
-<td>
-<picture style="display: block;">
-<img alt="Multitude of stories within the head" src="multitude_of_stories_within_the_head.webp">
-</picture>
-</td>
-<td class='rotate'><div>Credit: Midjourney "multitude of stories within the head"</div></td>
-</tr/>
-</table>
+![Multitude of stories within the head](multitude_of_stories_within_the_head.webp)
+{.center}
+
+Credit: Midjourney "multitude of stories within the head"
+{.center}
 
 {{% columns %}}
 
