@@ -127,6 +127,4 @@ anyone who wants to use IFS in their pursuit of healing.*
 
 [^capture-of-nutrition]: Is it probably a good thing that I am not a licensed dietician given [The corporate capture of the nutrition profession in the USA: the case of the Academy of Nutrition and Dietetics (2022)](https://www.cambridge.org/core/journals/public-health-nutrition/article/corporate-capture-of-the-nutrition-profession-in-the-usa-the-case-of-the-academy-of-nutrition-and-dietetics/9FCF66087DFD5661DF1AF2AD54DA0DF9).
 
-[^lenz]: I was a student of [https://fredericklenz.com/](https://fredericklenz.com/) for a few years. For a retrospective, check out the associated [Smoke Screen Podcast](https://www.neonhum.com/show-pages/i-am-rama.html).
-
 [^audio-only]: In the classical approach to psychotherapy, the client lies on a couch and does not look the therapist directly in the eye while speaking.

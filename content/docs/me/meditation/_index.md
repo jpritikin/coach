@@ -26,7 +26,7 @@ traditions of many of the world's major religions. For example,
 {{% /columns %}}
 
 I have also studied with a handful of contemporary meditation
-teachers. What I learned is that there is not much consensus about the
+teachers.[^lenz] What I learned is that there is not much consensus about the
 precise defintion of *meditation*. I prefer to define meditation in
 IFS terms:
 
@@ -90,6 +90,8 @@ The best time to practice meditation is 4:30 to 9:00 (am and pm) in your local t
 This is just a sample schedule. Customize as per your preference.
 
 ## References
+
+[^lenz]: Among others, I was a student of [https://fredericklenz.com/](https://fredericklenz.com/) for a few years. For a retrospective, check out the associated [Smoke Screen Podcast](https://www.neonhum.com/show-pages/i-am-rama.html).
 
 [^rutten]: One option is the [O2 trainer](https://o2lungtrainer.com).
 
