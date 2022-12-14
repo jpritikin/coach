@@ -6,11 +6,13 @@ theme = "hugo-book"
 disablePathToLower = true
 enableGitInfo = true
 
-[goldmark.parser.attribute]
-block = true
-
-[markup.goldmark.renderer]
-  unsafe= true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+    [markup.goldmark.renderer]
+      unsafe= true
 
 [params]
   BookTheme = 'light'
