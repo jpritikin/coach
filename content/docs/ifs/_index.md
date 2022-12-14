@@ -1,5 +1,5 @@
 ---
-title: IFS
+title: Internal Family Systems (IFS)
 type: docs
 weight: 2
 bookToc: false
