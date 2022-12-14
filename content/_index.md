@@ -30,8 +30,8 @@ help people get from ‘good’ to ‘great’. IFS is a [trauma-informed](https
 ## Areas of Expertise
 
 - Emotional & relationship issues
+  - I use Internal Family Systems! [IFS is similar to psychotherapy, addressing many of the same conditions.]({{< relref "dsm" >}})
   - I provide *counseling* under [ORS 675.825(4)(a)](https://oregon.public.law/statutes/ors_675.825), which allows alternative counselors to practice legally in Oregon without a license.
-  - [IFS is similar to psychotherapy, addressing many of the same conditions.]({{< relref "dsm" >}})
 - Psychedelic prep & integration
   - Help you prepare to take your first psychedelic journey safely
   - Help you understand and integrate your psychedelic journey(s)
@@ -40,6 +40,7 @@ help people get from ‘good’ to ‘great’. IFS is a [trauma-informed](https
   - Ready for a new full-time job without sleep? Learn the mental health tools you need **before** the proverbial shit hits the fan.
   - If you put more skill and effort into the first three years, you and your child will reap a lifetime of benefits.
 - Lifestyle, nutrition, & physical health
+  - I have studied nutrition for many years and am trained to evaluate statistical evidence.
   - I am **not** a licensed dietician.[^capture-of-nutrition]
   - I am **not** a medical doctor.
 
@@ -47,8 +48,8 @@ help people get from ‘good’ to ‘great’. IFS is a [trauma-informed](https
 
 - Ph.D. Quantitative Psychology in 2016 from University of
 Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bibliography/56367505/public/?sort=date&direction=ascending) for publications.
-- Practicing meditation for more than 30 years. Cult surviver.[^lenz]
-- Evaluator-participant in 16-hour [MAPS](https://maps.org/) online psychedelic education course.
+- Practicing meditation for more than 30 years. Can provide cult recovery support.
+- Evaluator-participant in 16-hour [MAPS](https://maps.org/) psychedelic education course.
 - IFS Level 1 [completed Nov 2022](https://ifs-institute.com/practitioners/all/110287). IFS Continuity Program subscriber since Sep 2022. Working toward [IFS Certification](https://ifs-institute.com/trainings/ifs-certification).
 - Since I am **not** licensed in Oregon, I cannot describe myself as a *psychotherapist*. [ORS 675.020](https://oregon.public.law/statutes/ors_675.020)
 
