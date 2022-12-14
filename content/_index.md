@@ -23,7 +23,7 @@ help people get from ‘good’ to ‘great’. IFS is a [trauma-informed](https
 
 <--->
 
-![IFS range](ifs.png)
+![IFS range](ifs.webp)
 
 {{% /columns %}}
 
