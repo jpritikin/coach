@@ -1,12 +1,12 @@
 ---
-title: Neutrality
+title: My opinion
 type: docs
 weight: 8
 bookToc: false
 bookCollapseSection: true
 ---
 
-# Neutrality
+# My opinion
 
 <table>
 <tr>
@@ -26,4 +26,4 @@ client's inner system to lead.
 
 In real life, however, I am highly opinionated about diverse content
 areas.
-This area is the safe space for me to broadcast my opinions.
+This area of my website is the safe space for me to broadcast my opinions.
