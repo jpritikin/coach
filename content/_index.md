@@ -53,6 +53,13 @@ Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bi
 - IFS Level 1 [completed Nov 2022](https://ifs-institute.com/practitioners/all/110287). IFS Continuity Program subscriber since Sep 2022. Working toward [IFS Certification](https://ifs-institute.com/trainings/ifs-certification).
 - Since I am **not** licensed in Oregon, I cannot describe myself as a *psychotherapist*. [ORS 675.020](https://oregon.public.law/statutes/ors_675.020)
 
+## What does counseling look like?
+
+As a default, I recommend 75-minute sessions on a weekly basis. However,
+other schedules can be accommodated.
+The duration of therapy can vary depending on your needs and motivation.
+During the no-fee consultation, we’ll decide together what is the best fit.
+
 {{% columns %}}
 
 ## Location
@@ -71,7 +78,7 @@ My rate is $120 per hour. Reserve time in 15 min increments. I do not accept ins
 
 People with low income, or veterans or active military may request a sliding scale rate.
 
-Book a free 10-15 min chat to see whether we are a good fit.
+Book a free 20 min consultation.
 
 <!-- ScheduleOnce button START -->
 <button id="SOIBTN_jpintro" style="background: #006DAF; color: #ffffff; padding: 10px 20px; border: 1px solid #c8c8c8; font: bold 14px Arial; cursor: pointer;" data-height="580" data-psz="00" data-so-page="jpintro" data-delay="1">Schedule an Appointment</button>
