@@ -11,7 +11,7 @@ bookToc: false
 
 ## New Clients
 
-Book a free 10-15 min chat to see whether we are a good fit.
+Book a free consultation.
 
 <center>
 <!-- ScheduleOnce button START -->
@@ -20,7 +20,7 @@ Book a free 10-15 min chat to see whether we are a good fit.
 <!-- ScheduleOnce button END -->
 </center>
 
-[Jump to details about location and fees.](/#location)
+[Jump to details about location and fees.](/#what-does-counseling-look-like)
 
 ## Continuing Clients
 
