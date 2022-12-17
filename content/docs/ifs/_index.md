@@ -8,6 +8,19 @@ bookCollapseSection: true
 
 # Internal Family Systems
 
+{{% columns %}}
+
+Haiku from ChatGPT (16 Dec 2022):
+
+<--->
+
+Inner selves unite  
+Healing wounds of the past  
+Internal peace found
+{.center}
+
+{{% /columns %}}
+
 ## Eleven minute primer
 
 {{< youtube id="KbTFJHKVDoM" title="An Overview of Internal Family Systems (IFS) by Dr. Richard Schwartz" >}}
