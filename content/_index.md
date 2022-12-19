@@ -29,13 +29,19 @@ help people get from ‘good’ to ‘great’. IFS is a [trauma-informed](https
 
 ## Areas of Expertise
 
+{{% columns %}}
+
 - Emotional & relationship issues
   - I use Internal Family Systems! [IFS is similar to psychotherapy, addressing many of the same conditions.]({{< relref "dsm" >}})
   - I provide *counseling* under [ORS 675.825(4)(a)](https://oregon.public.law/statutes/ors_675.825), which allows alternative counselors to practice legally in Oregon without a license.
+
 - Psychedelic prep & integration
-  - Help you prepare to take your first psychedelic journey safely
-  - Help you understand and integrate your psychedelic journey(s)
+  - Prepare to take your first psychedelic journey safely
+  - Understand and integrate your psychedelic journey(s)
   - I do **not** prescribe, procure, or administer substances.
+
+<--->
+
 - Expecting your first child?
   - Ready for a new full-time job without sleep? Learn the mental health tools you need **before** the proverbial shit hits the fan.
   - If you put more skill and effort into the first three years, you and your child will reap a lifetime of benefits.
@@ -43,6 +49,8 @@ help people get from ‘good’ to ‘great’. IFS is a [trauma-informed](https
   - I have studied nutrition for many years and am trained to evaluate statistical evidence.
   - I am **not** a licensed dietician.[^capture-of-nutrition]
   - I am **not** a medical doctor.
+
+{{% /columns %}}
 
 ## Professional Background
 
