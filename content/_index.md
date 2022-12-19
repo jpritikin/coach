@@ -87,36 +87,6 @@ Book a free 20 min consultation.
 
 {{% /columns %}}
 
-## Endorsements
-
-{{% columns %}}
-
-[Meg Coyne](https://www.psychologytoday.com/us/therapists/meg-coyne-chicago-il/42830)  
-Clinical Social Work/Therapist, LCSW  
-*I engaged in two practice sessions with Joshua. By the second session, I could see him growing in confidence as a therapist. He is sensitive and sincere in his presentation.*
-
-[Erica Ambis](https://www.psychologytoday.com/us/therapists/erica-ambis-gig-harbor-wa/979393)  
-Clinical Social Work/Therapist, MSW, LICSW  
-*Joshua is a very dedicated clinician and you are in great hands! IFS is an amazing model and I know he takes great pride in his practice.*
-
-<--->
-
-[Andrew W Nichols](http://andrewWnichols.com)  
-LMHC, PLLC  
-*I have been a therapist for 8 years and recently decided to attend
-training to learn IFS. In the training, of 30 participants, I met
-Joshua. While I got to know him in our large group gatherings it was in
-our small group (3 participants and 1 experienced trainer) where I got
-to see how he showed up as a therapist. He was my practice therapist
-during one of our hour long small group sessions. He was curious, kind
-and patient while he led me through the real concern I brought to him
-in our practice. As my therapist for this hour I appreciated his desire
-to listen to our trainer and learn as much as he could about how to use
-IFS effectively with clients. I think he’ll be a great therapist for
-anyone who wants to use IFS in their pursuit of healing.*
-
-{{% /columns %}}
-
 ## Silly Photos
 
 <table>
