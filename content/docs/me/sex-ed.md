@@ -1,6 +1,6 @@
 ---
 title: Sex Ed
-bookToc: false
+bookToc: true
 draft: false
 ---
 
@@ -8,7 +8,7 @@ draft: false
 
 As you probably know, sex education at American public schools is
 narrowly focused on basic anatomy. My parents, for whatever reason,
-did not provide much supplemental material. The unstated sentiment was
+did not provide much supplemental information. The unstated sentiment was
 that I should figure it out for myself. On one hand, the minimum
 competencies are mostly innate. My daughter was born in 2004. On the
 other hand, such a rich area of behavioral affordances prompts much
