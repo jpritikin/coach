@@ -136,7 +136,7 @@ There is [at least one case report](https://medium.com/an-idea/meeting-the-shepa
 
 [^doss2020]: Doss, M. K., May, D. G., Johnson, M. W., Clifton, J. M., Hedrick, S. L., Prisinzano, T. E., ... & Barrett, F. S. (2020). The acute effects of the atypical dissociative hallucinogen salvinorin A on functional connectivity in the human brain. *Scientific Reports, 10*(1), 1--12.
 
-[^doss2022]: Doss, M., de Wit, H., & Gallo, D. A. (2022, June 2). The Acute Effects of Psychoactive Drugs on Emotional Episodic Memory Encoding, Consolidation, and Retrieval. https://doi.org/10.31234/osf.io/tkczm
+[^doss2022]: Doss, M., de Wit, H., & Gallo, D. A. (2022, June 2). The Acute Effects of Psychoactive Drugs on Emotional Episodic Memory Encoding, Consolidation, and Retrieval. https://psyarxiv.com/tkczm/
 
 [^prause2021]: Prause, N., Siegle, G. J., & Coan, J. (2021). Partner intimate touch is associated with increased interpersonal closeness, especially in non-romantic partners. *PLOS ONE, 16*(3), e0246065.
 
