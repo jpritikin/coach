@@ -8,8 +8,8 @@ bookToc: false
 
 ## Ego
 
-The *ego* can be regarded as your personal constellation of parts.
-Some people regard the ego as an enemy or obstacle to growth.
+The *ego* is your personal constellation of parts.
+Some people also regard the ego as an enemy or obstacle to growth.
 However, in [IFS]({{< relref "IFS" >}}), we learn that there are no bad parts; all
 parts have good intentions for us. We need an ego, it is just that it
 should not dominate our life and tie us in knots; we need to be Self led.
