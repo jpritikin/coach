@@ -1,6 +1,6 @@
 ---
 title: Foot soaking
-weight: 2
+weight: 60
 bookToc: false
 ---
 

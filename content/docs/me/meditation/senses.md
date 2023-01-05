@@ -1,6 +1,6 @@
 ---
 title: Withdrawal of the senses
-weight: 1
+weight: 50
 bookToc: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Candle treatment
-weight: 3
+weight: 70
 bookToc: false
 ---
 

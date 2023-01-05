@@ -1,6 +1,6 @@
 ---
 title: Sahasrara
-weight: 10
+weight: 100
 bookToc: false
 ---
 
