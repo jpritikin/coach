@@ -4,15 +4,7 @@ weight: 1
 bookToc: false
 ---
 
-# How to Untie the Knot of the Ego
-
-## Ego
-
-The *ego* is your personal constellation of parts.
-Some people also regard the ego as an enemy or obstacle to growth.
-However, in [IFS]({{< relref "IFS" >}}), we learn that there are no bad parts; all
-parts have good intentions for us. We need an ego, it is just that it
-should not dominate our life and tie us in knots; we need to be Self led.
+# On meditation
 
 ## How to meditate
 
@@ -50,9 +42,11 @@ as the meditation is effortless.
 
 ## Easing into effortlessness
 
-Here is what should happen. Ask all the parts to
-quiet down for a duration. Parts, being obedient, cooperate.
-No muscular Bouncer or Focuser parts are needed.
+Here is what should happen:
+{{< hint info >}}
+Ask all the parts to quiet down for a duration. Parts, being obedient,
+cooperate.  No muscular Bouncer or Focuser parts are needed.
+{{< /hint >}}
 Sounds great, but how does anybody develop such a mature practice?
 We refer back to the original instructions, with an additional
 step:
