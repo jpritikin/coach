@@ -4,7 +4,7 @@ weight: 1
 bookToc: false
 ---
 
-# On meditation method
+# A matter of method
 
 ## How to meditate
 
@@ -30,7 +30,7 @@ how to progress further.
 These managerial parts can, with effort, force other parts into submission.
 This indeed makes some space for the Self to shine.
 However, this situation is a *spiritual bypass* because the
-knots of parts are submerged, not untied. This is an unstable truce.
+parts are suppressed. This is an unstable truce.
 
 What is often not appreciated is that the typical instructions for
 *How to meditate* are like training wheels. After a little practice,
@@ -44,11 +44,12 @@ as the meditation is effortless.
 
 Here is what should happen:
 {{< hint info >}}
-Ask all the parts to quiet down for a duration. Parts, being obedient,
-cooperate.  No muscular Bouncer or Focuser parts are needed.
+Ask all the parts to quiet down for a duration.  
+Parts, being obedient, cooperate.  
+No muscular Bouncer or Focuser parts are needed.
 {{< /hint >}}
 Sounds great, but how does anybody develop such a mature practice?
-We refer back to the original instructions, with an additional
+I suggest that we take the original instructions and add an additional
 step:
 
 1. Focus on your breath (or a mantra or visual target or whatever).
