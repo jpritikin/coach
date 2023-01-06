@@ -4,7 +4,7 @@ weight: 1
 bookToc: false
 ---
 
-# On meditation
+# On meditation method
 
 ## How to meditate
 
