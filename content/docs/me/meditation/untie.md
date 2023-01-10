@@ -111,10 +111,10 @@ beauty and significance of music."[^barrett2018]
 
 I have collected a variety of interesting targets to blend with.
 In addition to any immediate sensation,
-a engrosing blending episode can create an affective
+an engrosing blending episode can create an affective
 afterglow that can last for hours. Before I list some suggestions, I
 want to emphasize that these experiences are most available
-from effortless meditation. Without effortless meditation,
+starting from effortless meditation. Without effortless meditation,
 you might as well use a target like maintaining awareness of breathing
 as you work toward effortlessness. Your experience will mostly
 be cluttered with the Focuser and Bouncer parts, and other parts

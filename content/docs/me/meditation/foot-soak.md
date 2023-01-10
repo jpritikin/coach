@@ -33,5 +33,5 @@ This technique is from [Sahaja Yoga Meditation](https://us.sahajayoga.org/).
 
 [^pan]: A half-size steam table pan works great too.
 
-[^salt]: Table salt (sodium chloride) to mimic ocean water. Epsom salt (magnesium
+[^salt]: Use table salt (sodium chloride) to mimic ocean water. Epsom salt (magnesium
 sulfate) is a great fertilizer for plants.
