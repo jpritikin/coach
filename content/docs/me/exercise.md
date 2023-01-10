@@ -39,7 +39,9 @@ Based on the above criteria, I have identified two activities that seem particul
 
 {{< details "Reveal my current favorites" >}}
 - [AcroYoga](https://www.acroyoga.org/)
-- Brazilian Jiu-Jitsu
+- Brazilian Jiu-Jitsu  
+![blue belt](blue.webp)  
+Me with [Prof Pete Loncarevich](https://en.wikipedia.org/wiki/Pete_Loncarevich#Brazilian_Jiu-Jitsu) in Jan 2023
 {{< /details >}}
 
 ## References
