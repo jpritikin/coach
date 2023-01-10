@@ -8,7 +8,7 @@ bookToc: false
 
 {{% columns %}}
 
-Place some warm water in a dishpan[^pan] with a handful of salt.
+Place some warm water in a dishpan[^pan] with a handful of salt.[^salt]
 
 Sit comfortably on a chair, put your feet in the salt water,
 and meditate for 5-15 minutes.
@@ -32,3 +32,6 @@ This technique is from [Sahaja Yoga Meditation](https://us.sahajayoga.org/).
 ## Notes
 
 [^pan]: A half-size steam table pan works great too.
+
+[^salt]: Table salt (sodium chloride) to mimic ocean water. Epsom salt (magnesium
+sulfate) is a great fertilizer for plants.
