@@ -9,7 +9,7 @@ bookToc: false
 ## Prelude
 
 For a long time, I was skeptical that mindful breathing would have any
-special effect. I mean, we all breath all the time; it's the most
+special effect. I mean, we all breathe all the time; it's the most
 ordinary thing. What could possibly be special about it?
 
 ## The Technique
@@ -25,7 +25,7 @@ When a dog is lying down and wants to relax then she will often start her rest w
 ## Commentary
 
 This technique should not be done like static apnea holds in
-preparation for free diving. As soon as you feel any hint of anxiety,
+preparation for freediving. As soon as you feel any hint of anxiety,
 do not hesitate to start another breath. If you do not feel
 continuously calm then you are not breathing enough. If you get behind
 on breathing then feel free to take 1-2 quick deep breaths and then
@@ -33,7 +33,7 @@ return to the protocol.
 
 Don't try to time the duration of inhales or exhales in seconds.
 Watching the clock or counting seconds can distract from encouraging a
-feeling of calm. A quick inhale is shorter duration than a long
+feeling of calm. A quick inhale is of shorter duration than a long
 exhale; rough approximation of the relative durations is adequate
 precision.
 

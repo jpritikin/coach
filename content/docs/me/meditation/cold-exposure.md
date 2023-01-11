@@ -6,12 +6,12 @@ bookToc: false
 
 # Cold exposure
 
-Do [foat soaking]({{< relref "foot-soak" >}}) but with ice cold water.
+Do [foot soaking]({{< relref "foot-soak" >}}) but with ice cold water.
 
 Don't combine this with [withdrawal of the senses]({{< relref "senses" >}})
 because you should use all of your attention to relax your
 feet. Use ample ice because it's easier to relax when the water is at
-lower temperature.[^carney2020]
+lower a temperature.[^carney2020]
 
 Very effective for [Restless Legs Syndrome](https://www.ninds.nih.gov/health-information/patient-caregiver-education/fact-sheets/restless-legs-syndrome-fact-sheet).
 

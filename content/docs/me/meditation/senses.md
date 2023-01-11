@@ -30,7 +30,7 @@ input. Change your identification: Instead of regarding your visual
 input as real, the undifferentiated field is real and your regular
 visual input happens to exist within the field.
 
-I am most comfortable with the visual sense, but same method likely
+I am most comfortable with the visual sense, but the same method likely
 works similarly with other senses. Experiment with a sensory
 deprivation tank?
 

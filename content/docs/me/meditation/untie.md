@@ -36,7 +36,7 @@ What is often not appreciated is that the typical instructions for
 *How to meditate* are like training wheels. After a little practice,
 the method itself becomes a hindrance to meditation because it
 requires too much effort. To really enjoy the Self in a profound way, all the
-parts must willing cede the stage to the Self, including the Focuser
+parts must willingly cede the stage to the Self, including the Focuser
 and Bouncer parts. In a paradoxical twist, the Self can shine as brightly
 as the meditation is effortless.
 
@@ -59,13 +59,13 @@ step:
 
 This is not a meditation practice, per se; this is an inner excavation
 practice. You are looking for parts that need attention. What the
-the original instructions bury is actually valuable information.
+original instructions bury is actually valuable information.
 The output
 of this process, the list of parts and their concerns,
 you can bring to your [IFS Practitioner]({{< relref "IFS" >}}).
 Get curious about these parts. Ask the usual questions. What is your
 job? Do you protect other parts? What are you afraid would happen
-if you didn't do you job? Etc. These parts refused to be quiet because
+if you didn't do your job? Etc. These parts refused to be quiet because
 they need your care and attention. As you scrub your inner system clean,
 bathing each part in calm understanding,
 your Self will appear with more and more effortlessness and spontaneity.
@@ -80,7 +80,7 @@ this all the time; these clients barely have any access to Self. As
 the parts quiet down and meditation becomes effortless, the choice of
 what to focus on, the object of attention, becomes an important
 consideration.  Self energy is available to blend with the object of
-attention in a fully engrosing, enveloping, and entrancing way.
+attention in a fully engrossing, enveloping, and entrancing way.
 
 ### A comment on psychedelics
 
@@ -90,13 +90,13 @@ dimethyltryptamine (colloquially known as Daime or Ayahuasca).
 The effect of a psychedelic strongly depends on the willingness of your
 parts to get quiet. There are at least three possible outcomes:
 - Parts are overactive and not willing to get quiet. A psychedelic
-will tend to make them more loud and extreme. This is going to be a difficult trip.
+will tend to make parts more loud and extreme. This is going to be a difficult trip.
 This corresponds to the monkey mind of an inexperienced meditator,
 magnified to Godzilla size.
 - Parts are active but willing to get quiet. In this situation,
 the client gains more access to Self energy and may do parts work
 spontaneously.[^mdma] There is the opportunity to make rapid strides
-toward theraputic goals.
+toward therapeutic goals.
 - Parts are fairly quiet. The Self shines with unusual brilliance
 because the psychedelic does the Bouncer's job,
 facilitating an experience of Self that is profoundly effortless.
@@ -111,7 +111,7 @@ beauty and significance of music."[^barrett2018]
 
 I have collected a variety of interesting targets to blend with.
 In addition to any immediate sensation,
-an engrosing blending episode can create an affective
+an engrossing blending episode can create an affective
 afterglow that can last for hours. Before I list some suggestions, I
 want to emphasize that these experiences are most available
 starting from effortless meditation. Without effortless meditation,

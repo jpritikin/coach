@@ -27,7 +27,7 @@ head. Switch back and forth between the saharsara areas on the head
 and left hand whenever you feel fatigue.
 
 How you attend to these maneuvers is of critical importance. 
-Feel into the finger tips of your right hand and the current
+Feel into the fingertips of your right hand and the current
 sahasrara area.  Moreover, try to feel into the gap between these
 two parts of your body.
 
