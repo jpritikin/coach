@@ -1,5 +1,5 @@
 ---
-title: Theory
+title: Effortlessness
 weight: 1
 bookToc: true
 ---
