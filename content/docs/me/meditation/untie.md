@@ -81,6 +81,8 @@ the parts quiet down and meditation becomes effortless, the choice of
 what to focus on, the object of attention, becomes an important
 consideration.  Self energy is available to blend with the object of
 attention in a fully engrossing, enveloping, and entrancing way.
+In addition to any immediate sensation, an engrossing blending episode
+can create an affective afterglow that can last for hours.[^basso2019]
 
 ### A comment on psychedelics
 
@@ -110,9 +112,7 @@ beauty and significance of music."[^barrett2018]
 ### Some suggested targets
 
 I have collected a variety of interesting targets to blend with.
-In addition to any immediate sensation,
-an engrossing blending episode can create an affective
-afterglow that can last for hours. Before I list some suggestions, I
+Before I list some suggestions, I
 want to emphasize that these experiences are most available
 starting from effortless meditation. Without effortless meditation,
 you might as well use a target like maintaining awareness of breathing
@@ -143,5 +143,7 @@ will suffice.
 ## References
 
 [^mdma]: https://ifs-institute.com/resources/research/mdma-and-ptsd-studies
+
+[^basso2019]: Basso, J. C., McHale, A., Ende, V., Oberlin, D. J., & Suzuki, W. A. (2019). Brief, daily meditation enhances attention, memory, mood, and emotional regulation in non-experienced meditators. *Behavioural brain research, 356*, 208-220.
 
 [^barrett2018]: Barrett, F. S., Preller, K. H., & Kaelen, M. (2018). Psychedelics and music: Neuroscience and therapeutic implications. *International Review of Psychiatry, 30*(4), 350-362.
