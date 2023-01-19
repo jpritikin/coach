@@ -29,10 +29,12 @@ I have personal experience with
 *   Daime (a.k.a. ayahuasca)
 *   Piper methysticum (kava kava)
 *   Sceletium tortuosum (kanna)
+*   Psilomethoxin ([orally active 5-methoxy-N,N-dimethyltryptamine](https://www.youtube.com/watch?v=SeROOGFnwek))
 
 I am a member of
-- [Sacred Garden Church](https://sacredgarden.life/)
 - [Santo Daime](https://en.wikipedia.org/wiki/Santo_Daime)[^catholic] (link to [hymns](http://daimebooks.org))
+- [Church of Psilomethoxin](https://psilomethoxin.com/)
+- [Sacred Garden Church](https://sacredgarden.life/)
 
 {{< hint warning >}}
 Psychedelics are not for everybody.
