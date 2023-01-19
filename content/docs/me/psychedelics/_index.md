@@ -33,7 +33,7 @@ I have personal experience with
 
 I am a member of
 - [Santo Daime](https://en.wikipedia.org/wiki/Santo_Daime)[^catholic] (link to [hymns](http://daimebooks.org))
-- [Church of Psilomethoxin](https://psilomethoxin.com/)
+- [Church of Psilomethoxin](https://psilomethoxin.com?ref=NCKJKR4)
 - [Sacred Garden Church](https://sacredgarden.life/)
 
 {{< hint warning >}}
