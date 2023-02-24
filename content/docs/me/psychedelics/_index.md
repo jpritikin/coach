@@ -7,13 +7,13 @@ bookToc: false
 
 # Psychoactive Drugs
 
-{{< details "Show me research on drug harms in the UK" >}}
+{{% details "Show me research on drug harms in the UK" %}}
 
 ![Drug harms](nutt-2010-fig2.png)
 
 Nutt, D. J., King, L. A., & Phillips, L. D. (2010). Drug harms in the UK: a multicriteria decision analysis. *The Lancet, 376*(9752), 1558-1565.
 
-{{< /details >}}
+{{% /details %}}
 
 {{% columns %}}
 

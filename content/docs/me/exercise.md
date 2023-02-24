@@ -37,12 +37,12 @@ Although the research has not been done yet, I would also weigh facets that supp
 
 Based on the above criteria, I have identified two activities that seem particularly promising:
 
-{{< details "Reveal my current favorites" >}}
+{{% details "Reveal my current favorites" %}}
 - [AcroYoga](https://www.acroyoga.org/)
 - Brazilian Jiu-Jitsu  
 ![blue belt](blue.webp)  
 Me with [Prof Pete Loncarevich](https://en.wikipedia.org/wiki/Pete_Loncarevich#Brazilian_Jiu-Jitsu) in Jan 2023
-{{< /details >}}
+{{% /details %}}
 
 ## References
 

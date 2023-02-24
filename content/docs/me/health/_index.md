@@ -22,7 +22,7 @@ An easy way to learn more about nutrition is to watch two outstanding feature do
 
 Don't despair if you fail on some of the measures below. By definition, chronic disease takes a long time to kill you. You probably have at least a few years to figure out how to successfully address these risk factors.
 
-{{< details "I'm ready, show me the measures!" >}}
+{{% details "I'm ready, show me the measures!" %}}
 
 #### waist circumference \< 0.5 height
 
@@ -52,4 +52,4 @@ LDL is an acronym for low-density lipoprotein. Lipoprotein is a category of subs
 
 Ferritin is a blood test measure of our backup iron stores. A ferritin test may be ordered when anemia, a lack enough healthy red blood cells, is suspected. A concentration below about 12 ng/mL would indicate iron deficiency. However, it is also possible to have too much ferritin. [Excess iron is associated with increased odds of cancer and diabetes.](https://nutritionfacts.org/video/donating-blood-to-prevent-cancer/)
 
-{{< /details >}}
+{{% /details %}}
