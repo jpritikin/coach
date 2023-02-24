@@ -65,7 +65,8 @@ This offering is inspired by and extrapolated from MAPS studies with MDMA.[^maps
 {{% details "Why psilomethoxin? Do you work with any other substances?" %}}
 MAPS has put enormous resources into making MDMA an FDA approved medicine
 for psychedelic-assisted psychotherapy.[^mdma-history]
-I suspect psilomethoxin may be even better than MDMA.
+I suspect psilomethoxin may be even better than MDMA
+for this application.
 I am not aware of any potentially superior substances.
 {{% /details %}}
 
