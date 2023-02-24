@@ -36,7 +36,7 @@ in a slightly altered state of consciousness.
 ### Cost
 
 Church of Psilomethoxin charges about $10-15 per gram of dried Psilocybe powder.
-Therefore, you can expect to spend an extra $6 per session for
+Therefore, you can expect to spend, at most, an extra $6 per session for
 psychedelic-assisted counseling in comparison with sober counseling.
 My hourly rate is the same in either case.
 
