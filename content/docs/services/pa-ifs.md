@@ -29,7 +29,7 @@ give you more access to smoothing comfort without interfering
 with normal conversation.
 
 5. Talk therapy will commence as usual while you are
-in a slightly altered state of consiousness.
+in a slightly altered state of consciousness.
 
 6. Repeat from step #3 as often as you require.
 
