@@ -33,4 +33,4 @@ Sources for this information include:
 [^pm-subjective]: [Effects of Psilomethoxin from Experienced 5-MeO-DMT Practitioner](https://psilomethoxin.com/effects-of-psilomethoxin-from-experienced-5-meo-dmt-practitioner/)
 
 [^mushroom]: The [Church of Psilomethoxin](https://psilomethoxin.com/?sld=jpritikin) distributes
-psilomethoxin as dried Psilocybe mushroom powder.
+sacrament as dried Psilocybe mushroom powder.

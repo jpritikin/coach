@@ -45,7 +45,7 @@ My hourly rate is the same in either case.
 As of 24 Feb 2023, psilomethoxin is unregulated in the United States
 but may be considered illegal under the Federal Analogue Act.
 This is a gray area!
-The Church of Psilomethoxin distributes psilomethoxin using regular
+The Church of Psilomethoxin distributes sacrament using regular
 mail services (e.g., FedEx).
 
 ## Q & A
