@@ -16,8 +16,8 @@ so we can get to know each other and begin to develop a therapeutic alliance.
 
 2. Consult the [contraindications]({{< relref "psilomethoxin" >}})
 and decide whether you wish
-to proceed. If you decide to proceed, order sacrament
-from the [Church of Psilomethoxin](https://psilomethoxin.com/?sld=jpritikin).
+to proceed. If you decide to proceed, become a member of
+the [Church of Psilomethoxin](https://psilomethoxin.com/?sld=jpritikin) and order sacrament.
 Sacrament is delivered directly to you; I am not involved.
 
 3. Psilomethoxin has a one hour onset, two hour plateau, and one to three hour come down.
