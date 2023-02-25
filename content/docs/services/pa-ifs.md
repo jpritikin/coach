@@ -53,7 +53,7 @@ mail services (e.g., FedEx).
 {{% details "Do you work with other doses of psilomethoxin besides 300mg of dried Psilocybe powder?" %}}
 Lower doses are possible. With higher doses, a client's attention may be
 too firmly drawn innerward, impeding normal conversation. If there is
-an interest in exploring higher doses, it would be more sensible to do
+an interest in exploring higher doses, it would be sensible to do
 this separately from talk therapy.
 {{% /details %}}
 
@@ -72,10 +72,11 @@ I am not aware of any potentially superior substances.
 
 {{% details "How does your service compare to Oregon Psilocybin Services (OSP)?" %}}
 - Psilocybin cannot be ingested at home. Psilocybin can only be used at a state licensed facility.
+- Compare to MDMA or psilomethoxin, psilocybin is not an ideal, entry-level substance for the psychedelically naive.
 - OSP requires the continued presence of a sober facilitator during the administration
 session. Even if the facilitator is a licensed psychologist,
 the facilitator can only act in the capacity of a facilitator
-and cannot engage in talk therapy during the administartion session.
+and cannot engage in talk therapy during the administration session.
 {{% /details %}}
 
 {{% details "How does your service compare to ketamine telehealth?" %}}
@@ -83,7 +84,6 @@ and cannot engage in talk therapy during the administartion session.
 the federal COVID-19 public health emergency.
 After the emergency ends in May 2023, the legal status of 
 ketamine telehealth will depend on state law.[^hb-2023feb02]
-
 - With ketamine, talk therapy happens after, not during, an administration
 session. Talk therapy may not be given much emphasis.
 Some low cost providers omit talk therapy.
