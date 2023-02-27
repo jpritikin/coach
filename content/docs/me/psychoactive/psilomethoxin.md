@@ -5,6 +5,8 @@ bookToc: false
 
 # Psilomethoxin
 
+{{% columns %}}
+
 Psilomethoxin (Pm) offers soothing comfort similar to MDMA, but without MDMA’s stimulant-like effects.[^pm-subjective]
 
 For more information, read [my case report]({{< relref "psilomethoxin-case-report" >}}).
@@ -22,11 +24,20 @@ until we have more data.
   - MAO inhibitors such as beta carbolines, harmala alkaloids, moclobemide, etc
 - Serotonin reuptake inhibitors
 - Lithium
+- Pregnancy or breastfeeding[^infants]
 
 Sources for this information include:
 - [F.I.V.E.'s Risks and Cautions](https://five-meo.education/risks-and-cautions/)
 - [Psilomethoxin: The History, Testing, Pharmacodynamics, and Pharmacokinetics](https://psilomethoxin.com/psilomethoxin-the-history-testing-pharmacodynamics-and-pharmacokinetics/)
 - [Evidence and Data Regarding the Safety of Psilomethoxin Sacrament](https://psilomethoxin.com/psilomethoxin-sacrament-safety-a-discussion-of-actual-evidence-and-data/)
+
+<--->
+
+![Pm](pm-logo.webp)
+
+Credit: Christopher Scott
+
+{{% /columns %}}
 
 ## Notes
 
@@ -34,3 +45,5 @@ Sources for this information include:
 
 [^mushroom]: The [Church of Psilomethoxin](https://psilomethoxin.com/?sld=jpritikin) distributes
 sacrament as dried Psilocybe mushroom powder.
+
+[^infants]: [Psychedelics, Pregnancy, and Breastfeeding](https://www.spiritpharmacist.com/blog/pregnancynursing)
