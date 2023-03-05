@@ -1,6 +1,7 @@
 ---
 title: Psychedelic-Assisted Counseling
 type: docs
+weight: 10
 bookToc: false
 ---
 
