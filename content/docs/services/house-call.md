@@ -27,7 +27,7 @@ I charge my usual hourly rate, inclusive of travel time.
 
 Book a free consultation.
 
-[Jump to details about location and fees.]({{< relref "services"  >}}#what-does-counseling-look-like)
+[Jump to details about location and fees.]({{< relref "basic"  >}})
 
 <--->
 

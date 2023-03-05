@@ -10,29 +10,36 @@ bookToc: false
 Many of my clients do not use psychedelics
 in conjunction with counseling. This is completely optional.
 
-## What does psychedelic-assisted counseling look like?
+## Psilomethoxin
 
-1. Book at least one session without psychedelics
-so we can get to know each other and begin to develop a therapeutic alliance.
+Psilomethoxin (Pm) offers soothing comfort similar to MDMA, but without MDMA’s stimulant-like effects.
+Pm has a one hour onset, two hour plateau, and one to three hour come down.
+At the recommended low dose, Pm is not hallucinogenic. You remain fully able
+to navigate the world and engage in ordinary conversation. The effect is mainly
+at the emotional level.
 
-2. Consult the [contraindications]({{< relref "psilomethoxin" >}})
+### How to Obtain Psilomethoxin
+
+Consult the [contraindications]({{< relref "psilomethoxin" >}})
 and decide whether you wish
 to proceed. If you decide to proceed, become a member of
 the [Church of Psilomethoxin](https://psilomethoxin.com/?sld=jpritikin) and order sacrament.
 Sacrament is delivered directly to you; I am not involved.
 
-3. Psilomethoxin has a one hour onset, two hour plateau, and one to three hour come down.
-[Reserve a 90-120 minute session on my calendar.](https://joshua-pritikin.clientsecure.me/sign-in)
+## What does psychedelic-assisted counseling look like?
 
-4. Ingest two scoops (300mg of dried mushroom powder) one hour before
+Psychedelic-assisted counseling looks very similar to [sober]({{< relref "basic" >}}) counseling. The only difference is that you will be in a slightly altered state of mind during our session.
+Book at least one session without psychedelics
+so we can get to know each other and begin to develop a therapeutic alliance.
+
+1. Reserve a 90-120 minute session on [my calendar](https://joshua-pritikin.clientsecure.me/sign-in).
+
+2. Ingest two scoops (300mg of dried mushroom powder) one hour before
 our session. We may need to fine tune the dose, but the goal is to
 give you more access to smoothing comfort without interfering
 with normal conversation.
 
-5. Talk therapy will commence as usual while you are
-in a slightly altered state of consciousness.
-
-6. Repeat from step #3 as often as you require.
+3. [Talk therapy]({{< relref "ifs" >}}) will commence as usual.
 
 {{% columns %}}
 
@@ -63,7 +70,7 @@ rather than church members.
 
 Book a free consultation.
 
-[Jump to details about location and fees.]({{< relref "services"  >}}#what-does-counseling-look-like)
+[Jump to details about location and fees.]({{< relref "basic"  >}})
 
 <--->
 
