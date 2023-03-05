@@ -5,11 +5,13 @@ bookToc: false
 
 # Psilomethoxin
 
-{{% columns %}}
-
 Psilomethoxin (Pm) offers soothing comfort similar to MDMA, but without MDMA’s stimulant-like effects.[^pm-subjective]
 
 For more information, read [my case report]({{< relref "psilomethoxin-case-report" >}}).
+
+![Pm](pm-logo.webp)
+
+Credit: Christopher Scott
 
 ## Contraindications
 
@@ -31,19 +33,13 @@ Sources for this information include:
 - [Psilomethoxin: The History, Testing, Pharmacodynamics, and Pharmacokinetics](https://psilomethoxin.com/psilomethoxin-the-history-testing-pharmacodynamics-and-pharmacokinetics/)
 - [Evidence and Data Regarding the Safety of Psilomethoxin Sacrament](https://psilomethoxin.com/psilomethoxin-sacrament-safety-a-discussion-of-actual-evidence-and-data/)
 
-<--->
-
-![Pm](pm-logo.webp)
-
-Credit: Christopher Scott
-
-{{% /columns %}}
-
 ## Notes
 
 [^pm-subjective]: [Effects of Psilomethoxin from Experienced 5-MeO-DMT Practitioner](https://psilomethoxin.com/effects-of-psilomethoxin-from-experienced-5-meo-dmt-practitioner/)
 
 [^mushroom]: The [Church of Psilomethoxin](https://psilomethoxin.com/?sld=jpritikin) distributes
-sacrament as dried Psilocybe mushroom powder.
+sacrament as dried Psilocybe mushroom powder. Although many mushrooms of the Psilocybe genus 
+produce psilocybin and psilocin, the manufacturing process devised by the church insures that
+only psilomethoxin is produced without a trace of psilocybin or psilocin.
 
 [^infants]: [Psychedelics, Pregnancy, and Breastfeeding](https://www.spiritpharmacist.com/blog/pregnancynursing)

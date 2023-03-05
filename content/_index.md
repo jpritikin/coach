@@ -10,8 +10,6 @@ bookToc: false
 Credit: Midjourney "multitude of stories within the head"
 {.center}
 
-{{% columns %}}
-
 My goal is to empower you to have more access to calm, confidence,
 courage, clarity, and connection. I use **Internal Family Systems**
 (IFS). IFS is an [evidence-based](https://www.foundationifs.org/news-articles/79-ifs-an-evidence-based-practice) mode of counseling that has been
@@ -21,15 +19,9 @@ IFS is a full range modality. Most psychotherapy aims to help people
 get from ‘bad’ to ‘so-so,’ or from ‘so-so’ to ‘good’. IFS can also
 help people get from ‘good’ to ‘great’. IFS is a [trauma-informed](https://www.verywellmind.com/trauma-informed-therapy-definition-and-techniques-5209445) model.
 
-<--->
-
 ![IFS range](ifs.webp)
 
-{{% /columns %}}
-
 ## Areas of Expertise
-
-{{% columns %}}
 
 - Emotional & relationship issues
   - I use Internal Family Systems! [IFS is similar to psychotherapy, addressing many of the same conditions.]({{< relref "dsm" >}})
@@ -38,9 +30,6 @@ help people get from ‘good’ to ‘great’. IFS is a [trauma-informed](https
   - Prepare to take your first psychedelic journey safely
   - Understand and integrate your psychedelic journey(s)
   - I do **not** prescribe, procure, or administer substances.
-
-<--->
-
 - Expecting your first child?
   - Ready for a new full-time job without sleep? Learn the mental health tools you need **before** the proverbial shit hits the fan.
   - If you put more skill and effort into the first three years, you and your child will reap a lifetime of benefits.
@@ -48,8 +37,6 @@ help people get from ‘good’ to ‘great’. IFS is a [trauma-informed](https
   - I have studied nutrition for many years and am trained to evaluate statistical evidence.
   - I am **not** a licensed dietician.[^capture-of-nutrition]
   - I am **not** a medical doctor.
-
-{{% /columns %}}
 
 ## Professional Background
 

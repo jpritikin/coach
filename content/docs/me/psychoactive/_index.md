@@ -15,11 +15,20 @@ Nutt, D. J., King, L. A., & Phillips, L. D. (2010). Drug harms in the UK: a mult
 
 {{% /details %}}
 
-{{% columns %}}
-
 ## My experience
 
 Psychedelics are substances that reveal and amplify your inner experience.
+
+<table>
+<tr>
+<td>
+<picture style="display: block;">
+<img alt="Sacred mandala" src="sacred_mandala.webp">
+</picture>
+</td>
+<td class='rotate'><div>Credit: Midjourney "sacred mandala"</div></td>
+</tr/>
+</table>
 
 I have personal experience with
 
@@ -39,21 +48,6 @@ I am a member of
 {{< hint warning >}}
 Psychedelics are not for everybody.
 {{< /hint >}}
-
-<--->
-
-<table>
-<tr>
-<td>
-<picture style="display: block;">
-<img alt="Sacred mandala" src="sacred_mandala.webp">
-</picture>
-</td>
-<td class='rotate'><div>Credit: Midjourney "sacred mandala"</div></td>
-</tr/>
-</table>
-
-{{% /columns %}}
 
 ## Notes
 

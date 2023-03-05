@@ -17,8 +17,6 @@ such techniques from Sahaja Yoga.
 
 ## Details
 
-{{% columns %}}
-
 Although the primary location of the sahasrara is above the head, one
 discovery from Sahaja Yoga is that the chakras are associated with
 regions on the hands (see figure on right). This is fortunate since it
@@ -31,11 +29,7 @@ Feel into the fingertips of your right hand and the current
 sahasrara area.  Moreover, try to feel into the gap between these
 two parts of your body.
 
-<--->
-
 ![Hands](hands.png)
-
-{{% /columns %}}
 
 To prevent your attention from wandering, randomly vary
 
