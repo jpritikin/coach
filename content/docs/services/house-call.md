@@ -1,5 +1,5 @@
 ---
-title: House call
+title: House Call
 type: docs
 weight: 20
 bookToc: false
