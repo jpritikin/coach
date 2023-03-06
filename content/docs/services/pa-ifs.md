@@ -60,7 +60,7 @@ This is a gray area!
 The Church of Psilomethoxin distributes sacrament using regular
 mail services (e.g., FedEx).
 Any legal dispute would likely be directed at church leaders
-rather than church members.
+rather than church members.[^cop-leaders]
 
 {{% /columns %}}
 
@@ -133,3 +133,4 @@ Some low cost providers omit talk therapy.
 
 [^mdma-history]: [The journey from ecstasy to medicine: Rick Doblin's long, strange MDMA trip](https://newatlas.com/mdma-ptsd-rick-doblin/52792/)
 
+[^cop-leaders]: [Meet The Founders - Church of Psilomethoxin](https://www.youtube.com/watch?v=inxVQDApBy8)
