@@ -29,6 +29,7 @@ Sacrament is delivered directly to you; I am not involved.
 ## What does psychedelic-assisted counseling look like?
 
 Psychedelic-assisted counseling looks very similar to [sober]({{< relref "basic" >}}) counseling. The only difference is that you will be in a slightly altered state of mind during our session.
+Strictly speaking, this is known as [psycholytic therapy](https://en.wikipedia.org/wiki/Psychedelic_therapy#Psycholytic_therapy).
 Book at least one session without psychedelics
 so we can get to know each other and begin to develop a therapeutic alliance.
 
