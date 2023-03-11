@@ -2,7 +2,7 @@
 title: Psychoactive Drugs
 bookCollapseSection: true
 weight: 4
-bookToc: false
+bookToc: true
 ---
 
 # Psychoactive Drugs
@@ -49,7 +49,7 @@ I am a member of
 Psychedelics are not for everybody.
 {{< /hint >}}
 
-## Predicting Your Reaction Psychedelics
+## Predicting Your Reaction to Psychedelics
 
 Your reaction to a psychedelic strongly depends on the willingness of your Parts to get quiet.
 See my discussion of [effortless meditation]({{< relref "untie" >}}) to learn more about Parts
@@ -65,7 +65,7 @@ Which psychedelic poses the least risk to the naive user?
 
 ### Serotonin
 
-Some of the most popular psychedelics operate by modulating the serotonin system.
+Some of the most popular psychoactive substances operate by modulating the serotonin system.
 Serotonin is important because it is, in part, responsible for regulation of serenity.[^olivier1990]
 Serotonin is also known as 5-hydroxytryptamine, or abbreviated, 5-HT.
 There are at least 14 different serotonin receptors that allow cells
@@ -77,12 +77,14 @@ The figure below shows the function of the two main serotonin receptors.[^seroto
 
 I suggest that psychedelics that target the 5-HT1A receptor pose the
 least risk to the naive user. Until recently, MDMA and 5-MeO-DMT were the popular psychedelics
-that seemed to modulate 5-HT1A activity. I claim this not because MDMA has affinity for
-the 5-HT1A receptor, but due to its ability to release serotonin (biology is complicated[^ray2010]).
-However, both MDMA and 5-MeO-DMT have disadvantages compared to newly
-discovered [psilomethoxin]({{< relref "psilomethoxin-case-report" >}}).
+that seemed to modulate 5-HT1A activity.
+5-MeO-DMT directly modulates the 5-HT1A receptor, but MDMA influences it indirectly.
+MDMA seems to influence the 5-HT1A receptor by
+its ability to release serotonin (biology is complicated[^ray2010]).
+In any case, both MDMA and 5-MeO-DMT have disadvantages compared to
+[psilomethoxin]({{< relref "psilomethoxin-case-report" >}}).
 MDMA is an amphetamine, and like many amphetamines, has a stimulant effect.
-In contrast, psilomethoxin is a tryptamine and does not have a stimulant effect.
+In contrast, psilomethoxin is a tryptamine and lacks a stimulant effect.
 The disadvantage of 5-MeO-DMT is its rapid onset and come down, which can be disorienting.
 In contrast, psilomethoxin has a user-friendly gradual onset and come down.
 Psilomethoxin spotlights the feeling of soothing comfort.
@@ -100,6 +102,8 @@ Subjectively, in contrast to psilomethoxin, DMT does not spotlight any particula
 but facilitates affective unblending in a more pure or indifferent way,
 demanding more cooperation from Parts to guide the experience.
 
+[Effortless meditation]({{< relref "untie" >}}) is precarious in the sense that we can not entertain targets that prompt much Part involvement.
+This is where DMT can pick up the slack.
 DMT can facilitate Self energy in situations where Parts must exert some effort. For example, Santo Daime is a psychedelic church that has won legal protection in the USA, parts of Canada, and Brazil. In Santo Daime ceremonies, everybody present drinks Daime tea, lead musicians included. Moreover, everybody is expected to sing and dance. It seems unlikely to me that new members would often enjoy much Self energy without the help of the psychedelic sacrament. The Daime helps the congregation remain mostly in Self while exerting considerable effort to pronounce Portuguese and precisely synchronize movements to the rhythm of the music. The combination of ample Self energy and creative involvement in the ceremony can make for an extraordinarily beautiful experience.
 
 ## Notes
