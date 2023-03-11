@@ -84,31 +84,6 @@ attention in a fully engrossing, enveloping, and entrancing way.
 In addition to any immediate sensation, an engrossing blending episode
 can create an affective afterglow that can last for hours.[^basso2019]
 
-### A comment on psychedelics
-
-By *psychedelic*, I mean any substance that amplifies your inner experience
-such as psilocybin (magic mushrooms) or
-dimethyltryptamine (colloquially known as Daime or Ayahuasca).
-The effect of a psychedelic strongly depends on the willingness of your
-parts to get quiet. There are at least three possible outcomes:
-- Parts are overactive and not willing to get quiet. A psychedelic
-will tend to make parts more loud and extreme. This is going to be a difficult trip.
-This corresponds to the monkey mind of an inexperienced meditator,
-magnified to Godzilla size.
-- Parts are active but willing to get quiet. In this situation,
-the client gains more access to Self energy and may do parts work
-spontaneously.[^mdma] There is the opportunity to make rapid strides
-toward therapeutic goals.
-- Parts are fairly quiet. The Self shines with unusual brilliance
-because the psychedelic does the Bouncer's job,
-facilitating an experience of Self that is profoundly effortless.
-Similar to effortless meditation, there is ample capacity for blending
-with the object of attention. This is readily seen in reports
-of music perception under the influence of psychedelics. For example,
-"Volunteers reported far greater
-absorption in music, as well as greater perceived
-beauty and significance of music."[^barrett2018]
-
 ### Some suggested targets
 
 I have collected a variety of interesting targets to blend with.
@@ -145,5 +120,3 @@ will suffice.
 [^mdma]: https://ifs-institute.com/resources/research/mdma-and-ptsd-studies
 
 [^basso2019]: Basso, J. C., McHale, A., Ende, V., Oberlin, D. J., & Suzuki, W. A. (2019). Brief, daily meditation enhances attention, memory, mood, and emotional regulation in non-experienced meditators. *Behavioural brain research, 356*, 208-220.
-
-[^barrett2018]: Barrett, F. S., Preller, K. H., & Kaelen, M. (2018). Psychedelics and music: Neuroscience and therapeutic implications. *International Review of Psychiatry, 30*(4), 350-362.
