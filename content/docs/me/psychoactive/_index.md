@@ -51,7 +51,7 @@ Psychedelics are not for everybody.
 
 ## Predicting Your Reaction to Psychedelics
 
-Your reaction to a psychedelic strongly depends on the willingness of your Parts to get quiet.
+Your reaction to a psychedelic strongly depends on the willingness of your Parts to get quiet.[^aday2021]
 See my discussion of [effortless meditation]({{< relref "untie" >}}) to learn more about Parts
 and how to help them relax. There are at least three possible outcomes:
 - Parts are overactive and not willing to get quiet. A psychedelic will tend to make Parts more loud and extreme. This is going to be a difficult trip and corresponds to the monkey mind of an inexperienced meditator, magnified to Godzilla size.
@@ -119,3 +119,5 @@ DMT can facilitate Self energy in situations where Parts must exert some effort.
 [^barrett2018]: Barrett, F. S., Preller, K. H., & Kaelen, M. (2018). *Psychedelics and music: Neuroscience and therapeutic implications. International Review of Psychiatry, 30*(4), 350-362.
 
 [^ray2010]: Ray, T. S. (2010). *Psychedelics and the human receptorome. PloS One, 5*(2), e9019.
+
+[^aday2021]: Aday, J. S., Davis, A. K., Mitzkovitz, C. M., Bloesch, E. K., & Davoli, C. C. (2021). Predicting reactions to psychedelic drugs: A systematic review of states and traits related to acute drug effects. *ACS Pharmacology & Translational Science, 4*(2), 424-435.
