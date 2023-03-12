@@ -76,25 +76,27 @@ The figure below shows the function of the two main serotonin receptors.[^seroto
 ![Serotonin](serotonin.webp)
 
 I suggest that psychedelics that target the 5-HT1A receptor pose the
-least risk to the naive user. Until recently, MDMA and 5-MeO-DMT were the popular psychedelics
+least risk to the naive user.
+The subjective experience is a gentle spotlight on the feeling of soothing comfort.
+Using this soothing comfort as a target helps tangled Parts relax.
+Until recently, MDMA and 5-MeO-DMT were the popular psychedelics
 that seemed to modulate 5-HT1A activity.
 5-MeO-DMT directly modulates the 5-HT1A receptor, but MDMA influences it indirectly.
 MDMA seems to influence the 5-HT1A receptor by
 its ability to release serotonin (biology is complicated[^ray2010]).
 In any case, both MDMA and 5-MeO-DMT have disadvantages compared to
 [psilomethoxin]({{< relref "psilomethoxin-case-report" >}}).
-MDMA is an amphetamine, and like many amphetamines, has a stimulant effect.
-In contrast, psilomethoxin is a tryptamine and lacks a stimulant effect.
 The disadvantage of 5-MeO-DMT is its rapid onset and come down, which can be disorienting.
 In contrast, psilomethoxin has a user-friendly gradual onset and come down.
-Psilomethoxin spotlights the feeling of soothing comfort.
-Using this soothing comfort as a target helps tangled Parts relax.
+However, the main advantage of psilomethoxin over these other
+substances is its legal status.
+Psilomethoxin is currently unregulated and easy to obtain.
 
 Once there is familiarity with altered states and some confidence is
 gained in [effortless meditation]({{< relref "untie" >}}) then
 I suggest the next psychedelic to try is dimethyltryptamine (DMT)
 combined with a monoamine oxidase inhibitor,
-the combination of which is colloquially known as Daime or Ayahuasca.
+a combination colloquially known as Daime or Ayahuasca.
 While selective for 5-HT2A, pure vaporized DMT has an extremely rapid onset and come down.
 The monoamine oxidase inhibitor temporarily stretches out the journey to about four hours,
 with a gradual onset and come down.
