@@ -27,7 +27,7 @@ Book a free consultation.
 ### Electronic
 
 The best way to communicate is to use the [SimplePractice](https://joshua-pritikin.clientsecure.me/sign-in) portal.
-If you have trouble logging in, check your spam folder for `clientsecure.me`.
+If you have trouble logging in, check your spam folder for `simplepractice.com`.
 
 For more urgent concerns, you can text my mobile. I do not use voicemail on my phone.
 
