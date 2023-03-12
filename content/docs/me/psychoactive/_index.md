@@ -74,6 +74,10 @@ are known as 1A and 2A (also called 5-HT1A and 5-HT2A).
 The figure below shows the function of the two main serotonin receptors.[^serotonin2017]
 
 ![Serotonin](serotonin.webp)
+{.center}
+
+Credit: Carhart-Harris & Nutt, 2017, Figure 3
+{.center}
 
 I suggest that psychedelics that target the 5-HT1A receptor pose the
 least risk to the naive user.
