@@ -42,7 +42,7 @@ help people get from ‘good’ to ‘great’. IFS is a [trauma-informed](https
 
 - Ph.D. Quantitative Psychology in 2016 from University of
 Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bibliography/56367505/public/?sort=date&direction=ascending) for publications.
-- Practicing meditation for more than 30 years. Can provide cult recovery support.
+- Practicing meditation for more than 30 years.[^meditation] Can provide cult recovery support.
 - Evaluator-participant in 16-hour [MAPS](https://maps.org/) psychedelic education course.
 - IFS Level 1 [completed Nov 2022](https://ifs-institute.com/practitioners/all/110287). IFS Continuity Program subscriber since Sep 2022. Working toward [IFS Certification](https://ifs-institute.com/trainings/ifs-certification).
 - Since I am **not** licensed in Oregon, I cannot describe myself as a *psychotherapist*. [ORS 675.020](https://oregon.public.law/statutes/ors_675.020)
@@ -64,3 +64,5 @@ Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bi
 ## Notes
 
 [^capture-of-nutrition]: Is it probably a good thing that I am not a licensed dietician given [The corporate capture of the nutrition profession in the USA: the case of the Academy of Nutrition and Dietetics (2022)](https://www.cambridge.org/core/journals/public-health-nutrition/article/corporate-capture-of-the-nutrition-profession-in-the-usa-the-case-of-the-academy-of-nutrition-and-dietetics/9FCF66087DFD5661DF1AF2AD54DA0DF9).
+
+[^meditation]: Check out my [2023 article on meditation](https://partsandself.org/ifs-and-meditation/) published in the IFS magazine PARTS & SELF!
