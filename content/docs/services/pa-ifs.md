@@ -91,6 +91,12 @@ Lower doses are possible. With higher doses, a client's attention may be
 too firmly drawn innerward, impeding normal conversation. If there is
 an interest in exploring higher doses, it would be sensible to do
 this separately from talk therapy.
+For example, if a client wanted to take 1g or 2g of psilomethoxin (a medium to heavy dose)
+then this could be done four or more hours before a talk therapy session.
+Doing talk therapy immediately after a high dose is what many contemporary
+research studies are doing.
+I believe that psycholytic therapy is safer than this approach because
+there is no need for the client to navigate an intense psychedelic experience.
 {{% /details %}}
 
 {{% details "Is there any scientific evidence that psilomethoxin-assisted IFS works better than the sober version?" %}}
