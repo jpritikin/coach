@@ -95,7 +95,9 @@ For example, if a client wanted to take 1g or 2g of psilomethoxin (a medium to h
 then this could be done four or more hours before a talk therapy session.
 Doing talk therapy immediately after a high dose is what many contemporary
 research studies are doing.
-I believe that psycholytic therapy is safer than this approach because
+This might be appropriate in a carefully controlled context and facilitate
+rapid symptom relief.
+However, I believe that psycholytic therapy is safer than this approach because
 there is no need for the client to navigate an intense psychedelic experience.
 {{% /details %}}
 
