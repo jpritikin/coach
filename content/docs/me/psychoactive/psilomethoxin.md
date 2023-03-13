@@ -26,7 +26,7 @@ until we have more data.
   - MAO inhibitors such as beta carbolines, harmala alkaloids, moclobemide, etc
 - Serotonin reuptake inhibitors
 - Lithium
-- Pregnancy or breastfeeding[^infants]
+- Pregnancy or breastfeeding
 
 Sources for this information include:
 - [F.I.V.E.'s Risks and Cautions](https://five-meo.education/risks-and-cautions/)
@@ -41,5 +41,3 @@ Sources for this information include:
 sacrament as dried Psilocybe mushroom powder. Although many mushrooms of the Psilocybe genus 
 produce psilocybin and psilocin, the manufacturing process devised by the church insures that
 only psilomethoxin is produced without a trace of psilocybin or psilocin.
-
-[^infants]: [Psychedelics, Pregnancy, and Breastfeeding](https://www.spiritpharmacist.com/blog/pregnancynursing)
