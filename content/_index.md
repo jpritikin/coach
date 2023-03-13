@@ -30,7 +30,7 @@ help people get from ‘good’ to ‘great’. IFS is a [trauma-informed](https
   - Prepare to take your first psychedelic journey safely
   - Understand and integrate your psychedelic journey(s)
   - I do **not** prescribe, procure, or administer substances.
-- Expecting your first child?
+- Expecting your first child?[^mom]
   - Ready for a new full-time job without sleep? Learn the mental health tools you need **before** the proverbial shit hits the fan.
   - If you put more skill and effort into the first three years, you and your child will reap a lifetime of benefits.
 - Lifestyle, nutrition, & physical health
@@ -66,3 +66,5 @@ Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bi
 [^capture-of-nutrition]: Is it probably a good thing that I am not a licensed dietician given [The corporate capture of the nutrition profession in the USA: the case of the Academy of Nutrition and Dietetics (2022)](https://www.cambridge.org/core/journals/public-health-nutrition/article/corporate-capture-of-the-nutrition-profession-in-the-usa-the-case-of-the-academy-of-nutrition-and-dietetics/9FCF66087DFD5661DF1AF2AD54DA0DF9).
 
 [^meditation]: Check out my [2023 article on meditation](https://partsandself.org/ifs-and-meditation/) published in the IFS magazine PARTS & SELF!
+
+[^mom]: Hat tip to [Moms on Mushrooms](https://www.momsonmushrooms.com/)!
