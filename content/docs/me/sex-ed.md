@@ -14,7 +14,7 @@ competencies are mostly innate. My daughter was born in 2004. On the
 other hand, such a rich area of behavioral affordances prompts much
 more detailed exploration.
 
-## Annotated bioliography
+## Annotated bibliography
 
 ### History
 
