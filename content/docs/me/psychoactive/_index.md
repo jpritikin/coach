@@ -17,7 +17,7 @@ Nutt, D. J., King, L. A., & Phillips, L. D. (2010). Drug harms in the UK: a mult
 
 ## My experience
 
-Psychedelics are substances that reveal and amplify your inner experience.
+Psychedelics are substances that reveal and amplify your inner experience.[^nichols2023]
 
 <table>
 <tr>
@@ -127,3 +127,5 @@ DMT can facilitate Self energy in situations where Parts must exert some effort.
 [^ray2010]: Ray, T. S. (2010). *Psychedelics and the human receptorome. PloS One, 5*(2), e9019.
 
 [^aday2021]: Aday, J. S., Davis, A. K., Mitzkovitz, C. M., Bloesch, E. K., & Davoli, C. C. (2021). Predicting reactions to psychedelic drugs: A systematic review of states and traits related to acute drug effects. *ACS Pharmacology & Translational Science, 4*(2), 424-435.
+
+[^nichols2023]: Nichols, D. E., Nichols, C. D., & Hendricks, P. S. (2022). Proposed Consensus Statement on Defining Psychedelic Drugs. *Psychedelic Medicine.* https://doi.org/10.1089/psymed.2022.0008
