@@ -35,7 +35,7 @@ so we can get to know each other and begin to develop a therapeutic alliance.
 
 1. Reserve a 90-120 minute session on [my calendar](https://joshua-pritikin.clientsecure.me/sign-in).
 
-2. Ingest two scoops (300mg of dried mushroom powder) one hour before
+2. In your own home, ingest 300mg of dried mushroom powder one hour before
 our session. We may need to fine tune the dose, but the goal is to
 give you more access to smoothing comfort without interfering
 with normal conversation.
