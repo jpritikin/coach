@@ -121,7 +121,7 @@ will suffice.
 | [withdrawal of the senses]({{< relref "senses" >}}) | High | - | increase afterglow duration in combination with other targets |
 | [foot soaking]({{< relref "foot-soak" >}}) | Low | relaxing | reduction in tension |
 | [cold exposure]({{< relref "cold-exposure" >}}) | Low | cold | reduction in tension |
-| [ice on liver]({{< relref "liver" >}}) | Low | calming | reduces residual mental activity |
+| [ice on liver]({{< relref "liver" >}}) | Low | calming | reduces mental activity |
 | [sahasrara]({{< relref "sahasrara" >}}) | High | freeing | resets mood back to normal |
 
 ## References
