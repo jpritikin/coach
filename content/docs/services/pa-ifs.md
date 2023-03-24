@@ -23,7 +23,8 @@ at the emotional level.
 Consult the [contraindications]({{< relref "psilomethoxin" >}})
 and decide whether you wish
 to proceed. If you decide to proceed, become a member of
-the [Church of Psilomethoxin](https://psilomethoxin.com/?sld=jpritikin) and order sacrament.
+the [Church of Psilomethoxin](https://psilomethoxin.com/?sld=jpritikin)
+and order sacrament.[^proselytize]
 Sacrament is delivered directly to you; I am not involved.
 
 ## What does psychedelic-assisted counseling look like?
@@ -143,3 +144,5 @@ Some low cost providers omit talk therapy.
 [^mdma-history]: [The journey from ecstasy to medicine: Rick Doblin's long, strange MDMA trip](https://newatlas.com/mdma-ptsd-rick-doblin/52792/)
 
 [^cop-leaders]: [Meet The Founders - Church of Psilomethoxin](https://www.youtube.com/watch?v=inxVQDApBy8)
+
+[^proselytize]: This is how I proselytize my sincere religious belief that the sacrament (i.e., psilomethoxin) can support spiritual progress, spiritual healing, and life optimization.
