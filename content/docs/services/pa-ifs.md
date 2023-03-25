@@ -56,10 +56,11 @@ My hourly rate is the same in either case.
 
 ### Legal considerations
 
+This is a gray area!
 As of 24 Feb 2023, psilomethoxin is unregulated in the United States
 but may be considered illegal under the Federal Analogue Act.
-This is a gray area!
-The Church of Psilomethoxin distributes sacrament using regular
+However, note that
+the Church of Psilomethoxin distributes sacrament using regular
 mail services (e.g., FedEx).
 Any legal dispute would likely be directed at church leaders
 rather than church members.[^cop-leaders]
