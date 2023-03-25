@@ -4,8 +4,20 @@ type: docs
 bookToc: false
 ---
 
-![Multitude of stories within the head](multitude_of_stories_within_the_head.webp)
-{.center}
+<script src="/flickity.pkgd.min.js"></script>
+
+<style>
+.carousel-cell {
+  width: 100%; /* full width */
+  height: 544px; /* height of carousel */
+}
+</style>
+
+<div class="main-carousel"
+    data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "autoPlay": 15000 }' >
+<div class="carousel-cell"><img class="carousel-cell-image" src="multitude_of_stories_within_the_head.webp" alt="Multitude of stories within the head" /></div>
+<div class="carousel-cell"><img class="carousel-cell-image" src="multitude_of_stories_within_the_head2.webp" alt="Multitude of stories within the head" /></div>
+</div>
 
 Credit: Midjourney "multitude of stories within the head"
 {.center}

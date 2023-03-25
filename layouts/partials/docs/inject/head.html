@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/flickity.min.css">
 <style>
   div.book-menu-content {
       background-color: #fff;
@@ -45,7 +46,28 @@
 button#SOIBTN_jpintro {
         animation: glowing 5000ms infinite;
 }
+.flickity-enabled:focus .flickity-viewport {
+  outline: thin dotted;
+  outline: 5px auto -webkit-focus-ring-color;
+}
+/* position dots in carousel */
+.flickity-page-dots {
+  bottom: 0px;
+}
+/* white circles */
+.flickity-page-dots .dot {
+  width: 12px;
+  height: 12px;
+  opacity: 1;
+  background: transparent;
+  border: 2px solid white;
+}
+/* fill-in selected dot */
+.flickity-page-dots .dot.is-selected {
+  background: white;
+}
 </style>
+
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PPD2JL6L88"></script>
