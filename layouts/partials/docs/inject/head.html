@@ -50,24 +50,40 @@ button#SOIBTN_jpintro {
   outline: thin dotted;
   outline: 5px auto -webkit-focus-ring-color;
 }
-/* position dots in carousel */
+
+/* position dots up a bit */
 .flickity-page-dots {
-  bottom: 0px;
+  bottom: 4px;
 }
-/* white circles */
+/* dots are lines */
 .flickity-page-dots .dot {
-  width: 12px;
-  height: 12px;
-  opacity: 1;
-  background: transparent;
-  border: 2px solid white;
+  height: 4px;
+  width: 40px;
+  margin: 0;
+  border-radius: 0;
 }
-/* fill-in selected dot */
-.flickity-page-dots .dot.is-selected {
-  background: white;
+
+/* See https://codepen.io/anon/pen/dwzrEb */
+.carousel {
+        width: 100%;
+        margin: 0 auto;
+}
+.carousel-cell {
+        width: 100%;
+        height: auto;
+}
+.carousel-cell-img {
+        width: 100%;
+        height: auto;
+}
+.flickity-viewport {
+        height: 100%;
+  padding-top:56.25%;
+}
+.flickity-slider{
+  margin-top:-56.25%;
 }
 </style>
-
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PPD2JL6L88"></script>
