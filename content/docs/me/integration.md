@@ -11,7 +11,7 @@ bookToc: false
 <img alt="Celestial flower arrangement" src="celestial_flower_arrangement.webp">
 </picture>
 </td>
-<td class='rotate'><div>Credit: Midjourney "intricate celestial flower arrangement"</div></td>
+<td class='rotate'><div>Credit: Midjourney "flowers fungi celestial constellation stars spiral galaxies deep field"</div></td>
 </tr/>
 </table>
 
