@@ -7,14 +7,30 @@ bookToc: false
 <script src="/flickity.pkgd.min.js"></script>
 
 <style>
+/* See https://codepen.io/anon/pen/dwzrEb */
+.carousel {
+	width: 100%;
+	margin: 0 auto;
+}
 .carousel-cell {
-  width: 100%; /* full width */
-  height: 544px; /* height of carousel */
+	width: 100%;
+	height: auto;
+}
+.carousel-cell-img {
+	width: 100%;
+	height: auto;
+}
+.flickity-viewport {
+	height: 100%;
+  padding-top:56.25%;
+}
+.flickity-slider{
+  margin-top:-56.25%;
 }
 </style>
 
 <div class="main-carousel"
-    data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "autoPlay": 15000 }' >
+    data-flickity='{ "cellAlign": "center", "contain": true, "wrapAround": true, "autoPlay": 15000, "setGallerySize": false }' >
 <div class="carousel-cell"><img class="carousel-cell-image" src="multitude_of_stories_within_the_head.webp" alt="Multitude of stories within the head" /></div>
 <div class="carousel-cell"><img class="carousel-cell-image" src="multitude_of_stories_within_the_head2.webp" alt="Multitude of stories within the head" /></div>
 </div>
