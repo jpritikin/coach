@@ -36,7 +36,7 @@ so we can get to know each other and begin to develop a therapeutic alliance.
 
 1. Reserve a 90-120 minute session on [my calendar](https://joshua-pritikin.clientsecure.me/sign-in).
 
-2. In your own home, ingest 300mg of dried mushroom powder one hour before
+2. In your own home, ingest 300mg of dried mushroom powder (≈7.5mg psilomethoxin) one hour before
 our session. We may need to fine tune the dose, but the goal is to
 give you more access to smoothing comfort without interfering
 with normal conversation.
@@ -99,7 +99,7 @@ Doing talk therapy immediately after a high dose is what many contemporary
 research studies are doing.
 This might be appropriate in a carefully controlled context and facilitate
 rapid symptom relief.
-However, I believe that psycholytic therapy is safer than this approach because
+However, my opinion is that psycholytic therapy is safer than this approach because
 there is no need for the client to navigate an intense psychedelic experience.
 {{% /details %}}
 
