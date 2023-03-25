@@ -11,7 +11,7 @@ bookCollapseSection: true
 ![shop counter](shop-counter.webp)
 {.center}
 
-Credit: Midjourney "shop counter, cartoon style --v 4"
+Credit: Midjourney "cozy sacred couch in a professional counseling office, decorated with flowers books fungi, beautiful iridescent style --ar 3:2 --v 5"
 {.center}
 
 I work with individual adults. By the end of 2023,
