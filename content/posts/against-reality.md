@@ -18,3 +18,4 @@ Hoffman, D. (2019). *The case against reality: Why evolution hid the truth from 
 
 [Lex Fridman interview Jun 12, 2022](https://lexfridman.com/donald-hoffman/)
 
+[The Convergence of Science and Spirituality | Donald Hoffman & Rupert Spira Mar 26, 2023](https://www.youtube.com/watch?v=rafVevceWgs)
