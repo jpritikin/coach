@@ -114,6 +114,7 @@ for psychedelic-assisted psychotherapy.[^mdma-history]
 I suspect psilomethoxin may be even better than MDMA
 for this application.
 I am not aware of any potentially superior substance.
+Psilomethoxin is a first-class, flagship, excellent, and superlative substance.
 {{% /details %}}
 
 {{% details "How does your service compare to Oregon Psilocybin Services (OSP)?" %}}
