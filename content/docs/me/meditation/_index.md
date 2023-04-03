@@ -55,7 +55,7 @@ techniques may not work when under the influence of psychedelics.
 
 ### On breathing
 
-Use an inspiratory muscle training device to improve your breathing mechanics.[^rutten]
+Use an inspiratory muscle training device to improve your breathing mechanics.
 
 The only meditation technique that I am familiar with is [here]({{< relref "breathing" >}}).
 
@@ -93,8 +93,6 @@ This is just a sample schedule. Customize as per your preference.
 ## References
 
 [^lenz]: Among others, I was a student of [https://fredericklenz.com/](https://fredericklenz.com/) for a few years. For a retrospective, check out the associated [Smoke Screen Podcast](https://www.neonhum.com/show-pages/i-am-rama.html).
-
-[^rutten]: One option is the [O2 trainer](https://o2lungtrainer.com).
 
 [^carney2017]: Carney, S. (2017). *What Doesn't Kill Us: How Freezing Water, Extreme Altitude, and Environmental Conditioning Will Renew Our Lost Evolutionary Strength.* Rodale.
 
