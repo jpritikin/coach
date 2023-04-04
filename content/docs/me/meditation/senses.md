@@ -22,17 +22,12 @@ called withdrawal of the senses.
 
 ## Example
 
-For the visual mode, close your eyes but continue to observe what you
-see. You should see a sparkling yellow/orange field of uncertain depth and
-lacking any structure. Open your eyes slightly so that you can maintain
-awareness of the neutral field superimposed over your regular visual
-input. Change your identification: Instead of regarding your visual
-input as real, the undifferentiated field is real and your regular
-visual input happens to exist within the field.
+For the visual sense, close your eyes or wear a blindfold.[^effortless]
 
-I am most comfortable with the visual sense, but the same method likely
-works similarly with other senses. Experiment with a sensory
-deprivation tank?
+For the auditory sense, wear ear protection used by
+operators of loud machinery.
+
+Experiment with a sensory deprivation tank.
 
 ## Commentary
 
@@ -41,3 +36,9 @@ You can combine this technique with mindful [breathing]({{< relref
 momentary calm from mindful breathing makes it easier to withdraw from
 the senses, and withdrawal of the senses helps sustain the feeling of
 calm from mindful breathing.
+
+## Notes
+
+[^effortless]: A blindfold may be preferrable because
+keeping the eyes closed involves some effort. Ideally,
+withdrawal of the senses should be completely effortless.

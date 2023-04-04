@@ -118,7 +118,7 @@ will suffice.
 | Target | Focusing Vigilance | Immediate Sensation | Afterglow |
 |--------|------------------- | ------------------- | --------- |
 | [slow exhales]({{< relref "breathing" >}}) | Medium | calming | - |
-| [withdrawal of the senses]({{< relref "senses" >}}) | High | - | increase afterglow duration in combination with other targets |
+| [withdrawal of the senses]({{< relref "senses" >}}) | Low | - | increase afterglow duration in combination with other targets |
 | [foot soaking]({{< relref "foot-soak" >}}) | Low | relaxing | reduction in tension |
 | [cold exposure]({{< relref "cold-exposure" >}}) | Low | cold | reduction in tension |
 | [ice on liver]({{< relref "liver" >}}) | Low | calming | reduces mental activity |
