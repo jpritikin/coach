@@ -46,7 +46,7 @@ Here is an IFS perspective on several diagnoses that are often given to traumati
 “Practice of psychology” means rendering or offering to render supervision, consultation, evaluation or therapy services to individuals, groups or organizations for the purpose of diagnosing or treating behavioral, emotional or mental disorders. [ORS 675.010](https://oregon.public.law/statutes/ors_675.010)
 
 {{< hint info >}}
-From an IFS perspective, there are no disorders but only natural efforts to solve problems.
+From an IFS perspective, there are no disorders but only natural reactions to extreme situations.
 {{< /hint >}}
 
 ## References
