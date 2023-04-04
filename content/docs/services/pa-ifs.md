@@ -23,7 +23,7 @@ at the emotional level.
 Consult the [contraindications]({{< relref "psilomethoxin" >}})
 and decide whether you wish
 to proceed. If you decide to proceed, become a member of
-the [Church of Psilomethoxin](https://psilomethoxin.com/?sld=jpritikin)
+the [Church of Psilomethoxin](https://psilomethoxin.com/)
 and order sacrament.[^proselytize]
 Sacrament is delivered directly to you; I am not involved.
 
