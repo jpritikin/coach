@@ -5,9 +5,9 @@ weight: 12
 bookToc: false
 ---
 
-# Contact
-
 {{% columns %}}
+
+# Contact
 
 ## New Clients
 
@@ -27,7 +27,7 @@ Book a free consultation.
 ### Electronic
 
 The best way to communicate is to use the [SimplePractice](https://joshua-pritikin.clientsecure.me/sign-in) portal.
-If you have trouble logging in, check your spam folder for `simplepractice.com`.
+Check your spam folder for `simplepractice.com` if you have trouble logging in.
 
 For more urgent concerns, you can text my mobile. I do not use voicemail on my phone.
 
@@ -45,6 +45,6 @@ Salem OR 97301 USA
 
 ![Mail delivery](mail-delivery.webp)
 
-Credit: Midjourney "lone postal worker uniformed carrying a bag of mail :: rain clouds rural :: long exposure, photorealistic, intricate details --aspect 1:3 --chaos 10"
+Credit: Midjourney
 
 {{% /columns %}}
