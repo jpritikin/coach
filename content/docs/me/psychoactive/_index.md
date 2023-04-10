@@ -15,6 +15,10 @@ Nutt, D. J., King, L. A., & Phillips, L. D. (2010). Drug harms in the UK: a mult
 
 {{% /details %}}
 
+Also check out:
+- [Decriminalize Our Minds](https://www.decriminalizeourminds.org/)
+- Parody [Drug Dealers Against Legalization](https://jpritikin.github.io/ddal/)
+
 ## My experience
 
 Psychedelics are substances that reveal and amplify your inner experience.[^nichols2023]
