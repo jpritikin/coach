@@ -113,6 +113,9 @@ poses that miss opportunities to improve the conductivity of reverence.
 - Pinky extension
 - Palm facing the center of the salão
 
+Compare with:
+[![Lance Brown](LanceBrown1.webp)](https://www.paintedchrist.com/painted-christ-speed-painting-store/jesus-christ-praying-garden-of-gethsemane)
+
 | standing | evaluation |
 |---|---|
 | ![pose1](pose1-dull.webp) | ![no](no.webp) |
@@ -194,3 +197,9 @@ The `open` and `closed` variations just indicate whether the palms are facing or
 
 - Wrist and pinky extension
 - Palm facing perpendicular to the center of the salão
+
+## Parody?
+
+<iframe width="540" height="304" src="https://www.youtube.com/embed/TK2_ezOBa2A" title="Tim Hawkins on Hand Raising" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[The t-shirt](https://timhawkins.net/products/worship-hands-t-shirt)
