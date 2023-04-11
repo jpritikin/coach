@@ -102,7 +102,7 @@ None of these pose ensembles incorporate all of the components mentioned above,
 but all of them incorporate some of the components. I also point out similar
 poses that miss opportunities to improve the conductivity of reverence.
 
-### Pose: Both hands facing forward
+### Pose: Classical worship
 
 | sitting | standing | evaluation |
 |---|---|---|
@@ -121,6 +121,9 @@ poses that miss opportunities to improve the conductivity of reverence.
 - Pinky neutral instead of extension
 - No spine extension
 
+The following pose is a minor variation (different hand position) but
+otherwise the same:
+
 | standing | evaluation |
 |---|---|
 | ![pose1](pose1-high.webp) | ![yes](yes.webp) |
@@ -129,9 +132,9 @@ poses that miss opportunities to improve the conductivity of reverence.
 - Wrist and pinky extension
 - Palm facing ceiling
 
-However, this pose, with hands raised, is too taxing to hold for more than a brief time.
+With hands raised, this pose is too taxing to hold for more than a brief time.
 
-### Pose: Single arm in front of chest
+### Pose: Holding a Flower
 
 | concept | actual | evaluation |
 |---|---|---|
@@ -143,7 +146,7 @@ However, this pose, with hands raised, is too taxing to hold for more than a bri
 In the concept image, there is a flower superimposed over my arm/hand.
 Moving the fingers is like wiggling the petals.
 
-### Pose: Single arm elevated over head
+### Pose: Umbrella
 
 | sitting | evaluation |
 |---|---|
@@ -156,7 +159,7 @@ Moving the fingers is like wiggling the petals.
 Of course it is challenging to keep the arm elevated for a long duration,
 but five minutes is feasible. You can always switch arms when you get tired.
 
-### Pose: Self hug
+### Pose: Feather ruffle
 
 | sitting | evaluation |
 |---|---|
