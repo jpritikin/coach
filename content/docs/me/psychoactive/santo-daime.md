@@ -7,10 +7,6 @@ draft: false
 
 # Santo Daime
 
-First of all, I want to emphasize that my opinions, exhibited here,
-are mine alone and have not been endorsed by any church leaders,
-or well, anybody else. Feedback or comments are welcome.
-
 Among many other effects, sensitivity to posture and gesture are
 greatly enhanced by [5-HT2A receptor agonists]({{< relref "psychoactive" >}}#serotonin) such as daime.
 I have made some study of static poses that align with
