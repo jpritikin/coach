@@ -2,6 +2,7 @@
 title: Sex Ed
 bookToc: true
 draft: false
+weight: 20
 ---
 
 # Sex Education

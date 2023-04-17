@@ -1,6 +1,7 @@
 ---
 title: Cognition
 bookToc: false
+weight: 21
 ---
 
 ## Critical Thinking
