@@ -16,6 +16,8 @@ and meditate for 5-15 minutes.
 This helps address [Restless Legs Syndrome](https://www.ninds.nih.gov/health-information/patient-caregiver-education/fact-sheets/restless-legs-syndrome-fact-sheet).
 
 Can combine with [withdrawal of the senses]({{< relref "senses"  >}}).
+In fact, with luke warm water, foot soak could be regarded as
+withdrawing the feet from the touch and texture of being on a surface.
 
 Use [cold exposure]({{< relref "cold-exposure"  >}}) instead if you need greater relief.
 
