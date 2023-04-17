@@ -88,6 +88,13 @@ Book a free consultation.
 
 ## Q & A
 
+{{% details "Is the Church of Psilomethoxin the only supplier of psilomethoxin?" %}}
+As far as we know, yes, but as of 2023 Apr 15, the Church of Psilomethoxin has withdrawn its website
+and is no longer accepting membership applications or orders.
+It would be great if alternate suppliers appeared.
+We also hope that the church will resume operations soon.
+{{% /details %}}
+
 {{% details "Do you work with other doses of psilomethoxin besides 300mg of dried mushroom powder?" %}}
 Lower doses are possible. With higher doses, a client's attention may be
 too firmly drawn innerward, impeding normal conversation. If there is
