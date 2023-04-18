@@ -8,6 +8,19 @@ bookCollapseSection: true
 
 # My opinion
 
+![danger](danger.webp)
+{.center}
+
+In real life, I am highly opinionated about diverse content areas.
+
+This area of my website is the safe space for me to broadcast my opinions.
+
+This is in contrast to how you will find me as an IFS Practitioner.
+As an IFS Practitioner, I attend
+to structure and process while maintaining indifference to content.
+I believe that a good counselor is extremely neutral, to encourage the
+client's inner system to lead, like the illustration below.
+
 <table>
 <tr>
 <td>
@@ -18,12 +31,3 @@ bookCollapseSection: true
 <td class='rotate'><div>Credit: Midjourney "outdoor desert zen garden, boulder pile leaning precarious"</div></td>
 </tr/>
 </table>
-
-As an IFS Practitioner, I attend
-to structure and process while maintaining indifference to content.
-I believe that a good counselor is extremely neutral, to encourage the
-client's inner system to lead.
-
-In real life, however, I am highly opinionated about diverse content
-areas.
-This area of my website is the safe space for me to broadcast my opinions.
