@@ -6,10 +6,10 @@ bookToc: false
 bookCollapseSection: true
 ---
 
-# My opinion
-
 ![danger](danger.webp)
 {.center}
+
+# My opinion
 
 In real life, I am highly opinionated about diverse content areas.
 
