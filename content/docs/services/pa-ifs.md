@@ -135,8 +135,7 @@ and cannot engage in talk therapy during the administration session.
 the federal COVID-19 public health emergency.
 After the emergency ends in May 2023, the legal status of 
 ketamine telehealth will depend on state law.[^hb-2023feb02]
-- With ketamine, talk therapy happens after, not during, an administration
-session. Talk therapy may not be given much emphasis.
+- Talk therapy may not be given much emphasis.
 Some low cost providers omit talk therapy.
 - Compared to MDMA or psilomethoxin, ketamine is not an ideal, entry-level substance.
 {{% /details %}}
