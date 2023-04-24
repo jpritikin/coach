@@ -2,7 +2,7 @@
 title: My opinion
 type: docs
 weight: 8
-bookToc: false
+bookToc: true
 bookCollapseSection: true
 ---
 
@@ -11,15 +11,33 @@ bookCollapseSection: true
 
 # My opinion
 
+## No Secrets
+
 In real life, I am highly opinionated about diverse content areas.
 
+{{< hint info >}}
 This area of my website is the safe space for me to broadcast my opinions.
+{{< /hint >}}
 
-This is in contrast to how you will find me as an IFS Practitioner.
+In a past life, I contributed to science and free and open source software, and I am proud of that.
+I continue to carry some of the same ethical principles forward as a counselor.
+Specifically, I disparage and reject secrecy.
+There is no paywall or subscription to get the special insights. I have and
+continue to put effort into clearly presenting everything that I have learned
+gratis.
+
+## Therapeutic Bright Line
+
 As an IFS Practitioner, I attend
 to structure and process while maintaining indifference to content.
 I believe that a good counselor is extremely neutral, to encourage the
-client's inner system to lead, like the illustration below.
+client's inner system to lead. The illustration below is a metaphor:
+
+- The rock balanced atop of the pile of rocks represents the client.
+- The environment represents my emotional warmth and support.
+- My job is to keep you, the client, well held and protected from a sudden, surprising fall.
+
+You will not hear any unsolicited opinions from me when I am working with you as your counselor.
 
 <table>
 <tr>
