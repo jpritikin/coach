@@ -46,7 +46,7 @@ I have personal experience with
 
 I am a member of
 - [Santo Daime](https://en.wikipedia.org/wiki/Santo_Daime)[^catholic] (link to [hymns](http://daimebooks.org))
-- [Church of Psilomethoxin](https://psilomethoxin.com/?sld=jpritikin)
+- [Church of Sacred Synthesis](https://psilomethoxin.com/?sld=jpritikin)
 - [Sacred Garden Church](https://sacredgarden.life/)
 
 {{< hint warning >}}

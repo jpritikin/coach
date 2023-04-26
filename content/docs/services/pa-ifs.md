@@ -23,7 +23,7 @@ at the emotional level.
 Consult the [contraindications]({{< relref "psilomethoxin" >}})
 and decide whether you wish
 to proceed. If you decide to proceed, become a member of
-the [Church of Psilomethoxin](https://psilomethoxin.com/)
+the [Church of Sacred Synthesis](https://psilomethoxin.com/)
 and order sacrament.[^proselytize]
 Sacrament is delivered directly to you; I am not involved.
 
@@ -47,7 +47,7 @@ with normal conversation.
 
 ### Cost
 
-The Church of Psilomethoxin charges about $10-15 per gram of dried mushroom powder.
+The Church of Sacred Synthesis charges about $10-15 per gram of dried mushroom powder.
 Therefore, you can expect to spend, at most, an extra $6 per session for
 psychedelic-assisted counseling in comparison with sober counseling.
 My hourly rate is the same in either case.
@@ -60,7 +60,7 @@ This is a gray area!
 As of 24 Feb 2023, psilomethoxin is unregulated in the United States
 but may be considered illegal under the Federal Analogue Act.
 However, note that
-the Church of Psilomethoxin distributes sacrament using regular
+the Church of Sacred Synthesis distributes sacrament using regular
 mail services (e.g., FedEx).
 Any legal dispute would likely be directed at church leaders
 rather than church members.[^cop-leaders]
@@ -88,7 +88,7 @@ Book a free consultation.
 
 ## Q & A
 
-{{% details "Is the Church of Psilomethoxin the only supplier of psilomethoxin?" %}}
+{{% details "Is the Church of Sacred Synthesis the only supplier of psilomethoxin?" %}}
 As far as we know, yes. It would be great if additional suppliers surfaced.
 {{% /details %}}
 
@@ -148,6 +148,6 @@ Some low cost providers omit talk therapy.
 
 [^mdma-history]: [The journey from ecstasy to medicine: Rick Doblin's long, strange MDMA trip](https://newatlas.com/mdma-ptsd-rick-doblin/52792/)
 
-[^cop-leaders]: [Meet The Founders - Church of Psilomethoxin](https://www.youtube.com/watch?v=inxVQDApBy8)
+[^cop-leaders]: [Meet The Founders - Church of Sacred Synthesis](https://www.youtube.com/watch?v=inxVQDApBy8)
 
 [^proselytize]: This is how I proselytize my sincere religious belief that the sacrament (i.e., psilomethoxin) can support spiritual progress, spiritual healing, and life optimization.

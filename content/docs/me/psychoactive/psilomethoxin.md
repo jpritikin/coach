@@ -37,7 +37,7 @@ Sources for this information include:
 
 [^pm-subjective]: [Effects of Psilomethoxin from Experienced 5-MeO-DMT Practitioner](https://psilomethoxin.com/effects-of-psilomethoxin-from-experienced-5-meo-dmt-practitioner/)
 
-[^mushroom]: The [Church of Psilomethoxin](https://psilomethoxin.com/?sld=jpritikin) distributes
+[^mushroom]: The [Church of Sacred Synthesis](https://psilomethoxin.com/?sld=jpritikin) distributes
 sacrament as dried Psilocybe mushroom powder. Although many mushrooms of the Psilocybe genus 
 produce psilocybin and psilocin, the manufacturing process devised by the church insures that
 only psilomethoxin is produced without a trace of psilocybin or psilocin.
