@@ -7,9 +7,7 @@ bookToc: false
 # Ice on the liver
 
 Don't overdo it. Keep an undershirt between the cold pack and your
-body. This technique is not like [cold exposure]({{< relref
-"cold-exposure" >}}); you don't need to exercise much control over
-your attention.
+body.
 
 ![Ice on liver](liver.jpg)
 

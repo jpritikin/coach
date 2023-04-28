@@ -120,8 +120,8 @@ will suffice.
 | [slow exhales]({{< relref "breathing" >}}) | Medium | calming | - |
 | [withdrawal of the senses]({{< relref "senses" >}}) | Low | - | increase afterglow duration in combination with other targets |
 | [foot soaking]({{< relref "foot-soak" >}}) | Low | relaxing | reduction in tension |
-| [cold exposure]({{< relref "cold-exposure" >}}) | Low | cold | reduction in tension |
-| [ice on liver]({{< relref "liver" >}}) | Low | calming | reduces mental activity |
+| [cold exposure]({{< relref "cold-exposure" >}}) | Medium | cold | reduction in tension |
+| [ice on liver]({{< relref "liver" >}}) | Medium | calming | reduces mental activity |
 | [sahasrara]({{< relref "sahasrara" >}}) | High | freeing | resets mood back to normal |
 
 ## References
