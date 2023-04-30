@@ -117,8 +117,9 @@ Compare with some artistic renditions:
 |---|---|
 | [![Lance Brown](LanceBrown1.webp)](https://www.paintedchrist.com/painted-christ-speed-painting-store/jesus-christ-praying-garden-of-gethsemane) | ![Woman](woman-202304.webp) |
 
-The woman (right) lacks spine extension, her wrist extension is faint, and her pinky extension is washed out by the flow of energy, but otherwise it is almost a great example.
-The image of the woman is a photo of artwork from the Ashland OR Santo Daime salão.
+The man (left) is a speed painting by Lance Brown.
+The woman (right) is a photo of artwork from the Ashland OR Santo Daime salão.
+She lacks spine extension, her wrist extension is faint, and her pinky extension is washed out by the flow of energy, but otherwise it is almost a great example.
 
 | standing | evaluation |
 |---|---|
