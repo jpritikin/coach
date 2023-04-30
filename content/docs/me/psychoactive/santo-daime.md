@@ -8,7 +8,7 @@ draft: false
 # Santo Daime
 
 Among many other effects, sensitivity to posture and gesture are
-greatly enhanced by [5-HT2A receptor agonists]({{< relref "psychoactive" >}}#serotonin) such as daime.
+greatly enhanced by [5-HT2A receptor agonists]({{< relref "psychoactive" >}}#serotonin) such as daime.[^garrison2016]
 I have made some study of static poses that align with
 the current of reverence. Before detailing my findings,
 I want to emphasize that I have not made an exhaustive search.
@@ -110,7 +110,11 @@ poses that miss opportunities to improve the conductivity of reverence.
 - Palm facing the center of the salão
 
 Compare with:
-[![Lance Brown](LanceBrown1.webp)](https://www.paintedchrist.com/painted-christ-speed-painting-store/jesus-christ-praying-garden-of-gethsemane)
+
+[![Lance Brown](LanceBrown1.webp)](https://www.paintedchrist.com/painted-christ-speed-painting-store/jesus-christ-praying-garden-of-gethsemane) ![Woman](woman-202304.webp)
+
+The woman (right) lacks spine extension, her wrist extension is faint, and her pinky extension is washed out by the flow of energy, but otherwise it is almost a great example.
+The image of the woman is a photo of artwork from the Ashland OR Santo Daime salão.
 
 | standing | evaluation |
 |---|---|
@@ -199,3 +203,7 @@ The `open` and `closed` variations just indicate whether the palms are facing or
 <iframe width="540" height="304" src="https://www.youtube.com/embed/TK2_ezOBa2A" title="Tim Hawkins on Hand Raising" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [The t-shirt](https://timhawkins.net/products/worship-hands-t-shirt)
+
+## Notes
+
+[^garrison2016]: In contrast, in an ordinary state of mind, pose seems to have little psychological effect. See Garrison, K. E., Tang, D., & Schmeichel, B. J. (2016). Embodying power: A preregistered replication and extension of the power pose effect. *Social Psychological and Personality Science, 7*(7), 623-630.
