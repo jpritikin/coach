@@ -11,18 +11,18 @@ bookCollapseSection: true
 
 # My opinion
 
-## No Secrets
-
 In real life, I am highly opinionated about diverse content areas.
 
 {{< hint info >}}
 This area of my website is the safe space for me to broadcast my opinions.
 {{< /hint >}}
 
+## No Secrets
+
 In a past life, I contributed to science and free and open source software, and I am proud of that.
 I continue to carry some of the same ethical principles forward as a counselor.
-Specifically, I disparage and reject secrecy.
-There is no paywall or subscription to get the special insights. I have and
+Specifically, I reject secrecy in the sense that I have
+no paywall or subscription for my website content. I have and
 continue to put effort into clearly presenting everything that I have learned
 gratis.
 
