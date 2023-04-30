@@ -109,9 +109,13 @@ poses that miss opportunities to improve the conductivity of reverence.
 - Pinky extension
 - Palm facing the center of the salão
 
-Compare with:
+While I feel the inner effect of the pose,
+my external appearance looks a little bit odd (to me, at least :-).
+Compare with some artistic renditions:
 
-[![Lance Brown](LanceBrown1.webp)](https://www.paintedchrist.com/painted-christ-speed-painting-store/jesus-christ-praying-garden-of-gethsemane) ![Woman](woman-202304.webp)
+| sitting(-ish) | standing |
+|---|---|
+| [![Lance Brown](LanceBrown1.webp)](https://www.paintedchrist.com/painted-christ-speed-painting-store/jesus-christ-praying-garden-of-gethsemane) | ![Woman](woman-202304.webp) |
 
 The woman (right) lacks spine extension, her wrist extension is faint, and her pinky extension is washed out by the flow of energy, but otherwise it is almost a great example.
 The image of the woman is a photo of artwork from the Ashland OR Santo Daime salão.
