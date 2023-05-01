@@ -91,6 +91,9 @@ or back toward yourself.
 In general, the most delicate direction is toward the center
 of the salão because it can look as if you
 are aiming across the salão at other people.
+If you are aiming across the salão then you
+must have consent; it should be an orchestrated collective action.
+If you are aiming elsewhere then consent is less important.
 
 ## Pose Ensembles
 
@@ -162,7 +165,7 @@ Moving the fingers is like wiggling the petals.
 
 - Wrist and pinky extension
 - Wrist pronation
-- Palm facing perpendicular to the center of the salão
+- Palm facing ceiling
 
 Of course it is challenging to keep the arm elevated for a long duration,
 but five minutes is feasible. You can always switch arms when you get tired.
@@ -189,7 +192,7 @@ The wrist extension prevents my hands from touching my arms or the shirt.
 
 - One wrist supinated, the other pronated
 - Wrist and pinky extension (at least one hand)
-- Palm facing palm or perpendicular to the center of the salão
+- Palm facing palm or perpendicular to the center of the salão (ceiling and floor)
 
 The `open` and `closed` variations just indicate whether the palms are facing or not.
 
