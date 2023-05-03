@@ -9,7 +9,7 @@ bookCollapseSection: true
 ![shop counter](shop-counter.webp)
 {.center}
 
-Credit: Midjourney "cozy sacred couch in a professional counseling office, decorated with flowers books fungi, beautiful iridescent style --ar 3:2 --v 5"
+Credit: Midjourney
 {.center}
 
 # Services
