@@ -30,7 +30,7 @@ flowing is *reverence*, and with enough daime,
 it feels almost tangible. Just as with electricity or water,
 there is a direction of flow. You receive reverence,
 it flows through you, and then you can direct it away from you.
-An arbitrary careless posture does not obstruct the current of reverence,
+An arbitrary careless posture does not necessarily obstruct the current of reverence,
 but specific intentional postures can increase the conductance and encourage the flow.
 
 ## Key
