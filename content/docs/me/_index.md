@@ -49,3 +49,10 @@ You will not hear any unsolicited opinions from me when I am working with you as
 <td class='rotate'><div>Credit: Midjourney "outdoor desert zen garden, boulder pile leaning precarious"</div></td>
 </tr/>
 </table>
+
+<br/>
+<br/>
+<br/>
+
+[![Association for Coaching](/images/ac.webp)](https://www.associationforcoaching.com)
+{.center}

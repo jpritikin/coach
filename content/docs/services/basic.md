@@ -22,7 +22,7 @@ I live in White City, Oregon (near the California border).
 
 I am seeing clients by video or audio-only[^audio-only] (your choice).
 
-As I am not licensed, I can work with anyone, anywhere in the world.
+As I am not licensed,[^license] I can work with anyone, anywhere in the world.
 
 <--->
 
@@ -45,3 +45,4 @@ Book a free 20 min consultation.
 
 [^audio-only]: In the classical approach to psychotherapy, the client lies on a couch and does not look the therapist directly in the eye while speaking.
 
+[^license]: I do maintain an Association for Coaching membership. [A complaint process is available.]({{< relref "complaints" >}})
