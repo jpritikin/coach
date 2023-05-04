@@ -20,7 +20,7 @@ Book a free consultation.
 <!-- ScheduleOnce button END -->
 </center>
 
-[Jump to details about location and fees.]({{< relref "basic"  >}})
+[Jump to details about location and fees.]({{< relref "services"  >}})
 
 ## Continuing Clients
 
@@ -33,7 +33,7 @@ For more urgent concerns, you can text my mobile. I do not use voicemail on my p
 
 ### Mailing Address
 
-I am currently only conducting appointments via [telehealth]({{< relref "basic"  >}}) and do not have office space. My corporate entity can receive mail at:
+I am currently only conducting appointments via [telehealth]({{< relref "services"  >}}) and do not have office space. My corporate entity can receive mail at:
 
 Jpritikin Industries, Inc  
 C/O 15872088 - Corporation Service Company  

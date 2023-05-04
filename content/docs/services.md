@@ -1,11 +1,15 @@
 ---
-title: Counseling
+title: Services
 type: docs
-weight: 10
+weight: 3
 bookToc: false
+bookCollapseSection: false
 ---
 
 # Counseling
+
+I work with individual adults. By the end of 2023,
+I will also offer counseling to couples and small groups.
 
 ## What does counseling look like?
 
