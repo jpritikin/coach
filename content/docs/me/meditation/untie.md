@@ -8,9 +8,9 @@ bookToc: true
 
 ## Preamble
 
-Parts of this article were [published](https://partsandself.org/ifs-and-meditation/)
+Parts of this essay were [published](https://partsandself.org/ifs-and-meditation/)
 by the PARTS & SELF magazine.
-You will need to be familiar with [IFS terminology]({{< relref "IFS" >}}) to appreciate this article.
+You will need to be familiar with [IFS terminology]({{< relref "IFS" >}}).
 
 I believe one use of meditation is to facilitate unblending.
 I will focus on this use. I will need to be specific about the degree of blending in a given moment. For example, a Self to Parts proportion of 99:1 is almost all Self and no Parts (unblended) whereas a proportion of 1:99 is all Parts and almost no Self (blended). To calibrate our measure, suppose a mentally well person has a 1:1 proportion with roughly equal contributions from Self and Parts. In comparison, during a psychotherapy session, IFS practitioners might sustain a 6:4 or 7:3 proportion of unblending, being somewhat more in Self energy than in Parts.
