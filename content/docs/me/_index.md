@@ -37,7 +37,8 @@ client's inner system to lead. The illustration below is a metaphor:
 - The environment represents my emotional warmth and support.
 - My job is to keep you, the client, well held and protected from a sudden, surprising fall.
 
-You will not hear any unsolicited opinions from me when I am working with you as your counselor.
+You should not hear any unsolicited opinions from me when I am working with you as your counselor.
+And if you do think you hear me express an opinion, I want to know about it.
 
 <table>
 <tr>
