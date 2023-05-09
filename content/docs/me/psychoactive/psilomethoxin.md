@@ -39,5 +39,5 @@ Sources for this information include:
 
 [^mushroom]: The [Church of Sacred Synthesis](https://psilomethoxin.com/?sld=jpritikin) distributes
 sacrament as dried Psilocybe mushroom powder. Although many mushrooms of the Psilocybe genus 
-produce psilocybin and psilocin, the manufacturing process devised by the church insures that
-only psilomethoxin is produced without a trace of psilocybin or psilocin.
+produce psilocybin and psilocin, the manufacturing process devised by the church ensures that
+psilomethoxin is produced with only trace amounts of psilocybin or psilocin.
