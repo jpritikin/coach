@@ -8,8 +8,8 @@ bookCollapseSection: false
 
 # Counseling
 
-I work with individual adults. By the end of 2023,
-I will also offer counseling to couples and small groups.
+I work with individuals and couples. By the end of 2023,
+I will also offer counseling to small groups.
 
 ## What does counseling look like?
 
@@ -22,17 +22,19 @@ During the no-fee consultation, we’ll decide together what is the best fit.
 
 ## Location
 
-I live in White City, Oregon (near the California border).
+I am seeing clients by video or audio-only.
 
-I am seeing clients by video or audio-only[^audio-only] (your choice).
+For individual therapy, you may prefer audio-only.[^audio-only]
+When working with couples, video is required.
 
+I am located in Oregon (near California).
 As I am not licensed,[^license] I can work with anyone, anywhere in the world.
 
 <--->
 
 ## Fees
 
-My rate is $20 per hour for the first two hours. Thereafter, my rate is $120 per hour. Reserve time in 15 min increments. I do not accept insurance.
+My rate is $20 per hour for the first two hours. Thereafter, my rate is $100 per hour. Reserve time in 15 min increments. I do not accept insurance.
 
 People with low income, or veterans or active military may request a sliding scale rate.
 
