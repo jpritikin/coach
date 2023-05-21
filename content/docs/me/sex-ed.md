@@ -42,4 +42,4 @@ https://iomfoundation.org/
 
 Clark-Flory, T. (2021). *Want Me: A Sex Writer's Journey into the Heart of Desire.* Penguin Books
 
-Check out https://onetaste.us/ but [exercise caution](https://www.bloomberg.com/news/articles/2018-11-13/fbi-is-probing-onetaste-a-sexuality-wellness-company).
+Check out https://onetaste.us/ but [exercise caution](https://www.bloomberg.com/news/articles/2018-11-13/fbi-is-probing-onetaste-a-sexuality-wellness-company). Compare the 2023 May 16 presentation [Climax and Goallessness with Yia](https://om.instituteofom.com/live_events/climax-and-goallessness-with-yia/replay) with [effortless meditation]({{< relref "untie" >}}).
