@@ -35,10 +35,10 @@ client's inner system to lead. The illustration below is a metaphor:
 
 - The rock balanced atop of the pile of rocks represents the client.
 - The environment represents my emotional warmth and support.
-- My job is to keep you, the client, well held and protected from a sudden, surprising fall.
+- My job is to keep you, the client, well held and protected.
 
 You should not hear any unsolicited opinions from me when I am working with you as your counselor.
-And if you do think you hear me express an opinion, I want to know about it.
+If you do think you hear me express an opinion, I want to know about it.
 
 <table>
 <tr>

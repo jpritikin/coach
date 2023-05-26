@@ -57,11 +57,11 @@ Psychedelics are not for everybody.
 ## Amplification
 
 The subjective sense of psychedelic amplification is the reflection of
-a corresponding impairment in working memory.[^healy2021]
+a corresponding impairment of working memory.[^healy2021]
 However, working memory is not monolithic.
 Different psychedelics impair different aspects
 of working memory.
-[Salvinorin A](https://en.wikipedia.org/wiki/Salvinorin_A) impairs cognitive working memory
+[Salvinorin A]({{< relref "salvia" >}}) impairs cognitive working memory
 much more than emotional working memory.
 Serotonergic psychedelics impair emotional working memory
 much more than cognitive working memory.
