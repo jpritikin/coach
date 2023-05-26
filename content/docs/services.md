@@ -27,7 +27,7 @@ I am seeing clients by video or audio-only.
 For individual therapy, you may prefer audio-only.[^audio-only]
 When working with couples, video is required.
 
-I am located in Oregon (near California).
+I am located in Oregon (near California).[^native]
 As I am not licensed,[^license] I can work with anyone, anywhere in the world.
 
 <--->
@@ -52,3 +52,8 @@ Book a free 20 min consultation.
 [^audio-only]: In the classical approach to psychotherapy, the client lies on a couch and does not look the therapist directly in the eye while speaking.
 
 [^license]: I do maintain an Association for Coaching membership. [A complaint process is available.]({{< relref "complaints" >}})
+
+[^native]: I want to acknowledge that I live on the traditional
+territory of the Shasta; Confederated Tribes of Siletz Indians;
+Confederated Tribes of Grand Ronde; Cayuse, Umatilla and Walla Walla;
+Cow Creek Umpqua; Takelma; and Modoc. See https://native-land.ca/
