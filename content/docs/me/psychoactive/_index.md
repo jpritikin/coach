@@ -7,6 +7,61 @@ bookToc: true
 
 # Psychoactive Drugs
 
+{{% details "Nora Volkow interview May 25, 2023" %}}
+Nora D. Volkow, MD, is Director of the National Institute on Drug Abuse (NIDA) at the National Institutes of Health
+
+https://www.youtube.com/watch?v=v1zVAOdzynk&t=2383s
+
+From 39:45
+
+Tim Ferriss: there's so many incidental or accidental ways
+to ingest, for example, fentanyl.  And I know of many direct stories,
+where people have gone to a bachelor  party, they try a little bit of some drug,   that ends up being cut with fentanyl. I know of  two people specifically. One just dropped dead on
+the floor. One fell into a coma from what would've  been considered low doses of illicit drugs. But
+they happened to be cut with fentanyl, which is  horrifying. And in fact, my friend who died was
+not himself an addict. He was collateral damage. One of my other friends I grew up with,
+there are a lot of drug issues where I grew up,  was a heroin addict. He had developed just an
+incredible tolerance to fentanyl, and he gave it  to my other friend to help with his hangover. And
+my other friend had never used any opiates, and he  fell asleep and just never woke up. So the sheer
+ease with which the fentanyl, as you mentioned,  sort of permeates different corners and
+neighborhoods of society, which does not  discriminate in terms of — or I shouldn't say
+it doesn't discriminate, but it has infiltrated  every socioeconomic class. It's really pervasive
+and really terrifying. What is your perspective  on the War on Drugs and perhaps any other
+approaches that you think may be more effective?
+
+Dr. Nora Volkow: Yeah. And I'll answer it, but I guess actually the story that you just told  of your friend that how he'd be taking fentanyl
+unbeknowing what it was, it just killed him. And  this is what we are observing a lot. And I think
+it's important to educate people that this is  a seriously dangerous drugs. And unfortunately,
+I think that we have cried wolf so many,  many times that we've lost credibility. 
+But if there was a way that we could convey  that in very objective, we don't need to
+exaggerate in any way. I mean fentanyl, two  milligrams will kill you. And the counterfeit
+pills contain five milligrams, some of them two  doses to kill you. So it is very, very tragic. 
+But coming back to your question in  terms of the War on Drugs, I think that
+basically what it did was it created a mechanism  that could perpetuate structural racism. It is
+very tragic to see how its enforcement led to  the incarceration of young black Americans. 
+And again, that punitive system where someone  could be stopped, and this will happen if you are
+black and on the notion that you had drugs with  you and thrown in jail or prison because you had
+drugs on you is such an unfair system. And it  didn't work in any way because it did not reduce
+the amount of drugs that people were taking or  the negative consequences of drugs to our society.
+So it did not work. And I think, and too, I mean one   of the aspects that it did show is if you do  throw a person that's taking drugs in jail,
+if you criminalize that person that's  using drugs, for example, when we did   horribly with crack cocaine. So if you  were smoking crack cocaine, it was like,
+I don't recall exactly, but it was at least 10  times greater than if you were just snorting
+cocaine. Snorting cocaine or injecting cocaine  hydrochloride was much more favored by white
+people. Whereas crack was favored by black people. So cocaine hydrochloride, white, crack cocaine,
+black. Why do you see such a difference? It's  the same cocaine, basically. Cocaine is cocaine,
+and yet one could note a much higher penalty than  the other. That's an example of the consequences. 
+But what science has shown is that when you do  throw people into jail or prisons that have a
+problem with substance use disorders, then when  they leave, they are at much greater risk of,
+first of all, relapsing immediately into the  drug taking and escalating their drug taking.
+So you are exacerbating the nature of the  problem by putting them in jail and prison.  So it doesn't work no matter what you do. And  that's why the whole notion of criminalizing
+the person that takes drugs is basically very  negative vis-a-vis the outcomes of the person
+and also in no way it benefits society,  it is actually very costly by itself.
+When an issue becomes politicized, then it  becomes much harder to change and shift. 
+And we've seen, I think, that we've  seen over the past, I would say,
+certainly, five or eight years, an openness to  recognizing that the War on Drugs did not work
+and that criminalizing drug users is basically  negative and it's promoting structural racism. 
+{{% /details %}}
+
 {{% details "Show me research on drug harms in the UK" %}}
 
 ![Drug harms](nutt-2010-fig2.png)
