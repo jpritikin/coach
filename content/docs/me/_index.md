@@ -26,7 +26,7 @@ no paywall or subscription for my website content. I have and
 continue to put effort into clearly presenting everything that I have learned
 gratis.
 
-## Therapeutic Bright Line
+## Counseling ≠ Telling My Opinions
 
 As an IFS Practitioner, I attend
 to structure and process while maintaining indifference to content.
