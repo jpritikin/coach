@@ -10,7 +10,7 @@ bookCollapseSection: true
 
 {{% columns %}}
 
-Haiku from ChatGPT (16 Dec 2022):
+Haiku from ChatGPT 🤖 (16 Dec 2022):
 
 <--->
 

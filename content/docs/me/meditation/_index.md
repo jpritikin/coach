@@ -13,15 +13,15 @@ traditions of many of the world's major religions. For example,
 
 {{% columns %}}
 
-- Christianity
-- Islam
-- Hinduism
+- Christianity ✝️
+- Islam ☪️
+- Hinduism 🕉️
 
 <--->
 
 - Buddhism (Vajrayāna, Mahāyāna, & Zen)
-- Daoism (Taoism)
-- Judaism
+- Daoism (Taoism) ☯️
+- Judaism 🕎
 
 {{% /columns %}}
 
@@ -46,7 +46,7 @@ Everybody should have the opportunity to climb Maslow's pyramid.
 
 ## Meditation Techniques
 
-Meditation is more like a dance than a desk lamp. There are moves to learn.
+Meditation is more like a dance than a desk lamp 🪔. There are moves to learn.
 The techniques that I describe in sub-sections assume that you are already
 proficient in meditation. Without a basic competence in
 [effortless meditation]({{< relref "untie" >}}),
@@ -80,7 +80,7 @@ The best time to practice meditation is 4:30 to 9:00 (am and pm) in your local t
 
 | When | Activity | Duration |
 | ---- | -------- | -------- |
-| morning | drink green tea | - |
+| morning | drink green tea 🍵 | - |
 |      | [withdrawal of the senses]({{< relref "senses"  >}}) | 10 min |
 |      | [sahasrara]({{< relref "sahasrara"  >}}) | 5-10 min |
 | lunch | eat calmly and undistracted[^lunch] | - |

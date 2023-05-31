@@ -6,7 +6,7 @@ weight: 30
 
 # Urban Design
 
-Most North American cities are designed for cars not people.
+Most North American cities are designed for cars 🚗 not people.
 
 {{% columns %}}
 

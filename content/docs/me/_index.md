@@ -30,15 +30,15 @@ gratis.
 
 As an IFS Practitioner, I attend
 to structure and process while maintaining indifference to content.
-I believe that a good counselor is extremely neutral, to encourage the
+I believe that a good counselor is extremely neutral ⚖️, to encourage the
 client's inner system to lead. The illustration below is a metaphor:
 
 - The rock balanced atop of the pile of rocks represents the client.
 - The environment represents my emotional warmth and support.
-- My job is to keep you, the client, well held and protected.
+- My job is to keep you, the client, well held and protected. 🫶🏼
 
 You should not hear any unsolicited opinions from me when I am working with you as your counselor.
-If you do think you hear me express an opinion, I want to know about it.
+If you do think you hear me express an opinion, I want to know about it. 🙊
 
 <table>
 <tr>

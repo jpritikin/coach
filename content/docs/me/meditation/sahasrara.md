@@ -59,7 +59,7 @@ head, one acquires the perspective of the perfected ones.
 ## Notes
 
 [^tribute]: To commemorate Shri Mataji's contribution, I use her
-variation on the Namaskar Mudra. The fingers are divided into three
+variation on the Namaskar Mudra 🙏🏼. The fingers are divided into three
 groups: The thumb is alone, then three fingers together, and then the
 pinky is alone. The idea is that learning and emotion should be kept
 apart while confidence, diplomacy, and forgiveness work well together.    

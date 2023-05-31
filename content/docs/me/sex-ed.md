@@ -5,7 +5,7 @@ draft: false
 weight: 20
 ---
 
-# Sex Education
+# Sex Education ⚤
 
 As you probably know, sex education at American public schools is
 narrowly focused on basic anatomy. My parents, for whatever reason,
@@ -31,10 +31,10 @@ Thomas Maier wrote a [history of the first scientific investigation of human sex
 ### Science
 
 Hill, S. (2019). *This is your brain on birth control: The surprising science of women, hormones, and the law of unintended consequences.* Penguin.  
-[Nov 21, 2022 Interview](https://www.youtube.com/watch?v=xpoUl1MzTq4)
+[Nov 21, 2022 Interview](https://www.youtube.com/watch?v=xpoUl1MzTq4) ♀
 
 Hooven, C. (2021). *T: The story of testosterone, the hormone that dominates and divides us.* Henry Holt and Company.  
-[Oct 27, 2022 Interview](https://www.youtube.com/watch?v=_Q14k3yZ2EU)
+[Oct 27, 2022 Interview](https://www.youtube.com/watch?v=_Q14k3yZ2EU) ♂
 
 https://iomfoundation.org/
 

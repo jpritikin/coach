@@ -4,7 +4,7 @@ weight: 40
 bookToc: false
 ---
 
-# Breathing
+# Breathing 🫁
 
 ## Prelude
 
@@ -18,28 +18,28 @@ To calm yourself, exhale for a longer duration than your inhalation.[^adhana2013
 
 {{% details "Show example" %}}
 {{< hint info >}}
-When a dog is lying down and wants to relax then she will often start her rest with two quick breaths followed by a long, slow exhale.
+When a dog is lying down and wants to relax then she will often start her rest with two quick breaths followed by a long, slow exhale. 🐕
 {{< /hint >}}
 {{% /details %}}
 
 ## Commentary
 
 This technique should not be done like static apnea holds in
-preparation for freediving. As soon as you feel any hint of anxiety,
+preparation for freediving 🤿. As soon as you feel any hint of anxiety,
 do not hesitate to start another breath. If you do not feel
 continuously calm then you are not breathing enough. If you get behind
 on breathing then feel free to take 1-2 quick deep breaths and then
 return to the protocol.
 
 Don't try to time the duration of inhales or exhales in seconds.
-Watching the clock or counting seconds can distract from encouraging a
+Watching the clock or counting seconds ⏲️ can distract from encouraging a
 feeling of calm. A quick inhale is of shorter duration than a long
 exhale; rough approximation of the relative durations is adequate
 precision.
 
 As far as I am aware, this is the only meditation technique that works
 mostly independently of the external environment.  You can practice
-this during Monday morning rush hour on the New York City subway (not
+this during Monday morning rush hour on the New York City subway 🚆 (not
 the most calm and soothing environment).
 
 When not combined with other meditation techniques, the effect of this
