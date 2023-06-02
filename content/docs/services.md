@@ -25,7 +25,7 @@ During the no-fee consultation, we’ll decide together what is the best fit.
 I am seeing clients by video or audio-only.
 
 For individual therapy, you may prefer audio-only ☎.[^audio-only]
-When working with couples, video is required.
+When working with couples, video is required.[^one-way-video]
 
 I am located in Oregon (near California).[^native]
 As I am not licensed,[^license] I can work with anyone, anywhere in the world (time-zone permitting). 🌎
@@ -57,3 +57,6 @@ Book a free 20 min consultation.
 territory of the Shasta; Confederated Tribes of Siletz Indians;
 Confederated Tribes of Grand Ronde; Cayuse, Umatilla and Walla Walla;
 Cow Creek Umpqua; Takelma; and Modoc. See https://native-land.ca/
+
+[^one-way-video]: If you find my face distracting then I can turn off
+my video, but I need eyes on your video to watch for nonverbal cues.
