@@ -59,4 +59,4 @@ Confederated Tribes of Grand Ronde; Cayuse, Umatilla and Walla Walla;
 Cow Creek Umpqua; Takelma; and Modoc. See https://native-land.ca/
 
 [^one-way-video]: If you find my face distracting then I can turn off
-my video, but I need eyes on your video to watch for nonverbal cues.
+my video, but I need eyes on your video feeds to watch for nonverbal cues.
