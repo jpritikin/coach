@@ -24,14 +24,26 @@ Book a free consultation.
 
 ## Continuing Clients
 
-### Electronic
-
 The best way to communicate is to use the [SimplePractice](https://joshua-pritikin.clientsecure.me/sign-in) portal.
 Check your spam folder for `simplepractice.com` if you have trouble logging in.
 
 For more urgent concerns, you can text my mobile. I do not use voicemail on my phone.
 
-### Mailing Address
+## If you are currently experiencing a crisis
+
+My office is not set up for real-time crisis intervention.
+
+Please connect with the resources below if you or someone you know is currently experiencing a crisis.
+
+National Crisis & Lifeline    
+Call or text 988    
+chat https://988lifeline.org/
+{.center}
+
+[Substance Abuse and Mental Health Services Administration](https://www.samhsa.gov/find-support/in-crisis)
+{.center}
+
+## Mailing Address
 
 I am currently only conducting appointments via [telehealth]({{< relref "services"  >}}) and do not have office space. My corporate entity can receive mail at:
 
