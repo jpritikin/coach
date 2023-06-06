@@ -29,9 +29,9 @@ Check your spam folder for `simplepractice.com` if you have trouble logging in.
 
 For more urgent concerns, you can text my mobile. I do not use voicemail on my phone.
 
-## If you are currently experiencing a crisis
+## Currently Experiencing a Crisis?
 
-My office is not set up for real-time crisis intervention.
+My office is **not** set up for real-time crisis intervention.
 
 Please connect with the resources below if you or someone you know is currently experiencing a crisis.
 
