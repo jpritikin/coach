@@ -8,7 +8,7 @@ bookCollapseSection: false
 
 # Counseling
 
-I work with individuals and couples. By the end of 2023,
+I work with individuals and dyads (e.g. couples or two people in a relationship). By the end of 2023,
 I will also offer counseling to small groups. 🫱🏿‍🫲🏻
 
 ## What does counseling look like?
@@ -25,7 +25,7 @@ During the no-fee consultation, we’ll decide together what is the best fit.
 I am seeing clients by video or audio-only.
 
 For individual therapy, you may prefer audio-only ☎.[^audio-only]
-When working with couples, video is required.[^one-way-video]
+When working with dyads, video is required.[^one-way-video]
 
 I am located in Oregon (near California).[^native]
 As I am not licensed,[^license] I can work with anyone, anywhere in the world (time-zone permitting). 🌎
@@ -51,7 +51,7 @@ Book a free 20 min consultation.
 
 [^audio-only]: In the classical approach to psychotherapy, the client lies on a couch 🛋️ and does not look the therapist directly in the eye while speaking.
 
-[^license]: I do maintain an Association for Coaching membership. [A complaint process is available.]({{< relref "complaints" >}})
+[^license]: I maintain an Association for Coaching membership. [A complaint process is available.]({{< relref "complaints" >}})
 
 [^native]: I want to acknowledge that I live on the traditional
 territory of the Shasta; Confederated Tribes of Siletz Indians;

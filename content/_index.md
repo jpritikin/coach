@@ -20,7 +20,6 @@ My goal is to empower you to have more access to calm, confidence,
 courage, clarity, and connection. I use **Internal Family Systems**
 (IFS). IFS is an [evidence-based](https://www.foundationifs.org/news-articles/79-ifs-an-evidence-based-practice) mode of counseling that has been
 proven to heal many forms of psychological suffering (🤪 and 😬 → 😇).
-
 IFS is a full range modality. Most psychotherapy aims to help people
 get from ‘bad’ to ‘so-so,’ or from ‘so-so’ to ‘good’. IFS can also
 help people get from ‘good’ to ‘great’. IFS is a [trauma-informed](https://www.verywellmind.com/trauma-informed-therapy-definition-and-techniques-5209445) model.
@@ -31,7 +30,7 @@ help people get from ‘good’ to ‘great’. IFS is a [trauma-informed](https
 
 - Emotional & relationship issues ❤️
   - I use Internal Family Systems! [IFS is similar to other modes of psychotherapy, addressing many of the same conditions.]({{< relref "dsm" >}})
-  - I provide *counseling* under [ORS 675.825(4)(a)](https://oregon.public.law/statutes/ors_675.825), which allows alternative counselors to practice legally in Oregon without a license.[^license]
+  - I provide *counseling* under [ORS 675.825(4)(a)](https://oregon.public.law/statutes/ors_675.825), which allows alternative counselors to practice legally in Oregon without a license. Since I am **not** licensed[^license] in Oregon, I cannot describe myself as a *psychotherapist*. [ORS 675.020](https://oregon.public.law/statutes/ors_675.020)
 - Psychedelic prep & integration 🍄/🐸
   - Prepare to take your first psychedelic journey safely
   - Understand and integrate your psychedelic journey(s)
@@ -46,12 +45,15 @@ help people get from ‘good’ to ‘great’. IFS is a [trauma-informed](https
 
 ## Professional Background
 
-- IFIO Basic Training (IFS Level 2) [completed Jun 2023](https://ifs-institute.com/practitioners/all/110287).  IFS Level 1 completed Nov 2022. IFS Continuity Program subscriber since Sep 2022. Working toward [IFS Certification](https://ifs-institute.com/trainings/ifs-certification). 🏫
+- [Internal Family Systems](https://ifs-institute.com/practitioners/all/110287)
+  - [Intimacy from the Inside Out](https://www.toniherbineblank.com/trainings.html) relationship therapy Basic Training (IFS Level 2) completed Jun 2023.
+  - IFS Level 1 completed Nov 2022.
+  - [IFS Continuity Program](https://ifs-institute.com/online-learning) subscriber since Sep 2022.
+  - Working toward [IFS Certification](https://ifs-institute.com/trainings/ifs-certification).
 - Practicing meditation for more than 30 years.[^meditation] 🧘🏻‍♂️ Can provide cult recovery support.
 - Ph.D. Quantitative Psychology in 2016 from University of
 Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bibliography/56367505/public/?sort=date&direction=ascending) for publications. 🎓
 - Evaluator-participant in 16-hour [MAPS](https://maps.org/) psychedelic education course.
-- Since I am **not** licensed[^license] in Oregon, I cannot describe myself as a *psychotherapist*. [ORS 675.020](https://oregon.public.law/statutes/ors_675.020)
 
 <br/>
 
@@ -80,4 +82,4 @@ Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bi
 
 [^mom]: Hat tip to [Moms on Mushrooms](https://www.momsonmushrooms.com/)!
 
-[^license]: I do maintain an Association for Coaching membership. [A complaint process is available.]({{< relref "complaints" >}})
+[^license]: I maintain an Association for Coaching membership. [A complaint process is available.]({{< relref "complaints" >}})
