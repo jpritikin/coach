@@ -45,7 +45,7 @@ Clark-Flory, T. (2021). *Want Me: A Sex Writer's Journey into the Heart of Desir
 Check out [Orgasmic Meditation](https://onetaste.us/)!
 - Compare the 2023 May 16 presentation [Climax and Goallessness with Yia](https://om.instituteofom.com/live_events/climax-and-goallessness-with-yia/replay) with [effortless meditation]({{< relref "untie" >}}).
 - Despite superficial similarity, Orgasmic Meditation is **not** related to Tantric Buddhism.[^not-tantra]
-- [Exercise caution.](https://www.bloomberg.com/news/articles/2018-11-13/fbi-is-probing-onetaste-a-sexuality-wellness-company)
+- [Exercise caution.](https://www.justice.gov/usao-edny/pr/onetaste-founder-and-former-head-sales-indicted-forced-labor-conspiracy)
 
 ## Notes
 
