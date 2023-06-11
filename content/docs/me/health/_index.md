@@ -9,7 +9,10 @@ bookToc: false
 A few hundred years ago, it was easy to know whether your physical health was threatened. Fell off a tree and broke your arm? Hard to miss. With modern medicine, we now know a lot about treating acute insults. Treatments often work well; people often recover. The main threat to physical health in modern times is stealth, chronic illness. [In the United States, heart disease and cancer kill about 3 in a 1000 every year, and there is often not much warning.](https://www.cdc.gov/nchs/products/databriefs/db427.htm) [Most deaths due to heart disease are sudden.](https://nutritionfacts.org/video/how-to-reduce-the-risk-of-sudden-death/) Especially young adults less than 40 years old often feel suffused with vibrant healthy energy. Is your body lying to you about your health? Fortunately, there are some simple measurements that can reveal signs of stealth chronic disease progression.
 
 {{% details "I don't want to read all this. What kind of diet do you advocate?" %}}
-Ad libitum (i.e., all you can eat) low fat diet
+Ad libitum, low fat diet
+{{% /details %}}
+{{% details "All you can eat? I don't need to count calories or refrain from eating to surfeit?" %}}
+Yep, that's correct. The key is to limit your choice of foods by calorie density.
 {{% /details %}}
 
 ## About me
