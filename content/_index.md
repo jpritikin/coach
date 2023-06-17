@@ -16,15 +16,10 @@ bookToc: false
 Credit: Midjourney
 {.center}
 
-My goal is to empower you to have more access to calm, confidence,
-courage, clarity, and connection. I use **Internal Family Systems**
-(IFS). IFS is an [evidence-based](https://www.foundationifs.org/news-articles/79-ifs-an-evidence-based-practice) mode of counseling that has been
-proven to heal many forms of psychological suffering (🤪 and 😬 → 😇).
-IFS is a full range modality. Most psychotherapy aims to help people
-get from ‘bad’ to ‘so-so,’ or from ‘so-so’ to ‘good’. IFS can also
-help people get from ‘good’ to ‘great’. IFS is a [trauma-informed](https://www.verywellmind.com/trauma-informed-therapy-definition-and-techniques-5209445) model.
-
-![IFS range](ifs.webp)
+I offer a serene and confidential environment to talk about matters of the heart.
+My goal is to help you reprocess your psychological pain and suffering in a way that releases any detrimental limits for love, contentment, and positive self-concept (🤪 and 😬 → 😇).
+I use **Internal Family Systems**
+(IFS). IFS is an [evidence-based](https://www.foundationifs.org/news-articles/79-ifs-an-evidence-based-practice) and [trauma-informed](https://www.verywellmind.com/trauma-informed-therapy-definition-and-techniques-5209445) model.
 
 ## Areas of Expertise
 
