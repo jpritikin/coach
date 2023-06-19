@@ -23,7 +23,7 @@ I use **Internal Family Systems**
 
 ## Areas of Expertise
 
-- Emotional & relationship issues ❤️
+- Individual emotional & relationship issues (couple or dyad) ❤️
   - I use Internal Family Systems! [IFS is similar to other modes of psychotherapy, addressing many of the same conditions.]({{< relref "dsm" >}})
   - I provide *counseling* under [ORS 675.825(4)(a)](https://oregon.public.law/statutes/ors_675.825), which allows alternative counselors to practice legally in Oregon without a license. Since I am **not** licensed[^license] in Oregon, I cannot describe myself as a *psychotherapist*. [ORS 675.020](https://oregon.public.law/statutes/ors_675.020)
 - Psychedelic prep & integration 🍄/🐸
