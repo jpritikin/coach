@@ -10,11 +10,11 @@ draft: false
 Among many other effects, sensitivity to posture and gesture are
 greatly enhanced by [5-HT2A receptor agonists]({{< relref "psychoactive" >}}#serotonin) such as daime.[^garrison2016]
 I have made some study of static poses that align with
-the current of reverence. Before detailing my findings,
+the current of reverence. 🔬 Before detailing my findings,
 I want to emphasize that I have not made an exhaustive search.
 There may be other postures and gestures worth exploring. Furthermore,
 I have not studied dynamic poses
-(e.g., mimicking the flapping and soaring of eagle wings with your arms).
+(e.g., mimicking the flapping and soaring of eagle wings with your arms 🪽).
 The postures listed here are intended as static poses
 to be held steadily for a few minutes at a time.
 The reason that the title of this article is *Santo Daime* and not *Postures and Gestures*
@@ -22,16 +22,21 @@ is because these poses have much greater significance when implemented
 by a whole group of people simultaneously in careful coordination.
 Posing solo is a bit self-indulgent.
 
+## Doubts?
+
+Maybe you read through this page and you're skeptical.
+Drink more daime. 🍵
+
 ## The Current of Reverence
 
 The analogy that I am trying to invoke is with electrical current
-or water flowing through a pipe. Here, the substance that is
+or water flowing through a pipe. 🌊 Here, the substance that is
 flowing is *reverence*, and with enough daime,
 it feels almost tangible. Just as with electricity or water,
 there is a direction of flow. You receive reverence,
 it flows through you, and then you can direct it away from you.
 An arbitrary careless posture does not necessarily obstruct the current of reverence,
-but specific intentional postures can increase the conductance and encourage the flow.
+but specific intentional postures can increase the conductance and encourage the flow. 🚰
 
 ## Key
 
