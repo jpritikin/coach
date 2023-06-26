@@ -102,6 +102,10 @@ I have personal experience with
 
 I am a member of
 - [Santo Daime](https://en.wikipedia.org/wiki/Santo_Daime)[^catholic] (link to [hymns](http://daimebooks.org))
+   {{% details "I received my star 24 June 2023." %}}  
+   ![Star](star.webp)  
+   Me with [Padrinho Jonathan Goldman](https://casetext.com/case/church-of-holy-light-of-queen-v-mukasey-2)  
+   {{% /details %}}
 - [Church of Sacred Synthesis](https://psilomethoxin.com/?sld=jpritikin)
 - [Sacred Garden Church](https://sacredgarden.life/)
 
