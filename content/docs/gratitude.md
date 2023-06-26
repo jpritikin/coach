@@ -47,7 +47,7 @@ Celebrate later!
 
 [^schwartz2017]: Schwartz, R. C., & Falconer, R. (2017). *Many minds, one self: Evidence for a radical shift in paradigm.* Oak Park: Trailheads.
 
-[^gratitude-meditation]: [Gratitude Meditation](https://ggia.berkeley.edu/practice/gratitude_meditation)
+[^gratitude-meditation]: For reference, here is a description of [Gratitude Meditation](https://ggia.berkeley.edu/practice/gratitude_meditation).
 
 [^storr2017]: ['It was quasi-religious': the great self-esteem con](https://www.theguardian.com/lifeandstyle/2017/jun/03/quasi-religious-great-self-esteem-con)
 
