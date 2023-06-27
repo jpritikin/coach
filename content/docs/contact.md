@@ -9,9 +9,7 @@ bookToc: false
 
 # Contact
 
-## New Clients
-
-Book a free consultation.
+## Free Consultation
 
 <center>
 <!-- ScheduleOnce button START -->
@@ -22,9 +20,10 @@ Book a free consultation.
 
 [Jump to details about location and fees.]({{< relref "services"  >}})
 
-## Continuing Clients
+## Client Portal
 
-The best way to communicate is to use the [SimplePractice](https://joshua-pritikin.clientsecure.me/sign-in) portal.
+For both new and continuing clients,
+the best way to communicate is to use the [SimplePractice](https://joshua-pritikin.clientsecure.me/sign-in) portal.
 Check your spam folder for `simplepractice.com` if you have trouble logging in.
 
 For more urgent concerns, you can text my mobile. I do not use voicemail on my phone.
