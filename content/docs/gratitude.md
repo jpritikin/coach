@@ -18,13 +18,13 @@ Credit: Midjourney
 
 <br/>
 
-Poor outcomes can result by mistaking the connection or direction between cause and effect.  
+Poor outcomes can result if cause and effect relationships are misunderstood.  
 It is important to ask **why** things happen.[^judea2018]  
 For example, there is the concept of *self-esteem*, confidence in one's own worth.  
 Philosophers say, "Everybody is valuable";  
 It would be nice if self-esteem could be increased directly.  
 However, self-esteem is more of an effect than a cause.[^storr2017]  
-The true cause is striving for compassion and achievement, and self-esteem results.[^kwan2009]  
+Increase self-esteem by striving for achievement and compassion.[^kwan2009]  
 The causal structure of gratitude is similar;  
 Gratitude is more of an effect than a cause.  
 A little gratitude can help jump start Self energy.  
