@@ -95,7 +95,7 @@ I have personal experience with
 *   Psilocybin 🍄
 *   Salvia divinorum
 *   Cannabis
-*   Daime (a.k.a. ayahuasca)
+*   Daime (a.k.a. ayahuasca) 🍵
 *   Piper methysticum (kava kava)
 *   Sceletium tortuosum (kanna)
 *   Psilomethoxin ([orally active 5-methoxy-N,N-dimethyltryptamine](https://www.youtube.com/watch?v=SeROOGFnwek)) 🐸
@@ -187,7 +187,7 @@ demanding more cooperation from Parts to guide the experience.
 
 Unaided, [effortless meditation]({{< relref "untie" >}}) is precarious in the sense that we can not entertain targets that prompt much Part involvement.
 This is where DMT can pick up the slack.
-DMT can facilitate Self energy in situations where Parts must exert some effort. For example, Santo Daime is a psychedelic church that has won legal protection in the USA, parts of Canada, and Brazil. In Santo Daime ceremonies, everybody present drinks Daime tea, lead musicians included. Moreover, everybody is expected to sing and dance. It seems unlikely to me that new members would often enjoy much Self energy without the help of the psychedelic sacrament. The Daime helps the congregation remain mostly in Self while exerting considerable effort to pronounce Portuguese and precisely synchronize movements to the rhythm of the music. The combination of ample Self energy and creative involvement in the ceremony can make for an extraordinarily beautiful experience.
+DMT can facilitate Self energy in situations where Parts must exert some effort. For example, Santo Daime is a psychedelic church that has won legal protection in the USA, parts of Canada, and Brazil. In Santo Daime ceremonies, everybody present drinks Daime tea, lead musicians included. Moreover, everybody is expected to sing 🎶 and dance. It seems unlikely to me that new members would often enjoy much Self energy without the help of the psychedelic sacrament. The Daime helps the congregation remain mostly in Self while exerting considerable effort to pronounce Portuguese and precisely synchronize movements to the rhythm 🥁 of the music. The combination of ample Self energy and creative involvement in the ceremony can make for an extraordinarily beautiful experience.
 
 ## Notes
 
