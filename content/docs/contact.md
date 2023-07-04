@@ -24,9 +24,13 @@ bookToc: false
 
 For both new and continuing clients,
 the best way to communicate is to use the [SimplePractice](https://joshua-pritikin.clientsecure.me/sign-in) portal.
-Check your spam folder for `simplepractice.com` if you have trouble logging in.
+Continuing clients should enter their email address to `Sign in`. Check your spam folder for `simplepractice.com`.
+New clients should `Request appointment` at the bottom of the page:
 
-For more urgent concerns, you can text my mobile. I do not use voicemail on my phone.
+![New client](new-client.webp)
+{.center}
+
+For urgent concerns, you can text my mobile. I do not use voicemail on my phone.
 
 ## Currently Experiencing a Crisis?
 
