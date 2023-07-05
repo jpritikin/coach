@@ -24,7 +24,10 @@ bookToc: false
 
 - New clients [go here](https://joshua-pritikin.clientsecure.me/request/service) to schedule your first session.
 - Continuing clients [go here](https://joshua-pritikin.clientsecure.me/sign-in).
-Enter your email address to *Sign in*. Check your spam folder for `simplepractice.com`.
+Enter your email address to *Sign in*. There is no password.
+
+  If you don't receive the email invitation
+to login within five minutes, check your spam folder for `simplepractice.com`.
 
 For urgent concerns, you can text my mobile. I do not use voicemail on my phone.
 
