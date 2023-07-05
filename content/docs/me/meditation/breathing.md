@@ -14,7 +14,7 @@ ordinary thing. What could possibly be special about it?
 
 ## The Technique
 
-To calm yourself, exhale for a longer duration than your inhalation.[^adhana2013]
+To calm yourself, exhale for a longer duration than your inhalation.[^buteyko][^adhana2013]
 
 {{% details "Show example" %}}
 {{< hint info >}}
@@ -25,17 +25,19 @@ When a dog is lying down and wants to relax then she will often start her rest w
 ## Commentary
 
 This technique should not be done like static apnea holds in
-preparation for freediving 🤿. As soon as you feel any hint of anxiety,
-do not hesitate to start another breath. If you do not feel
+preparation for freediving 🤿. As soon as you feel any hint of anxiety (i.e., air hunger),
+do not hesitate to resume breathing. If you do not feel
 continuously calm then you are not breathing enough. If you get behind
-on breathing then feel free to take 1-2 quick deep breaths and then
+on breathing then feel free to take 1-5 quick deep breaths and then
 return to the protocol.
 
-Don't try to time the duration of inhales or exhales in seconds.
-Watching the clock or counting seconds ⏲️ can distract from encouraging a
-feeling of calm. A quick inhale is of shorter duration than a long
+Don't time the duration of inhales or exhales.
+Watching the clock or counting seconds ⏲️ can distract from
+the feeling of calm. It is obvious that a quick inhale is of shorter duration than a long
 exhale; rough approximation of the relative durations is adequate
-precision.
+precision. Try to extend the length of time that you remain calm
+as air hunger increases, but resume breathing immediately before the sense of calm
+flips into anxiety.
 
 As far as I am aware, this is the only meditation technique that works
 mostly independently of the external environment.  You can practice
@@ -47,6 +49,9 @@ technique is not long-lasting. Whatever calm you enjoy is typically
 sustained only while focused on your breathing.
 
 ## References
+
+[^buteyko]: A similar technique was independently developed in the 1950s
+by [physiologist Konstantin Buteyko](https://en.wikipedia.org/wiki/Buteyko_method).
 
 [^adhana2013]: Adhana, R., Gupta, R., Dvivedi, J. Y. O. T. I., Ahmad, S., Dvivedii, J., & Ahmad, S. (2013). The influence of the 2: 1 yogic breathing technique on essential hypertension. *Indian J Physiol Pharmacol, 57*(1), 38-44.
 
