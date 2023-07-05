@@ -22,13 +22,9 @@ bookToc: false
 
 ## Client Portal
 
-For both new and continuing clients,
-the best way to communicate is to use the [SimplePractice](https://joshua-pritikin.clientsecure.me/sign-in) portal.
-Continuing clients should enter their email address to `Sign in`. Check your spam folder for `simplepractice.com`.
-New clients should `Request appointment` at the bottom of the page:
-
-![New client](new-client.webp)
-{.center}
+- New clients [go here](https://joshua-pritikin.clientsecure.me/request/service) to schedule your first session.
+- Continuing clients [go here](https://joshua-pritikin.clientsecure.me/sign-in).
+Enter your email address to *Sign in*. Check your spam folder for `simplepractice.com`.
 
 For urgent concerns, you can text my mobile. I do not use voicemail on my phone.
 
