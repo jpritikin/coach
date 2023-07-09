@@ -36,9 +36,12 @@ We have received a great gift.
 As psychological healers, we exceed past luminaries by far.[^schwartz2017]  
 The gratitude I feel can be overwhelming and incapacitating.  
 Too much gratitude gets in the way of the work!  
+It is like walking along the narrow ridge of a mountain  
+Facing stiff wind and treacherous footing.  
+Make space for clearheaded judgment;  
 Perhaps the Parts that feel gratitude can step back and stay in the waiting room.  
-Make space for the healing to take place.  
-There is great need for healing.  
+Only surefooted and true can we salve of the knots of tangled minds.  
+The need for healing is great.  
 Celebrate later!
 
 ## Notes
