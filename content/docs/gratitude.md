@@ -30,8 +30,8 @@ Gratitude is more of an effect than a cause.
 A little gratitude can help jump start Self energy.  
 Yet, gratitude must be felt in proportion to what is received.  
 Anything else is artifice, self-deception.  
-Those who benefit from a formal graditude practice[^gratitude-meditation] haven't received much.  
-It is a priviledge to be an [IFS Practitioner]({{< relref "ifs" >}}).  
+Those who benefit from a formal gratitude practice[^gratitude-meditation] haven't received much.  
+It is a privilege to be an [IFS Practitioner]({{< relref "ifs" >}}).  
 We have received a great gift.  
 As psychological healers, we exceed past luminaries by far.[^schwartz2017]  
 The gratitude I feel can be overwhelming and incapacitating.  
