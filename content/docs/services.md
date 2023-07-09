@@ -26,10 +26,12 @@ Couples counseling is extremely delicate.
 To work safely, we have to progress slowly, with great caution.
 This takes time.
 
-Here is an analogy: The two partners are [full contact mud wrestling](https://www.youtube.com/watch?v=gZQH7ZZoPZ4).
+{{% details "Reveal analogy" %}}
+The two partners are [full contact mud wrestling](https://www.youtube.com/watch?v=gZQH7ZZoPZ4).
 I'm a butterfly on the wall. At each opporunity, I flutter my wings
 and a little beautiful dust is spinkled on each partner. Gradually
 mutual understanding grows.
+{{% /details %}}
 
 {{% columns %}}
 
