@@ -19,6 +19,18 @@ other schedules can be accommodated.
 The duration of therapy can vary depending on your needs and motivation.
 During the no-fee consultation, we’ll decide together what is the best fit.
 
+### Couples & Dyads
+
+Please, I beg that you regard 90-minute sessions as a **minimum** duration.
+Couples counseling is extremely delicate.
+To work safely, we have to progress slowly, with great caution.
+This takes time.
+
+Here is an analogy: The two partners are full contact mud wrestling.
+I'm a butterfly on the wall. At each opporunity, I flutter my wings
+and a little beautiful dust is spinkled on each partner. Gradually
+mutual understanding grows.
+
 {{% columns %}}
 
 ## Location
