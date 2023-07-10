@@ -21,7 +21,7 @@ During the no-fee consultation, we’ll decide together what is the best fit.
 
 ### Couples & Dyads
 
-Please, I beg that you regard 90-minute sessions as a **minimum** duration.
+I beg that you regard 90-minute sessions as a **minimum** duration.
 Couples counseling is extremely delicate.
 To work safely, we have to progress slowly, with great caution.
 This takes time.
