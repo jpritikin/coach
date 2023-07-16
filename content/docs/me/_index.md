@@ -1,5 +1,5 @@
 ---
-title: My opinion
+title: My opinion ⚠
 type: docs
 weight: 8
 bookToc: true
