@@ -19,14 +19,13 @@ more detailed exploration.
 
 ### History
 
-Despite some
-[fictional](https://www.nytimes.com/2020/01/23/opinion/vibrator-invention-myth.html) elements,
-[Hysteria 2011](https://www.imdb.com/title/tt1435513/) is a charming
+Despite some fictional elements,
+[Hysteria 2011](https://en.wikipedia.org/wiki/Hysteria_(2011_film)) is a charming
 alternate history of the vibrator.
 
-The invention of the polygraph inspired a remarkable film, [Professor Marston & the Wonder Women 2017](https://www.imdb.com/title/tt6133130/).
+The invention of the polygraph inspired a remarkable film, [Professor Marston & the Wonder Women 2017](https://en.wikipedia.org/wiki/Professor_Marston_and_the_Wonder_Women).
 
-Thomas Maier wrote a [history of the first scientific investigation of human sexuality](https://www.basicbooks.com/titles/thomas-maier/masters-of-sex/9780465079995/). The associated miniseries, [Masters of Sex 2013](https://www.imdb.com/title/tt2137109/), incorporates some fictional elements that well complement the extraordinary story.
+Thomas Maier wrote a [history of the first scientific investigation of human sexuality](https://www.basicbooks.com/titles/thomas-maier/masters-of-sex/9780465079995/). The associated miniseries, [Masters of Sex 2013](https://en.wikipedia.org/wiki/Masters_of_Sex), incorporates some fictional elements that well complement the extraordinary story.
 
 ### Science
 
