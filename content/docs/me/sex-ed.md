@@ -47,6 +47,11 @@ Check out [Orgasmic Meditation](https://onetaste.us/)!
 - Despite superficial similarity, Orgasmic Meditation is **not** related to Tantric Buddhism.[^not-tantra]
 - [Exercise caution.](https://www.justice.gov/usao-edny/pr/onetaste-founder-and-former-head-sales-indicted-forced-labor-conspiracy)
 
+### Not too intellectual, erotic, disgusting, tragic
+
+I don't consider myself much of a connoisseur, but no treatment of sex
+is complete without such a specimen: [Love 2015](https://en.wikipedia.org/wiki/Love_(2015_film))
+
 ## Notes
 
 [^not-tantra]: See Scott Carney's [The Monk who F*cked Everything: a Brief History of Print Capital from Tibet to Modern America](https://www.youtube.com/watch?v=ixbxWHuawXo)
