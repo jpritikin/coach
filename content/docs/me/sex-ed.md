@@ -19,6 +19,12 @@ more detailed exploration.
 
 ### History
 
+British primatologist Richard Wrangham [argues](https://en.wikipedia.org/wiki/The_Goodness_Paradox) that humans have domesticated themselves by a process of self-selection similar to the selective breeding of foxes described by Dmitry Belyayev. Perhaps this theory sheds light on the origin of patriarchy.  
+[Feb 25, 2023 Interview](https://www.youtube.com/watch?v=0RhJNhRAugg)
+
+A stunning lemons to lemonade story:
+Based on the non-fiction book *The Honest Courtesan* by Margaret Rosenthal, [the 1998 film](https://en.wikipedia.org/wiki/Dangerous_Beauty) follows Veronica Franco, a courtesan in sixteenth-century Venice who becomes a hero to her city, but later becomes the target of an inquisition by the Church for witchcraft.
+
 Despite some fictional elements,
 [Hysteria 2011](https://en.wikipedia.org/wiki/Hysteria_(2011_film)) is a charming
 alternate history of the vibrator.
