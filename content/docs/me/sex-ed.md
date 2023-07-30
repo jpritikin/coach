@@ -51,6 +51,19 @@ Check out [Orgasmic Meditation](https://onetaste.us/)!
 I don't consider myself much of a connoisseur, but no treatment of sex
 is complete without such a specimen: [Love 2015](https://en.wikipedia.org/wiki/Love_(2015_film))
 
+## Summary
+
+![Anasyrma](anasyrma.webp)
+{.center}
+
+Credit: Lucy Churchill (born 1965 in New York City, raised in UK)  
+"Anasyrma / Vulval Madonna," 2021  
+Sculpted from Caen Limestone  
+410H x 250W x 90D mm
+{.center}
+
+Honor and elevate. Don't degrade and cheapen. Ladies first.
+
 ## Notes
 
 [^not-tantra]: See Scott Carney's [The Monk who F*cked Everything: a Brief History of Print Capital from Tibet to Modern America](https://www.youtube.com/watch?v=ixbxWHuawXo)
