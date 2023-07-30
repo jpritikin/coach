@@ -56,10 +56,7 @@ is complete without such a specimen: [Love 2015](https://en.wikipedia.org/wiki/L
 ![Anasyrma](anasyrma.webp)
 {.center}
 
-Credit: Lucy Churchill (born 1965 in New York City, raised in UK)  
-"Anasyrma / Vulval Madonna," 2021  
-Sculpted from Caen Limestone  
-410H x 250W x 90D mm
+Credit: [Lucy Churchill](https://www.lucychurchill.com/product/anasyrma-vulval-madonna/)
 {.center}
 
 Honor and elevate. Don't degrade and cheapen. Ladies first.
