@@ -189,6 +189,16 @@ The wrist extension prevents my hands from touching my arms or the shirt.
 
 ## Standing-only Pose Ensembles
 
+### Pose: Shark fin
+
+| Pose | Evaluation |
+|---|---|
+| ![back](pose-back.webp) | ![yes](yes.webp) |
+| ![back dull](pose-back-dull.webp) | ![no](no.webp) |
+
+- Wrist and pinky extension
+- Palm facing perpendicular to the center of the salão
+
 ### Pose: Hands with opposite twist
 
 | Closed | Open | evaluation |
@@ -200,16 +210,6 @@ The wrist extension prevents my hands from touching my arms or the shirt.
 - Palm facing palm or perpendicular to the center of the salão (ceiling and floor)
 
 The `open` and `closed` variations just indicate whether the palms are facing or not.
-
-### Pose: Shark fin
-
-| Pose | Evaluation |
-|---|---|
-| ![back](pose-back.webp) | ![yes](yes.webp) |
-| ![back dull](pose-back-dull.webp) | ![no](no.webp) |
-
-- Wrist and pinky extension
-- Palm facing perpendicular to the center of the salão
 
 ## Parody?
 
