@@ -201,7 +201,7 @@ The wrist extension prevents my hands from touching my arms or the shirt.
 
 The `open` and `closed` variations just indicate whether the palms are facing or not.
 
-### Pose: One hand behind back
+### Pose: Shark fin
 
 | Pose | Evaluation |
 |---|---|
