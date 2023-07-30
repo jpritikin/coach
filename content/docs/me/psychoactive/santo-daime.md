@@ -172,8 +172,12 @@ Moving the fingers is like wiggling the petals.
 - Wrist pronation
 - Palm facing ceiling
 
-Of course it is challenging to keep the arm elevated for a long duration,
-but five minutes is feasible. You can always switch arms when you get tired.
+Variations:
+- Both arms ("double umbrella"?)
+- Different angle (shoulder joint can rotate about 90 degrees so play with that)
+
+Of course it is challenging to keep an arm (or arms) elevated for a long duration,
+but five minutes is feasible.
 
 ### Pose: Feather ruffle
 
