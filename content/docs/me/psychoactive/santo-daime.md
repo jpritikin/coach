@@ -106,6 +106,35 @@ None of these pose ensembles incorporate all of the components mentioned above,
 but all of them incorporate some of the components. I also point out similar
 poses that miss opportunities to improve the conductivity of reverence.
 
+### Pose: Umbrella
+
+| sitting | evaluation |
+|---|---|
+| ![umbrella](pose-umbrella.webp) | ![yes](yes.webp) |
+
+- Wrist and pinky extension
+- Wrist pronation
+- Palm facing ceiling
+
+Variations:
+- Both arms ("double umbrella"?)
+- Different angle (shoulder joint can rotate about 90 degrees so play with that)
+
+Of course it is challenging to keep an arm (or arms) elevated for a long duration,
+but five minutes is feasible.
+
+### Pose: Feather ruffle
+
+| sitting | evaluation |
+|---|---|
+| ![hug](pose-hug.webp) | ![yes](yes.webp) |
+
+- Wrist and pinky extension
+- Wrist supination
+- Palm facing self
+
+The wrist extension prevents my hands from touching my arms or the shirt.
+
 ### Pose: Classical worship
 
 | sitting | standing | evaluation |
@@ -161,35 +190,6 @@ With hands raised, this pose is too taxing to hold for more than a brief time.
 
 In the concept image, there is a flower superimposed over my arm/hand.
 Moving the fingers is like wiggling the petals.
-
-### Pose: Umbrella
-
-| sitting | evaluation |
-|---|---|
-| ![umbrella](pose-umbrella.webp) | ![yes](yes.webp) |
-
-- Wrist and pinky extension
-- Wrist pronation
-- Palm facing ceiling
-
-Variations:
-- Both arms ("double umbrella"?)
-- Different angle (shoulder joint can rotate about 90 degrees so play with that)
-
-Of course it is challenging to keep an arm (or arms) elevated for a long duration,
-but five minutes is feasible.
-
-### Pose: Feather ruffle
-
-| sitting | evaluation |
-|---|---|
-| ![hug](pose-hug.webp) | ![yes](yes.webp) |
-
-- Wrist and pinky extension
-- Wrist supination
-- Palm facing self
-
-The wrist extension prevents my hands from touching my arms or the shirt.
 
 ## Standing-only Pose Ensembles
 
