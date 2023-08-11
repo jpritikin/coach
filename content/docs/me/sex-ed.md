@@ -49,7 +49,7 @@ Harrington, M. (2023). *Feminism Against Progress.* Regnery Publishing.
 [Mar 2, 2023 Interview](https://www.youtube.com/watch?v=8-pTX3X4yVE)  
 {{% details "This book is unfortunately written in a conversational stream-of-consciousness style with complex sentence constructions. Here is a simplified summary." %}}
 - Part One examines the history of feminism from the 1600s to around 1950. This information isn't all that important. You can skip this part and get most of the arguments. In my mind, this part is mostly a flex by the author to show that she has done her homework.
-- Part Two describes the three areas that have been disrupted by disembedding, disembodiment, and marketization.
+- Part Two describes the three areas that have been disrupted by disembedding, disembodiment, atomization, and marketization.
   - The relationship between men and women
   - The relationship between mother and child, "the devouring mother"
   - The relationship between mind and body, "meat lego gnosticism"
