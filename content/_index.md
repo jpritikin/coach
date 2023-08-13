@@ -24,7 +24,7 @@ I use **Internal Family Systems**
 ## Areas of Expertise
 
 - Individual emotional & relationship issues (couple or dyad) ❤️
-  - [IFS is similar to other modes of psychotherapy, addressing many of the same conditions.]({{< relref "dsm" >}})
+  - [IFS is similar to psychotherapy, addressing many of the same conditions.]({{< relref "dsm" >}})
   - I provide *counseling* under [ORS 675.825(4)(a)](https://oregon.public.law/statutes/ors_675.825), which allows alternative counselors to practice legally in Oregon without a license.
   - Since I am **not** licensed[^license] in Oregon, I cannot describe myself as a *psychotherapist*. [ORS 675.020](https://oregon.public.law/statutes/ors_675.020)
 - Psychedelic prep & integration 🍄/🐸
@@ -50,7 +50,6 @@ I use **Internal Family Systems**
 - Practicing meditation for more than 30 years.[^meditation] 🧘🏻‍♂️ Can provide cult recovery support.
 - Ph.D. Quantitative Psychology in 2016 from University of
 Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bibliography/56367505/public/?sort=date&direction=ascending) for publications. 🎓
-- Evaluator-participant in 16-hour [MAPS](https://maps.org/) psychedelic education course.
 
 <br/>
 
