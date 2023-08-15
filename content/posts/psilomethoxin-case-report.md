@@ -36,7 +36,6 @@ Mental health professionals such as psychiatrists have often held a patronizing 
 * How similar are the subjective effects of Pm and 5-MeO-DMT?
 * For 5-MeO-DMT, dosage ranges have been categorized into: handshake, hug, and full release. What are suitable dosage ranges for Pm and what should they be called?
 * What is the LD50 dose for Pm? Are there short or long term side effects to using Pm?
-* How can Pm best be used therapeutically? For doses up to about 7.5gm Pm, ordinary cognition is mostly unaffected. Could IFS therapy be conducted during an administration session?
 
 [^benouis-20221228]: [Psilomethoxin: Ingestible 5-MeO-DMT-Ian Benouis, 5-MeO-DMT Information & Vital Education](https://www.youtube.com/watch?v=SeROOGFnwek)
 
