@@ -38,7 +38,9 @@ Although the research has not been done yet, I would also weigh facets that supp
 Based on the above criteria, I have identified two activities that seem particularly promising:
 
 {{% details "Reveal my current favorites" %}}
-- [AcroYoga](https://www.acroyoga.org/)
+- [AcroYoga](https://www.acroyoga.org/)  
+![AcroYoga Camp 2023](acroyogacamp-2023.webp)  
+Me at NW AcroYoga Camp-Out 2023 in Bellingham, WA
 - Brazilian Jiu-Jitsu  
 ![blue belt](blue.webp)  
 Me with [Prof Pete Loncarevich](https://en.wikipedia.org/wiki/Pete_Loncarevich#Brazilian_Jiu-Jitsu) in Jan 2023 🥋
