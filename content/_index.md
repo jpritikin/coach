@@ -44,7 +44,7 @@ I use **Internal Family Systems**
 - [Internal Family Systems](https://ifs-institute.com/practitioners/all/110287)
   - [Intimacy from the Inside Out](https://www.toniherbineblank.com/trainings.html) relationship therapy Basic Training (IFS Level 2) completed Jun 2023.
   - IFS Level 1 completed Nov 2022.
-  - [IFS Continuity Program](https://ifs-institute.com/online-learning) subscriber since Sep 2022.
+  - [IFS Continuity Program](https://learn.ifs-institute.com/ifs-continuity-program/) subscriber since Sep 2022.
   - Working toward [IFS Certification](https://ifs-institute.com/trainings/ifs-certification).
   - Regular consultation with [Kelly Kreutz](https://kellykreutz.com), an IFS Certified Therapist and Approved IFS Clinical Consultant.
 - Practicing meditation for more than 30 years.[^meditation] 🧘🏻‍♂️ Can provide cult recovery support.
