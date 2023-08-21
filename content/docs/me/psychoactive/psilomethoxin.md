@@ -5,7 +5,7 @@ bookToc: false
 
 # Psilomethoxin
 
-Psilomethoxin (Pm) offers soothing comfort similar to MDMA, but without MDMA’s stimulant-like effects.[^pm-subjective]
+Psilomethoxin (Pm) offers soothing comfort similar to MDMA, but without MDMA’s stimulant-like effects.[^pm-subjective] Pm might be an incredibly important discovery because it might be the ideal complement to psychotherapy.[^beres2019]
 
 For more information, read [my case report]({{< relref "psilomethoxin-case-report" >}}).
 
@@ -41,3 +41,5 @@ Sources for this information include:
 sacrament as dried Psilocybe mushroom powder. Although many mushrooms of the Psilocybe genus 
 produce psilocybin and psilocin, the manufacturing process devised by the church ensures that
 psilomethoxin is produced with only trace amounts of psilocybin or psilocin.
+
+[^beres2019]: [Decades ago, ecstasy — yes, MDMA — was used in marriage counseling](https://bigthink.com/neuropsych/decades-ago-mdma-was-used-in-marriage-counseling/)
