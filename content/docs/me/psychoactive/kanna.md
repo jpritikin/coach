@@ -13,6 +13,5 @@ I use an extract with a 2:1 ratio of
 
 ## Applications
 
-- After dinner, helps transition from work to rest
-- Keep alert while driving (try 16mg/hour). Great complement to caffeinated beverages.
+- After dinner, eases transition from work to rest
 - Academic exams
