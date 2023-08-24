@@ -18,8 +18,6 @@ bookToc: false
 <!-- ScheduleOnce button END -->
 </center>
 
-[Jump to details about location and fees.]({{< relref "services"  >}})
-
 ## Client Portal
 
 - New clients [go here](https://joshua-pritikin.clientsecure.me/request/service) to schedule your first session.
@@ -47,7 +45,7 @@ chat https://988lifeline.org/
 
 ## Mailing Address
 
-I am currently only conducting appointments via [telehealth]({{< relref "services"  >}}) and do not have office space. My corporate entity can receive mail at:
+I do not rent office space on an ongoing basis. My corporate entity can receive mail at:
 
 Jpritikin Industries, Inc  
 C/O 15872088 - Corporation Service Company  

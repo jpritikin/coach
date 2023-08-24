@@ -1,7 +1,6 @@
 ---
-title: Services
-type: docs
-weight: 3
+title: 1-on-1
+weight: 2
 bookToc: false
 bookCollapseSection: false
 ---
@@ -9,8 +8,6 @@ bookCollapseSection: false
 # Counseling
 
 I work with individuals and dyads (e.g. couples or two people in a relationship). 🫱🏿‍🫲🏻
-
-By the end of 2023, I may offer counseling to small groups.
 
 ## What does counseling look like?
 
@@ -49,7 +46,7 @@ As I am not licensed, I can work with anyone, anywhere in the world (time-zone p
 
 ## Fees
 
-My rate is $20 per hour for the first two hours. Thereafter, my rate is $100 per hour. Reserve time in 15 min increments. I do not accept insurance. 💰
+My rate is $20 per hour for the first hour. Thereafter, my rate is $100 per hour. Reserve time in 15 min increments. I do not accept insurance. 💰
 
 People with low income, or veterans or active military may request a sliding scale rate.
 
