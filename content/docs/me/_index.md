@@ -19,7 +19,8 @@ This area of my website is the safe space for me to broadcast my opinions.
 
 ## No Secrets
 
-In a past life, I contributed to science and free and open source software, and I am proud of that.
+In my previous career,
+I contributed to science and free and open source software, and I am proud of that.
 I continue to carry some of the same ethical principles forward as a counselor.
 Specifically, I reject secrecy in the sense that I have
 no paywall or subscription for my website content. I have and
