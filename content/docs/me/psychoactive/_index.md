@@ -7,7 +7,7 @@ bookToc: true
 
 # Psychoactive Drugs
 
-{{% details "Nora Volkow interview May 25, 2023" %}}
+{{< details "Nora Volkow interview May 25, 2023" >}}
 Nora D. Volkow, MD, is Director of the National Institute on Drug Abuse (NIDA) at the National Institutes of Health
 
 https://www.youtube.com/watch?v=v1zVAOdzynk&t=2383s
@@ -60,15 +60,15 @@ When an issue becomes politicized, then it  becomes much harder to change and sh
 And we've seen, I think, that we've  seen over the past, I would say,
 certainly, five or eight years, an openness to  recognizing that the War on Drugs did not work
 and that criminalizing drug users is basically  negative and it's promoting structural racism. 
-{{% /details %}}
+{{< /details >}}
 
-{{% details "Show me research on drug harms in the UK" %}}
+{{< details "Show me research on drug harms in the UK" >}}
 
 ![Drug harms](nutt-2010-fig2.png)
 
 Nutt, D. J., King, L. A., & Phillips, L. D. (2010). Drug harms in the UK: a multicriteria decision analysis. *The Lancet, 376*(9752), 1558-1565.
 
-{{% /details %}}
+{{< /details >}}
 
 Also check out:
 - [Decriminalize Our Minds](https://www.decriminalizeourminds.org/)
@@ -102,11 +102,11 @@ I have personal experience with
 *   Psilomethoxin ([orally active 5-methoxy-N,N-dimethyltryptamine](https://www.youtube.com/watch?v=SeROOGFnwek)) 🐸
 
 I am a member of
-- [Santo Daime](https://en.wikipedia.org/wiki/Santo_Daime)[^catholic] (link to [hymns](http://daimebooks.org))
-   {{% details "I received my star 24 June 2023." %}}  
-   ![Star](star.webp)  
-   Me with [Padrinho Jonathan Goldman](https://casetext.com/case/church-of-holy-light-of-queen-v-mukasey-2)  
-   {{% /details %}}
+- [Santo Daime](https://en.wikipedia.org/wiki/Santo_Daime)[^catholic] (link to [hymns](http://daimebooks.org))  
+{{< details "I received my star 24 June 2023." >}}  
+![Star](star.webp)  
+Me with [Padrinho Jonathan Goldman](https://casetext.com/case/church-of-holy-light-of-queen-v-mukasey-2)  
+{{< /details >}}
 - [Church of Sacred Synthesis](https://psilomethoxin.com/?sld=jpritikin)
 - [Sacred Garden Church](https://sacredgarden.life/)
 

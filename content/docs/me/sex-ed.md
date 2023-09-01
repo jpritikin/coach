@@ -47,17 +47,19 @@ https://iomfoundation.org/
 
 Harrington, M. (2023). *Feminism Against Progress.* Regnery Publishing.  
 [Mar 2, 2023 Interview](https://www.youtube.com/watch?v=8-pTX3X4yVE)  
-{{% details "This important book is unfortunately written in a conversational stream-of-consciousness style with complex sentence constructions. Here is a simplified summary." %}}
-- Part One examines the history of feminism from the 1600s to around 1950. This information isn't all that important. You can skip this part and get most of the arguments. In my mind, this part is mostly a flex by the author to show that she has done her homework.
-- Part Two describes the three areas that have been disrupted by disembedding, disembodiment, atomization, and marketization.
+{{< hint info >}}
+{{< details "This important book is unfortunately written in a conversational stream-of-consciousness style with complex sentence constructions. Here is a simplified summary." >}}
+- **Part One** examines the history of feminism from the 1600s to around 1950. This information isn't all that important. You can skip this part and get most of the arguments. In my mind, this part is mostly a flex by the author to show that she has done her homework.
+- **Part Two** describes the three areas that have been disrupted by disembedding, disembodiment, atomization, and marketization.
   - The relationship between men and women
   - The relationship between mother and child, "the devouring mother"
   - The relationship between mind and body, "meat lego gnosticism"
-- Part Three suggests some ways to address the aforementioned problems.
+- **Part Three** suggests some ways to address the aforementioned problems.
   - Commit to marriage and take advantage of work-from-home compatible jobs to better share the responsibility of caring for family members.
   - Don't blindly favor androgynous associations. Embodied sex can make a difference. Examples of where biological sex segregation is appropriate include Boy/Girl Scouts, small military units, and prisons. Examples where sex segregation is usually inappropriate include elite executive golf clubs and corporate boards of directors.
   - Abstain from hormonal birth control. That is not to argue against all types of family planning, but to reject casual, no-consequence sexual encounters.
-{{% /details %}}
+{{< /details >}}
+{{< /hint >}}
 
 Clark-Flory, T. (2021). *Want Me: A Sex Writer's Journey into the Heart of Desire.* Penguin Books.
 

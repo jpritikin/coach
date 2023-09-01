@@ -43,7 +43,7 @@ People can become too enthusiastic about meditation. Jamie Wheal did a
 marvelous job of describing the dysfunctional social situations that can
 happen in his 2021 book *Recapture the Rapture* and is worth quoting at length:
 
-{{% details "Show quote" %}}
+{{< details "Show quote" >}}
 {{< hint info >}}
 1. Grabbing the One Ring of Power   
 Absolute power corrupts absolutely. Like in Lord of the Rings, don’t be the misguided
@@ -131,7 +131,7 @@ entire mythology. Key decisions and commitments are encouraged or forced while i
 non-ordinary states, rather than deferring until a person returns to clearheaded
 sobriety and can offer full consent.
 {{< /hint >}}
-{{% /details %}}
+{{< /details >}}
 
 {{< hint info >}}
 Non-placebo sacraments are our highest ranking teacher because
