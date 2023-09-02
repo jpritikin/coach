@@ -19,10 +19,8 @@ enableGitInfo = true
   BookRepo = 'https://github.com/jpritikin/coach'
   BookSearch = false
 
-[module]
-[[module.imports]]
-    path = "hugo-atom-feed"
+languageCode = "en-us"
 
-[outputs]
-  # <domain>/posts/atom.xml
-  section = ["HTML", "RSS", "ATOM"]
+[Author]
+    name = "Joshua N. Pritikin"
+    email = "bro@joshuapritikin.com"
