@@ -18,3 +18,11 @@ enableGitInfo = true
   BookTheme = 'light'
   BookRepo = 'https://github.com/jpritikin/coach'
   BookSearch = false
+
+[module]
+[[module.imports]]
+    path = "hugo-atom-feed"
+
+[outputs]
+  # <domain>/posts/atom.xml
+  section = ["HTML", "RSS", "ATOM"]
