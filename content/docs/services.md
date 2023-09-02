@@ -14,7 +14,7 @@ By the end of 2023, I may offer counseling to small groups.
 
 ## What does counseling look like?
 
-As a default, I recommend 75-minute sessions on a weekly basis. However,
+As a default, I recommend 75-minute sessions every week. However,
 other schedules can be accommodated.
 The duration of therapy can vary depending on your needs and motivation.
 During the no-fee consultation, we’ll decide together what is the best fit.
@@ -28,8 +28,8 @@ This takes time.
 
 {{< details "Reveal lighthearted analogy" >}}
 The two partners are [full contact mud wrestling](https://www.youtube.com/watch?v=gZQH7ZZoPZ4).
-I'm a butterfly on the wall. At each opporunity, I flutter my wings
-and a little beautiful dust is spinkled on each partner. Gradually
+I'm a butterfly on the wall. At each opportunity, I flutter my wings,
+and a little beautiful dust is sprinkled on each partner. Gradually
 mutual understanding grows.
 {{< /details >}}
 
