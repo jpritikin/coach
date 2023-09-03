@@ -22,7 +22,7 @@ discovery from Sahaja Yoga is that the chakras are associated with
 regions on the hands (see figure on right). This is fortunate since it
 quickly becomes tiring to keep the right hand lifted above the
 head. Switch back and forth between the saharsara areas on the head
-and left hand whenever you feel fatigue.
+and left hand whenever you feel fatigued.
 
 How you attend to these maneuvers is of critical importance. 
 Feel into the fingertips of your right hand and the current

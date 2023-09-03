@@ -34,7 +34,7 @@ can maneuver the candle behind your back up and down on the left side.
 
 Candle treatment clears the emotional side. This can be a relief if
 you are in a relaxing environment, but can be difficult in a stressful
-environment. As your left side gets clear, you become more sensitive
+environment. As your left side gets clearer, you become more sensitive
 to the environment.
 
 ## Credit

@@ -6,7 +6,7 @@ bookToc: false
 
 # Cold exposure
 
-Do [foot soaking]({{< relref "foot-soak" >}}) but with ice cold water.
+Do [foot soaking]({{< relref "foot-soak" >}}) but with ice-cold water.
 
 Don't combine this with [withdrawal of the senses]({{< relref "senses" >}})
 because you should use all of your attention to relax your

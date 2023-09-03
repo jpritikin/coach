@@ -143,7 +143,7 @@ Which psychedelic poses the least risk to the naive user?
 ### Serotonin
 
 Some of the most popular psychoactive substances operate by modulating the serotonin system.
-Serotonin is important because it is, in part, responsible for regulation of serenity.[^olivier1990]
+Serotonin is important because it is, in part, responsible for the regulation of serenity.[^olivier1990]
 Serotonin is also known as 5-hydroxytryptamine, or abbreviated, 5-HT.
 There are at least 14 different serotonin receptors that allow cells
 to respond in various ways to the presence of serotonin. The two most prevalent brain receptors

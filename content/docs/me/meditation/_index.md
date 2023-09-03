@@ -27,7 +27,7 @@ traditions of many of the world's major religions. For example,
 
 I have also studied with a handful of contemporary meditation
 teachers.[^lenz] What I learned is that there is not much consensus about the
-precise defintion of *meditation*. I prefer to define meditation in
+precise definition of *meditation*. I prefer to define meditation in
 IFS terms:
 
 {{< hint info >}}
@@ -39,7 +39,7 @@ free to radiate Self energy.
 In some traditions, there is a notion of *enlightenment* or
 *liberation* that demarcates some stage of personal transformation.
 However, we should not be satisfied with personal transformation of any degree;
-the appropriate benchmark for attainment is global, societal transformation.
+The appropriate benchmark for attainment is global, societal transformation.
 Everybody should have the opportunity to climb Maslow's pyramid.
 
 ![Maslow's needs](maslow-needs2.webp)

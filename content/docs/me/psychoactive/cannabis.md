@@ -13,7 +13,7 @@ Cannabis can facilitate many different kinds of experiences, some
 psychedelic.
 
 {{< hint info >}}
-Whether a substance has a psychedelic effect is, in a large part,
+Whether a substance has a psychedelic effect is, in large part,
 a matter of intention, not an inherent property of the substance.
 {{< /hint >}}
 

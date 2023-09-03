@@ -9,7 +9,7 @@ bookToc = false
 
 [Universal basic income (UBI)](https://en.wikipedia.org/wiki/Universal_basic_income) is a social and economic policy concept that entails providing all residents of a country with a regular and unconditional financial payment from the government. This payment is designed to cover essential living expenses and ensure a basic standard of living, irrespective of a person's employment status or income level. The primary aim of UBI is to alleviate poverty, reduce inequality, and provide a safety net in the face of technological advancements that might disrupt traditional job markets.
 
-My opinion is that UBI is a proposal that superficially sounds good, but is designed to fail. If the goal of a UBI is to cover essential living expenses then, why not instead, provide a basic standard of living for free. Handing out UBI to cover essential living expenses is actually an invitation for people to misuse funds. For example, suppose I take my UBI and spend it on lottery tickets (i.e., a near zero expected value investment). I can no longer pay for my essential living expenses and become a public charge, exactly what UBI is intended to prevent. UBI adds an unnecessary level of indirection.[^wheeler] The best way to provide a basic standard of living for free is to do precisely that without a UBI.
+My opinion is that UBI is a proposal that superficially sounds good, but is designed to fail. If the goal of a UBI is to cover essential living expenses then, why not instead, provide a basic standard of living for free? Handing out UBI to cover essential living expenses is actually an invitation for people to misuse funds. For example, suppose I take my UBI and spend it on lottery tickets (i.e., a near-zero expected value investment). I can no longer pay for my essential living expenses and become a public charge, exactly what UBI is intended to prevent. UBI adds an unnecessary level of indirection.[^wheeler] The best way to provide a basic standard of living for free is to do precisely that without a UBI.
 
 ## Means-Testing
 
@@ -34,7 +34,7 @@ Just make 'em free:
 - Communication
 - Education
 - Healthcare
-- Transportion
+- Transportation
 
 ## Notes
 

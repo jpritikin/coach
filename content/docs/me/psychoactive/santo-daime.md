@@ -120,7 +120,7 @@ Variations:
 - Both arms ("double umbrella"?)
 - Different angle (shoulder joint can rotate about 90 degrees so play with that)
 
-Of course it is challenging to keep an arm (or arms) elevated for a long duration,
+Of course, it is challenging to keep an arm (or arms) elevated for a long duration,
 but five minutes is feasible.
 
 ### Pose: Feather ruffle

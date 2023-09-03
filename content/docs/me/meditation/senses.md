@@ -39,6 +39,6 @@ calm from mindful breathing.
 
 ## Notes
 
-[^effortless]: A blindfold may be preferrable because
+[^effortless]: A blindfold may be preferable because
 keeping the eyes closed involves some effort. Ideally,
 withdrawal of the senses should be completely effortless.

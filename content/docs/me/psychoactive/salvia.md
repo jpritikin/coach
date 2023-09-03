@@ -44,7 +44,7 @@ Another research result, temporary memory impairment, I believe is a true findin
 
 ### Above the Clouds?
 
-In describing how to navigate altered states, there is a certain apt analogy that I have heard from fellow psychonauts. Imagine an airplane sitting motionless on the runway waiting for takeoff. The airplane takes off, rapidly gains altitude, banks hard to change direction, and hits some turbulence. Suppose rain is coming down, there are lightening strikes, and the wind is constantly changing direction. Finally, the airplane breaks upward through the ceiling of the clouds. Although the airspeed keeps increasing, the ride is smooth and the sun is shining gloriously.
+In describing how to navigate altered states, there is a certain apt analogy that I have heard from fellow psychonauts. Imagine an airplane sitting motionless on the runway waiting for takeoff. The airplane takes off, rapidly gains altitude, banks hard to change direction, and hits some turbulence. Suppose rain is coming down, there are lightning strikes, and the wind is constantly changing direction. Finally, the airplane breaks upward through the ceiling of the clouds. Although the airspeed keeps increasing, the ride is smooth and the sun is shining gloriously.
 
 | airplane      | mental state |
 | ------------- | -----------  |
@@ -56,9 +56,9 @@ Volition without distraction is how to navigate the transitional, unstable milie
 
 ### Test Flight
 
-I favor the traditional method of quid chewing because more time is available to acclimate to the salvia experience. Although I have not checked personally, alcohol-based tinctures should work similarly. I am skeptical about the water pipe method due to the shorter duration of effect. To extend the duration, Christopher Solomon developed a special pipe that makes it somewhat easier to smoke five doses in sequence. I have not tried this pipe, but I suspect that the additional planning and decision making required to use it would interfere with the process of acclimation, described below.
+I favor the traditional method of quid chewing because more time is available to acclimate to the salvia experience. Although I have not checked personally, alcohol-based tinctures should work similarly. I am skeptical about the water pipe method due to the shorter duration of effect. To extend the duration, Christopher Solomon developed a special pipe that makes it somewhat easier to smoke five doses in sequence. I have not tried this pipe, but I suspect that the additional planning and decision-making required to use it would interfere with the process of acclimation, described below.
 
-I ordered dried leaves online from Arena Ethnobotanicals, a now-defunct herb vendor formerly based in Carlsbad, California. As I mentioned before, gravity waves are the key to navigating salvia. The distinctive waves cross sensory modalities. For example, a single wave can be both visual and tactile simultaneously. The waves represent an opportunity for your attention to drift off into experiential repetition. This is the temptation that is bleeding through your senses.[^synesthesia] Salvia magnifies gravity waves, makes them obvious, but they are present in an ordinary state of mind, just subtle. I remember feeling the gravity waves as an infant. These are my earliest, not altogether pleasant, memories.
+I ordered dried leaves online from Arena Ethnobotanicals, a now-defunct herb vendor formerly based in Carlsbad, California. As I mentioned before, gravity waves are the key to navigating salvia. The distinctive waves cross-sensory modalities. For example, a single wave can be both visual and tactile simultaneously. The waves represent an opportunity for your attention to drift off into experiential repetition. This is the temptation that is bleeding through your senses.[^synesthesia] Salvia magnifies gravity waves, makes them obvious, but they are present in an ordinary state of mind, just subtle. I remember feeling the gravity waves as an infant. These are my earliest, not altogether pleasant, memories.
 
 If your attention follows a gravity wave then it is like entering a hall of mirrors. The repetitions are not exact, but there is a mixture of distortion and repetition. An analogy is your appearance when you place yourself between two mirrors that are facing each other. The repetitions of the image are most accurate near the center of the mirrors and grow in distortion toward the edges. Beyond the edges are dissociation and hallucination. If you are alert enough then you will not dissociate but saccade your attention back to the center, the present moment.
 
@@ -76,11 +76,11 @@ So you dissociated. It happens to everybody. Design a least demanding environmen
 
 Once you are confident that you can remain at the origin, stand up. Walk around. Be forewarned that any distraction may cause you to dissociate and lose consciousness. This may seem precarious at first, but with a little practice, you can remain firmly in control. Salvia trains a mental focusing process similar to mindfulness, but differs from many types of meditation that also include some emotional focus. The salvia effect is orthogonal to emotion. Test your degree of control. Try reading a few sentences. Try cooking a simple recipe. Needless to say, do not attempt dangerous tasks like driving a car or operating heavy machinery. If you want to challenge yourself then I have an idea that I will save for the end of this article.
 
-There are lots of videos on the Internet documenting people that are
+There are lots of videos on the Internet documenting people who are
 out of their minds after smoking salvia. Such trip reports can be
 entertaining, similar to narrative retelling of dreams. However, how
 much skill is required to lose control and act like a mad person? Why
-not try to meet the challenge of salvia in a skillful way?
+not try to meet the challenge of salvia skillfully?
 
 ### Reaching Higher
 
@@ -98,7 +98,7 @@ Salvia offers no feeling of euphoria and is not a social drug. Why bother using 
 
 ### About the author
 
-I have practiced meditation for more than 30 years and worked as a software engineer for almost as long. I earned a Ph.D. in quantitative psychology from University of Virginia in 2016. I earned a rank of blue belt in Brazilian jiu jitsu.
+I have practiced meditation for more than 30 years and worked as a software engineer for almost as long. I earned a Ph.D. in quantitative psychology from University of Virginia in 2016. I earned a rank of blue belt in Brazilian jiu-jitsu.
 
 ## Future Research
 
@@ -107,7 +107,7 @@ I have practiced meditation for more than 30 years and worked as a software engi
 I have described a particular way to navigate the salvia trip. Those who learn this navigational approach, let us call them salvia surfers. Human research on salvia should be revisited to consider including a comparison group of salvia surfers. For example:
 
 *   Subjective effects: Relative to passives on the HRS, I would expect surfers to find less somaesthesia, neutral affect, less impaired cognition, less perceptual distortion, high volition, and similarly high intensity.
-*   Functional connectivity: Recent work has compared brains of healthy hallucinogen-using adults with and without salvia.[^doss2020] This prompts similar imaging experiments involving salvia surfers.
+*   Functional connectivity: Recent work has compared the brains of healthy hallucinogen-using adults with and without salvia.[^doss2020] This prompts similar imaging experiments involving salvia surfers.
 
 ### What is the salvia experience?
 
@@ -138,7 +138,7 @@ There is [at least one case report](https://medium.com/an-idea/meeting-the-shepa
 
 
 
-[^synesthesia]: Synesthesia juxtapositions the information from one sense into another (e.g., hearing colors). The medium where the gravity waves exist is not a sense per-se, but a property of attention.
+[^synesthesia]: Synesthesia juxtapositions the information from one sense into another (e.g., hearing colors). The medium where the gravity waves exist is not a sense per se, but a property of attention.
 
 [^doss2020]: Doss, M. K., May, D. G., Johnson, M. W., Clifton, J. M., Hedrick, S. L., Prisinzano, T. E., ... & Barrett, F. S. (2020). The acute effects of the atypical dissociative hallucinogen salvinorin A on functional connectivity in the human brain. *Scientific Reports, 10*(1), 1--12.
 
