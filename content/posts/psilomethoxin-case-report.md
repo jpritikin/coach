@@ -37,6 +37,12 @@ Mental health professionals such as psychiatrists have often held a patronizing 
 * For 5-MeO-DMT, dosage ranges have been categorized into: handshake, hug, and full release. What are suitable dosage ranges for Pm and what should they be called?
 * What is the LD50 dose for Pm? Are there short or long-term side effects to using Pm?
 
+## Addendum
+
+- [Psilomethoxin, My Case Report (Addendum #1)](/posts/psilomethoxin-case-report-addendum1).
+
+## Notes
+
 [^benouis-20221228]: [Psilomethoxin: Ingestible 5-MeO-DMT-Ian Benouis, 5-MeO-DMT Information & Vital Education](https://www.youtube.com/watch?v=SeROOGFnwek)
 
 [^mdma-effects]: [MDMA at Erowid](https://erowid.org/chemicals/mdma/mdma_effects.shtml)
