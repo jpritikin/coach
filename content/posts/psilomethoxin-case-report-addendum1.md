@@ -16,6 +16,8 @@ For traditional psychedelics, an exit valve is an aspiration.[^wolswijk2022] For
 
 Pm will not do anything without your consent. Pm respects your choice.
 
+That is not to say that Pm has no inherent risk for anybody. This is just a small step toward characterizing its risk.
+
 For background, see [Psilomethoxin, My Case Report](/posts/psilomethoxin-case-report).
 
 ## Notes
