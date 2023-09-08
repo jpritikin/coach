@@ -20,13 +20,13 @@ We will be in touch.
 
 ### Men's Group
 
-This group is for men with the following profile:
+Due to my own limited background and expertise, this group is for men with the following profile:
 
 - biologically male at birth
 - cisgender
 - heterosexual
 
-Please look elsewhere if you are gay, bisexual, or transgender.
+No disrespect, but please look elsewhere if you are gay, bisexual, or transgender.
 
 **Brotherhood of Understanding**: Forge genuine connections, share insights, and build a strong network of support among men who are walking similar paths.
 
