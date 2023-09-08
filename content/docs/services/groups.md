@@ -20,6 +20,14 @@ We will be in touch.
 
 ### Men's Group
 
+This group is for men with the following profile:
+
+- biologically male at birth
+- cisgender
+- heterosexual
+
+Please look elsewhere if you are gay, bisexual, or transgender.
+
 **Brotherhood of Understanding**: Forge genuine connections, share insights, and build a strong network of support among men who are walking similar paths.
 
 **Explore Masculinity**: Dive into discussions about masculinity, societal expectations, relationships, emotional well-being, and personal growth. Challenge stereotypes, embrace authenticity, and redefine what it means to be a man in today's evolving world.
