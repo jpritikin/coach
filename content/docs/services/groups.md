@@ -18,8 +18,10 @@ We will be in touch.
 
 ## Themes
 
-### Men's Group
+### Men's Group ♂
 
+{{< hint info >}}
+{{< details "What do you mean by 'men'?" >}}
 Due to my own limited background and expertise, this group is for men with the following profile:
 
 - biologically male at birth
@@ -27,6 +29,8 @@ Due to my own limited background and expertise, this group is for men with the f
 - heterosexual
 
 No disrespect, but please look elsewhere if you are gay, bisexual, or transgender.
+{{< /details >}}
+{{< /hint >}}
 
 **Brotherhood of Understanding**: Forge genuine connections, share insights, and build a strong network of support among men who are walking similar paths.
 
