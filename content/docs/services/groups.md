@@ -18,7 +18,7 @@ We will be in touch.
 
 ## Themes
 
-### Men's Group ♂
+### Heterosexual Men's Group ♂
 
 {{< hint info >}}
 {{< details "What do you mean by 'men'?" >}}
