@@ -46,7 +46,7 @@ As I am not licensed, I can work with anyone, anywhere in the world (time-zone p
 
 ## Fees
 
-My rate is $20 per hour for the first hour. Thereafter, my rate is $100 per hour. Reserve time in 15 min increments. I do not accept insurance. 💰
+My rate is $100 per hour. Reserve time in 15 min increments. I do not accept insurance. 💰
 
 People with low income, or veterans or active military may request a sliding scale rate.
 
