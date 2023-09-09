@@ -38,7 +38,11 @@ No disrespect, but please look elsewhere if you are gay, bisexual, or transgende
 
 **Cultivate Inner Resilience**: Whether you're facing transitions, personal hurdles, or seeking self-improvement, our group offers a space for growth and healing.
 
-### Psychedelic Integration Group (*open to any gender*)
+### Psychedelic Integration Group
+
+{{< hint info >}}
+This theme is open to all regardless of biological sex, gender identity, or sexual orientation.
+{{< /hint >}}
 
 Harness the power of IFS to navigate the intricate landscapes of your mind unveiled by psychedelics. This innovative psychotherapeutic method recognizes that within each of us exists a diverse internal family of subpersonalities, each with its own voice, needs, and wounds. By engaging with these facets of your psyche, IFS guides you in developing a compassionate and healing relationship with yourself.
 
