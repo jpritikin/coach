@@ -67,6 +67,7 @@ Check out [Orgasmic Meditation](https://onetaste.us/)!
 - Compare the 2023 May 16 presentation [Climax and Goallessness with Yia](https://om.instituteofom.com/live_events/climax-and-goallessness-with-yia/replay) with [effortless meditation]({{< relref "untie" >}}).
 - Despite the superficial similarity, Orgasmic Meditation is **not** related to Tantric Buddhism.[^not-tantra]
 - [Exercise caution.](https://www.justice.gov/usao-edny/pr/onetaste-founder-and-former-head-sales-indicted-forced-labor-conspiracy)
+- Heard enough? [Learn how to do the practice](https://om.instituteofom.com/)
 
 ### Not too intellectual, erotic, disgusting, tragic
 
