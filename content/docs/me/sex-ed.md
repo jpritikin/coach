@@ -69,6 +69,9 @@ Check out [Orgasmic Meditation](https://onetaste.us/)!
 - [Exercise caution.](https://www.justice.gov/usao-edny/pr/onetaste-founder-and-former-head-sales-indicted-forced-labor-conspiracy)
 - Heard enough? [Learn how to do the practice](https://om.instituteofom.com/)
 
+Menakem, R. (2023). *Monsters in Love: Why Your Partner Sometimes Drives You Crazy - And What You Can Do About It.* Central Recovery Press.  
+[May 16, 2023 Interview](https://www.theverifiedpodcast.com/resmaa-menakem-speaks-on-couples-in-conflict-new-book-monsters-in-love-more/)
+
 ### Not too intellectual, erotic, disgusting, tragic
 
 I don't consider myself much of a connoisseur, but no treatment of sex
