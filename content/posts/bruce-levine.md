@@ -1,6 +1,6 @@
 +++
 title = "Bruce Levine on the crisis of contemporary psychiatry"
-tags = ["politics", "opinion"]
+tags = ["politics", "opinion", "book"]
 date = "2023-09-06"
 categories = ["essay"]
 menu = "main"

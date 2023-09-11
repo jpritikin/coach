@@ -1,6 +1,6 @@
 +++
 title = "Does APA membership carry a stigma?"
-tags = ["politics", "opinion"]
+tags = ["politics", "opinion", "book"]
 date = "2023-09-05"
 categories = ["essay"]
 menu = "main"

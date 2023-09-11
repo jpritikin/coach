@@ -1,6 +1,6 @@
 +++
 title = "Three Felonies a Day: How the Feds Target the Innocent"
-tags = ["law", "criminal justice"]
+tags = ["law", "criminal justice", "book"]
 date = "2023-07-16"
 categories = ["book"]
 menu = "main"
