@@ -12,6 +12,7 @@ weight: 101
 - https://equalcitizens.us/
 - https://www.demnext.org/
 - https://www.starvoting.org/
+- https://www.citizen.org/
 - https://nader.org/
 - https://www.nationalpopularvote.com/
 - https://nuclearhotseat.com/
