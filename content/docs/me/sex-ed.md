@@ -69,8 +69,7 @@ Check out [Orgasmic Meditation](https://onetaste.us/)!
 - [Exercise caution.](https://www.justice.gov/usao-edny/pr/onetaste-founder-and-former-head-sales-indicted-forced-labor-conspiracy)
 - Heard enough? [Learn how to do the practice](https://om.instituteofom.com/)
 
-Menakem, R. (2023). *Monsters in Love: Why Your Partner Sometimes Drives You Crazy - And What You Can D
-o About It.* Central Recovery Press.  
+Menakem, R. (2023). *Monsters in Love: Why Your Partner Sometimes Drives You Crazy - And What You Can Do About It.* Central Recovery Press.  
 {{< hint info >}}
 Excellent, except for Chapter 37 "Healthy Monsters and Healing Relationships." Instead, I recommend my pages on [health]({{< relref "health" >}}) and [exercise]({{< relref "exercise" >}}).  
 [May 16, 2023 Interview](https://www.theverifiedpodcast.com/resmaa-menakem-speaks-on-couples-in-conflict-new-book-monsters-in-love-more/)
