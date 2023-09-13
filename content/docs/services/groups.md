@@ -37,17 +37,29 @@ This theme is **open to all parents** regardless of biological sex, gender ident
 
 **Embrace the Wholeness of Parenthood**: Parenthood is a journey of self-discovery, and IFS is your ultimate companion. Whether you're dealing with challenging behavior in your children, juggling multiple roles, or simply seeking more fulfillment as a parent, IFS can guide you toward a richer, more rewarding experience.
 
+### Male Identity Group ♂
+
+{{< hint info >}}
+Open to all who identify as male including gay, bisexual, transgender, or queer.
+{{< /hint >}}
+
+**Brotherhood of Understanding**: Forge genuine connections, share insights, and build a strong network of support among men who are walking similar paths.
+
+**Explore Masculinity**: Dive into discussions about masculinity, societal expectations, relationships, emotional well-being, and personal growth. Challenge stereotypes, embrace authenticity, and redefine what it means to be a man in today's evolving world.
+
+**Cultivate Inner Resilience**: Whether you're facing transitions, personal hurdles, or seeking self-improvement, our group offers a space for growth and healing.
+
 ### Heterosexual Men's Group ♂
 
 {{< hint info >}}
 {{< details "What do you mean by 'men'?" >}}
-Due to my own limited background and expertise, this group is for men with the following profile:
+This group is for men with the following profile:
 
 - biologically male at birth
 - cisgender
 - heterosexual
 
-No disrespect, but please look elsewhere if you are gay, bisexual, or transgender.
+If you are gay, bisexual, or transgender then consider the Male Identity Group.
 {{< /details >}}
 {{< /hint >}}
 
