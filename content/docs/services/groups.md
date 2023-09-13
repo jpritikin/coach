@@ -49,26 +49,6 @@ Open to all who identify as male including gay, bisexual, transgender, or queer.
 
 **Cultivate Inner Resilience**: Whether you're facing transitions, personal hurdles, or seeking self-improvement, our group offers a space for growth and healing.
 
-### Heterosexual Men's Group ♂
-
-{{< hint info >}}
-{{< details "What do you mean by 'men'?" >}}
-This group is for men with the following profile:
-
-- biologically male at birth
-- cisgender
-- heterosexual
-
-If you are gay, bisexual, or transgender then consider the Male Identity Group.
-{{< /details >}}
-{{< /hint >}}
-
-**Brotherhood of Understanding**: Forge genuine connections, share insights, and build a strong network of support among men who are walking similar paths.
-
-**Explore Masculinity**: Dive into discussions about masculinity, societal expectations, relationships, emotional well-being, and personal growth. Challenge stereotypes, embrace authenticity, and redefine what it means to be a man in today's evolving world.
-
-**Cultivate Inner Resilience**: Whether you're facing transitions, personal hurdles, or seeking self-improvement, our group offers a space for growth and healing.
-
 ### Psychedelic Integration Group
 
 {{< hint info >}}
