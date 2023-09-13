@@ -8,8 +8,8 @@ bookCollapseSection: false
 
 # Groups
 
-I facilitate online Healing Circles of 4-6 people.
-Groups meet for 90 min sessions every week.[^in-person]
+I facilitate Healing Circles of 4-6 people.
+Groups meet weekly in 90 min sessions.
 To convene a group, there has to be a coincidence of wants:
 a mutually acceptable meeting time slot and theme.
 If one of the themes listed below appeals to you,
@@ -18,6 +18,10 @@ If one of the themes listed below appeals to you,
 {.center}
 
 We will be in touch within 8 days.
+
+## Location 🌎
+
+Groups meet online using video 📹 conference software.[^in-person] I am located in Oregon (near California).[^native]
 
 ## Themes
 
@@ -101,3 +105,8 @@ This amount is for the whole series of more than 10 hours of group work.
 ## Notes
 
 [^in-person]: In the future, I may offer in-person options either near my home or retreat-style week-long intensives.
+
+[^native]: I acknowledge that I live on the traditional
+territory of the Shasta; Confederated Tribes of Siletz Indians;
+Confederated Tribes of Grand Ronde; Cayuse, Umatilla and Walla Walla;
+Cow Creek Umpqua; Takelma; and Modoc. See https://native-land.ca/
