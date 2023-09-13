@@ -67,15 +67,15 @@ Harness the power of IFS to navigate the intricate landscapes of your mind unvei
 
 When paired with the insights and expanded consciousness facilitated by psychedelics, IFS offers a synergistic approach that enables you to:
 
-1. **Deepen Self-Awareness:** Navigate the depths of your psyche, uncovering the roots of past traumas, fears, and patterns that may have held you back. Psychedelic experiences can provide initial insights, while IFS facilitates ongoing exploration and integration.
+- **Deepen Self-Awareness:** Navigate the depths of your psyche, uncovering the roots of past traumas, fears, and patterns that may have held you back. Psychedelic experiences can provide initial insights, while IFS facilitates ongoing exploration and integration.
 
-2. **Harmonize Inner Conflicts:** Just as psychedelics can offer a fresh perspective, IFS empowers you to mediate conflicts and tensions within your internal family. By acknowledging and nurturing these parts, you foster inner harmony and create a foundation for personal growth.
+- **Harmonize Inner Conflicts:** Just as psychedelics can offer a fresh perspective, IFS empowers you to mediate conflicts and tensions within your internal family. By acknowledging and nurturing these parts, you foster inner harmony and create a foundation for personal growth.
 
-3. **Cultivate Self-Compassion:** Psychedelic journeys can be intense and emotionally charged. IFS equips you with tools to embrace and comfort these heightened emotions, fostering a sense of self-compassion that carries forward into your daily life.
+- **Cultivate Self-Compassion:** Psychedelic journeys can be intense and emotionally charged. IFS equips you with tools to embrace and comfort these heightened emotions, fostering a sense of self-compassion that carries forward into your daily life.
 
-4. **Navigate Ego Dissolution:** IFS provides a structured approach to navigate the dissolution of ego boundaries often experienced during psychedelic trips. By understanding these states and engaging with them in a safe and guided manner, you can glean invaluable insights for personal evolution.
+- **Navigate Ego Dissolution:** IFS provides a structured approach to navigate the dissolution of ego boundaries often experienced during psychedelic trips. By understanding these states and engaging with them in a safe and guided manner, you can glean invaluable insights for personal evolution.
 
-5. **Integration for Lasting Change:** The integration of psychedelic experiences is essential for meaningful transformation. IFS offers a structured and gradual process to incorporate insights gained during your journeys, translating them into tangible shifts in your daily life.
+- **Integration for Lasting Change:** The integration of psychedelic experiences is essential for meaningful transformation. IFS offers a structured and gradual process to incorporate insights gained during your journeys, translating them into tangible shifts in your daily life.
 
 Discover the unparalleled synergy between IFS and the profound insights of psychedelic experiences. Unleash the potential for holistic healing, self-discovery, and personal growth, as you embark on a journey towards a more harmonious and empowered self.
 
