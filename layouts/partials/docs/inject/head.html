@@ -49,8 +49,16 @@ button#SOIBTN_jpintro {
         animation: glowing 8000ms infinite;
 }
 a.glowing {
-    padding: .25em;
-    animation: glowing 8000ms infinite;
+  background: #006DAF;
+  padding: 10px 20px;
+  border: 1px solid #c8c8c8;
+  font: bold 14px Arial;
+  cursor: pointer;
+  animation: glowing 8000ms infinite;
+}
+a.glowing:link, a.glowing:visited, a.glowing:link:active, a.glowing:visited:active {
+  color: #fff;
+  text-decoration: none;
 }
 .flickity-enabled:focus .flickity-viewport {
   outline: thin dotted;
