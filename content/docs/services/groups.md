@@ -8,6 +8,18 @@ bookCollapseSection: false
 
 # Groups
 
+## Why
+
+1. IFS groups offer the feeling of community, which can foster insight and potentially reparative interpersonal interactions with group members.
+2. IFS groups offer the collective, felt experience of Self-energy.
+3. IFS groups offer observable correlations and real-time experiences between the identification of Parts and the individual's behavior.
+4. IFS groups offer an opportunity for individuals to see their Parts as universally natural and part of being human.
+5. IFS groups help foster natural accountability by supporting the inherent motivation and of the individual's internal system toward health, wholeness, harmony, and purpose.
+
+Copied from Burris, 2022, p. 13
+
+## What
+
 I facilitate Healing Circles of 4-6 people.
 Groups meet weekly in 90 min sessions.
 To convene a group, there has to be a coincidence of wants:
