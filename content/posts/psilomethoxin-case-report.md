@@ -57,7 +57,7 @@ Mental health professionals such as psychiatrists have often held a patronizing 
 
 [^dakic2017]: Dakic, V., Minardi Nascimento, J., Costa Sartore, R., Maciel, R. D. M., de Araujo, D. B., Ribeiro, S., ... & Rehen, S. K. (2017). Short term changes in the proteome of human cerebral organoids induced by 5-MeO-DMT. *Scientific reports, 7*(1), 12863.
 
-[^pm-early-safety]: [Psilomethoxin: The History, Testing, Pharmacodynamics, and Pharmacokinetics](https://psilomethoxin.com/psilomethoxin-the-history-testing-pharmacodynamics-and-pharmacokinetics/)
+[^pm-early-safety]: [Evidence and Data Regarding the Safety of Psilomethoxin Sacrament](https://thesacredsynthesis.com/psilomethoxin-sacrament-safety-a-discussion-of-actual-evidence-and-data/)
 
 [^nutt2013]: Nutt, D. J., King, L. A., & Nichols, D. E. (2013). Effects of Schedule I drug laws on neuroscience research and treatment innovation. *Nature Reviews Neuroscience, 14*(8), 577-585.
 
