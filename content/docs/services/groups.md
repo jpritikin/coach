@@ -8,7 +8,7 @@ bookCollapseSection: false
 
 # Groups / Healing Circles
 
-## How does individual counseling fall short?
+## Groups offer benefits beyond what is possible with individual counseling
 
 1. IFS groups offer the feeling of community, which can foster insight and potentially reparative interpersonal interactions with group members.
 2. IFS groups offer the collective, felt experience of Self-energy.
