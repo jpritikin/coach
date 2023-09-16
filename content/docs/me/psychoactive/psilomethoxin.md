@@ -30,7 +30,6 @@ until we have more data.
 
 Sources for this information include:
 - [F.I.V.E.'s Risks and Cautions](https://five-meo.education/risks-and-cautions/)
-- [Psilomethoxin: The History, Testing, Pharmacodynamics, and Pharmacokinetics](https://psilomethoxin.com/psilomethoxin-the-history-testing-pharmacodynamics-and-pharmacokinetics/)
 - [Evidence and Data Regarding the Safety of Psilomethoxin Sacrament](https://thesacredsynthesis.com/psilomethoxin-sacrament-safety-a-discussion-of-actual-evidence-and-data/)
 
 ## Notes
