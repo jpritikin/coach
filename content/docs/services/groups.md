@@ -26,8 +26,7 @@ To convene a group, there has to be a coincidence of wants:
 a mutually acceptable meeting time slot and theme.
 If one of the themes listed below appeals to you,
 
-<a class="glowing" href="https://forms.gle/EM3pmjCRnnZpYYUN7" target="_blank">fill out and submit this form</a>
-{.center}
+<center><form><input class="glowing" type="button" onclick="gtag_report_conversion(); window.open('https://forms.gle/EM3pmjCRnnZpYYUN7', '_blank');" value="fill out and submit this form" /></form></center>
 
 We will be in touch within 8 days.
 

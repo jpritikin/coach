@@ -48,17 +48,13 @@
 button#SOIBTN_jpintro {
         animation: glowing 8000ms infinite;
 }
-a.glowing {
-  background: #006DAF;
-  padding: 10px 20px;
-  border: 1px solid #c8c8c8;
-  font: bold 14px Arial;
-  cursor: pointer;
-  animation: glowing 8000ms infinite;
-}
-a.glowing:link, a.glowing:visited, a.glowing:link:active, a.glowing:visited:active {
-  color: #fff;
-  text-decoration: none;
+input.glowing {
+    animation: glowing 8000ms infinite;
+    background: #006DAF;
+    color: #fff;
+    padding: 10px 20px;
+    border: 1px solid #c8c8c8;
+    font: bold 14px Arial;
 }
 .flickity-enabled:focus .flickity-viewport {
   outline: thin dotted;
@@ -112,4 +108,20 @@ a.glowing:link, a.glowing:visited, a.glowing:link:active, a.glowing:visited:acti
   gtag('js', new Date());
 
   gtag('config', 'G-PPD2JL6L88');
+</script>
+<!-- Event snippet for register interest in HC conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button. -->
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-11045218897/XKfyCIaf5-IYENHU4pIp',
+      'event_callback': callback
+  });
+  return false;
+}
 </script>
