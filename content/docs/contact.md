@@ -25,7 +25,7 @@ bookToc: false
   - Enter your email address to *Sign in*. There is no password. If you don't receive the email invitation to login within five minutes, check your spam folder for `simplepractice.com`.
   - Book your appointments a month in advance to ensure that you get your preferred time slots before my schedule fills up.
 
-For urgent concerns, you can text my mobile. I do not use voicemail on my phone.
+For urgent concerns, you can text my mobile. I do not use voicemail on my phone. My mobile number is shared in all email communications.
 
 ## Currently Experiencing a Crisis?
 
