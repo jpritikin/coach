@@ -75,6 +75,10 @@ Excellent, except for Chapter 37 "Healthy Monsters and Healing Relationships." I
 [May 16, 2023 Interview](https://www.theverifiedpodcast.com/resmaa-menakem-speaks-on-couples-in-conflict-new-book-monsters-in-love-more/)
 {{< /hint >}}
 
+### Parenting
+
+It's simple: Do you own work. If you're in a great state of mind then you can improvise great solutions to any parenting problem.
+
 ### Not too intellectual, erotic, disgusting, tragic
 
 I don't consider myself much of a connoisseur, but no treatment of sex
