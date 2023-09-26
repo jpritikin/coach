@@ -219,8 +219,6 @@ The `open` and `closed` variations just indicate whether the palms are facing or
 
 <iframe width="540" height="304" src="https://www.youtube.com/embed/TK2_ezOBa2A" title="Tim Hawkins on Hand Raising" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-[The t-shirt](https://timhawkins.net/products/worship-hands-t-shirt)
-
 ## Notes
 
 [^garrison2016]: In contrast, in an ordinary state of mind, pose seems to have little psychological effect. See Garrison, K. E., Tang, D., & Schmeichel, B. J. (2016). Embodying power: A preregistered replication and extension of the power pose effect. *Social Psychological and Personality Science, 7*(7), 623-630.
