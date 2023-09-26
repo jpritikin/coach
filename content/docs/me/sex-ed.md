@@ -43,7 +43,7 @@ Hooven, C. (2021). *T: The story of testosterone, the hormone that dominates and
 
 https://iomfoundation.org/
 
-### Modern Feminism vs. Dignity
+### Contemporary Feminism vs. Dignity
 
 Harrington, M. (2023). *Feminism Against Progress.* Regnery Publishing.  
 [Mar 2, 2023 Interview](https://www.youtube.com/watch?v=8-pTX3X4yVE)  
@@ -83,7 +83,7 @@ Check out [Orgasmic Meditation](https://onetaste.us/)!
 
 #### Parenting
 
-It's simple: Do you own work. If you're in a great state of mind then you can improvise great solutions to any parenting problem.
+It's simple: Do you own work. If you're in a great state of mind then you can improvise great solutions to any parenting challenge.
 
 ### Not too intellectual, erotic, disgusting, tragic
 
