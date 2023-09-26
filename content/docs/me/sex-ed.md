@@ -43,7 +43,7 @@ Hooven, C. (2021). *T: The story of testosterone, the hormone that dominates and
 
 https://iomfoundation.org/
 
-### Contemporary
+### Modern Feminism vs. Dignity
 
 Harrington, M. (2023). *Feminism Against Progress.* Regnery Publishing.  
 [Mar 2, 2023 Interview](https://www.youtube.com/watch?v=8-pTX3X4yVE)  
@@ -63,11 +63,11 @@ Harrington, M. (2023). *Feminism Against Progress.* Regnery Publishing.
 
 Clark-Flory, T. (2021). *Want Me: A Sex Writer's Journey into the Heart of Desire.* Penguin Books.
 
-Check out [Orgasmic Meditation](https://onetaste.us/)!
-- Compare the 2023 May 16 presentation [Climax and Goallessness with Yia](https://om.instituteofom.com/live_events/climax-and-goallessness-with-yia/replay) with [effortless meditation]({{< relref "untie" >}}).
-- Despite the superficial similarity, Orgasmic Meditation is **not** related to Tantric Buddhism.[^not-tantra]
-- [Exercise caution.](https://www.justice.gov/usao-edny/pr/onetaste-founder-and-former-head-sales-indicted-forced-labor-conspiracy)
-- Heard enough? [Learn how to do the practice](https://om.instituteofom.com/)
+### On Consent
+
+Emba, C. (2022). *Rethinking Sex: A Provocation.* Sentinel.
+
+### Tools for Healthy Relationships
 
 Menakem, R. (2023). *Monsters in Love: Why Your Partner Sometimes Drives You Crazy - And What You Can Do About It.* Central Recovery Press.  
 {{< hint info >}}
@@ -75,7 +75,13 @@ Excellent, except for Chapter 37 "Healthy Monsters and Healing Relationships." I
 [May 16, 2023 Interview](https://www.theverifiedpodcast.com/resmaa-menakem-speaks-on-couples-in-conflict-new-book-monsters-in-love-more/)
 {{< /hint >}}
 
-### Parenting
+Check out [Orgasmic Meditation](https://onetaste.us/)!
+- Compare the 2023 May 16 presentation [Climax and Goallessness with Yia](https://om.instituteofom.com/live_events/climax-and-goallessness-with-yia/replay) with [effortless meditation]({{< relref "untie" >}}).
+- Despite the superficial similarity, Orgasmic Meditation is **not** related to Tantric Buddhism.[^not-tantra]
+- [Exercise caution.](https://www.justice.gov/usao-edny/pr/onetaste-founder-and-former-head-sales-indicted-forced-labor-conspiracy)
+- Heard enough? [Learn how to do the practice](https://om.instituteofom.com/)
+
+#### Parenting
 
 It's simple: Do you own work. If you're in a great state of mind then you can improvise great solutions to any parenting problem.
 
