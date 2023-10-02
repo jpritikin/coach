@@ -55,6 +55,12 @@ I use **Internal Family Systems**
 - Ph.D. Quantitative Psychology in 2016 from University of
 Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bibliography/56367505/public/?sort=date&direction=ascending) for publications. 🎓
 
+### How much counseling experience do you have?
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRF7GPBMoCWXEntH3cjyOc6ViHadHN9fm82ZFqna8BtfZ3KbtfwKoeFbc1fWDXxr1bPmz-yopmB2cf9/pubchart?oid=1177289130&amp;format=interactive"></iframe>
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRF7GPBMoCWXEntH3cjyOc6ViHadHN9fm82ZFqna8BtfZ3KbtfwKoeFbc1fWDXxr1bPmz-yopmB2cf9/pubchart?oid=236076383&amp;format=interactive"></iframe>
+
 <br/>
 
 [![Association for Coaching](/images/ac.webp)](https://www.associationforcoaching.com)
