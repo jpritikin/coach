@@ -34,6 +34,8 @@ I respectfully request the commissioners rescind their 09 Aug 2023 letter.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Iv5An5VKGlk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Also see [my testimony from Oct 2023]({{< relref "jackson-county-2023oct" >}}).
+
 [^beletsky2018]: Beletsky, L., Baker, P., Arredondo, J., Emuka, A., Goodman-Meza, D., Medina-Mora, M. E., ... & Magis-Rodriguez, C. (2018). The global health and equity imperative for safe consumption facilities. The Lancet, 392(10147), 553-554. https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31469-7/fulltext
 
 [^parfitt2023]: Measure 110's drug treatment rollout suffered from ambiguity, audit finds
