@@ -60,6 +60,8 @@ Open to all who identify as male including gay, bisexual, transgender, or queer.
 
 **Build Resilience for the Future**: IFS equips you with practical tools and coping strategies to navigate life's challenges without resorting to addiction. You'll develop the skills to face triggers and stressors with confidence.
 
+*Note: I'm thinking that an addiction cohort should stay together for at least twice as long as for these other themes.*
+
 ### Parenting Group
 
 {{< hint info >}}
