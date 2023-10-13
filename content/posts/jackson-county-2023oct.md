@@ -21,7 +21,7 @@ On Oct 04, I reiterated my call for Jackson County Commissioners to rescind thei
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mDPADCkvq6Y?si=4hAfD-5FMwYc6Jjc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Also see [my testimony from Aug 2023]({{< relref "jackson-county-2023aug" >}}).
+Also see [my testimony from Aug 2023]({{< relref "jackson-county-2023aug" >}}) and [11 Oct 2023]({{< relref "jackson-county-2023oct-2" >}}).
 
 [^levinson]: [Study says drug decriminalization in Oregon did not cause more overdose deaths](https://www.opb.org/article/2023/09/27/oregon-drug-decriminalization-measure-110-overdose-deaths/?outputType=amp)
 
