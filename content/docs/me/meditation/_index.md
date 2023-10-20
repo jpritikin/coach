@@ -86,6 +86,7 @@ The best time to practice meditation is 4:30 to 9:00 (am and pm) in your local t
 | lunch | eat calmly and undistracted[^lunch] | - |
 | before dinner | [foot soak]({{< relref "foot-soak"  >}}) \& [withdrawal of the senses]({{< relref "senses"  >}}) | 15 min |
 |      | [sahasrara]({{< relref "sahasrara"  >}}) | 10 min |
+| after dinner | [kanna extract]({{< relref "kanna"  >}}) | - |
 | before sleep | [ice on the liver]({{< relref "liver"  >}}) | 15 min |
 
 This is just a sample schedule. Customize as per your preference.
