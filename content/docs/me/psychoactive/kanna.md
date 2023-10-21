@@ -9,7 +9,7 @@ I use an extract with a 2:1 ratio of
 
 | mesembrine | to | mesembrenone |
 |------------|----|--------------|
-| ![mesembrine](mesembrine.svg.png) | | ![mesembrenone](mesembrenone2DACS.svg.png) |
+| [![mesembrine](mesembrine.svg.png)](https://en.wikipedia.org/wiki/Mesembrine) | | [![mesembrenone](mesembrenone2DACS.svg.png)](https://en.wikipedia.org/wiki/Mesembrenone) |
 
 ## Applications
 
