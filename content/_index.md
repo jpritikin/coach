@@ -42,12 +42,14 @@ I use **Internal Family Systems**
 ## Professional Background
 
 - [Internal Family Systems](https://ifs-institute.com/practitioners/all/110287)
-  - [Creating Healing Circles](https://burriscounseling.com): Using the IFS Model in Group Therapy completed Aug 2023.  
+  - IFIO Advanced Training: Sexuality Matters, Nov 2023
+  - Attendee at the 2023 IFS Conference in Denver CO
+  - [Creating Healing Circles](https://burriscounseling.com): Using the IFS Model in Group Therapy, Aug 2023  
 {{< details "Reveal my selfie with Chris" >}}
 ![Burris](burris-2023.webp)
 {{< /details >}}
-  - [Intimacy from the Inside Out](https://www.toniherbineblank.com/trainings.html) relationship therapy Basic Training (IFS Level 2) completed Jun 2023.
-  - IFS Level 1 completed Nov 2022.
+  - [Intimacy from the Inside Out](https://www.toniherbineblank.com/trainings.html) (IFIO) relationship therapy Basic Training (IFS Level 2), Jun 2023
+  - IFS Level 1, Nov 2022
   - [IFS Continuity Program](https://learn.ifs-institute.com/ifs-continuity-program/) subscriber since Sep 2022.
   - Working toward [IFS Certification](https://ifs-institute.com/trainings/ifs-certification).
   - Regular consultation with
