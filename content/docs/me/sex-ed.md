@@ -31,7 +31,7 @@ alternate history of the vibrator.
 
 The invention of the polygraph inspired a remarkable film, [Professor Marston & the Wonder Women 2017](https://en.wikipedia.org/wiki/Professor_Marston_and_the_Wonder_Women).
 
-Thomas Maier wrote a [history of the first scientific investigation of human sexuality](https://www.basicbooks.com/titles/thomas-maier/masters-of-sex/9780465079995/). The associated miniseries, [Masters of Sex 2013](https://en.wikipedia.org/wiki/Masters_of_Sex), incorporates some fictional elements that well complement the extraordinary story.
+Thomas Maier wrote a [history of the first scientific investigation of human sexuality](https://www.basicbooks.com/titles/thomas-maier/masters-of-sex/9780465079995/). The associated miniseries, [Masters of Sex 2013](https://en.wikipedia.org/wiki/Masters_of_Sex), incorporates some fictional elements that well complement the extraordinary story. I particularly enjoyed the rich depictions of Sensate Focus Therapy.[^masters1994]
 
 ### Science
 
@@ -103,3 +103,5 @@ Honor and elevate. Don't degrade and cheapen. Ladies first.
 ## Notes
 
 [^not-tantra]: See Scott Carney's [The Monk who F*cked Everything: a Brief History of Print Capital from Tibet to Modern America](https://www.youtube.com/watch?v=ixbxWHuawXo)
+
+[^masters1994]: [Sensate Focus Therapy (summary)](https://health.cornell.edu/sites/health/files/pdf-library/sensate-focus.pdf)
