@@ -49,12 +49,12 @@ I use **Internal Family Systems**
 ![Burris](burris-2023.webp)
 {{< /details >}}
   - [Intimacy from the Inside Out](https://www.toniherbineblank.com/trainings.html) (IFIO) relationship therapy Basic Training (IFS Level 2), Jun 2023
-  - IFS Level 1, Nov 2022
+  - IFS Level 1, Nov 2022 🚀
   - [IFS Continuity Program](https://learn.ifs-institute.com/ifs-continuity-program/) subscriber since Sep 2022.
   - Working toward [IFS Certification](https://ifs-institute.com/trainings/ifs-certification).
   - Regular consultation with
-    - [Liz Phillips](http://www.lizphillipstherapy.ca/), IFS-Certified Therapist, Approved IFS Clinical Consultant
-    - [Kelly Kreutz](https://kellykreutz.com), IFS-Certified Therapist, Approved IFS Clinical Consultant
+    - [Liz Phillips](http://www.lizphillipstherapy.ca/) ❤️, IFS-Certified Therapist, Approved IFS Clinical Consultant
+    - [Kelly Kreutz](https://kellykreutz.com) ❤️, IFS-Certified Therapist, Approved IFS Clinical Consultant
 - Practicing meditation for more than 30 years.[^meditation] 🧘🏻‍♂️ Can provide cult recovery support.
 - Ph.D. Quantitative Psychology in 2016 from University of
 Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bibliography/56367505/public/?sort=date&direction=ascending) for publications. 🎓

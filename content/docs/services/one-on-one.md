@@ -18,8 +18,8 @@ During the no-fee consultation, we’ll decide together what is the best fit.
 
 ### Couples & Dyads
 
-I plead that you regard 75-minute sessions as a **minimum** duration.
-Couples counseling is extremely delicate.
+I plead that you regard 90-minute sessions as a **minimum** duration.
+Couples counseling is extremely delicate. 🦋🐛
 To work safely, we have to progress slowly, with great caution.
 This takes time.
 
@@ -41,7 +41,7 @@ As I am not licensed, I can work with anyone, anywhere in the world (time-zone p
 
 My rate is $100 per hour. Reserve time in 15 min increments. I do not accept insurance. 💰
 
-People with low income, or veterans or active military may request a sliding scale rate.
+People with low income 🎱, or veterans or active military 💣 may request a sliding scale rate.
 
 Book a free 20 min consultation.
 
