@@ -36,9 +36,7 @@ Sources for this information include:
 
 [^pm-subjective]: [Effects of Psilomethoxin from Experienced 5-MeO-DMT Practitioner](https://psilomethoxin.com/effects-of-psilomethoxin-from-experienced-5-meo-dmt-practitioner/)
 
-[^mushroom]: The [Church of Sacred Synthesis](https://psilomethoxin.com/?sld=jpritikin) distributes
-sacrament as dried Psilocybe mushroom powder. Although many mushrooms of the Psilocybe genus 
-produce psilocybin and psilocin, the manufacturing process devised by the church ensures that
-psilomethoxin is produced with only trace amounts of psilocybin or psilocin.
+[^mushroom]: If you sourced psilomethoxin from the [Church of Sacred Synthesis](https://psilomethoxin.com/?sld=jpritikin) then you received sacrament in the form of dried Psilocybe mushroom powder.
+Although many mushrooms of the Psilocybe genus produce psilocybin and psilocin, the manufacturing process devised by the church ensures that psilomethoxin is produced with only trace amounts of psilocybin or psilocin.
 
 [^beres2019]: [Decades ago, ecstasy — yes, MDMA — was used in marriage counseling](https://bigthink.com/neuropsych/decades-ago-mdma-was-used-in-marriage-counseling/)
