@@ -81,6 +81,8 @@ Check out [Orgasmic Meditation](https://onetaste.us/)!
 - [Exercise caution.](https://www.justice.gov/usao-edny/pr/onetaste-founder-and-former-head-sales-indicted-forced-labor-conspiracy)
 - Heard enough? [Learn how to do the practice](https://om.instituteofom.com/)
 
+Morin, J. (1996). *The Erotic Mind: Unlocking the Inner Sources of Passion and Fulfillment.* Harper Perennial.
+
 #### Parenting
 
 It's simple: Do you own work. If you're in a great state of mind then you can improvise great solutions to any parenting challenge.
