@@ -18,9 +18,8 @@ enableGitInfo = true
   BookTheme = 'light'
   BookRepo = 'https://github.com/jpritikin/coach'
   BookSearch = false
-
-languageCode = "en-us"
-
-[Author]
+  [params.Author]
     name = "Joshua N. Pritikin"
     email = "bro@joshuapritikin.com"
+
+languageCode = "en-us"
