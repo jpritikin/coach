@@ -36,6 +36,10 @@ Sources for this information include:
 
 ## Suggestions for Initial Use
 
+There can be a lot of anxiety associated with the first use of a substance.
+The goal of this brief guide is to help you enjoy Pm, for the first time, with the least amount of risk.
+Since Pm blunts anxiety, it is particularly important not to put yourself in a situation that stokes anxiety.
+
 ### Storage
 
 If you have dried Psilocybe mushroom powder, store it at room temperature in a dark place.
@@ -49,8 +53,7 @@ To mix the powder with chocolate, use the lowest possible temperature.
 
 ### Dosage
 
-There can be a lot of anxiety associated with the first use of a substance.
-I recommend starting with a low-to-medium [psycholytic](https://en.wikipedia.org/wiki/Psychedelic_therapy#Psycholytic_therapy) dose.
+Start with a low-to-medium [psycholytic](https://en.wikipedia.org/wiki/Psychedelic_therapy#Psycholytic_therapy) dose.
 In this dose range, there is practically no visual or cognitive distortion.
 The most obvious subjective effect is that you can no longer feel anxiety or boredom.
 
@@ -78,7 +81,7 @@ Amounts are in mg of dried Psilocybe mushroom powder.
 
 ### Timing
 
-I recommend consuming Pm at breakfast or lunchtime. The effects of Pm are best appreciated in the daytime because of the contrast to typical daytime mood. At night, there is already a natural tendency to feel somewhat similar to the effects of Pm, making the contrast less vivid.
+Consume Pm at breakfast or lunchtime. The effects of Pm are best appreciated in the daytime because of the contrast to typical daytime mood. At night, there is already a natural tendency to feel somewhat similar to the effects of Pm, making the contrast less vivid.
 
 ### Food?
 
@@ -96,7 +99,11 @@ Don't use Pm more than once per day;
 to get familiar with the substance, you want to feel the subjective effects from the peak all the way through the afterglow and back to baseline.
 The mild lingering afterglow can last for 3-12 hours.[^pharmacodynamics]
 
-For the journey, select a boring environment.
+### Set & Setting
+
+The effects of Pm can be surprisingly subtle.
+You could take a larger dose for more dramatic effects, but it is safer to be as receptive as possible with a lower dose.
+Select a boring environment.
 If there is too much entertainment or stimulation, [it is easy to miss the subjective effects]({{< relref "/posts/psilomethoxin-case-report-addendum1.md" >}}).
 You might go for a walk in the park during the first hour of the journey, but after that, you should sit down somewhere isolated.
 Find an environment where you can test whether you can still feel boredom.
