@@ -85,7 +85,7 @@ Sensate Focus Therapy[^masters1994]
 
 Morin, J. (1996). *The Erotic Mind: Unlocking the Inner Sources of Passion and Fulfillment.* Harper Perennial.
 
-#### Parenting
+### Parenting
 
 It's simple: Do you own work. If you're in a great state of mind then you can improvise great solutions to any parenting challenge. ䷤
 
