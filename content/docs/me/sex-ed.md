@@ -87,13 +87,13 @@ Morin, J. (1996). *The Erotic Mind: Unlocking the Inner Sources of Passion and F
 
 #### Parenting
 
-It's simple: Do you own work. If you're in a great state of mind then you can improvise great solutions to any parenting challenge.
+It's simple: Do you own work. If you're in a great state of mind then you can improvise great solutions to any parenting challenge. ䷤
 
 Kearney, M. S. (2023). *The Two-Parent Privilege: How Americans Stopped Getting Married and Started Falling Behind.* University of Chicago Press.  
 [Oct 5, 2023 Interview](https://www.youtube.com/watch?v=JRjMnH-4cYo)
 
 {{< hint warning >}}
-Kids are the ultimate judge of the health of your relationships and sex life.
+Kids are the ultimate judge of the health of your relationships and sex life. 🚸
 {{< /hint >}}
 
 ## Summary
