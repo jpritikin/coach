@@ -96,11 +96,6 @@ Kearney, M. S. (2023). *The Two-Parent Privilege: How Americans Stopped Getting 
 Kids are the ultimate judge of the health of your relationships and sex life.
 {{< /hint >}}
 
-### Not too intellectual, erotic, disgusting, tragic
-
-I don't consider myself much of a connoisseur, but no treatment of sex
-is complete without such a specimen: [Love 2015](https://en.wikipedia.org/wiki/Love_(2015_film))
-
 ## Summary
 
 ![Anasyrma](anasyrma.webp)
