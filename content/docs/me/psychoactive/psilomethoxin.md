@@ -73,7 +73,7 @@ If a **pm savvy** guide is not available then a group of two or more **naïve** 
 
 | amount | remark |
 | ------ | ------ |
-| 150mg, 300mg  | Start here if you're **trad savvy** and alone with no companion. This is also a good place for a **naïve** person to start with a **pm savvy** guide. At 150mg, you may feel some energy circulation but probably not the true flavor of Pm. At 300mg, at the peak of the journey, you will likely get a taste of Pm's true flavor. |
+| 150mg, 300mg  | Start here if you're **trad savvy** and alone with no companion. This is also a good place for a **naïve** person to start with a **pm savvy** guide. At 150mg, you may feel some energy circulation but probably not the true flavor of Pm. At the peak of 300mg, you will likely get a taste of Pm's true flavor. |
 | 450mg  | A strong first journey is an option if there is a close relationship between the **naïve** friend and **pm savvy** guide. Regardless of your **friend**'s experience, at this dose, I recommend a **pm savvy** guide. |
 | 600mg, 800mg  | A confident **pm savvy** guide could consider this dose for an adventurous **trad savvy** friend. For perspective, I would hesitate to use more than 600mg while driving a car. |
 
