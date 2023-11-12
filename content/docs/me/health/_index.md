@@ -13,7 +13,7 @@ A few hundred years ago, it was easy to know whether your physical health was th
 Ad libitum, low fat diet
 {{< /details >}}
 {{< details "All you can eat? I don't need to count calories or refrain from eating to surfeit?" >}}
-Yep, that's correct. The key is to choose foods by calorie density.
+Yep, that's correct. The key is to choose foods by [calorie density](ucdim-energydensitychart.pdf).
 {{< /details >}}
 {{< /hint >}}
 
