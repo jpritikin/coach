@@ -19,7 +19,7 @@ Credit: Midjourney
 <br/>
 
 Poor outcomes can result if cause-and-effect relationships are misunderstood.  
-It is important to ask **why** things happen.[^judea2018]  
+It is important to ask **why** things happen.[^judea2018][^sapolsky2023]  
 For example, there is the concept of *self-esteem*, confidence in one's worth.  
 Philosophers say, "Everybody is valuable";  
 It would be nice if self-esteem could be increased directly.  
@@ -47,6 +47,8 @@ Celebrate later!
 ## Notes
 
 [^judea2018]: Pearl, J., & Mackenzie, D. (2018). *The book of why: The new science of cause and effect.* Basic books.
+
+[^sapolsky2023]: Sapolsky, R. M. (2023). *Determined: A Science of Life without Free Will.* Penguin Press.
 
 [^schwartz2017]: Schwartz, R. C., & Falconer, R. (2017). *Many minds, one self: Evidence for a radical shift in paradigm.* Oak Park: Trailheads.
 
