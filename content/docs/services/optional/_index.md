@@ -1,12 +1,12 @@
 ---
-title: Optional
+title: Optional Add-ons
 type: docs
 weight: 20
 bookToc: false
 bookCollapseSection: true
 ---
 
-# Optional
+# Optional Add-ons
 
 ## [House Call]({{< relref "house-call" >}})
 
