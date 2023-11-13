@@ -32,7 +32,7 @@ bookToc: false
 Note: Free consultations use a different room/link.
 {{< /hint >}}
 
-[![Zoom link](zoom.webp)](https://us06web.zoom.us/j/7756484053?pwd=NnMxMkcweG8rZUQwMU9PTjBvY2dTUT09)
+[![Zoom link](zoom.webp)](https://us06web.zoom.us/j/7756484053)
 
 ### For urgent concerns, you can **text** my mobile.
 - I do not use voicemail on my phone.
