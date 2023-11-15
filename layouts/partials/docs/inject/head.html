@@ -125,3 +125,27 @@ function gtag_report_conversion(url) {
   return false;
 }
 </script>
+<style>
+  #menuDisplayTrigger {
+      position: fixed;
+      right: 0;
+      top: 0;
+      margin: 1em;
+      width: 48px;
+      z-index: 999;
+  }
+</style>
+<script>
+  const setupToggleDisplay = (trigger, target) => {
+      if(!target || !trigger) {
+          console.warn("toggleDisplay: Make sure the target and trigger elements exist in the DOM.")
+          return
+      }
+      let defaultDisplay = window.getComputedStyle(target).getPropertyValue('display')
+      trigger.addEventListener('click', e => {
+          target.style.display =
+              (target.style.display == 'none') ?
+              defaultDisplay : 'none'
+      })
+  }
+</script>
