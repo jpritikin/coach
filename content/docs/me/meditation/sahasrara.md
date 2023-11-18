@@ -31,7 +31,7 @@ two parts of your body.
 
 ![Hands](hands.png)
 
-To prevent your attention from wandering, randomly vary
+To prevent your attention from wandering and neural adaptation,[^neural-adaptation] randomly vary
 
 - rotational velocity (slow, medium, and fast)
 - radius of the circular motion
@@ -64,3 +64,5 @@ groups: The thumb is alone, then three fingers together, and then the
 pinky is alone. The idea is that learning and emotion should be kept
 apart while confidence, diplomacy, and forgiveness work well together.    
 ![Namaskar](namaskar1.webp) ![Namaskar](namaskar2.webp)
+
+[^neural-adaptation]: See [Neural adaptation](https://en.wikipedia.org/wiki/Neural_adaptation)
