@@ -110,7 +110,7 @@ Me with [Padrinho Jonathan Goldman](https://casetext.com/case/church-of-holy-lig
 - [Church of Sacred Synthesis](https://psilomethoxin.com/?sld=jpritikin)
 - [Sacred Garden Church](https://sacredgarden.life/)
 
-{{< hint warning >}}
+{{< hint danger >}}
 Psychedelics are not for everybody.
 {{< /hint >}}
 
