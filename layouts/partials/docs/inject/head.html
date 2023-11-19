@@ -127,14 +127,14 @@ function gtag_report_conversion(url) {
 </script>
 <style>
 @media screen and (max-width: 56rem) {
-  #menuDisplayTrigger {
+  #pageWidthTrigger {
   visibility: hidden;
   }
 }
-  #menuDisplayTrigger:hover {
+  #pageWidthTrigger:hover {
       background: #eee;
   }
-  #menuDisplayTrigger {
+  #pageWidthTrigger {
       position: fixed;
       right: 0;
       top: 0;
@@ -144,16 +144,16 @@ function gtag_report_conversion(url) {
   }
 </style>
 <script>
-  const setupToggleDisplay = (trigger, target) => {
+  const setupToggleWidth = (trigger, target) => {
       if(!target || !trigger) {
           console.warn("toggleDisplay: Make sure the target and trigger elements exist in the DOM.")
           return
       }
-      let defaultDisplay = window.getComputedStyle(target).getPropertyValue('display')
+      let defaultWidth = window.getComputedStyle(target).getPropertyValue('max-width')
       trigger.addEventListener('click', e => {
-          target.style.display =
-              (target.style.display == 'none') ?
-              defaultDisplay : 'none'
+          target.style.maxWidth =
+              (target.style.maxWidth == 'none') ?
+              defaultWidth : 'none'
       })
   }
 </script>
