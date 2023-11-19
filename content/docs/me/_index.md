@@ -20,19 +20,19 @@ This area of my website is the safe space for me to broadcast my opinions.
 ## No Secrets
 
 In my previous career,
-I contributed to science and free and open source software.
+I contributed to science and free and open source software. 📖✍🏼
 I continue to carry some of the same ethical principles forward as a counselor.
 Specifically, I reject secrecy in the sense that I have
-no paywall or subscription for my website content.
+no paywall or subscription for my website content. 📬
 
 ## Counseling ≠ Telling My Opinions
 
 As an IFS Practitioner, I attend
 to structure and process while maintaining indifference to content.
 I believe that a good counselor is extremely neutral ⚖️, to encourage the
-client's inner system to lead.
+client's inner system to lead. 🗽
 
-{{< details "The illustration below is a metaphor" >}}
+{{< details "The illustration below is an analogy" >}}
 {{< hint info >}}
 - The rock balanced atop of the pile of rocks represents the client.
 - The environment represents my emotional warmth and support.
