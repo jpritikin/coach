@@ -16,7 +16,7 @@ On the Facebook group, I recently asked, "[How do tracking and courageous commun
 It was recommended that I study the videos available from https://vimeo.com/ondemand/ifiodvdvol2
 
 I made the following sequence diagrams to make sure that I was following
-exactly how the session was being facilitated.
+exactly how the session were being facilitated.
 I paraphrased and summarized, especially around the per-partner unblending.
 
 ## Andrew and Joanne
