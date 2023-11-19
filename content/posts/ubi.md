@@ -1,8 +1,8 @@
 +++
 title = "Universal Basic Income"
-tags = ["politics", "opinion"]
+tags = ["politics"]
 date = "2023-08-20"
-categories = ["essay"]
+categories = ["opinion"]
 menu = "main"
 bookToc = false
 +++

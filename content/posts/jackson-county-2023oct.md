@@ -1,8 +1,8 @@
 +++
 title = "Jackson County Commissioners: Rescind Letter Calling for Repeal of Measure 110"
-tags = ["criminal justice", "opinion"]
+tags = ["criminal justice"]
 date = "2023-10-04"
-categories = ["essay"]
+categories = ["opinion"]
 menu = "main"
 bookToc = false
 +++
