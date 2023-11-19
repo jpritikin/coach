@@ -11,17 +11,21 @@ I work with individuals and dyads (e.g. couples or two people in a relationship)
 
 ## What does counseling look like?
 
-As a default, I recommend 75-minute sessions every week. However,
-other schedules can be accommodated.
+As a default, I recommend 75-minute sessions every week.
+{{< details "No 🤨" >}}
+Other schedules can be accommodated. 🙏🏼
 The duration of therapy can vary depending on your needs and motivation.
-During the no-fee consultation, we’ll decide together what is the best fit.
+During the no-fee consultation, we’ll decide together what is the best fit. 😃
+{{< /details >}}
 
 ### Couples & Dyads
 
 I plead that you regard 90-minute sessions as a **minimum** duration.
+{{< details "Why? 😠" >}}
 Couples counseling is extremely delicate. 🦋🐛
 To work safely, we have to progress slowly, with great caution.
-This takes time.
+This takes time. ⏳
+{{< /details >}}
 
 {{% columns %}}
 
@@ -39,9 +43,11 @@ As I am not licensed, I can work with anyone, anywhere in the world (time-zone p
 
 ## Fees
 
-My rate is $100 per hour. Reserve time in 15 min increments. I do not accept insurance. 💰
+My rate is $100 per hour. Reserve time in 15 min increments. I do not accept insurance. 🎟️
 
+{{< details "Too pricy? 💰" >}}
 People with low income 🎱, or veterans or active military 💣 may request a sliding scale rate.
+{{< /details >}}
 
 Book a free 20 min consultation.
 
