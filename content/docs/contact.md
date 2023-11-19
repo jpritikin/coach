@@ -23,8 +23,12 @@ bookToc: false
 ### New clients [go here](https://joshua-pritikin.clientsecure.me/request/service).
   - Register. Schedule your first session.
 ### Continuing clients [go here](https://joshua-pritikin.clientsecure.me/sign-in).
+{{< hint info >}}
+{{< details "Reveal hints" >}}
   - Enter your email address to *Sign in*. There is no password. If you don't receive the email invitation to login within five minutes, check your spam folder for `simplepractice.com`.
   - Book a month in advance to ensure that you get your preferred time slots before my schedule fills up.
+{{< /details >}}
+{{< /hint >}}
 
 ### Zoom link for clients
 
