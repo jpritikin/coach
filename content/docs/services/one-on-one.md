@@ -22,7 +22,7 @@ During the no-fee consultation, we’ll decide together what is the best fit. �
 
 I plead that you regard 90-minute sessions as a **minimum** duration.
 {{< details "Why? 😠" >}}
-Couples counseling is extremely delicate. 🦋🐛
+Couples counseling is extremely delicate. 🦋🐝
 To work safely, we have to progress slowly, with great caution.
 This takes time. ⏳
 {{< /details >}}
