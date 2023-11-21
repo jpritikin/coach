@@ -136,11 +136,10 @@ Bob can also be gratified that he could succeed in such a delicate procedure.
 
 How will you choose to resolve dishonesty in your relationships?
 You probably have had a chance to be in the role of Alice, Bob, and Carlos, each on different occasions.
-We can try to minimize dishonesty but it may sometimes be encountered.
-Confrontation is difficult for everybody;
-The confronter may seem to succeed, but the long-term cost can be high.
-Instead of confrontation, there are graceful ways to resolve dishonesty.
-Choose your own adventure.
+A little grace goes a long way.
+If you are graceful enough, you might even shape your talent for working with deception into a career like [Apollo Robbins](https://tim.blog/2023/10/19/apollo-robbins/).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Qiv7oCVq5E?si=vQ6t7qdT9AM_WyAT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Notes
 
