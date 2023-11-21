@@ -55,7 +55,7 @@ To mix the powder with chocolate, use the lowest possible temperature.
 
 Start with a low-to-medium [psycholytic](https://en.wikipedia.org/wiki/Psychedelic_therapy#Psycholytic_therapy) dose.
 In this dose range, there is practically no visual or cognitive distortion.
-The most obvious subjective effects are that multitasking becomes more difficult and you can no longer feel anxiety or boredom.
+The most obvious subjective effects are that you can no longer feel anxiety or boredom and a reduced interest in multitasking.
 
 To make the discussion less cumbersome, refer to the following abbreviations:
 
