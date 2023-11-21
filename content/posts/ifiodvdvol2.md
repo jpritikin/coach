@@ -375,7 +375,7 @@ sequenceDiagram
     Note over T: *Reflects back* Is that true?
     A->>T: Yeah.
     T->>A: Say more about that.
-    T-->>A: Helps David unblend so he can listen
+    T-->>D: Helps David unblend so he can listen
     A->>D: This means everything to me. When you<br/>share, that's what I mean by showing up.
     D->>A: Yeah.
     T->>D: What's happening in your body?
