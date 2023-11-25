@@ -109,6 +109,15 @@ You might go for a walk in the park during the first hour of the journey, but af
 Find an environment where you can test whether you can still feel boredom.
 If you are a restless impatient person, this is actually an advantage because it will be easier to notice when you cannot feel boredom.
 
+![interpolate](interpolate.svg)
+
+Pm is a psychoactive chameleon in the sense that its effects are strongly influenced by expectation and the user's state of mind.
+If you bring the appropriate expectation, the experience can feel similar to nitrous oxide (laughing gas) or psilocybin.
+To really understand the effect, it is important to sample Pm at different dosages.
+If you only try a dose of 500mg then there is a lot of uncertainty about what the subjective effects actual are (lightly dotted lines). If you try 500mg and 1g then that narrows down the subjective effects somewhat (dashed lines). If you try 500mg, 1g, and 2g then you can look for commonalities across your experiences to refine your understanding of the effect (thick line).
+
+*Activity* is another variable. Whereas I recommend starting with a boring environment, it is also interesting to experiment with deliberate combinations of Pm with various activities. For example, a group might plan a *hikrodose* that consists of consuming a microdose and then hiking through nature together.[^hikrodose] Receiving a massage during a Pm journey is allegedly a great combination. Pm is well suited to talk therapy because of the wide [psycholytic](https://en.wikipedia.org/wiki/Psychedelic_therapy#Psycholytic_therapy) dosage range. IFS therapists are experimenting with using Pm in the therapist role. Pm might also be used by the client or by both the therapist and client simultaneously.
+
 ## Notes
 
 [^pm-subjective]: [Effects of Psilomethoxin from Experienced 5-MeO-DMT Practitioner](https://psilomethoxin.com/effects-of-psilomethoxin-from-experienced-5-meo-dmt-practitioner/)
@@ -121,3 +130,5 @@ Although many mushrooms of the Psilocybe genus produce psilocybin and psilocin, 
 [^nausea]: [Dr. Greger’s Natural Nausea Remedy Recipe](https://nutritionfacts.org/blog/dr-gregers-natural-nausea-remedy-recipe/)
 
 [^pharmacodynamics]: [Guesswork on Pm's pharmacodynamics]({{< relref "/posts/psilomethoxin-case-report-addendum2.md" >}})
+
+[^hikrodose]: [Veteran Initiatives](https://thesacredsynthesis.com/veteran-initiatives/)
