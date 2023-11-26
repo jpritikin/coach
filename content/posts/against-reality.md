@@ -19,3 +19,7 @@ Hoffman, D. (2019). *The case against reality: Why evolution hid the truth from 
 [Lex Fridman interview Jun 12, 2022](https://lexfridman.com/donald-hoffman/)
 
 [The Convergence of Science and Spirituality | Donald Hoffman & Rupert Spira Mar 26, 2023](https://www.youtube.com/watch?v=rafVevceWgs)
+
+[Hoffman, D., Prakash, C., & Chattopadhyay, S. (2023). Conscious Agents and the Subatomic World](https://noetic.org/wp-content/uploads/2023/06/Conscious-Agents-Full-Proposal.pdf)
+
+[Hacking Reality: Decoding the Network of Conscious Agents with Donald Hoffman | Mind-Body Solution Nov 18, 2023](https://www.youtube.com/watch?v=QRa8r5xOaAA)
