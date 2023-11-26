@@ -161,7 +161,7 @@ sequenceDiagram
     T->>J: As you're listened to this, what's happening? 28:42
     J->>T: I hate seeing her like this.
     T->>J: We're going to ask that part to step back.
-    Note over T: Was that a shame protector? I'm sketical!
+    Note over T: Was that a shame protector? I'm skeptical!
     T->>J: Can you take the apology in?
     T->>J: Are there parts of you that can believe?
     J->>T: Yes and no
