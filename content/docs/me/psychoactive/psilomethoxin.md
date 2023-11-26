@@ -101,10 +101,14 @@ The mild lingering afterglow can last for 3-12 hours.[^pharmacodynamics]
 
 ### Set & Setting
 
-The effects of Pm can be surprisingly subtle.
-You could take a larger dose for more dramatic effects, but it is safer to be as receptive as possible with a lower dose.
-Select a boring environment.
-If there is too much entertainment or stimulation, [it is easy to miss the subjective effects]({{< relref "/posts/psilomethoxin-case-report-addendum1.md" >}}).
+The subjective effects of Pm are not like coffee.
+With coffee, you drink your first cup and immediately notice increased alertness, wakefulness, and improved cognitive performance.
+In addition, you may notice enhanced mood and reduced anxiety, but with another cup or two you may notice a rebound in anxiety along with jitters, insomnia, and headaches.
+In contrast, the effects of Pm can be surprisingly subtle.
+[You may notice no difference and doubt whether Pm has any effect whatsoever.]({{< relref "/posts/psilomethoxin-case-report-addendum1.md" >}})
+You could take a higher dose for more dramatic effects, but it is safer to be as receptive as possible with a lower dose.
+
+To sensitize yourself to the effects of Pm, select a boring environment.
 You might go for a walk in the park during the first hour of the journey, but after that, you should sit down somewhere isolated.
 Find an environment where you can test whether you can still feel boredom.
 If you are a restless impatient person, this is actually an advantage because it will be easier to notice when you cannot feel boredom.
