@@ -94,6 +94,8 @@ This is better than the *Don't eat ice cream* scenario.
 At least Alice stays alive.
 However, Alice's Pain is still lingering unresolved and her growing BMI is putting her at increased risk of diabetes, cardiovascular disease, and several types of cancer ☣️.[^fontana2014]
 
+> It’s really hard to stay in your truth when you really are being abnormalized and you feel socially ousted because we are tribal by nature and need to survive by staying in our tribes, and so there’s so much against us. Further worsening the situation is the normalization of obesity. I am shamed, as a registered dietitian, for talking about healthy weight and weight loss! There are movements trying to stop the conversation, claiming there are no negative health sequelae associated with excess weight, when clearly that is well-substantiated.[^williams2023]
+
 ## Addiction through an IFS lens 🔍
 
 [IFS]({{< relref "ifs" >}}) recognizes the value of Alice's coping parts, but also aims to heal Alice's pain.[^sykes2023]
@@ -174,7 +176,7 @@ I hope not. 🙈
 
 {{< details "Hey wait! It's hard to lose weight! 😤" >}}
 1. Stop [🐓 eating 🐔🥚 chicken 🐣](https://nutritionfacts.org/video/chicken-big-poultry-and-obesity/)
-2. Read my [Health Audit]({{< relref "health" >}}) page
+2. Visit my [Health Audit]({{< relref "health" >}}) page
 {{< /details >}}
 
 ## References
@@ -189,3 +191,5 @@ Also see [What’s the Ideal BMI?](https://nutritionfacts.org/video/whats-the-id
 [^sykes2023]: Sykes, C., Sweezy, M., & Schwartz, R. C. (2023). *Internal Family Systems Therapy for Addictions: Trauma-Informed, Compassion-Based Interventions for Substance Use, Eating, Gambling and More.* PESI Publishing, Inc.
 
 [^fox20231017]: [Victoria's Secret ditches prioritizing wokeness over 'sexiness' after sales drop](https://www.foxbusiness.com/media/victorias-secret-ditches-prioritizing-wokeness-sexiness-sales-drop)
+
+[^williams2023]: Williams Sr., K. A., & Hever, J. (2023). IJDRP Interviews Julieanna Hever. *International Journal of Disease Reversal and Prevention, 5*(2), 7 pp. https://doi.org/10.22230/ijdrp.2023v5n2a403
