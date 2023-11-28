@@ -32,13 +32,13 @@ to structure and process while maintaining indifference to content.
 I believe that a good counselor is extremely neutral ⚖️, to encourage the
 client's inner system to lead. 🗽
 
-{{< details "The illustration below is an analogy" >}}
+{{% details "The illustration below is an analogy" %}}
 {{< hint info >}}
 - The rock balanced atop of the pile of rocks represents the client.
 - The environment represents my emotional warmth and support.
 - My job is to keep you, the client, well held and protected. 🫶🏼
 {{< /hint >}}
-{{< /details >}}
+{{% /details %}}
 
 You should not hear any unsolicited opinions from me when I am working with you as your counselor.
 If you do think you hear me express an opinion, I want to know about it. 🙊

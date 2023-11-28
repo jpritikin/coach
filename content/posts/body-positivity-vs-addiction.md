@@ -174,10 +174,10 @@ sequenceDiagram
 
 I hope not. 🙈
 
-{{< details "Hey wait! It's hard to lose weight! 😤" >}}
+{{% details "Hey wait! It's hard to lose weight! 😤" %}}
 1. Stop [🐓 eating 🐔🥚 chicken 🐣](https://nutritionfacts.org/video/chicken-big-poultry-and-obesity/)
 2. Visit my [Health Audit]({{< relref "health" >}}) page
-{{< /details >}}
+{{% /details %}}
 
 ## References
 

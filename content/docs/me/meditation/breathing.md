@@ -16,11 +16,11 @@ ordinary thing. What could possibly be special about it?
 
 To calm yourself, exhale for a longer duration than your inhalation.[^buteyko][^adhana2013]
 
-{{< details "Show example" >}}
+{{% details "Show example" %}}
 {{< hint info >}}
 When a dog is lying down and wants to relax then she will often start her rest with two quick breaths followed by a long, slow exhale. 🐕
 {{< /hint >}}
-{{< /details >}}
+{{% /details %}}
 
 ## Commentary
 

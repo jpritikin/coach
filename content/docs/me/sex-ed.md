@@ -48,7 +48,7 @@ https://iomfoundation.org/
 Harrington, M. (2023). *Feminism Against Progress.* Regnery Publishing.  
 [Mar 2, 2023 Interview](https://www.youtube.com/watch?v=8-pTX3X4yVE)  
 {{< hint info >}}
-{{< details "This important book is unfortunately written in a conversational stream-of-consciousness style with complex sentence constructions. Here is a simplified summary." >}}
+{{% details "This important book is unfortunately written in a conversational stream-of-consciousness style with complex sentence constructions. Here is a simplified summary." %}}
 - **Part One** examines the history of feminism from the 1600s to around 1950. This information isn't all that important. You can skip this part and get most of the arguments. In my mind, this part is mostly a flex by the author to show that she has done her homework.
 - **Part Two** describes the three areas that have been disrupted by disembedding, disembodiment, atomization, and marketization.
   - The relationship between men and women
@@ -58,7 +58,7 @@ Harrington, M. (2023). *Feminism Against Progress.* Regnery Publishing.
   - Commit to marriage and take advantage of work-from-home compatible jobs to better share the responsibility of caring for family members.
   - Don't blindly favor androgynous associations. Embodied sex can make a difference. Examples of where biological sex segregation is appropriate include Boy/Girl Scouts, small military units, and prisons. Examples where sex segregation is usually inappropriate include elite executive golf clubs and corporate boards of directors.
   - Abstain from hormonal birth control. That is not to argue against all types of family planning, but to reject casual, no-consequence sexual encounters.
-{{< /details >}}
+{{% /details %}}
 {{< /hint >}}
 
 Clark-Flory, T. (2021). *Want Me: A Sex Writer's Journey into the Heart of Desire.* Penguin Books.
@@ -77,19 +77,20 @@ Excellent, except for Chapter 37 "Healthy Monsters and Healing Relationships." I
 
 Sensate Focus Therapy[^masters1994]
 
-Orgasmic Meditation
+{{% details "Orgasmic Meditation" %}}
 - Compare the 2023 May 16 presentation [Climax and Goallessness with Yia](https://om.instituteofom.com/live_events/climax-and-goallessness-with-yia/replay) with [effortless meditation]({{< relref "untie" >}}).
 - Despite the superficial similarity, Orgasmic Meditation is **not** related to Tantric Buddhism.[^not-tantra]
 - [Exercise caution.](https://www.justice.gov/usao-edny/pr/onetaste-founder-and-former-head-sales-indicted-forced-labor-conspiracy)
 - Heard enough? [Learn how to do the practice](https://om.instituteofom.com/)
+{{% /details %}}
 
 Morin, J. (1996). *The Erotic Mind: Unlocking the Inner Sources of Passion and Fulfillment.* Harper Perennial.
 
 ### Parenting
 
-{{< details "It's simple." >}}
+{{% details "It's simple." %}}
 Do you own work. If you're in a great state of mind then you can improvise great solutions to any parenting challenge. ä·¤
-{{< /details >}}
+{{% /details %}}
 
 Kearney, M. S. (2023). *The Two-Parent Privilege: How Americans Stopped Getting Married and Started Falling Behind.* University of Chicago Press.  
 [Oct 5, 2023 Interview](https://www.youtube.com/watch?v=JRjMnH-4cYo)
@@ -102,13 +103,13 @@ Kids are the ultimate judge of the health of your relationships and sex life. ðŸ
 
 Honor and elevate. Don't degrade and cheapen.
 
-{{< details "Ladies first." >}}
+{{% details "Ladies first." %}}
 ![Anasyrma](anasyrma.webp)
 {.center}
 
 Credit: [Lucy Churchill](https://www.lucychurchill.com/product/anasyrma-vulval-madonna/)
 {.center}
-{{< /details >}}
+{{% /details %}}
 
 ## Notes
 

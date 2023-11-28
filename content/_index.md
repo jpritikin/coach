@@ -45,9 +45,9 @@ I use **Internal Family Systems**
   - IFIO Advanced Training: Sexuality Matters, Nov 2023
   - Attendee at the 2023 IFS Conference in Denver CO
   - [Creating Healing Circles](https://burriscounseling.com): Using the IFS Model in Group Therapy, Aug 2023  
-{{< details "Reveal my selfie with Chris" >}}
+{{< partDetails "Reveal my selfie with Chris" >}}
 ![Burris](burris-2023.webp)
-{{< /details >}}
+{{< /partDetails >}}
   - [Intimacy from the Inside Out](https://www.toniherbineblank.com/trainings.html) (IFIO) relationship therapy Basic Training (IFS Level 2), Jun 2023
   - IFS Level 1, Nov 2022 🚀
   - [IFS Continuity Program](https://learn.ifs-institute.com/ifs-continuity-program/) subscriber since Sep 2022.
