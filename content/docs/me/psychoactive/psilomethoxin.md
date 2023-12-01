@@ -122,7 +122,14 @@ To really understand the effect, it is important to sample Pm at different dosag
 This helps constrain the slope.
 If you only try a dose of 500mg then there is a lot of uncertainty about what the subjective effects actual are (lightly dotted lines). If you try 500mg and 1g then that narrows down the subjective effects somewhat (dashed lines). If you try 500mg, 1g, and 2g then you can look for commonalities across your experiences to refine your understanding of the effect (thick line).
 
-*Activity* is another variable. Whereas I recommend starting with a boring environment, it is also interesting to experiment with deliberate combinations of Pm with various activities. For example, a group might plan a *hikrodose* that consists of consuming a microdose and then hiking through nature together.[^hikrodose] Receiving a massage during a Pm journey is allegedly a great combination. Some people like to lift weights. Pm is well suited to talk therapy because of the wide [psycholytic](https://en.wikipedia.org/wiki/Psychedelic_therapy#Psycholytic_therapy) dosage range. IFS therapists are experimenting with using Pm in the therapist role. Pm might also be used by the client or by both the therapist and client simultaneously.
+*Activity* is another variable. Whereas I recommend starting with a boring environment, it is also interesting to experiment with deliberate combinations of Pm with various activities:
+- A group might plan a *hikrodose* that consists of consuming a microdose and then hiking through nature together.[^hikrodose]
+- Tour museums
+- Receive a massage
+- Physical activities (e.g., lift weights, hatha yoga, dance)
+- Music appreciation (e.g., concert, soundbath)
+- Go beyond boring environments with formal [meditation]({{< relref "senses" >}}).
+- Pm is well suited to talk therapy because of the wide [psycholytic](https://en.wikipedia.org/wiki/Psychedelic_therapy#Psycholytic_therapy) dosage range. IFS therapists are experimenting with using Pm in the therapist role. Pm might also be used by the client, or by both the therapist and client simultaneously.
 
 ## Notes
 
