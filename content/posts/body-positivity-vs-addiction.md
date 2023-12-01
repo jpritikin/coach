@@ -172,7 +172,7 @@ sequenceDiagram
 
 > Do some healthy shape women cynically encourage the body positivity movement to reduce competition?[^fox20231017] 🧌
 
-I hope not. 🙈
+I hope not.[^sulikowski2024] 🙈
 
 {{% details "Hey wait! It's hard to lose weight! 😤" %}}
 1. Stop [🐓 eating 🐔🥚 chicken 🐣](https://nutritionfacts.org/video/chicken-big-poultry-and-obesity/)
@@ -193,3 +193,5 @@ Also see [What’s the Ideal BMI?](https://nutritionfacts.org/video/whats-the-id
 [^fox20231017]: [Victoria's Secret ditches prioritizing wokeness over 'sexiness' after sales drop](https://www.foxbusiness.com/media/victorias-secret-ditches-prioritizing-wokeness-sexiness-sales-drop)
 
 [^williams2023]: Williams Sr., K. A., & Hever, J. (2023). IJDRP Interviews Julieanna Hever. *International Journal of Disease Reversal and Prevention, 5*(2), 7 pp. https://doi.org/10.22230/ijdrp.2023v5n2a403
+
+[^sulikowski2024]: Sulikowski, D., Williams, M., Nair, G., Shepherd, B., Wilson, A., Tran, A., & Wagstaff, D. (2024). Off with her hair: Intrasexually competitive women advise other women to cut off more hair. *Personality and Individual Differences, 216*, 112406.
