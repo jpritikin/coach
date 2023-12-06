@@ -128,6 +128,7 @@ If you only try a dose of 500mg then there is a lot of uncertainty about what th
 - Receive a massage
 - Physical activities (e.g., lift weights, hatha yoga, dance)
 - Music appreciation (e.g., concert, soundbath)
+- Play video games
 - Go beyond boring environments with formal [meditation]({{< relref "senses" >}}).
 - Pm is well suited to talk therapy because of the wide [psycholytic](https://en.wikipedia.org/wiki/Psychedelic_therapy#Psycholytic_therapy) dosage range. IFS therapists are experimenting with using Pm in the therapist role. Pm might also be used by the client, or by both the therapist and client simultaneously.
 
