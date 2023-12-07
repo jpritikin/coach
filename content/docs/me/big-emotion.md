@@ -6,6 +6,9 @@ bookToc: true
 
 # Big Emotion
 
+In retrospect, I have dedicated my life to the search for *Big Emotion*.
+This essay is an attempt to convey what I mean by *Big Emotion*.
+
 ## Introduction
 
 Psychologists often ask study participants to describe their feelings.
