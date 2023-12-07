@@ -57,12 +57,13 @@ You are no longer tossed around haphazardly by your emotions, but you develop a 
 
 ## Self-Actualization
 
-To me, *self-actualization* (also *transcendence*) is too abstract and vague.
-Maslow didn't offer a precise definition of *Self* or what it might mean to actualize or transcend it.[^maslow]
-To me, the focus of self-actualization is *Big Emotion*, because *enjoyment* is substantially emotional.
+I like Maslow's *hierarchy of needs* as a way of thinking about fulfillment, that is, what makes life worth living.
+However, his ideas for the top of the hierarchy, such as *self-actualization* or *transcendence*, are too abstract and vague.
+Maslow didn't define *Self* precisely or what it might mean to actualize or transcend it.[^maslow]
+For the top of Maslow's hierarchy, I suggest *Big Emotion* because *enjoyment* is substantially emotional.
 No longer a frightening, dangerous place, life is now your playground.
-Seize volition.
-How much can you enjoy yourself?[^pleasure]
+Despite determinism,[^sapolsky2023] seize volition.
+How much can you enjoy yourself (and not just in a hedonistic way)?[^pleasure]
 If you are too much in your head (thinking/cognitive) then you cannot enjoy yourself fully.
 Big Emotion can be found in many areas:
 
@@ -90,3 +91,5 @@ I challenge you to explore and integrate as many areas as possible.
 [^maslow]: [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 
 [^pleasure]: [There are many varieties of pleasure.](https://en.wikipedia.org/wiki/Pleasure)
+
+[^sapolsky2023]: Sapolsky, R. M. (2023). *Determined: A Science of Life without Free Will.* Penguin Press.
