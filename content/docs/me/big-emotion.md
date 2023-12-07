@@ -70,7 +70,7 @@ Big Emotion can be found in many areas:
 | area | example sub-areas |
 | ---- | ----------------- |
 | [meditation]({{< relref "meditation" >}}) | philosophy, religion, spirituality |
-| [psychoactive drugs]({{< relref "psychoactive" >}}) | psychedelics, neuroscience, physics |
+| [psychoactive drugs]({{< relref "psychoactive" >}}) | psychedelics, neuroscience, chemistry, physics |
 | [diet]({{< relref "health" >}}) | gardening, food, biology, toxicology, politics |
 | [exercise]({{< relref "exercise" >}}) | flow, anatomy, kinesiology |
 | [sex, relationships, family]({{< relref "sex-ed" >}}) | developmental psychology, evolution, genetics, urban design |
