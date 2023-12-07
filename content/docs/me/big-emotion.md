@@ -75,7 +75,7 @@ Big Emotion can be found in many areas:
 | [exercise]({{< relref "exercise" >}}) | flow, anatomy, kinesiology |
 | [sex, relationships, family]({{< relref "sex-ed" >}}) | developmental psychology, evolution, genetics, urban design |
 
-Many people have one favorite area, or at most, a few favorites.
+Often, people have one favorite area, or at most, a few favorites.
 For example, an important subproblem is how to reconcile psychedelic journeys with our mundane practical reality.
 I [address this subproblem]({{< relref "integration" >}}).
 However, I encourage broader ambition.
