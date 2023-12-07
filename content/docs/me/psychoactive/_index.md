@@ -75,6 +75,7 @@ Also check out:
 - Parody [Drug Dealers Against Legalization](https://jpritikin.github.io/ddal/)
 - [A sane reform proposal](https://maps.org/bulletin-criminal-legal-system-reform-healthier-society/)
 - [Limitless 2011](https://en.wikipedia.org/wiki/Limitless_(film))
+- [Hamilton’s Pharmacopeia](https://www.vicetv.com/en_us/show/hamiltons-pharmacopeia)
 
 ## My experience
 
