@@ -82,7 +82,7 @@ However, I encourage broader ambition.
 More enjoyment might be available by exploiting synergies between areas than would be possible when limited to fewer areas.
 I challenge you to explore and integrate as many areas as possible.
 
-## References
+## Notes
 
 [^scherer2013]: Scherer, K. R., Shuman, V., Fontaine, J. R., & Soriano, C. (2013). The GRID meets the Wheel: Assessing emotional feeling via self-report. *Components of emotional meaning: A sourcebook, 53,* 1689-1699. DOI: [10.1093/acprof:oso/9780199592746.003.0019](https://doi.org/10.1093/acprof:oso/9780199592746.003.0019)
 

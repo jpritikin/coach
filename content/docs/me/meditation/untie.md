@@ -1,6 +1,6 @@
 ---
 title: Effortlessness
-weight: 1
+weight: 30
 bookToc: true
 ---
 
