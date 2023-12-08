@@ -52,7 +52,7 @@ Credit: Door imagined by Midjourney
 The region of the door is regarded by [Internal Family Systems]({{< relref "ifs" >}}) (IFS) as the region of Self Energy.
 This region might be described with words like compassion, creativity, curiosity, confidence, courage, calm, connectedness, clarity, presence, persistence, perspective, playfulness, and patience.
 As an IFS client, you learn how to navigate this affect space.
-You are no longer tossed around haphazardly by your emotions, but you develop a certain degree of Self leadership.
+You are no longer tossed around haphazardly by your emotions, but you develop a certain degree of Self-leadership.
 "When the Self is in the lead, the parts provide input to the Self but respect the leadership and ultimate decision making of the Self."[^ifs-model]
 
 ## Self-Actualization
