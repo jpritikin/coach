@@ -42,6 +42,7 @@ I use **Internal Family Systems**
 ## Professional Background
 
 - [Internal Family Systems](https://ifs-institute.com/practitioners/all/110287)
+  - [Common Stuck Points Using the IFS Model](https://burriscounseling.com/), Dec 2023
   - IFIO Advanced Training: Sexuality Matters, Nov 2023
   - Attendee at the 2023 IFS Conference in Denver CO
   - [Creating Healing Circles](https://burriscounseling.com): Using the IFS Model in Group Therapy, Aug 2023  
