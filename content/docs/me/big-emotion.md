@@ -6,7 +6,9 @@ bookToc: true
 
 # Big Emotion
 
-In retrospect, I have dedicated my life to the search for *Big Emotion*.
+I've often wondered, what is the purpose of my life?
+Recently, I think a possible answer has come into sharper focus.
+I have dedicated my life to the search for *Big Emotion*.
 This essay is an attempt to convey what I mean by *Big Emotion*.
 
 ## Introduction
