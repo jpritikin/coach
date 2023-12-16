@@ -29,6 +29,7 @@ These numbers are guestimates based on the size of our brain and its reaction ti
 The brain has no intrinsic consciousness[^zombie][^sapolsky2023] but provides the user interface that we use to interact with space-time representations.[^norretranders1999]
 For example, the brain contains something like a multimodal large language model[^llm] that we use to predict and imagine.
 The brain also contains multimodal memories, just like my computer's storage device.
+This is not a Homunculus argument,[^homunculus] but we do have to accept that the here-and-now is an axiom.
 
 ## Dark matter
 
@@ -80,3 +81,5 @@ Maybe by sensing the range of outcomes afforded by the uncollapsed quantum wave 
 [^falconer2023]: Falconer, R. (2023). *The Others Within Us: Internal Family Systems, Porous Mind, and Spirit Possession.* Great Mystery Press.
 
 [^stevenson2000]: Stevenson, I. (2000). *Children Who Remember Previous Lives: A Question of Reincarnation.* McFarland.
+
+[^homunculus]: [Homunculus argument](https://en.wikipedia.org/wiki/Homunculus_argument)
