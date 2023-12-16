@@ -55,7 +55,7 @@ Theoretical evidence:
 
 One possibility is that dark matter is the projection, mostly inchoate, of here-and-now into space-time (i.e., a cluster of particles being a soul 👻).[^conscious-agent]
 The better we understand how the brain works 🧠, the more we will understand what kind of user interface a soul is best suited to interact with.
-Perhaps science can also crack the mystery of birth 🎂 and death ☠️ (and maybe spirit possession[^falconer2023]).
+Perhaps science can also crack the mystery of birth 🎂 and death ☠️ (and maybe spirit possession[^falconer2023] and reincarnation[^stevenson2000]).
 
 ## Notes
 
@@ -78,3 +78,5 @@ Maybe by sensing the range of outcomes afforded by the uncollapsed quantum wave 
 [^sapolsky2023]: Sapolsky, R. M. (2023). *Determined: A Science of Life without Free Will.* Penguin Press.
 
 [^falconer2023]: Falconer, R. (2023). *The Others Within Us: Internal Family Systems, Porous Mind, and Spirit Possession.* Great Mystery Press.
+
+[^stevenson2000]: Stevenson, I. (2000). *Children Who Remember Previous Lives: A Question of Reincarnation.* McFarland.
