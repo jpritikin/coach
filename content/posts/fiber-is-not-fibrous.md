@@ -39,4 +39,4 @@ So whenever you hear the word *fiber* in a nutrition context,
 picture **slimy gel** instead of coconut coir.
 Also, you should always prefer **fermentable** fiber.
 Just because you cannot digest fiber doesn't mean that the friendly bateria in your gut can't.
-For example, avoid psyllium fiber (e.g., Metamucil).
+For example, avoid psyllium fiber (e.g., Metamucil) because it is **not** fermentable.
