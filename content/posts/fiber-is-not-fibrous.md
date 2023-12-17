@@ -25,7 +25,7 @@ Credit: Midjourney
 
 Indeed, these are a kind of fiber that your body cannot digest. You
 cannot digest banana peals either. In nutrition science, the word
-*fiber* refers to **eatible, appetizing** carbohydrates that the body
+*fiber* refers to **appetizing** carbohydrates that the body
 can't digest. Some of the highest fiber foods are not fibrous:
 
 | food source | grams of fiber |
@@ -37,3 +37,6 @@ can't digest. Some of the highest fiber foods are not fibrous:
 
 So whenever you hear the word *fiber* in a nutrition context,
 picture **slimy gel** instead of coconut coir.
+Also, you should always prefer **fermentable** fiber.
+Just because you cannot digest fiber doesn't mean that the friendly bateria in your gut can't.
+For example, avoid psyllium fiber (e.g., Metamucil).
