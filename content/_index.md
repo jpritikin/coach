@@ -27,7 +27,7 @@ I use **Internal Family Systems**
   - [IFS is similar to psychotherapy, addressing many of the same conditions.]({{< relref "dsm" >}})
   - I provide *counseling* under [ORS 675.825(4)(a)](https://oregon.public.law/statutes/ors_675.825), which allows alternative counselors to practice legally in Oregon without a license.
   - Since I am **not** licensed in Oregon, I cannot describe myself as a *psychotherapist*. [ORS 675.020](https://oregon.public.law/statutes/ors_675.020)
-- Psychedelic prep & integration 🍄/🐸
+- Psychedelic prep & integration[^morgan2020] 🍄/🐸
   - Prepare to take your first psychedelic journey safely
   - Understand and integrate your psychedelic journey(s)
   - I do **not** prescribe, procure, or administer substances.
@@ -90,3 +90,5 @@ Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bi
 [^capture-of-nutrition]: Is it probably a good thing that I am not a licensed dietician given [The corporate capture of the nutrition profession in the USA: the case of the Academy of Nutrition and Dietetics (2022)](https://www.cambridge.org/core/journals/public-health-nutrition/article/corporate-capture-of-the-nutrition-profession-in-the-usa-the-case-of-the-academy-of-nutrition-and-dietetics/9FCF66087DFD5661DF1AF2AD54DA0DF9).
 
 [^meditation]: Check out my [2023 article on meditation](https://partsandself.org/ifs-and-meditation/) published in the IFS magazine PARTS & SELF!
+
+[^morgan2020]: Morgan, N. L. (2020). Integrating psychedelic experiences utilizing the Internal Family Systems therapeutic model. *Int. J. Soc. Sci. Manage. Rev 3,* 257–264. doi: [10.37602/IJSSMR.2020.3417](http://ijssmr.org/uploads2020/ijssmr03_123.pdf)
