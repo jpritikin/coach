@@ -6,6 +6,9 @@ bookToc: false
 
 # Cannabis/Hemp
 
+![Cannabidiol](cannabidiol.webp)
+{.center}
+
 Cannabis offers an extraordinary variety of psychoactive chemicals
 that interact in complex ways.[^russo2019] The two most important
 molecules are tetrahydrocannabinol (THC) and cannabidiol (CBD).
