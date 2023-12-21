@@ -13,7 +13,7 @@ Place some warm water in a dishpan[^pan] with a handful of salt.[^salt]
 Sit comfortably on a chair, put your feet in the salt water,
 and meditate for 5-15 minutes.
 
-This helps address [Restless Legs Syndrome](https://www.ninds.nih.gov/health-information/patient-caregiver-education/fact-sheets/restless-legs-syndrome-fact-sheet).
+Helps address [Restless Legs Syndrome](https://www.ninds.nih.gov/health-information/patient-caregiver-education/fact-sheets/restless-legs-syndrome-fact-sheet) and improves sleep quality.[^haghayegh2019][^aghamohammadi2020][^sung2000]
 
 Can combine with [withdrawal of the senses]({{< relref "senses"  >}}).
 In fact, with lukewarm water, foot soak could be regarded as
@@ -37,3 +37,9 @@ This technique is from [Sahaja Yoga Meditation](https://us.sahajayoga.org/).
 
 [^salt]: Use table salt 🧂 (sodium chloride) to mimic ocean water. Epsom salt (magnesium
 sulfate) is a great fertilizer for plants.
+
+[^haghayegh2019]: Haghayegh, S., Khoshnevis, S., Smolensky, M. H., Diller, K. R., & Castriotta, R. J. (2019). Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis. *Sleep medicine reviews, 46*, 124–135. https://doi.org/10.1016/j.smrv.2019.04.008
+
+[^aghamohammadi2020]: Aghamohammadi, V., Salmani, R., Ivanbagha, R., Effati Daryani, F., & Nasiri, K. (2020). Footbath as a safe, simple, and non-pharmacological method to improve sleep quality of menopausal women. *Research in Nursing & Health, 43*(6), 621–628. https://doi.org/10.1002/nur.22082
+
+[^sung2000]: Sung, E. J., & Tochihara, Y. (2000). Effects of bathing and hot footbath on sleep in winter. *Journal of Physiological Anthropology and Applied Human Science, 19*(1), 21–27. https://doi.org/10.2114/jpa.19.21
