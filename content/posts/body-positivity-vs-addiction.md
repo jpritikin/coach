@@ -96,6 +96,8 @@ However, Alice's Pain is still lingering unresolved and her growing BMI is putti
 
 > It’s really hard to stay in your truth when you really are being abnormalized and you feel socially ousted because we are tribal by nature and need to survive by staying in our tribes, and so there’s so much against us. Further worsening the situation is the normalization of obesity. I am shamed, as a registered dietitian, for talking about healthy weight and weight loss! There are movements trying to stop the conversation, claiming there are no negative health sequelae associated with excess weight, when clearly that is well-substantiated.[^williams2023]
 
+> Thanks in part to the obesity epidemic, we may now be raising the first American generation to live shorter lives than their parents. This downward trend in lifespan is expected to accelerate as the current younger generation, who started out even heavier, earlier, ages into adulthood. Some predict that, in the coming decades, we may lose two to five years of life expectancy in the United States, or even more. To put that into perspective, a miracle cure for *all* forms of cancer would only add three and a half years to the average American lifespan. In other words, reversing the obesity epidemic might save more lives than curing cancer (p. 219).[^greger2023]
+
 ## Addiction through an IFS lens 🔍
 
 [IFS]({{< relref "ifs" >}}) recognizes the value of Alice's coping parts, but also aims to heal Alice's pain.[^sykes2023]
@@ -195,3 +197,5 @@ Also see [What’s the Ideal BMI?](https://nutritionfacts.org/video/whats-the-id
 [^williams2023]: Williams Sr., K. A., & Hever, J. (2023). IJDRP Interviews Julieanna Hever. *International Journal of Disease Reversal and Prevention, 5*(2), 7 pp. https://doi.org/10.22230/ijdrp.2023v5n2a403
 
 [^sulikowski2024]: Sulikowski, D., Williams, M., Nair, G., Shepherd, B., Wilson, A., Tran, A., & Wagstaff, D. (2024). Off with her hair: Intrasexually competitive women advise other women to cut off more hair. *Personality and Individual Differences, 216*, 112406.
+
+[^greger2023]: Greger, M. (2023). *How Not to Age.* Flatiron Books.
