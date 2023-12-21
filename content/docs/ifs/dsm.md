@@ -55,4 +55,4 @@ From an IFS perspective, there are no disorders but only natural reactions to ex
 
 [^kagan2010]: Kagan, J. (2010). *The temperamental thread: How genes, culture, time, and luck make us who we are.* Dana Press.
 
-[^schwartz2016]: Schwartz, R. C. (2016). Perpetrator parts. In *Innovations and elaborations in internal family systems therapy* (pp. 109-123). Routledge.
+[^schwartz2016]: Schwartz, R. C. (2016). Perpetrator parts. In *Innovations and elaborations in Internal Family Systems therapy* (pp. 109-123). Routledge.
