@@ -7,6 +7,10 @@ draft: false
 
 # Santo Daime
 
+| N,N-Dimethyltryptamine | Harmine and similar |
+| ---------------------- | ------- |
+| [![DMT](dmt.webp)](https://en.wikipedia.org/wiki/Psychotria_viridis)       | [![Harmine](harmine.webp) ![Tetrahydroharmine](tetrahydroharmine.webp)](https://en.wikipedia.org/wiki/Banisteriopsis_caapi) |
+
 Among many other effects, sensitivity to posture and gesture are
 greatly enhanced by [5-HT2A receptor agonists]({{< relref "psychoactive" >}}#serotonin) such as daime.[^garrison2016]
 I have made some study of static poses that align with
