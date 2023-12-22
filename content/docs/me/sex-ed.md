@@ -86,6 +86,10 @@ Sensate Focus Therapy[^masters1994]
 
 Morin, J. (1996). *The Erotic Mind: Unlocking the Inner Sources of Passion and Fulfillment.* Harper Perennial.
 
+{{% details "Kegel Exercises" %}}
+Originally developed to treat urinary incontinence, improvement in sexual arousal and orgasm are happy side effects.[^nazarpour2017] [Kegel exercises: A how-to guide for women](https://www.mayoclinic.org/healthy-lifestyle/womens-health/in-depth/kegel-exercises/art-20045283)
+{{% /details %}}
+
 ### Parenting
 
 {{% details "It's simple." %}}
@@ -116,3 +120,5 @@ Credit: [Lucy Churchill](https://www.lucychurchill.com/product/anasyrma-vulval-m
 [^not-tantra]: See Scott Carney's [The Monk who F*cked Everything: a Brief History of Print Capital from Tibet to Modern America](https://www.youtube.com/watch?v=ixbxWHuawXo)
 
 [^masters1994]: [Sensate Focus Therapy (summary)](https://health.cornell.edu/sites/health/files/pdf-library/sensate-focus.pdf)
+
+[^nazarpour2017]: Nazarpour, S., Simbar, M., Ramezani Tehrani, F., & Alavi Majd, H. (2017). Effects of sex education and Kegel exercises on the sexual function of postmenopausal women: A randomized clinical trial. *The Journal of Sexual Medicine, 14*(7), 959-967.
