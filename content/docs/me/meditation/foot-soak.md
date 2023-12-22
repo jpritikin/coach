@@ -40,6 +40,6 @@ sulfate) is a great fertilizer for plants.
 
 [^haghayegh2019]: Haghayegh, S., Khoshnevis, S., Smolensky, M. H., Diller, K. R., & Castriotta, R. J. (2019). Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis. *Sleep medicine reviews, 46*, 124–135. https://doi.org/10.1016/j.smrv.2019.04.008
 
-[^aghamohammadi2020]: Aghamohammadi, V., Salmani, R., Ivanbagha, R., Effati Daryani, F., & Nasiri, K. (2020). Footbath as a safe, simple, and non-pharmacological method to improve sleep quality of menopausal women. *Research in Nursing & Health, 43*(6), 621–628. https://doi.org/10.1002/nur.22082
+[^aghamohammadi2020]: Aghamohammadi, V., Salmani, R., Ivanbagha, R., Effati Daryani, F., & Nasiri, K. (2020). Footbath as a safe, simple, and non-pharmacological method to improve sleep quality of menopausal women. *Research in Nursing & Health, 43*(6), 621–628.
 
 [^sung2000]: Sung, E. J., & Tochihara, Y. (2000). Effects of bathing and hot footbath on sleep in winter. *Journal of Physiological Anthropology and Applied Human Science, 19*(1), 21–27. https://doi.org/10.2114/jpa.19.21
