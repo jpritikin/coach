@@ -88,6 +88,10 @@ The best time to practice meditation is 4:30 to 9:00 (am and pm) in your local t
 
 This is just a sample schedule. Customize as per your preference.
 
+### Don't forget fun
+
+Check out [JP Sears](https://en.wikipedia.org/wiki/JP_Sears)'s collection of parodies [Ultra Spiritual Life](https://www.youtube.com/playlist?list=PLVqOKx7e2qhefIG5IEGOKQ4pCzFf8IScX)
+
 ## References
 
 [^lenz]: Among others, I was a student of [https://fredericklenz.com/](https://fredericklenz.com/) for a few years. For a retrospective, check out the associated [Smoke Screen Podcast](https://www.neonhum.com/show-pages/i-am-rama.html).
