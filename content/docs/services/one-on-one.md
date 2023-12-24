@@ -22,9 +22,12 @@ During the no-fee consultation, we’ll decide together what is the best fit. �
 
 I plead that you regard 90-minute sessions as a **minimum** duration.
 {{% details "Why? 😠" %}}
-Couples counseling is extremely delicate. 🦋🐝
+There is a lot of per-session overhead.
+At the beginning of every session, we need to negotiate what to work on.
+At the end of every session, I will solicit your feedback so we can plan the next session.
+The intro and outro sections together can take 30 minutes or more. ⏳
+Add to that that couples counseling is extremely delicate. 🦋🐝
 To work safely, we have to progress slowly, with great caution.
-This takes time. ⏳
 {{% /details %}}
 
 {{% columns %}}
@@ -46,7 +49,7 @@ As I am not licensed, I can work with anyone, anywhere in the world (time-zone p
 My rate is $100 per hour. Reserve time in 15 min increments. I do not accept insurance. 🎟️
 
 {{% details "Too pricy? 💰" %}}
-People with low income 🎱, or veterans or active military 💣 may request a sliding scale rate.
+People with low income 🎱, or veterans or active military 🎖️ may request a sliding scale rate.
 {{% /details %}}
 
 Book a free 20 min consultation.
@@ -57,6 +60,15 @@ Book a free 20 min consultation.
 <!-- ScheduleOnce button END -->
 
 {{% /columns %}}
+
+## How long does it take? When will I see results?
+
+{{% details "Individuals" %}}
+It depends on your individual goals. Some clients get complete relief in three hours or less. Other clients may need tens of hours of work to begin to approach goals.
+{{% /details %}}
+{{% details "Couples & Dyads" %}}
+Quick results are unlikely. Don't expect much progress until we reach at least 10 hours. Couples counseling typically takes more time compared to work with individuals.
+{{% /details %}}
 
 ## Notes
 
