@@ -87,7 +87,7 @@ Sensate Focus Therapy[^masters1994]
 Morin, J. (1996). *The Erotic Mind: Unlocking the Inner Sources of Passion and Fulfillment.* Harper Perennial.
 
 {{% details "Kegel Exercises" %}}
-Originally developed to treat urinary incontinence, improvement in sexual arousal and orgasm are happy side effects.[^nazarpour2017] [Kegel exercises: A how-to guide for women](https://www.mayoclinic.org/healthy-lifestyle/womens-health/in-depth/kegel-exercises/art-20045283)
+Originally developed to treat urinary incontinence, improvement in sexual arousal and orgasm are happy side effects.[^nazarpour2017] See [kegel exercises](https://my.clevelandclinic.org/health/articles/14611-kegel-exercises)
 {{% /details %}}
 
 ### Parenting
