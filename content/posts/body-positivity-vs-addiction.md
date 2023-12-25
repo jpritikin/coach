@@ -92,7 +92,7 @@ sequenceDiagram
 
 This is better than the *Don't eat ice cream* scenario.
 At least Alice stays alive.
-However, Alice's Pain is still lingering unresolved and her growing BMI is putting her at increased risk of diabetes, cardiovascular disease, and several types of cancer ☣️.[^fontana2014]
+However, Alice's Pain still lingers unresolved and her growing BMI is putting her at increased risk of diabetes, cardiovascular disease, and several types of cancer ☣️.[^fontana2014]
 
 > It’s really hard to stay in your truth when you really are being abnormalized and you feel socially ousted because we are tribal by nature and need to survive by staying in our tribes, and so there’s so much against us. Further worsening the situation is the normalization of obesity. I am shamed, as a registered dietitian, for talking about healthy weight and weight loss! There are movements trying to stop the conversation, claiming there are no negative health sequelae associated with excess weight, when clearly that is well-substantiated.[^williams2023]
 
