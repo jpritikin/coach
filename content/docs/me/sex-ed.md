@@ -41,7 +41,18 @@ Hill, S. (2019). *This is your brain on birth control: The surprising science of
 Hooven, C. (2021). *T: The story of testosterone, the hormone that dominates and divides us.* Henry Holt and Company.  
 [Oct 27, 2022 Interview](https://www.youtube.com/watch?v=_Q14k3yZ2EU) ♂
 
-https://iomfoundation.org/
+[Research Collection on Orgasmic Meditation 🪷](https://iomfoundation.org/)
+
+{{% details "Kegel Exercises" %}}
+Originally developed to treat urinary incontinence, improvement in sexual arousal and orgasm are happy side effects.[^nazarpour2017] See [kegel exercises](https://my.clevelandclinic.org/health/articles/14611-kegel-exercises)
+{{% /details %}}
+
+Some dietary tweaks:
+- For improved body odor, avoid meat[^havlicek2006] and eat mushrooms[^nishihira2015]
+- Ginger[^ginger]
+- Fenugreek[^fenugreek]
+
+Choose lube carefully[^edwards2016]
 
 ### Contemporary Feminism vs. Dignity
 
@@ -86,10 +97,6 @@ Sensate Focus Therapy[^masters1994]
 
 Morin, J. (1996). *The Erotic Mind: Unlocking the Inner Sources of Passion and Fulfillment.* Harper Perennial.
 
-{{% details "Kegel Exercises" %}}
-Originally developed to treat urinary incontinence, improvement in sexual arousal and orgasm are happy side effects.[^nazarpour2017] See [kegel exercises](https://my.clevelandclinic.org/health/articles/14611-kegel-exercises)
-{{% /details %}}
-
 ### Parenting
 
 {{% details "It's simple." %}}
@@ -122,3 +129,13 @@ Credit: [Lucy Churchill](https://www.lucychurchill.com/product/anasyrma-vulval-m
 [^masters1994]: [Sensate Focus Therapy (summary)](https://health.cornell.edu/sites/health/files/pdf-library/sensate-focus.pdf)
 
 [^nazarpour2017]: Nazarpour, S., Simbar, M., Ramezani Tehrani, F., & Alavi Majd, H. (2017). Effects of sex education and Kegel exercises on the sexual function of postmenopausal women: A randomized clinical trial. *The Journal of Sexual Medicine, 14*(7), 959-967.
+
+[^havlicek2006]: Havlicek, J., & Lenochova, P. (2006). The effect of meat consumption on body odor attractiveness. *Chemical Senses, 31*(8), 747–752. https://doi.org/10.1093/chemse/bjl017
+
+[^nishihira2015]: Nishihira, J., Nishimura, M., Tanaka, A., Yamaguchi, A., & Taira, T. (2015). Effects of 4-week continuous ingestion of champignon extract on halitosis and body and fecal odor. *Journal of Traditional and Complementary Medicine, 7*(1), 110–116. https://doi.org/10.1016/j.jtcme.2015.11.002
+
+[^edwards2016]: Edwards, D., & Panay, N. (2016). Treating vulvovaginal atrophy/genitourinary syndrome of menopause: How important is vaginal lubricant and moisturizer composition? *Climacteric: The Journal of the International Menopause Society, 19*(2), 151–161. https://doi.org/10.3109/13697137.2015.1124259
+
+[^fenugreek]: [Fenugreek Benefits for Sexual Function, Painful Periods, and Milk Production](https://nutritionfacts.org/video/fenugreek-benefits-for-sexual-function-painful-periods-and-milk-production/)
+
+[^ginger]: [Benefits of Ginger for Menstrual Cramps](https://nutritionfacts.org/video/benefits-of-ginger-for-menstrual-cramps/)
