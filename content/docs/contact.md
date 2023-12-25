@@ -53,9 +53,6 @@ Call or text 988
 chat https://988lifeline.org/
 {.center}
 
-[Substance Abuse and Mental Health Services Administration](https://www.samhsa.gov/find-support/in-crisis)
-{.center}
-
 ## Mailing Address
 
 I do not rent office space on an ongoing basis. My corporate entity can receive mail at:
