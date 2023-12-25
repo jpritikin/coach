@@ -44,6 +44,8 @@ Me at NW AcroYoga Camp-Out 2023 in Bellingham, WA
 - Brazilian Jiu-Jitsu  
 ![blue belt](blue.webp)  
 Me with [Prof Pete Loncarevich](https://en.wikipedia.org/wiki/Pete_Loncarevich#Brazilian_Jiu-Jitsu) in Jan 2023 🥋
+
+Hopefully inverted positions 🙃 do not increase the risk of glaucoma![^jasien2015]
 {{% /details %}}
 
 ## References
@@ -51,3 +53,5 @@ Me with [Prof Pete Loncarevich](https://en.wikipedia.org/wiki/Pete_Loncarevich#B
 [^pritikin2022]: Pritikin, J.N., Schmidt, K.M. (2022). Physical Activity Flow Propensity. *Int J Appl Posit Psychol* doi:10.1007/s41042-022-00071-5
 
 [^sawyer2007]: Sawyer, K. (2007). *Group genius: The creative power of collaboration.* Basic Books.
+
+[^jasien2015]: Jasien, J. V., Jonas, J. B., de Moraes, C. G., & Ritch, R. (2015). Intraocular Pressure Rise in Subjects with and without Glaucoma during Four Common Yoga Positions. *PLOS ONE, 10*(12), e0144505. https://doi.org/10.1371/journal.pone.0144505
