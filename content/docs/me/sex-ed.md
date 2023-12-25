@@ -97,6 +97,12 @@ Sensate Focus Therapy[^masters1994]
 
 Morin, J. (1996). *The Erotic Mind: Unlocking the Inner Sources of Passion and Fulfillment.* Harper Perennial.
 
+### Pregnancy
+
+Check out [Dr. Greger's recommendations](https://nutritionfacts.org/topics/pregnancy/)!
+
+What to eat during late pregnancy, labor, and delivery?[^dates]
+
 ### Parenting
 
 {{% details "It's simple." %}}
@@ -139,3 +145,5 @@ Credit: [Lucy Churchill](https://www.lucychurchill.com/product/anasyrma-vulval-m
 [^fenugreek]: [Fenugreek Benefits for Sexual Function, Painful Periods, and Milk Production](https://nutritionfacts.org/video/fenugreek-benefits-for-sexual-function-painful-periods-and-milk-production/)
 
 [^ginger]: [Benefits of Ginger for Menstrual Cramps](https://nutritionfacts.org/video/benefits-of-ginger-for-menstrual-cramps/)
+
+[^dates]: [Best Food for Late Pregnancy](https://nutritionfacts.org/video/best-food-for-late-pregnancy/) and [Best Food for Labor and Delivery](https://nutritionfacts.org/video/best-food-for-labor-and-delivery/)
