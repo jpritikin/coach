@@ -140,7 +140,7 @@ Credit: [Lucy Churchill](https://www.lucychurchill.com/product/anasyrma-vulval-m
 
 [^nishihira2015]: Nishihira, J., Nishimura, M., Tanaka, A., Yamaguchi, A., & Taira, T. (2015). Effects of 4-week continuous ingestion of champignon extract on halitosis and body and fecal odor. *Journal of Traditional and Complementary Medicine, 7*(1), 110–116. https://doi.org/10.1016/j.jtcme.2015.11.002
 
-[^edwards2016]: Edwards, D., & Panay, N. (2016). Treating vulvovaginal atrophy/genitourinary syndrome of menopause: How important is vaginal lubricant and moisturizer composition? *Climacteric: The Journal of the International Menopause Society, 19*(2), 151–161. https://doi.org/10.3109/13697137.2015.1124259
+[^edwards2016]: Edwards, D., & Panay, N. (2016). Treating vulvovaginal atrophy/genitourinary syndrome of menopause: How important is vaginal lubricant and moisturizer composition? *Climacteric: The Journal of the International Menopause Society, 19*(2), 151–161.
 
 [^fenugreek]: [Fenugreek Benefits for Sexual Function, Painful Periods, and Milk Production](https://nutritionfacts.org/video/fenugreek-benefits-for-sexual-function-painful-periods-and-milk-production/)
 
