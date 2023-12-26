@@ -172,9 +172,9 @@ sequenceDiagram
 
 ## Postscript
 
-> Do some healthy shape women cynically encourage the body positivity movement to reduce competition?[^fox20231017] 🧌
+Do some healthy shape women cynically encourage the body positivity movement to reduce competition?[^fox20231017] 🧌
 
-I hope not.[^sulikowski2024] 🙈
+I hope not, but intrasexual competition is a thing.[^sulikowski2024] 🙈
 
 {{% details "Hey wait! It's hard to lose weight! 😤" %}}
 1. Stop [🐓 eating 🐔🥚 chicken 🐣](https://nutritionfacts.org/video/chicken-big-poultry-and-obesity/)
