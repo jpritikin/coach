@@ -8,14 +8,12 @@ bookToc: false
 
 A few hundred years ago, it was easy to know whether your physical health was threatened. Fell off a tree 🌳 and broke your arm? Hard to miss. With modern medicine 💊, we now know a lot about treating acute insults. Treatments often work well; people often recover. The main threat to physical health in modern times is stealth, chronic illness. 🥷🏻 [In the United States, heart disease and cancer kill about 3 in a 1000 every year, and there is often not much warning.](https://www.cdc.gov/nchs/products/databriefs/db427.htm) [Most deaths due to heart disease are sudden.](https://nutritionfacts.org/video/how-to-reduce-the-risk-of-sudden-death/) ❤️‍🩹 Especially young adults less than 40 years old often feel suffused with vibrant healthy energy. ⚡ Is your body lying to you about your health? Fortunately, there are some simple measurements that can reveal signs of stealth chronic disease progression.
 
-{{< hint info >}}
 {{% details "I don't want to read all this. What kind of diet do you advocate?" %}}
 Ad libitum, low fat diet
 {{% /details %}}
 {{% details "All you can eat? I don't need to count calories or refrain from eating to surfeit?" %}}
-Yep, that's correct. The key is to choose foods by <a type="application/pdf" target="_blank" href="ucdim-energydensitychart.pdf">calorie density</a>.
+Yep, that's correct. The key is to choose foods by <a type="application/pdf" target="_blank" href="ucdim-energydensitychart.pdf">calorie density</a>. Most likely, you may actually eat a greater volume of food (median food intake of 2776 vs 2974 grams per day).[^rizzo2013]
 {{% /details %}}
-{{< /hint >}}
 
 ## About me
 
@@ -63,3 +61,7 @@ LDL is an acronym for low-density lipoprotein. Lipoprotein is a category of subs
 Ferritin is a blood test measure of our backup iron stores. A ferritin test may be ordered when anemia, a lack enough healthy red blood cells, is suspected. A concentration below about 12 ng/mL would indicate iron deficiency. However, it is also possible to have too much ferritin. [Excess iron is associated with increased odds of cancer and diabetes.](https://nutritionfacts.org/video/donating-blood-to-prevent-cancer/)
 
 {{% /details %}}
+
+## Notes
+
+[^rizzo2013]: Rizzo, N. S., Jaceldo-Siegl, K., Sabate, J., & Fraser, G. E. (2013). Nutrient profiles of vegetarian and nonvegetarian dietary patterns. *Journal of the Academy of Nutrition and Dietetics, 113*(12), 1610–1619.
