@@ -2,6 +2,7 @@
 title: IFS vs DSM
 type: docs
 bookToc: false
+weight: 2
 ---
 
 # Diagnostic and Statistical Manual of Mental Disorders (DSM)

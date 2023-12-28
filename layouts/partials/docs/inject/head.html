@@ -56,6 +56,23 @@ input.glowing {
     border: 1px solid #c8c8c8;
     font: bold 14px Arial;
 }
+@keyframes glory {
+        0% {
+          box-shadow: 0 0 2ex 0ex #8cc;
+        }
+        33% {
+          box-shadow: 0 0 2ex 0ex #fb4;
+        }
+        66% {
+          box-shadow: 0 0 2ex 0ex #e99;
+        }
+        100% {
+          box-shadow: 0 0 2ex 0ex #8cc;
+        }
+}
+.IFSCertified {
+    animation: glory 4000ms infinite;
+}
 .flickity-enabled:focus .flickity-viewport {
   outline: thin dotted;
   outline: 5px auto -webkit-focus-ring-color;
