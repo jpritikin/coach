@@ -97,6 +97,8 @@ Sensate Focus Therapy[^masters1994]
 
 Morin, J. (1996). *The Erotic Mind: Unlocking the Inner Sources of Passion and Fulfillment.* Harper Perennial.
 
+Shah, R., & Davis, B. (2020). *Nourish: The Definitive Plant-Based Nutrition Guide for Families--With Tips & Recipes for Bringing Health, Joy, & Connection to Your Dinner Table.* Simon and Schuster.
+
 ### Pregnancy
 
 Check out [Dr. Greger's recommendations](https://nutritionfacts.org/topics/pregnancy/)!
