@@ -56,6 +56,8 @@ Choose lube carefully[^edwards2016]
 
 ### Contemporary Feminism vs. Dignity
 
+Perry, L. (2022). *The Case Against the Sexual Revolution.* John Wiley & Sons.
+
 Harrington, M. (2023). *Feminism Against Progress.* Regnery Publishing.  
 [Mar 2, 2023 Interview](https://www.youtube.com/watch?v=8-pTX3X4yVE)  
 {{< hint info >}}
@@ -73,10 +75,6 @@ Harrington, M. (2023). *Feminism Against Progress.* Regnery Publishing.
 {{< /hint >}}
 
 Clark-Flory, T. (2021). *Want Me: A Sex Writer's Journey into the Heart of Desire.* Penguin Books.
-
-### On Consent
-
-Emba, C. (2022). *Rethinking Sex: A Provocation.* Sentinel.
 
 ### Tools for Healthy Relationships
 
