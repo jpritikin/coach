@@ -26,6 +26,12 @@ is because these poses have much greater significance when implemented
 by a whole group of people simultaneously in careful coordination.
 Posing solo is a bit self-indulgent.
 
+## Multitasking
+
+I have tried to do both at the same time, holding a pose while singing hymns.
+It seems like too much to keep track of except for maybe in the most trivial cases.
+Probably the best chance for posing is when not singing or during a pause in hymns.
+
 ## Doubts?
 
 Maybe you read through this page and you're skeptical.
