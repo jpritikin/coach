@@ -86,6 +86,14 @@ The best time to practice meditation is 4:30 to 9:00 (am and pm) in your local t
 | after dinner | [kanna extract]({{< relref "kanna"  >}}) | - |
 | before sleep | [ice on the liver]({{< relref "liver"  >}}) | 15 min |
 
+{{% details "Take cayenne pepper 🌶️ capsules 💊 with meals." %}}
+- Capsaicin acts as a relaxing analgesic for [TRPV1](https://en.wikipedia.org/wiki/TRPV1) in the colin.[^bortolotti2011]
+- Serotonin is one of the main neurotransmitters involved in both meditation and psychedelics. Serotonin receptors are widely expressed within the gastrointestinal tract.[^mawe2013] (This is suggestive of some kind of relationship.)
+- Use 300-600mg per day.
+- You might take cayenne with morning tea.[^morré2003]
+- Avoid cayenne pepper on an empty stomach 🧨🔥.
+{{% /details %}}
+
 This is just a sample schedule. Customize as per your preference.
 
 ### Don't forget fun
@@ -99,3 +107,9 @@ Check out [JP Sears](https://en.wikipedia.org/wiki/JP_Sears)'s collection of par
 [^turner2012]: Turner, E. (2012). *Communitas: The anthropology of collective joy.* Springer.
 
 [^lunch]: Calm and undistracted meals are generally a good idea, but particularly important for lunch.
+
+[^bortolotti2011]: Bortolotti, M., & Porta, S. (2011). Effect of red pepper on symptoms of irritable bowel syndrome: Preliminary study. *Digestive Diseases and Sciences, 56*(11), 3288–3295. https://doi.org/10.1007/s10620-011-1740-9
+
+[^morré2003]: Morré, D. J., & Morré, D. M. (2003). Synergistic Capsicum-tea mixtures with anticancer activity. *The Journal of Pharmacy and Pharmacology, 55*(7), 987–994. https://doi.org/10.1211/0022357021521
+
+[^mawe2013]: Mawe, G. M., & Hoffman, J. M. (2013). Serotonin signalling in the gut--functions, dysfunctions and therapeutic targets. *Nature Reviews Gastroenterology & Hepatology, 10*(8), 473–486.
