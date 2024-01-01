@@ -7,6 +7,8 @@ draft: false
 
 # Santo Daime
 
+## Introduction
+
 | N,N-Dimethyltryptamine | Harmine and similar |
 | ---------------------- | ------- |
 | [![DMT](dmt.webp)](https://en.wikipedia.org/wiki/Psychotria_viridis)       | [![Harmine](harmine.webp) ![Tetrahydroharmine](tetrahydroharmine.webp)](https://en.wikipedia.org/wiki/Banisteriopsis_caapi) |
@@ -26,18 +28,18 @@ is because these poses have much greater significance when implemented
 by a whole group of people simultaneously in careful coordination.
 Posing solo is a bit self-indulgent.
 
-## Multitasking
+### Multitasking
 
 I have tried to do both at the same time, holding a pose while singing hymns.
 It seems like too much to keep track of except for maybe in the most trivial cases.
 Probably the best chance for posing is when not singing or during a pause in hymns.
 
-## Doubts?
+### Doubts?
 
 Maybe you read through this page and you're skeptical.
 Drink more daime. 🍵
 
-## The Current of Reverence
+## Current of Reverence
 
 The analogy that I am trying to invoke is with electrical current
 or water flowing through a pipe. 🌊 Here, the substance that is
@@ -48,7 +50,7 @@ it flows through you, and then you can direct it away from you.
 An arbitrary careless posture does not necessarily obstruct the current of reverence,
 but specific intentional postures can increase the conductance and encourage the flow. 🚰
 
-## Key
+### Key
 
 {{% columns %}}
 
