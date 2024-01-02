@@ -88,7 +88,7 @@ The best time to practice meditation is 4:30 to 9:00 (am and pm) in your local t
 
 {{% details "Take cayenne pepper 🌶️ capsules 💊 with meals." %}}
 - Capsaicin acts as a relaxing analgesic for [TRPV1](https://en.wikipedia.org/wiki/TRPV1) in the colin.[^bortolotti2011]
-- Serotonin is one of the main neurotransmitters involved in both meditation and psychedelics. Serotonin receptors are widely expressed within the gastrointestinal tract.[^mawe2013] (This is suggestive of some kind of relationship.)
+- Serotonin is one of the main neurotransmitters involved in both meditation and psychedelics.[^serotonin2017] Serotonin receptors are widely expressed within the gastrointestinal tract.[^mawe2013] (This is suggestive of some kind of causal relationships.)
 - Use 300-600mg per day.
 - You might take cayenne with morning tea.[^morré2003]
 - Avoid cayenne pepper on an empty stomach 🧨🔥.
@@ -113,3 +113,5 @@ Check out [JP Sears](https://en.wikipedia.org/wiki/JP_Sears)'s collection of par
 [^morré2003]: Morré, D. J., & Morré, D. M. (2003). Synergistic Capsicum-tea mixtures with anticancer activity. *The Journal of Pharmacy and Pharmacology, 55*(7), 987–994. https://doi.org/10.1211/0022357021521
 
 [^mawe2013]: Mawe, G. M., & Hoffman, J. M. (2013). Serotonin signalling in the gut--functions, dysfunctions and therapeutic targets. *Nature Reviews Gastroenterology & Hepatology, 10*(8), 473–486.
+
+[^serotonin2017]: Carhart-Harris, R. L., & Nutt, D. J. (2017). Serotonin and brain function: a tale of two receptors. *Journal of Psychopharmacology (Oxford, England), 31*(9), 1091-1120.

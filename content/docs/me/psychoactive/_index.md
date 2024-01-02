@@ -198,7 +198,7 @@ DMT can facilitate Self energy in situations where Parts must exert some effort.
 
 [^catholic]: I am a bit embarrassed to be affiliated with Catholicism given its [sordid history](https://en.wikipedia.org/wiki/Catholic_Church). In general, I admire the best of all of the world's religions.
 
-[^serotonin2017]: Carhart-Harris, R. L., & Nutt, D. J. (2017). Serotonin and brain function: a tale of two receptors. *Journal of psychopharmacology (Oxford, England), 31*(9), 1091-1120.
+[^serotonin2017]: Carhart-Harris, R. L., & Nutt, D. J. (2017). Serotonin and brain function: a tale of two receptors. *Journal of Psychopharmacology (Oxford, England), 31*(9), 1091-1120.
 
 [^olivier1990]: Olivier, B., & Mos, J. (1990). Serenics, serotonin and aggression. *Progress in clinical and biological research, 361*, 203-230.
 
