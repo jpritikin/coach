@@ -46,7 +46,9 @@ Parts are suppressed. This is an unstable truce.
 What is often not appreciated is that the typical instructions for
 *How to Meditate* are like training wheels. After a little practice,
 the method itself becomes a hindrance to meditation because it
-requires too much effort. In the best case, a person with 2:3 Self to Parts
+requires too much effort.
+This is where things can go wrong.[^cheetah]
+In the best case, a person with 2:3 Self to Parts
 ratio might reach 6:4, but the method itself puts a limit on the degree of unblending.
 To really enjoy the Self in a profound way, all the
 Parts must willingly cede the stage to the Self, including the focuser
@@ -129,3 +131,5 @@ will suffice.
 [^mdma]: https://ifs-institute.com/resources/research/mdma-and-ptsd-studies
 
 [^basso2019]: Basso, J. C., McHale, A., Ende, V., Oberlin, D. J., & Suzuki, W. A. (2019). Brief, daily meditation enhances attention, memory, mood, and emotional regulation in non-experienced meditators. *Behavioural brain research, 356*, 208-220.
+
+[^cheetah]: See [Cheetah House](https://www.cheetahhouse.org/symptoms)
