@@ -132,7 +132,7 @@ much more than cognitive working memory.
 Your reaction to a psychedelic strongly depends on the willingness of your Parts to get quiet.[^aday2021]
 See my discussion of [effortless meditation]({{< relref "untie" >}}) to learn more about Parts
 and how to help them relax. There are at least three possible outcomes:
-- Parts are overactive and not willing to get quiet. A psychedelic will tend to make Parts more loud and extreme. This is going to be a difficult trip and corresponds to the monkey mind of an inexperienced meditator 🐒, magnified to Godzilla size 🦍.
+- Parts are overactive and not willing to get quiet. A psychedelic will tend to make Parts more loud and extreme. This is going to be a difficult trip and corresponds to the monkey mind of an inexperienced meditator 🐒, magnified to Godzilla size 🦍.[^cheetah]
 - Parts are active but willing to get quiet. In this situation, the client gains more access to Self energy and may do Parts work spontaneously. There is the opportunity to make rapid strides toward therapeutic goals.[^ifs-mdma]
 - Parts are fairly quiet. The Self shines with unusual brilliance 🌞 because the psychedelic does the bouncer Part’s job, facilitating an experience of Self that is profoundly effortless. Similar to effortless meditation, there is ample capacity for blending with a target. This is readily seen in reports of music perception under the influence of psychedelics. For example, “Volunteers reported far greater absorption in music, as well as greater perceived beauty and significance of music.”[^barrett2018]
 
@@ -213,3 +213,5 @@ DMT can facilitate Self energy in situations where Parts must exert some effort.
 [^nichols2023]: Nichols, D. E., Nichols, C. D., & Hendricks, P. S. (2022). Proposed Consensus Statement on Defining Psychedelic Drugs. *Psychedelic Medicine.* https://doi.org/10.1089/psymed.2022.0008
 
 [^healy2021]: Healy, C. J. (2021). The acute effects of classic psychedelics on memory in humans. *Psychopharmacology, 238*, 639-653.
+
+[^cheetah]: The potential adverse events are similar to what you might get with a [meditation session gone wrong](https://www.cheetahhouse.org/symptoms), but worse.
