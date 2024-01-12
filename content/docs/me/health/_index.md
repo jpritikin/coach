@@ -2,6 +2,7 @@
 title: Health Audit
 weight: 5
 bookToc: false
+bookCollapseSection: true
 ---
 
 # Personal Health Audit
