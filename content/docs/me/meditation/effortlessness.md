@@ -130,4 +130,4 @@ will suffice.
 
 [^basso2019]: Basso, J. C., McHale, A., Ende, V., Oberlin, D. J., & Suzuki, W. A. (2019). Brief, daily meditation enhances attention, memory, mood, and emotional regulation in non-experienced meditators. *Behavioural brain research, 356*, 208-220.
 
-[^cheetah]: See [Cheetah House](https://www.cheetahhouse.org/symptoms)
+[^cheetah]: See negative symptoms of meditation according to [Cheetah House](https://www.cheetahhouse.org/symptoms).

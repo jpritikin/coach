@@ -49,7 +49,7 @@ Everybody should have the opportunity to climb Maslow's pyramid.
 Meditation is more like a dance than a desk lamp 🪔. There are moves to learn.
 The techniques that I describe in sub-sections assume that you are already
 proficient in meditation. Without a basic competence in
-[effortless meditation]({{< relref "untie" >}}),
+[effortless meditation]({{< relref "effortlessness" >}}),
 you may not obtain any benefit from these techniques. Moreover, these
 techniques may not work when under the influence of psychedelics.
 
