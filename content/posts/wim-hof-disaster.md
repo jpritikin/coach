@@ -7,7 +7,7 @@ menu = "main"
 bookToc = false
 +++
 
-[Original in *de Volkskrant*](https://archive.ph/20231021100427/https://www.volkskrant.nl/kijkverder/v/2023/de-ijskoude-methoden-van-het-miljoenenbedrijf-achter-wim-hof~v921282/#selection-67.0-73.7)
+[Original in *de Volkskrant* published 21 Oct 2023](https://www.reddit.com/r/BecomingTheIceman/comments/17d8kqx/english_translation_of_the_major_story_about_the/)
 
 By Anneke Stoffelen
 
