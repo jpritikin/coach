@@ -64,7 +64,7 @@ Book a free 20 min consultation.
 ## How long does it take? When will I see results?
 
 {{% details "Individuals" %}}
-It depends on your individual goals. Some clients get complete relief in three hours or less. Other clients may need tens of hours of work to begin to approach goals.
+It depends on your individual situation and goals. Some clients get complete relief in three hours or less. Other clients may need tens of hours of work to begin to approach goals.
 {{% /details %}}
 {{% details "Couples & Dyads" %}}
 Quick results are unlikely. Don't expect much progress until we reach at least 10 hours. Couples counseling typically takes more time compared to work with individuals.
