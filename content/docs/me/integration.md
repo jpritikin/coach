@@ -44,7 +44,7 @@ marvelous job of describing the dysfunctional social situations that can
 happen in his 2021 book *Recapture the Rapture* and is worth quoting at length:
 
 {{% details "Show quote" %}}
-{{< hint info >}}
+{{% hint info %}}
 1. Grabbing the One Ring of Power   
 Absolute power corrupts absolutely. Like in Lord of the Rings, don’t be the misguided
 warrior Boromir or the corrupt wizard Saruman, thinking you will bend the Ring, not that
@@ -130,13 +130,13 @@ undeniable reality for me, then I am often compelled by the group to sign off on
 entire mythology. Key decisions and commitments are encouraged or forced while in
 non-ordinary states, rather than deferring until a person returns to clearheaded
 sobriety and can offer full consent.
-{{< /hint >}}
+{{% /hint %}}
 {{% /details %}}
 
-{{< hint info >}}
+{{% hint info %}}
 Non-placebo sacraments are our highest ranking teacher because
 chemicals don't become egomaniacal.
-{{< /hint >}}
+{{% /hint %}}
 
 ## Integrated
 

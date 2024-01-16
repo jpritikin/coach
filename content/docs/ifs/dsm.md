@@ -7,11 +7,11 @@ weight: 2
 
 # Diagnostic and Statistical Manual of Mental Disorders (DSM)
 
-{{< hint info >}}
+{{% hint info %}}
 Most of this page is copied verbatim from Anderson, Sweezy, & Schwartz (2017, pp. 13-14).
 
 Anderson, F. G., Sweezy, M., & Schwartz, R. (2017). *Internal Family Systems Skills Training Manual: Trauma-Informed Treatment for Anxiety, Depression, PTSD & Substance Abuse.* PESI publishing & media.
-{{< /hint >}}
+{{% /hint %}}
 
 The American Psychiatric Association developed the DSM to ground psychiatric treatment in science. Given their methodology---DSM diagnoses are based on lists of symptoms that are periodically chosen by committees of professionals who are picked by the American Psychiatric Association---this effort remains controversial.[^greenberg2013] Nevertheless, because the terms of the DSM continue to be widely used, the medical model approach continues to be a strong influence on the field of mental health.
 

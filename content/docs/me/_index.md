@@ -13,9 +13,9 @@ bookCollapseSection: true
 
 In real life, I am highly opinionated about diverse content areas.
 
-{{< hint info >}}
+{{% hint info %}}
 This area of my website is the safe space for me to broadcast my opinions.
-{{< /hint >}}
+{{% /hint %}}
 
 ## No Secrets
 

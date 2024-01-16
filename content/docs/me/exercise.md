@@ -12,9 +12,9 @@ skating, keep it up. There is no special reason that you need to
 change.  However, not everybody has already cultivated activity
 preferences. The question that we try to answer here is:
 
-{{< hint info >}}
+{{% hint info %}}
 What is the most enjoyable way to exercise?
-{{< /hint >}}
+{{% /hint %}}
 
 ## Criteria
 

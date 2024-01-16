@@ -30,11 +30,11 @@ teachers.[^lenz] What I learned is that there is not much consensus about the
 precise definition of *meditation*. I prefer to define meditation in
 IFS terms:
 
-{{< hint info >}}
+{{% hint info %}}
 Meditation becomes possible when you are not identified with your
 parts. Meditation occurs when some proportion of your being is
 free to radiate Self energy.
-{{< /hint >}}
+{{% /hint %}}
 
 In some traditions, there is a notion of *enlightenment* or
 *liberation* that demarcates some stage of personal transformation.

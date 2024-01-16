@@ -9,13 +9,13 @@ bookToc = false
 
 On Sep 27, Oregon Public Broadcasting published an article, "Study says drug decriminalization in Oregon did not cause more overdose deaths"[^levinson]
 
-{{< hint info >}}
+{{% hint info %}}
 Three years after Oregon voters elected to decriminalize drugs, a new study has concluded that the first-in-the-nation law has not led to increased drug use or drug overdoses. The conclusion counters an increasingly common narrative that Oregon’s drug problem is unique in the country — and that decriminalization is to blame.
 
 “Our analysis suggests that state decriminalization policies do not lead to increases in overdose deaths,” Corey Davis, an assistant clinical professor at NYU Grossman School of Medicine and the study’s senior investigator, said in a statement.
 
 Researchers at NYU, the Network for Public Health Law and the Centers for Disease Control and Prevention looked at 13 states with similar drug overdose rates to Oregon in the three years leading up to Measure 110 going into effect. They then compared overdose rates in Oregon to those same states in the first year after decriminalization.
-{{< /hint >}}
+{{% /hint %}}
 
 On Oct 04, I reiterated my call for Jackson County Commissioners to rescind their letter dated 09 Aug 2023 CALL FOR THE REPEAL OF THE PROVISIONS ENACTED PURSUANT TO OREGON BALLOT MEASURE 110 (2020) order 192-23.[^jackson2023]
 

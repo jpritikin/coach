@@ -38,9 +38,9 @@ Groups meet online using video 📹 conference software.[^in-person] I am locate
 
 ### Male Identity Group ♂
 
-{{< hint info >}}
+{{% hint info %}}
 Open to all who identify as male including gay, bisexual, transgender, or queer.
-{{< /hint >}}
+{{% /hint %}}
 
 **Brotherhood of Understanding**: Forge genuine connections, share insights, and build a strong network of support among men who are walking similar paths.
 
@@ -64,9 +64,9 @@ Open to all who identify as male including gay, bisexual, transgender, or queer.
 
 ### Parenting Group
 
-{{< hint info >}}
+{{% hint info %}}
 This theme is open to all parents.
-{{< /hint >}}
+{{% /hint %}}
 
 **Unlock Your Inner Balance**: IFS is like a compass for your emotional world, helping you navigate the complexities of parenthood with confidence. By understanding and addressing the different Parts within you, you can create a harmonious inner ecosystem that radiates calm and resilience.
 

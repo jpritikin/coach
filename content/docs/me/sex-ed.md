@@ -60,7 +60,7 @@ Perry, L. (2022). *The Case Against the Sexual Revolution.* John Wiley & Sons.
 
 Harrington, M. (2023). *Feminism Against Progress.* Regnery Publishing.  
 [Mar 2, 2023 Interview](https://www.youtube.com/watch?v=8-pTX3X4yVE)  
-{{< hint info >}}
+{{% hint info %}}
 {{% details "This important book is unfortunately written in a conversational stream-of-consciousness style with complex sentence constructions. Here is a simplified summary." %}}
 - **Part One** examines the history of feminism from the 1600s to around 1950. This information isn't all that important. You can skip this part and get most of the arguments. In my mind, this part is mostly a flex by the author to show that she has done her homework.
 - **Part Two** describes the three areas that have been disrupted by disembedding, disembodiment, atomization, and marketization.
@@ -72,17 +72,17 @@ Harrington, M. (2023). *Feminism Against Progress.* Regnery Publishing.
   - Don't blindly favor androgynous associations. Embodied sex can make a difference. Examples of where biological sex segregation is appropriate include Boy/Girl Scouts, small military units, and prisons. Examples where sex segregation is usually inappropriate include elite executive golf clubs and corporate boards of directors.
   - Abstain from hormonal birth control. That is not to argue against all types of family planning, but to reject casual, no-consequence sexual encounters.
 {{% /details %}}
-{{< /hint >}}
+{{% /hint %}}
 
 Clark-Flory, T. (2021). *Want Me: A Sex Writer's Journey into the Heart of Desire.* Penguin Books.
 
 ### Tools for Healthy Relationships
 
 Menakem, R. (2023). *Monsters in Love: Why Your Partner Sometimes Drives You Crazy - And What You Can Do About It.* Central Recovery Press.  
-{{< hint info >}}
+{{% hint info %}}
 Excellent, except for Chapter 37 "Healthy Monsters and Healing Relationships." Instead, I recommend my pages on [health]({{< relref "health" >}}) and [exercise]({{< relref "exercise" >}}).  
 [May 16, 2023 Interview](https://www.theverifiedpodcast.com/resmaa-menakem-speaks-on-couples-in-conflict-new-book-monsters-in-love-more/)
-{{< /hint >}}
+{{% /hint %}}
 
 Sensate Focus Therapy[^masters1994]
 
@@ -112,9 +112,9 @@ Do you own work. If you're in a great state of mind then you can improvise great
 Kearney, M. S. (2023). *The Two-Parent Privilege: How Americans Stopped Getting Married and Started Falling Behind.* University of Chicago Press.  
 [Oct 5, 2023 Interview](https://www.youtube.com/watch?v=JRjMnH-4cYo)
 
-{{< hint warning >}}
+{{% hint warning %}}
 Kids are the ultimate judge of the health of your relationships and sex life. 🚸
-{{< /hint >}}
+{{% /hint %}}
 
 ## Summary
 

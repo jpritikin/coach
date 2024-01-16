@@ -59,11 +59,11 @@ the less effort utilised, the more Self shines. In this way we can see that Part
 ## Easing into effortlessness
 
 Here is what should happen in a truly effortless meditation:
-{{< hint info >}}
+{{% hint info %}}
 Ask all the Parts to quiet down for a duration  
 Parts, being obedient, cooperate  
 No muscular bouncer or focuser Parts are needed
-{{< /hint >}}
+{{% /hint %}}
 Sounds great, but how does anybody develop such a mature practice?
 I suggest that we add an additional step to the original instructions:
 

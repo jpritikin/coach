@@ -111,9 +111,9 @@ Me with [Padrinho Jonathan Goldman](https://casetext.com/case/church-of-holy-lig
 - [Church of Sacred Synthesis](https://psilomethoxin.com/?sld=jpritikin)
 - [Sacred Garden Church](https://sacredgarden.life/)
 
-{{< hint danger >}}
+{{% hint danger %}}
 Psychedelics are not for everybody.
-{{< /hint >}}
+{{% /hint %}}
 
 ## Amplification
 
@@ -137,9 +137,9 @@ and how to help them relax. There are at least three possible outcomes:
 - Parts are fairly quiet. The Self shines with unusual brilliance 🌞 because the psychedelic does the bouncer Part’s job, facilitating an experience of Self that is profoundly effortless. Similar to effortless meditation, there is ample capacity for blending with a target. This is readily seen in reports of music perception under the influence of psychedelics. For example, “Volunteers reported far greater absorption in music, as well as greater perceived beauty and significance of music.”[^barrett2018]
 
 Suppose you are curious to try a psychedelic but are not sure whether your Parts will get quiet.
-{{< hint info >}}
+{{% hint info %}}
 Which psychedelic poses the least risk to the naive user?
-{{< /hint >}}
+{{% /hint %}}
 
 ### Serotonin
 

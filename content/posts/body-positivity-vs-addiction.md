@@ -107,16 +107,16 @@ Dick presented a great demo on 2022 Sep 21, where he worked with an addicted sys
 
 ### Intervening with IFS
 
-{{< hint info >}}
+{{% hint info %}}
 If you're on a wide screen, you may like to make the page full width by clicking the button in the upper right corner of the screen. With more space to spread out, the font may be bigger and easier to read.
-{{< /hint >}}
+{{% /hint %}}
 
-{{< hint danger >}}
+{{% hint danger %}}
 This example is offered to suggest a therapeutic direction, not as an instruction manual.
 Alice is in a vulnerable place.
 A safe IFS intervention demands enlistment of a trained professional 🦺.
 Alice should approach a Certified IFS Practitioner 💐 to discuss her situation.
-{{< /hint >}}
+{{% /hint %}}
 
 {{< mermaid >}}
 sequenceDiagram
