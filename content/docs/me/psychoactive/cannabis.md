@@ -15,10 +15,10 @@ molecules are tetrahydrocannabinol (THC) and cannabidiol (CBD).
 Cannabis can facilitate many different kinds of experiences, some
 psychedelic.
 
-{{< hint info >}}
-Whether a substance has a psychedelic effect is, in large part,
-a matter of intention, not an inherent property of the substance.
-{{< /hint >}}
+{{% hint info %}}
+Whether a substance has a psychedelic effect is, in part,
+a matter of intention, not an inherent property of the substance.[^wolinsky2023]
+{{% /hint %}}
 
 "CBD ... antagonise[s] some undesirable effects of THC including intoxication, sedation and tachycardia, while contributing analgesic, anti-emetic, and anti-carcinogenic properties..."[^russo2006] However, there is little research on the psychological effect of THC:CBD ratios that are mostly CBD (1:50 or more extreme).[^zeyl2020]
 
@@ -54,3 +54,5 @@ powder. Produces a gentle psychedelic experience using only hemp extract
 [^osullivan2021]: What about sublingual absorption? In Nov 2021, [Saoirse O'Sullivan reported](https://www.nickjikomes.com/post/ep-41-transcript-saoirse-o-sullivan-thc-cbd-inflammation-traumatic-brain-injury-diabetes) that sublingual absorption has not received careful scrutiny and is unlikely to actually take place.
 
 [^devinsky2014]: Devinsky, O., Cilio, M. R., Cross, H., Fernandez‐Ruiz, J., French, J., Hill, C., ... & Friedman, D. (2014). Cannabidiol: Pharmacology and potential therapeutic role in epilepsy and other neuropsychiatric disorders. *Epilepsia, 55*(6), 791-802.
+
+[^wolinsky2023]: Wolinsky, D., Barrett, F. S., & Vandrey, R. (2023). The psychedelic effects of cannabis: A review of the literature. Journal of Psychopharmacology (Oxford, England), 2698811231209194. Advance online publication. https://doi.org/10.1177/02698811231209194
