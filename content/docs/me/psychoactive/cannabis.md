@@ -55,4 +55,4 @@ powder. Produces a gentle psychedelic experience using only hemp extract
 
 [^devinsky2014]: Devinsky, O., Cilio, M. R., Cross, H., Fernandez‐Ruiz, J., French, J., Hill, C., ... & Friedman, D. (2014). Cannabidiol: Pharmacology and potential therapeutic role in epilepsy and other neuropsychiatric disorders. *Epilepsia, 55*(6), 791-802.
 
-[^wolinsky2023]: Wolinsky, D., Barrett, F. S., & Vandrey, R. (2023). The psychedelic effects of cannabis: A review of the literature. Journal of Psychopharmacology (Oxford, England), 2698811231209194. Advance online publication. https://doi.org/10.1177/02698811231209194
+[^wolinsky2023]: Wolinsky, D., Barrett, F. S., & Vandrey, R. (2023). The psychedelic effects of cannabis: A review of the literature. Journal of Psychopharmacology (Oxford, England), 2698811231209194. Advance online publication.
