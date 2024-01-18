@@ -112,6 +112,8 @@ To sensitize yourself to the effects of Pm, select a boring environment.
 You might go for a walk in the park during the first hour of the journey, but after that, you should sit down somewhere isolated.
 Find an environment where you can test whether you can still feel boredom.
 If you are a restless impatient person, this is actually an advantage because it will be easier to notice when you cannot feel boredom.
+If you feel more awareness of a more vivid sensory experience then you are holding the wrong end of the stick.
+[Coax your attention inside]({{< relref "senses" >}}).
 
 ![interpolate](interpolate.svg)
 
@@ -129,7 +131,7 @@ If you only try a dose of 500mg then there is a lot of uncertainty about what th
 - Physical activities (e.g., lift weights, hatha yoga, dance)
 - Music appreciation (e.g., concert, soundbath)
 - Play video games
-- Go beyond boring environments with formal [meditation]({{< relref "senses" >}}).
+- Go beyond boring environments with formal [meditation]({{< ref "/docs/me/meditation" >}}).
 - Pm is well suited to talk therapy because of the wide [psycholytic](https://en.wikipedia.org/wiki/Psychedelic_therapy#Psycholytic_therapy) dosage range. IFS therapists are experimenting with using Pm in the therapist role. Pm might also be used by the client, or by both the therapist and client simultaneously.
 
 ## Notes
