@@ -52,7 +52,7 @@ Some dietary tweaks:
 - Ginger[^ginger]
 - Fenugreek[^fenugreek]
 
-Choose lube carefully[^edwards2016]
+Lube carefully[^edwards2016]
 
 ### Contemporary Feminism vs. Dignity
 
@@ -87,10 +87,11 @@ Excellent, except for Chapter 37 "Healthy Monsters and Healing Relationships." I
 Sensate Focus Therapy[^masters1994]
 
 {{% details "Orgasmic Meditation 🪷" %}}
-- Compare the 2023 May 16 presentation [Climax and Goallessness with Yia](https://om.instituteofom.com/live_events/climax-and-goallessness-with-yia/replay) with [effortless meditation]({{< relref "effortlessness" >}}).
 - Despite the superficial similarity, Orgasmic Meditation is **not** related to Tantric Buddhism.[^not-tantra]
 - [Exercise caution.](https://www.justice.gov/usao-edny/pr/onetaste-founder-and-former-head-sales-indicted-forced-labor-conspiracy)
 - Heard enough? [Learn how to do the practice](https://om.instituteofom.com/)
+- Daedone, N. (2011). *Slow Sex: The Art and Craft of the Female Orgasm.* Grand Central Life & Style.
+- Compare the 2023 May 16 presentation [Climax and Goallessness with Yia](https://om.instituteofom.com/live_events/climax-and-goallessness-with-yia/replay) with [effortless meditation]({{< relref "effortlessness" >}}).
 {{% /details %}}
 
 Morin, J. (1996). *The Erotic Mind: Unlocking the Inner Sources of Passion and Fulfillment.* Harper Perennial.
