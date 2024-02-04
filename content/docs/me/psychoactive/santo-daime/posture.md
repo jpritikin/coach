@@ -18,7 +18,7 @@ I have not studied dynamic poses
 (e.g., mimicking the flapping and soaring of eagle wings with your arms 🪽).
 The postures listed here are intended as static poses
 to be held steadily for a few minutes at a time.
-The reason that the title of this article is under [*Santo Daime*](https://maps.org/bulletin-psychedelic-parenthood-a-new-ancestral-way/) and not a generic *Postures and Gestures* page
+The reason that this article is under [*Santo Daime*](https://maps.org/bulletin-psychedelic-parenthood-a-new-ancestral-way/) and not a generic *Postures and Gestures* page
 is because these poses have much greater significance when implemented
 by a whole group of people simultaneously in careful coordination.
 Posing solo is a bit self-indulgent.
@@ -27,8 +27,9 @@ Posing solo is a bit self-indulgent.
 
 There is a tradition of not crossing arms or legs.
 However, I distinguish the joint of the crossing.
-Wrist crossings are fine, but not elbow crossings.
-Similarly, ankle crossings are fine, but not knee crossings.
+Wrist crossings are fine, but not crossed arms.
+Similarly, ankle crossings are fine, but not knee or ankle/knee crossings.
+I do not see any problem with standing on one leg, from a crossing perspective.
 
 ### Multitasking
 
