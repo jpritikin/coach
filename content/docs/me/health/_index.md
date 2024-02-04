@@ -25,16 +25,21 @@ I earned a Ph.D., but I am not a medical doctor or dietician. I have studied nut
 
 In interests of full disclosure, I have a special relationship with [Michael Greger](https://nutritionfacts.org/video/the-story-of-nutritionfacts-org/), an eminent nutrition researcher. My grandfather, [Nathan Pritikin](https://www.youtube.com/watch?v=qOj4rzSkqok), helped treat Michael Greger's grandmother for cardiovascular disease and, thereby, inspired Dr. Greger to become a medical doctor. Dr. Greger is deeply committed to the dissemination of research. For example, his recent book [How Not to Diet](https://nutritionfacts.org/book/how-not-to-diet/) cites 4990 scientific articles. 🤯 I follow Dr. Greger closely and feel confident to rely on his many research summaries.
 
-An easy way to learn more about nutrition is to watch some outstanding feature documentaries: 🎥
+An easy way to learn more about nutrition is to watch some outstanding feature documentaries:
 {{% details "What the Health? (2017)" %}}
 [![What the Health?](what-the-health.webp)](https://www.whatthehealthfilm.com/)
 {{< /details >}}
 {{% details "The Game Changers (2018)" %}}
 [![The Game Changers](the-game-changers.webp)](https://gamechangersmovie.com/)
 {{< /details >}}
+{{% details "They’re Trying to Kill Us (2021)" %}}
+[![They’re Trying to Kill Us](theyre-trying-to-kill-us.webp)](https://www.theyretryingtokillus.com/)
+{{< /details >}}
 {{% details "You Are What You Eat: A Twin Experiment (2024)" %}}
 [![Twin Experiment](twin-experiment.webp)](https://www.imdb.com/title/tt30386970/)
 {{< /details >}}
+
+🎥
 
 ## Easy Quantification of Physical Health
 
