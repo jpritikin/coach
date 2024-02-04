@@ -84,6 +84,8 @@ However, I encourage broader ambition.
 More enjoyment might be available by exploiting synergies between areas than would be possible when limited to fewer areas.
 I challenge you to explore and integrate as many areas as possible.
 
+You may like to track your progress using the [MEQ30](https://docs.google.com/spreadsheets/d/1FgfFzXTX4WuKf9SteO7sJjqNEweErZFeQ_juTUbCcQM/edit#gid=0).[^barrett2015] I don't regard this self-report questionaire as a perfect measure of big emotion, but it's not a bad proxy.
+
 ## Notes
 
 [^scherer2013]: Scherer, K. R., Shuman, V., Fontaine, J. R., & Soriano, C. (2013). The GRID meets the Wheel: Assessing emotional feeling via self-report. *Components of emotional meaning: A sourcebook, 53,* 1689-1699. DOI: [10.1093/acprof:oso/9780199592746.003.0019](https://doi.org/10.1093/acprof:oso/9780199592746.003.0019)
@@ -95,3 +97,5 @@ I challenge you to explore and integrate as many areas as possible.
 [^pleasure]: [There are many varieties of pleasure.](https://en.wikipedia.org/wiki/Pleasure)
 
 [^sapolsky2023]: Sapolsky, R. M. (2023). *Determined: A Science of Life without Free Will.* Penguin Press.
+
+[^barrett2015]: Barrett, F. S., Johnson, M. W., & Griffiths, R. R. (2015). Validation of the revised Mystical Experience Questionnaire in experimental sessions with psilocybin. *Journal of psychopharmacology (Oxford, England), 29*(11), 1182–1190. https://doi.org/10.1177/0269881115609019
