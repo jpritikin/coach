@@ -1,26 +1,12 @@
 ---
-title: Santo Daime
-section: Psychedelics
+title: Posture and Gesture
 bookToc: true
 draft: false
 ---
 
-# Santo Daime
+# Posture and Gesture
 
 ## Introduction
-
-| N,N-Dimethyltryptamine | Harmine and similar |
-| ---------------------- | ------- |
-| [![DMT](dmt.webp)](https://en.wikipedia.org/wiki/Psychotria_viridis)       | [![Harmine](harmine.webp) ![Tetrahydroharmine](tetrahydroharmine.webp)](https://en.wikipedia.org/wiki/Banisteriopsis_caapi) |
-
-Ayahuasca is a psychoactive brew used by various indigenous groups in the Amazon.
-Incorporating ayahuasca as a sacrament, Santo Daime is a syncretic religion founded in Brazil in the 1930s.
-While traditional use of ayahuasca often emphasizes individual exploration, Santo Daime emphasizes group synchrony and communitas.[^turner2012]
-Participants aim to achieve harmony, love, truth, and justice not just for themselves but for the entire group.
-I've attended Santo Daime works for about two years and love it (as of Jan 2024).
-However, there are two areas that I think could be improved: gestures and sung harmonies.
-
-### Posture and Gesture
 
 Among many other effects, sensitivity to posture and gesture are
 greatly enhanced by [5-HT2A receptor agonists]({{< relref "psychoactive" >}}#serotonin) such as daime.[^garrison2016]
@@ -32,23 +18,30 @@ I have not studied dynamic poses
 (e.g., mimicking the flapping and soaring of eagle wings with your arms 🪽).
 The postures listed here are intended as static poses
 to be held steadily for a few minutes at a time.
-The reason that the title of this article is [*Santo Daime*](https://maps.org/bulletin-psychedelic-parenthood-a-new-ancestral-way/) and not *Postures and Gestures*
+The reason that the title of this article is under [*Santo Daime*](https://maps.org/bulletin-psychedelic-parenthood-a-new-ancestral-way/) and not a generic *Postures and Gestures* page
 is because these poses have much greater significance when implemented
 by a whole group of people simultaneously in careful coordination.
 Posing solo is a bit self-indulgent.
 
-#### Multitasking
+### Crossings
+
+There is a tradition of not crossing arms or legs.
+However, I distinguish the joint of the crossing.
+Wrist crossings are fine, but not elbow crossings.
+Similarly, ankle crossings are fine, but not knee crossings.
+
+### Multitasking
 
 I have tried to do both at the same time, holding a pose while singing hymns.
-It seems like too much to keep track of except for maybe in the most trivial cases.
-Probably the best chance for posing is when not singing or during a pause in hymns.
+It seems like too much to keep track of except for the most trivial cases.
+Probably the best chance for serious posing is when not singing or during a pause in hymns.
 
-#### Doubts?
+### Doubts?
 
 Maybe you read through this page and you're skeptical.
 Drink more daime. 🍵
 
-### Current of Reverence
+## Current of Reverence
 
 The analogy that I am trying to invoke is with electrical current
 or water flowing through a pipe. 🌊 Here, the substance that is
@@ -59,7 +52,7 @@ it flows through you, and then you can direct it away from you.
 An arbitrary careless posture does not necessarily obstruct the current of reverence,
 but specific intentional postures can increase the conductance and encourage the flow. 🚰
 
-#### Key
+### Key
 
 {{% columns %}}
 
@@ -73,12 +66,12 @@ incorrect, dull
 
 {{% /columns %}}
 
-### Component-wise
+## Component-wise
 
 Before I list ensemble poses,
 I present the optimal positions of each relevant joint.
 
-#### Receiving
+### Receiving
 
 1. Spine extension
 | action | sitting | standing | evaluation |
@@ -101,7 +94,7 @@ I present the optimal positions of each relevant joint.
 
     The nearby fingers are hard to isolate from the pinky extension, but the pinky is what I'm thinking about.
 
-#### Sending
+### Sending
 
 4. Wrist extension
 | action | illustration | evaluation |
@@ -121,13 +114,13 @@ If you are aiming across the salão then you
 must have consent; it should be an orchestrated collective action.
 If you are aiming elsewhere then consent is less important.
 
-### Pose Ensembles
+## Pose Ensembles
 
 None of these pose ensembles incorporate all of the components mentioned above,
-but all of them incorporate some of the components. I also point out similar
+but all of them incorporate some of the components. I also call out similar
 poses that miss opportunities to improve the conductivity of reverence.
 
-#### Pose: Umbrella
+### Pose: Umbrella
 
 | sitting | evaluation |
 |---|---|
@@ -144,7 +137,7 @@ Variations:
 Of course, it is challenging to keep an arm (or arms) elevated for a long duration,
 but five minutes is feasible.
 
-#### Pose: Feather ruffle
+### Pose: Feather ruffle
 
 | sitting | evaluation |
 |---|---|
@@ -156,7 +149,9 @@ but five minutes is feasible.
 
 The wrist extension prevents my hands from touching my arms or the shirt.
 
-#### Pose: Classical worship
+Variation: Straighten the elbow joint and face the palm toward the floor.
+
+### Pose: Classical worship
 
 | sitting | standing | evaluation |
 |---|---|---|
@@ -175,9 +170,9 @@ Compare with some artistic renditions:
 |---|---|
 | [![Lance Brown](LanceBrown1.webp)](https://www.paintedchrist.com/painted-christ-speed-painting-store/jesus-christ-praying-garden-of-gethsemane) | ![Woman](woman-202304.webp) |
 
-The man (left) is a speed painting by Lance Brown.
-The woman (right) is a photo of artwork from the Ashland OR Santo Daime salão.
-She lacks spine extension, her wrist extension is faint, and her pinky extension is washed out by the flow of energy, but otherwise it is almost a great example.
+The man (left) is a speed painting by Lance Brown. 🤩
+The woman (right) is a photo of artwork from the Ashland OR salão.
+She lacks obvious spine extension, her wrist extension is faint, and her pinky extension is washed out by the flow of energy, but otherwise it is almost a great example.
 
 | standing | evaluation |
 |---|---|
@@ -187,8 +182,8 @@ She lacks spine extension, her wrist extension is faint, and her pinky extension
 - Pinky neutral instead of extension
 - No spine extension
 
-The following pose is a minor variation (different hand position) but
-otherwise the same:
+The following pose is a minor variation (different arm position) but
+otherwise the same idea:
 
 | standing | evaluation |
 |---|---|
@@ -198,9 +193,19 @@ otherwise the same:
 - Wrist and pinky extension
 - Palm facing ceiling
 
-With hands raised, this pose is too taxing to hold for more than a brief time.
+With hands raised, this pose is too taxing to hold for more than a brief time...unless you're a statue.
 
-#### Pose: Holding a Flower
+| front | side/front | side/back |
+|---|---|---|
+| ![yemanja](yemanja1.webp) | ![yemanja](yemanja2.webp) | ![yemanja](yemanja3.webp) |
+
+In celebration of [Yemanjá](https://en.wikipedia.org/wiki/Yem%E1%BB%8Dja), Ashland OR salão displayed this exquisite statue in 2023 & 2024.
+Spine extension is clearly evident from the side/back perspective.
+The right hand is balled in a fist, perhaps to hold a maraca (not sculpted).
+The left hand is cupped (flexion not extension), but I'll cut the artist some slack.
+Wow. 😍
+
+### Pose: Holding a Flower
 
 | concept | actual | evaluation |
 |---|---|---|
@@ -212,9 +217,11 @@ With hands raised, this pose is too taxing to hold for more than a brief time.
 In the concept image, there is a flower superimposed over my arm/hand.
 Moving the fingers is like wiggling the petals.
 
-### Standing-only Pose Ensembles
+Variation: By relaxing the humerus to a more neutral position, this gesture becomes a one-armed version of the [Añjali Mudrā](https://en.wikipedia.org/wiki/A%C3%B1jali_Mudr%C4%81).
 
-#### Pose: Shark fin
+## Standing-only Pose Ensembles
+
+### Pose: Shark fin
 
 | Pose | Evaluation |
 |---|---|
@@ -224,7 +231,7 @@ Moving the fingers is like wiggling the petals.
 - Wrist and pinky extension
 - Palm facing perpendicular to the center of the salão
 
-#### Pose: Hands with opposite twist
+### Pose: Hands with opposite twist
 
 | Closed | Open | evaluation |
 |---|---|---|
@@ -236,37 +243,10 @@ Moving the fingers is like wiggling the petals.
 
 The `open` and `closed` variations just indicate whether the palms are facing or not.
 
-### Parody?
+## Parody?
 
 <iframe width="540" height="304" src="https://www.youtube.com/embed/TK2_ezOBa2A" title="Tim Hawkins on Hand Raising" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-### Why we don't sing harmonies?
-
-Sung harmonies weaves two or more vocal lines together to create a richer, fuller sound than could be achieved with a single voice.
-Here's a breakdown of what goes into singing harmonies:
-
-Basics:
-
-* **Multiple notes:** Instead of just one pitch, at least two different notes are sung simultaneously. These notes might be close together (like thirds or sixths) or further apart (like octaves or fifths).
-* **Pleasing sound:** The combination of notes should sound good together, not jarring or dissonant. This depends on the musical context and style.
-* **Complementing the melody:** Harmony parts typically interweave with the main melody, providing support, adding counterpoint, or even mirroring the melody's emotional journey.
-
-Types of harmonies:
-
-* **Simple two-part harmonies:** Often involve singing a third or sixth above or below the melody.
-* **More complex harmonies:** Can involve multiple singers and use various intervals and melodic patterns, building intricate layers of sound. Think barbershop quartets, gospel choirs, or jazz vocal groups.
-* **Passing tones and suspensions:** These are temporary notes that add brief moments of tension or surprise before resolving back to a consonant harmony.
-
-Benefits of singing harmonies:
-
-* **Enhances the emotional impact of the music:** Adds depth, dimension, and expressiveness to the song.
-* **Creates a fuller, richer sound:** Makes the music feel more complete and polished.
-* **Showcases vocal skill and musicianship:** Demonstrates a singer's understanding of music and ability to blend their voice with others.
-
-So why don't we do it in Santo Daime?
 
 ## Notes
 
 [^garrison2016]: In contrast, in an ordinary state of mind, pose seems to have little psychological effect. See Garrison, K. E., Tang, D., & Schmeichel, B. J. (2016). Embodying power: A preregistered replication and extension of the power pose effect. *Social Psychological and Personality Science, 7*(7), 623-630.
-
-[^turner2012]: Turner, E. (2012). *Communitas: The anthropology of collective joy.* Springer.
