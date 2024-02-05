@@ -30,11 +30,12 @@ Plus, but you get the [benefits specific to the tomato seeds](https://nutritionf
 
 ### Coconut
 
-Coconut is one of the most confusing food from a health perspective. It's among both the worst and best foods for our health!
+Coconut is one of the most confusing foods from a health perspective. It's among both the worst and best foods for our health!
 - Coconut oil is among the [most unhealthy things](https://nutritionfacts.org/video/coconut-oil-and-abdominal-fat/) you can ingest, comparable to [palm oil](https://nutritionfacts.org/video/how-the-dairy-industry-designs-misleading-studies/).
 - Coconut flour (i.e., defatted) [can reduce cholesterol levels as much as oat bran](https://nutritionfacts.org/video/what-about-coconuts-coconut-milk-and-coconut-oil-mcts/).
 - Coconut water is [loaded with potassium with no compensatory benefit](https://nutritionfacts.org/video/coconut-water-for-athletic-performance-vs-sports-drinks/). Better to drink regular water.
 - Shredded or chipped coconut meat is [a whole food and not harmful](https://nutritionfacts.org/recipe/caramel-cocoa-bites/).
+- Coconut butter is to coconut meat as peanut butter is to peanuts. [It's probably not great.](https://nutritionfacts.org/video/do-the-health-benefits-of-peanut-butter-include-longevity/)
 - Coconut milk lands somewhere inbetween shredded coconut and coconut oil. Heavy cream coconut milk is more like coconut oil (relatively harmful) whereas light coconut milk is closer to shredded coconut (neutral).
 
 ### Salt
