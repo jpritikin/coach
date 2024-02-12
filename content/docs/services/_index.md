@@ -8,6 +8,8 @@ bookCollapseSection: false
 
 # Services
 
+I gently help people turn toward their experience rather than away from it.
+
 ## [1-on-1]({{< relref "one-on-one" >}})
 
 {{% columns %}}
