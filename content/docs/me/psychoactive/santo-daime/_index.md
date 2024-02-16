@@ -20,6 +20,17 @@ While traditional use of ayahuasca often emphasizes individual exploration, Sant
 I've attended Santo Daime works for about two years (as of Jan 2024).
 There are a number of areas that I think could be improved.
 
+### What is special about the group experience?
+
+Before suggesting improvements, I want to underline what is revolutionary about Santo Daime: the group experience.
+
+The force of the daime draws one's attention to the present and opens up more opportunity for choice.
+When group behavior is the reference point,
+your conscious choice to harmonize with the group can help relieve varieties of self-centeredness including feeling entitled, lack of connection, and internal conflict.
+In contrast, entitlement and arrogance are a risk when intention is limited to individual exploration.
+The group experience is a hugely significant innovation.
+If your experience of psychedelics is only individual exploration then you have not had a chance to appreciate their full transformative potential.
+
 ### Posture and Gesture 🪽
 
 There is too much to say! [Visit here]({{< relref "posture" >}})
