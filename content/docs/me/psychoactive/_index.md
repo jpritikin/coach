@@ -109,7 +109,7 @@ I am a member of
 Me with [Padrinho Jonathan Goldman](https://casetext.com/case/church-of-holy-light-of-queen-v-mukasey-2)  
 {{< /partDetails >}}
 - [Church of Sacred Synthesis](https://psilomethoxin.com/?sld=jpritikin)
-- [Sacred Garden Church](https://sacredgarden.life/)
+- [Sacred Garden Church](https://sacredgarden.life/); I love the notion of "least dogma!"
 
 {{% hint danger %}}
 Psychedelics are not for everybody.
