@@ -126,8 +126,47 @@ will suffice.
 | [ice on liver]({{< relref "liver" >}}) | Medium | calming | reduces mental activity |
 | [sahasrara]({{< relref "sahasrara" >}}) | High | freeing | resets mood back to normal |
 
+## Beyond your ability, a helping hand
+
+If the less effort utilised, the more Self shines, then is it possible be completely effortless?
+This is where ordinary meditation techniques fall short.
+All of the targets mentioned so far require some focusing vigilance,
+hitting a limit comparable to that of self-tickle.[^blakemore2000]
+As far as I know, assistance is the only way to invite even more Self energy, either via partnered [orgasmic meditation]({{< relref "sex-ed" >}}) or [psychedelics]({{< relref "psychoactive" >}}) (or both? 🤯).[^siegel2021]
+
+I want to discuss this from another angle to hopefully clarify any misconceptions.
+In the context of meditation, the usual positive relationship between technique complexity and tacit skill is reversed:
+
+| Technique      | Suitable for |
+| -------------- | ------------ |
+| Highly complex | Beginning meditators |
+| Simple         | Advanced meditators |
+
+For example, one complex technique from Tibetan Buddhism is visualization.
+In visualization, the aspirant trains to visualize a deity, mandala, or similar.
+The aim is to cultivate a clear and stable mental image.
+This doesn't require photorealistic detail, but rather a strong and consistent representation of the object or scene being visualized.
+While the core focus is on the visual aspect, incorporating other senses can enrich the experience and deepen connection to the visualization.
+This might involve imagining specific sounds, smells, or even textures associated with the object or scene.
+Emotion can also play a role.
+Positive emotions like compassion, joy, or serenity can accompany visualizations.
+Every element within the visualization holds symbolic meaning.
+From the deities' attributes to the colors and shapes in mandalas, understanding these layers adds depth.
+With this target in mind, follow the usual instructions:
+Observe any distractions, thoughts, or emotions that arise without judgment and gently bring your attention back to the visualization.
+
+Visualization might sound like a technique suitable for advanced meditators, but that is backward.
+The complexity of visualization is precisely what makes it suitable only for beginners and untenable, unhelpful, and useless for advanced meditators.
+With no disrespect to Tibetan traditions, if you are a beginner considering whether to train in visualization, instead consider mathematics or some similar area.
+By studying mathematics, you feed two birds with one scone:
+develop mental dexterity, and at the same time, gain widely valued technical skills.
+
 ## References
 
 [^basso2019]: Basso, J. C., McHale, A., Ende, V., Oberlin, D. J., & Suzuki, W. A. (2019). Brief, daily meditation enhances attention, memory, mood, and emotional regulation in non-experienced meditators. *Behavioural brain research, 356*, 208-220.
 
 [^cheetah]: See negative symptoms of meditation according to [Cheetah House](https://www.cheetahhouse.org/symptoms).
+
+[^siegel2021]: Siegel, V., & Emmert-Aronson, B. (2021). Both partners practicing orgasmic meditation report having a mystical-type experience: Results using the Mystical Experience Questionnaire. *F1000Research, 10*(638), 638.
+
+[^blakemore2000]: Blakemore, S. J., Wolpert, D., & Frith, C. (2000). Why can't you tickle yourself? *Neuroreport, 11*(11), R11-R16.
