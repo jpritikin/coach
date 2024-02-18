@@ -31,6 +31,19 @@ In contrast, entitlement and arrogance are a risk when intention is limited to i
 The group experience is a hugely significant innovation.
 If your experience of psychedelics is only individual exploration then you have not had a chance to appreciate their full transformative potential.
 
+### On Lyrics and Prayers
+
+Some people seem to enjoy talking to a higher power, expressing faith, or strengthening their religious identity.
+Personally, these types of activities do not appeal to me.
+Perhaps I have been traumatized by placebo sacrament religions (and cults) where these activities feel fake.
+The only belief I need: daime can facilitate a direct experience of the Divine.
+However, the lyrics and prayers serve another purpose.
+They are important because they facilitate precise synchronization among the group, not just physically and physiologically but in the imaginal space.
+Since we have to recite something to achieve this degree of synchronization,
+what we recite might as well be something religious (i.e., unobjectionable).
+As far as I can tell, the preponderance of Christian and African religious material reflects nothing more than a historical accident.
+It would be nice if the hymns included more diversity in religious tradition.
+
 ### Posture and Gesture 🪽
 
 There is too much to say! [Visit here]({{< relref "posture" >}})
