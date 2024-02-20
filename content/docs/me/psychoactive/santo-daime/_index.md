@@ -6,7 +6,7 @@ bookCollapseSection: true
 draft: false
 ---
 
-# Santo Daime
+# Santo Daime ☨
 
 ## Introduction
 
