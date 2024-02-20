@@ -25,4 +25,4 @@ Also see [my testimony from Aug 2023]({{< relref "jackson-county-2023aug" >}}) a
 
 [^levinson]: [Study says drug decriminalization in Oregon did not cause more overdose deaths](https://www.opb.org/article/2023/09/27/oregon-drug-decriminalization-measure-110-overdose-deaths/?outputType=amp)
 
-[^jackson2023]: Commissioners Proclaim Jackson County's Call for the Repeal of the Provisions Enacted Pursuant to Oregon Ballot Measure 110 (2020) https://jacksoncountyor.org/Whats-New/News/commissioners-proclaim-jackson-countys-call-for-the-repeal-of-the-provisions-enacted-pursuant-to-oregon-ballot-measure-110-2020-1
+[^jackson2023]: Commissioners Proclaim Jackson County's Call for the Repeal of the Provisions Enacted Pursuant to Oregon Ballot Measure 110 (2020) https://jacksoncountyor.gov/news_detail_T10_R56.php

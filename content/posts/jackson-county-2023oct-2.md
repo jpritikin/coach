@@ -15,4 +15,4 @@ Specifically, I read from [Eight Moms, One House, and a Road Map Out of Drug Add
 
 Also see [my testimony from Aug 2023]({{< relref "jackson-county-2023aug" >}}) and [last week]({{< relref "jackson-county-2023oct" >}}).
 
-[^jackson2023]: Commissioners Proclaim Jackson County's Call for the Repeal of the Provisions Enacted Pursuant to Oregon Ballot Measure 110 (2020) https://jacksoncountyor.org/Whats-New/News/commissioners-proclaim-jackson-countys-call-for-the-repeal-of-the-provisions-enacted-pursuant-to-oregon-ballot-measure-110-2020-1
+[^jackson2023]: Commissioners Proclaim Jackson County's Call for the Repeal of the Provisions Enacted Pursuant to Oregon Ballot Measure 110 (2020) https://jacksoncountyor.gov/news_detail_T10_R56.php

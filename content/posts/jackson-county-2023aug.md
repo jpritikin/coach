@@ -43,4 +43,4 @@ https://www.kgw.com/article/news/politics/measure-110-secretary-of-state-audit-d
 
 [^leap]: The Law Enforcement Action Partnership https://lawenforcementactionpartnership.org/our-issues/drug-policy/
 
-[^jackson2023]: Commissioners Proclaim Jackson County's Call for the Repeal of the Provisions Enacted Pursuant to Oregon Ballot Measure 110 (2020) https://jacksoncountyor.org/Whats-New/News/commissioners-proclaim-jackson-countys-call-for-the-repeal-of-the-provisions-enacted-pursuant-to-oregon-ballot-measure-110-2020-1
+[^jackson2023]: Commissioners Proclaim Jackson County's Call for the Repeal of the Provisions Enacted Pursuant to Oregon Ballot Measure 110 (2020) https://jacksoncountyor.gov/news_detail_T10_R56.php
