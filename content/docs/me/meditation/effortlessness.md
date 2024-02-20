@@ -132,7 +132,7 @@ If the less effort utilised, the more Self shines, then is it possible be comple
 This is where ordinary meditation techniques fall short.
 All of the targets mentioned so far require some focusing vigilance,
 hitting a limit comparable to that of self-tickle.[^blakemore2000]
-As far as I know, assistance is the only way to invite even more Self energy, either via partnered [orgasmic meditation]({{< relref "sex-ed" >}}) or [psychedelics]({{< relref "psychoactive" >}}) (or both? 🤯).[^siegel2021]
+As far as I know, assistance is the only way to invite even more Self energy, either via partnered [orgasmic meditation]({{< relref "sex-ed" >}}) or [psychedelics]({{< relref "psychoactive" >}}) (or both?[^barba2024] 🤯).[^siegel2021]
 
 I want to discuss this from another angle to hopefully clarify any misconceptions.
 In the context of meditation, the usual positive relationship between technique complexity and tacit skill is reversed:
@@ -170,3 +170,5 @@ develop mental dexterity, and at the same time, gain widely valued technical ski
 [^siegel2021]: Siegel, V., & Emmert-Aronson, B. (2021). Both partners practicing orgasmic meditation report having a mystical-type experience: Results using the Mystical Experience Questionnaire. *F1000Research, 10*(638), 638.
 
 [^blakemore2000]: Blakemore, S. J., Wolpert, D., & Frith, C. (2000). Why can't you tickle yourself? *Neuroreport, 11*(11), R11-R16.
+
+[^barba2024]: Barba, T., Kettner, H., Radu, C. et al. (2024). Psychedelics and sexual functioning: a mixed-methods study. *Sci Rep 14*, 2181. https://doi.org/10.1038/s41598-023-49817-4
