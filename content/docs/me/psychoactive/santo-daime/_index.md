@@ -72,6 +72,7 @@ Some even add emetic agents to the brew![^beyer2008]
 While Santo Daime acknowledges the potential cleansing and cathartic effects of purging, it's not considered a central focus of the experience.
 If some traditions use an emetic, why not offer an optional antiemetic in Santo Daime?
 Why not make ginger capsules[^marx2015] available and encourage their use?
+Maybe we should be open to pharmauasca?[^aicher2024]
 
 ### Harmonies?
 
@@ -105,3 +106,5 @@ So why don't we do it (more) in Santo Daime?
 [^marx2015]: Marx, W., Kiss, N., & Isenring, L. (2015). Is ginger beneficial for nausea and vomiting? An update of the literature. *Current Opinion in Supportive and Palliative Care, 9*(2), 189–195. https://doi.org/10.1097/SPC.0000000000000135
 
 [^beyer2008]: [Ayahuasca Admixtures](https://singingtotheplants.com/2008/01/ayahuasca-admixtures/)
+
+[^aicher2024]: Aicher, H. D., Mueller, M. J., Dornbierer, D. A., Suay, D., Meling, D., Mueller, J., ... & Scheidegger, M. (2024). Potential therapeutic effects of an ayahuasca-inspired N, N-DMT and harmine formulation: A controlled trial in healthy subjects. *Frontiers in Psychiatry, 14*, 1302559.
