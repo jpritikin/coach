@@ -36,15 +36,17 @@ If your experience of psychedelics is only individual exploration then you have 
 Some people seem to enjoy talking to a higher power, expressing faith, or strengthening their religious identity.
 Personally, these types of activities do not appeal to me.
 Perhaps I have been traumatized by placebo sacrament religions (and cults) where these activities feel fake.
-The only belief I need: Daime can facilitate a direct experience of the Divine.
-Another possible purpose for the lyrics is to teach about the inner system.
-However, [IFS]({{< relref "ifs" >}}) conveys the same information with greater depth and precision.
+The only belief that I need: Daime can facilitate a direct experience of the Divine.
+Another possible purpose for the lyrics is to teach about the inner world.
+However, [IFS]({{< relref "ifs" >}}) conveys the same information with greater precision and finesse.
 
 The lyrics and prayers are important mainly because they facilitate precise synchronization among the group, not just physically and physiologically but in the imaginal space.
 Since we have to recite something to achieve this degree of synchronization,
-what we recite might as well be something religious (i.e., unobjectionable).
+we might as well recite something religious (i.e., unobjectionable).
 As far as I can tell, the preponderance of Christian and African religious material reflects nothing more than a historical accident.
-It would be nice if the hymns included more diversity in religious tradition.
+It would be nice if the hymns included more diversity in religious heritage.
+- [Divine Rose Store](https://divinerosestore.com)
+- [Luz da Rainha Publications](http://daimebooks.org)
 
 ### Posture and Gesture 🪽
 

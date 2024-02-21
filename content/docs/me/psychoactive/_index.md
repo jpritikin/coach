@@ -103,7 +103,7 @@ I have personal experience with
 *   Psilomethoxin ([orally active 5-methoxy-N,N-dimethyltryptamine](https://www.youtube.com/watch?v=SeROOGFnwek)) 🐸
 
 I am a member of
-- [Santo Daime](https://en.wikipedia.org/wiki/Santo_Daime)[^catholic] (link to [hymns](http://daimebooks.org))  
+- [Santo Daime](https://en.wikipedia.org/wiki/Santo_Daime)[^catholic]
 {{< partDetails "I received my star 24 June 2023." >}}  
 ![Star](star.webp)  
 Me with [Padrinho Jonathan Goldman](https://casetext.com/case/church-of-holy-light-of-queen-v-mukasey-2)  
