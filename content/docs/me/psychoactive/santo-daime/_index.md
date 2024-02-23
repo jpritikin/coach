@@ -48,6 +48,31 @@ It would be nice if the hymns included more diversity in religious heritage.
 - [Divine Rose Store](https://divinerosestore.com)
 - [Luz da Rainha Publications](http://daimebooks.org)
 
+### Harmonies?
+
+Sung harmonies weaves two or more vocal lines together to create a richer, fuller sound than could be achieved with a single voice.
+Here's a breakdown of what goes into singing harmonies:
+
+Basics:
+
+* **Multiple notes:** Instead of just one pitch, at least two different notes are sung simultaneously. These notes might be close together (like thirds or sixths) or further apart (like octaves or fifths).
+* **Pleasing sound:** The combination of notes should sound good together, not jarring or dissonant. This depends on the musical context and style.
+* **Complementing the melody:** Harmony parts typically interweave with the main melody, providing support, adding counterpoint, or even mirroring the melody's emotional journey.
+
+Types of harmonies:
+
+* **Simple two-part harmonies:** Often involve singing a third or sixth above or below the melody.
+* **More complex harmonies:** Can involve multiple singers and use various intervals and melodic patterns, building intricate layers of sound. Think barbershop quartets, gospel choirs, or jazz vocal groups.
+* **Passing tones and suspensions:** These are temporary notes that add brief moments of tension or surprise before resolving back to a consonant harmony.
+
+Benefits of singing harmonies:
+
+* **Enhances the emotional impact of the music:** Adds depth, dimension, and expressiveness to the song.
+* **Creates a fuller, richer sound:** Makes the music feel more complete and polished.
+* **Showcases vocal skill and musicianship:** Demonstrates a singer's understanding of music and ability to blend their voice with others.
+
+So why don't we do it (more) in Santo Daime?
+
 ### Posture and Gesture 🪽
 
 There is too much to say! [Visit here]({{< relref "posture" >}})
@@ -77,31 +102,6 @@ While Santo Daime acknowledges the potential cleansing and cathartic effects of 
 If some traditions use an emetic, why not offer an optional antiemetic in Santo Daime?
 Why not make ginger capsules[^marx2015] available and encourage their use?
 Maybe we should be open to pharmauasca?[^aicher2024]
-
-### Harmonies?
-
-Sung harmonies weaves two or more vocal lines together to create a richer, fuller sound than could be achieved with a single voice.
-Here's a breakdown of what goes into singing harmonies:
-
-Basics:
-
-* **Multiple notes:** Instead of just one pitch, at least two different notes are sung simultaneously. These notes might be close together (like thirds or sixths) or further apart (like octaves or fifths).
-* **Pleasing sound:** The combination of notes should sound good together, not jarring or dissonant. This depends on the musical context and style.
-* **Complementing the melody:** Harmony parts typically interweave with the main melody, providing support, adding counterpoint, or even mirroring the melody's emotional journey.
-
-Types of harmonies:
-
-* **Simple two-part harmonies:** Often involve singing a third or sixth above or below the melody.
-* **More complex harmonies:** Can involve multiple singers and use various intervals and melodic patterns, building intricate layers of sound. Think barbershop quartets, gospel choirs, or jazz vocal groups.
-* **Passing tones and suspensions:** These are temporary notes that add brief moments of tension or surprise before resolving back to a consonant harmony.
-
-Benefits of singing harmonies:
-
-* **Enhances the emotional impact of the music:** Adds depth, dimension, and expressiveness to the song.
-* **Creates a fuller, richer sound:** Makes the music feel more complete and polished.
-* **Showcases vocal skill and musicianship:** Demonstrates a singer's understanding of music and ability to blend their voice with others.
-
-So why don't we do it (more) in Santo Daime?
 
 ## Notes
 
