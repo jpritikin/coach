@@ -35,7 +35,7 @@ If your experience of psychedelics is only individual exploration then you have 
 
 Some people seem to enjoy talking to a higher power, expressing faith, or strengthening their religious identity.
 Personally, these types of activities do not appeal to me.
-Perhaps I have been traumatized by placebo sacrament religions (and cults) where these activities feel fake.
+Perhaps I have been traumatized by placebo sacrament religions (and cults) where these activities feel fake to me.[^luhrmann2020]
 The only belief that I need: Daime can facilitate a direct experience of the Divine.
 Another possible purpose for the lyrics is to teach about the inner world.
 However, [IFS]({{< relref "ifs" >}}) conveys the same information with greater precision and finesse.
@@ -112,3 +112,6 @@ Maybe we should be open to pharmauasca?[^aicher2024]
 [^beyer2008]: [Ayahuasca Admixtures](https://singingtotheplants.com/2008/01/ayahuasca-admixtures/)
 
 [^aicher2024]: Aicher, H. D., Mueller, M. J., Dornbierer, D. A., Suay, D., Meling, D., Mueller, J., ... & Scheidegger, M. (2024). Potential therapeutic effects of an ayahuasca-inspired N, N-DMT and harmine formulation: A controlled trial in healthy subjects. *Frontiers in Psychiatry, 14*, 1302559.
+
+[^luhrmann2020]: I want to emphasize that this is just my personal opinion. I recognized books like Luhrmann (2020).
+    - Luhrmann, T. M. (2020). *How God Becomes Real: Kindling the Presence of Invisible Others.* Princeton University Press.
