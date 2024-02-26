@@ -35,6 +35,8 @@ Thomas Maier wrote a [history of the first scientific investigation of human sex
 
 ### Science
 
+Hite, S. (2003). *The Hite Report: A Nationwide Study of Female Sexuality.* Seven Stories Press. (Original work published 1976)
+
 Hill, S. (2019). *This is your brain on birth control: The surprising science of women, hormones, and the law of unintended consequences.* Penguin.  
 [Nov 21, 2022 Interview](https://www.youtube.com/watch?v=xpoUl1MzTq4) ♀
 
