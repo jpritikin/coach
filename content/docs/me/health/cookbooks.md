@@ -57,6 +57,27 @@ There are a lot of options to approach a milky flavor using plant-based ingredie
 - Coconut flour
 - Oats
 
+### Vanilla flavor
+
+Some recipes call for *vanilla extract*.
+Ethanol is often used to extract the flavor from vanilla pods.
+In USA, a vanilla ticture cannot be called an *extract* without containing at least 35% ethyl alcohol.[^vanilla-extract]
+The ethanol is probably not a big deal if you're baking, because the it will mostly evaporate.
+However, for recipes that are not heated intensively, vegetable glycerin can be used as an alternative to ethanol.
+If you're not making a flavored liquid then there is an even better option:
+whole vanilla bean powder.
+Whole vanilla bean are also great, but bean powder is less expensive than intact beans.
+
+### Mustard flavor
+
+Some recipes call for ready-made mustard.
+This condiment typically contains a bunch of ingredients such as vinegar, water, mustard seed, salt, turmeric, paprika, and garlic powder.
+There are disadvantages to using the ready-made condiment instead of mustard seeds.
+- The salt is probably 99% sodium chloride.
+- The ready-made condiment is often cooked.
+
+The reason to prefer raw mustard seeds is that the [myrosinase enzymes](https://nutritionfacts.org/video/second-strategy-to-cooking-broccoli/) are deactivated by cooking.
+
 ## Bibliography
 
 Campbell, K. (2015). *The PlantPure Nation Cookbook: The Official Companion Cookbook to the Breakthrough Film...with over 150 Plant-Based Recipes.* BenBella Books
@@ -66,3 +87,7 @@ Frank, L. E. (2023). *Seed to plate, soil to sky: Modern plant-based recipes usi
 Fisher, C. (2016). *Straight Up Food: Delicious and Easy Plant-based Cooking without Salt, Oil or Sugar.* Green Bite Publishing.
 
 Page, K. (2014). *The Vegetarian Flavor Bible: The Essential Guide to Culinary Creativity with Vegetables, Fruits, Grains, Legumes, Nuts, Seeds, and More, Based on the Wisdom of Leading American Chefs.* Little, Brown and Company.
+
+## Notes
+
+[^vanilla-extract]: [Vanilla extract](https://en.wikipedia.org/wiki/Vanilla_extract)
