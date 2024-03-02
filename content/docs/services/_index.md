@@ -30,5 +30,6 @@ Couples / Dyads
 
 [![5](chairs-five.webp)]({{< relref "groups" >}})
 
-Credit: Midjourney
-{.center}
+## Notes
+
+Room and chairs scene imagined by Midjourney.
