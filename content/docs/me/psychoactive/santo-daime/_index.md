@@ -14,7 +14,7 @@ draft: false
 | ---------------------- | ------- |
 | [![DMT](dmt.webp)](https://en.wikipedia.org/wiki/Psychotria_viridis)       | [![Harmine](harmine.webp) ![Tetrahydroharmine](tetrahydroharmine.webp)](https://en.wikipedia.org/wiki/Banisteriopsis_caapi) |
 
-Ayahuasca is a psychoactive brew used by various indigenous groups in the Amazon.
+Ayahuasca is a psychoactive brew used by various indigenous groups in the Amazon.[^guimarãesdossantos2013]
 Incorporating ayahuasca as a sacrament, Santo Daime is a syncretic religion founded in Brazil in the 1930s.
 While traditional use of ayahuasca often emphasizes individual exploration, Santo Daime emphasizes group synchrony and communitas.[^turner2012]
 I've attended Santo Daime works for about two years (as of Jan 2024).
@@ -115,3 +115,5 @@ Maybe we should be open to pharmauasca?[^aicher2024]
 
 [^luhrmann2020]: I want to emphasize that this is just my personal opinion. I recognized books like Luhrmann (2020).
     - Luhrmann, T. M. (2020). *How God Becomes Real: Kindling the Presence of Invisible Others.* Princeton University Press.
+
+[^guimarãesdossantos2013]: Guimarães dos Santos, R. (2013). Safety and side effects of ayahuasca in humans—an overview focusing on developmental toxicology. *Journal of Psychoactive Drugs, 45*(1), 68-78.
