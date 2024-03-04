@@ -103,6 +103,23 @@ If some traditions use an emetic, why not offer an optional antiemetic in Santo 
 Why not make ginger capsules[^marx2015] available and encourage their use?
 Maybe we should be open to pharmauasca?[^aicher2024]
 
+### Baptism
+
+> I baptize you with water for repentance. But after me comes one who is more powerful than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire. (Matthew 3:11)
+
+> And this was his message: "After me comes the one more powerful than I, the straps of whose sandals I am not worthy to stoop down and untie. I baptize you with water, but he will baptize you with the Holy Spirit." (Mark 1:7-8)
+
+> John answered them all, "I baptize you with water. But one who is more powerful than I will come, the straps of whose sandals I am not worthy to untie. He will baptize you with the Holy Spirit and fire." His winnowing fork is in his hand to clear his threshing floor and to gather the wheat into his barn, but he will burn up the chaff with unquenchable fire." (Luke 3:16-17)
+
+> Then John gave this testimony: "I saw the Spirit come down from heaven as a dove and remain on him. And I myself did not know him, but the one who sent me to baptize with water told me, 'The man on whom you see the Spirit come down and remain is the one who will baptize with the Holy Spirit.' I have seen and I testify that this is God’s Chosen One." (John 1:32-34)
+
+Daime facilitates presence of the Holy Spirit.
+Despite this, some congregations continue to perform water baptisms.
+I think baptism is generally a fine idea, to recognize those who publically vow to live in accord with the spirit of Christ.
+However, placebo sacrament baptism seems like a confused practice.
+We have Daime.
+Daime is sufficient to consummate baptism.
+
 ## Notes
 
 [^turner2012]: Turner, E. (2012). *Communitas: The anthropology of collective joy.* Springer.
