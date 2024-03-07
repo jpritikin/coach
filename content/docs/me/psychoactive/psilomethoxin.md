@@ -7,7 +7,11 @@ bookToc: true
 
 ## Introduction
 
-Psilomethoxin (Pm) offers soothing comfort similar to MDMA, but without MDMA’s stimulant-like effects.[^pm-subjective] Pm might be an incredibly important discovery because it might be the ideal complement to psychotherapy.[^beres2019]
+[![psilomethoxin](4-HO-5-MeO-DMT.svg.png)](https://en.wikipedia.org/wiki/4-Hydroxy-5-methoxydimethyltryptamine)
+
+BREAKING NEWS (2024 Mar 07): [Psilomethoxin is independently confirmed by University of South Florida!](https://thesacredsynthesis.com/church-of-the-sacred-synthesis-march-7-press-release/)
+
+Psilomethoxin (Pm) offers soothing comfort similar to MDMA, but without MDMA’s stimulant-like effects. Pm is an incredibly important discovery because it is the ideal complement to psychotherapy.[^beres2019]
 
 For more information, read [my case report]({{< relref "psilomethoxin-case-report" >}}).
 
@@ -30,9 +34,8 @@ until we have more data.
 - Lithium
 - Pregnancy or breastfeeding
 
-Sources for this information include:
+For more details, see:
 - [F.I.V.E.'s Risks and Cautions](https://five-meo.education/risks-and-cautions/)
-- [Evidence and Data Regarding the Safety of Psilomethoxin Sacrament](https://thesacredsynthesis.com/psilomethoxin-sacrament-safety-a-discussion-of-actual-evidence-and-data/)
 
 ## Suggestions for Initial Use
 
@@ -48,7 +51,6 @@ Storage in a refrigerator or freezer is not recommended because low temperatures
 ### Cooking
 
 Pm is sensitive to heat.
-This is thought to be one reason why Pm has not yet yielded to scientific analysis.
 To mix the powder with chocolate, use the lowest possible temperature.
 
 ### Dosage
@@ -124,7 +126,7 @@ To really understand the effect, it is important to sample Pm at different dosag
 This helps constrain the slope.
 If you only try a dose of 500mg then there is a lot of uncertainty about what the subjective effects actual are (lightly dotted lines). If you try 500mg and 1g then that narrows down the subjective effects somewhat (dashed lines). If you try 500mg, 1g, and 2g then you can look for commonalities across your experiences to refine your understanding of the effect (thick line).
 
-*Activity* is another variable. Whereas I recommend starting with a boring environment, it is also interesting to experiment with deliberate combinations of Pm with various activities:
+*Activity* is another variable. Whereas I recommend starting with a boring environment, it is also interesting to experiment with various activities:
 - A group might plan a *hikrodose* that consists of consuming a microdose and then hiking through nature together.[^hikrodose]
 - Tour museums
 - Receive a massage
@@ -136,9 +138,7 @@ If you only try a dose of 500mg then there is a lot of uncertainty about what th
 
 ## Notes
 
-[^pm-subjective]: [Effects of Psilomethoxin from Experienced 5-MeO-DMT Practitioner](https://psilomethoxin.com/effects-of-psilomethoxin-from-experienced-5-meo-dmt-practitioner/)
-
-[^mushroom]: If you sourced psilomethoxin from the [Church of Sacred Synthesis](https://psilomethoxin.com/?sld=jpritikin) then you received sacrament in the form of dried Psilocybe mushroom powder.
+[^mushroom]: If you sourced psilomethoxin from the [Church of Sacred Synthesis](https://thesacredsynthesis.com/?sld=jpritikin) then you received sacrament in the form of dried Psilocybe mushroom powder.
 Although many mushrooms of the Psilocybe genus produce psilocybin and psilocin, the manufacturing process devised by the church ensures that psilomethoxin is produced with only trace amounts of psilocybin or psilocin.
 
 [^beres2019]: [Decades ago, ecstasy — yes, MDMA — was used in marriage counseling](https://bigthink.com/neuropsych/decades-ago-mdma-was-used-in-marriage-counseling/)
