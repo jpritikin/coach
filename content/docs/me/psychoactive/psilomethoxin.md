@@ -138,7 +138,7 @@ If you only try a dose of 500mg then there is a lot of uncertainty about what th
 
 ## Notes
 
-[^mushroom]: If you sourced psilomethoxin from the [Church of Sacred Synthesis](https://thesacredsynthesis.com/?sld=jpritikin) then you received sacrament in the form of dried Psilocybe mushroom powder.
+[^mushroom]: If you sourced psilomethoxin from the [Church of Sacred Synthesis](https://thesacredsynthesis.com/) then you received sacrament in the form of dried Psilocybe mushroom powder.
 Although many mushrooms of the Psilocybe genus produce psilocybin and psilocin, the manufacturing process devised by the church ensures that psilomethoxin is produced with only trace amounts of psilocybin or psilocin.
 
 [^beres2019]: [Decades ago, ecstasy — yes, MDMA — was used in marriage counseling](https://bigthink.com/neuropsych/decades-ago-mdma-was-used-in-marriage-counseling/)

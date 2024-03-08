@@ -108,7 +108,7 @@ I am a member of
 ![Star](star.webp)  
 Me with [Padrinho Jonathan Goldman](https://casetext.com/case/church-of-holy-light-of-queen-v-mukasey-2)  
 {{< /partDetails >}}
-- [Church of Sacred Synthesis](https://psilomethoxin.com/?sld=jpritikin)
+- [Church of Sacred Synthesis](https://thesacredsynthesis.com/)
 - [Sacred Garden Church](https://sacredgarden.life/); I love the notion of "least dogma!"
 
 {{% hint danger %}}
