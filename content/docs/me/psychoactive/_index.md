@@ -210,7 +210,7 @@ DMT can facilitate Self energy in situations where Parts must exert some effort.
 
 [^aday2021]: Aday, J. S., Davis, A. K., Mitzkovitz, C. M., Bloesch, E. K., & Davoli, C. C. (2021). Predicting reactions to psychedelic drugs: A systematic review of states and traits related to acute drug effects. *ACS Pharmacology & Translational Science, 4*(2), 424-435.
 
-[^nichols2023]: Nichols, D. E., Nichols, C. D., & Hendricks, P. S. (2022). Proposed Consensus Statement on Defining Psychedelic Drugs. *Psychedelic Medicine.* https://doi.org/10.1089/psymed.2022.0008
+[^nichols2023]: Nichols, D. E., Nichols, C. D., & Hendricks, P. S. (2022). Proposed Consensus Statement on Defining Psychedelic Drugs. *Psychedelic Medicine.*
 
 [^healy2021]: Healy, C. J. (2021). The acute effects of classic psychedelics on memory in humans. *Psychopharmacology, 238*, 639-653.
 
