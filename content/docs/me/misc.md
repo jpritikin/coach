@@ -39,5 +39,10 @@ weight: 101
 - https://nader.org/
 - https://www.fsf.org/
 - https://www.doctorswithoutborders.org/
+- [Public Interest Research Groups](https://pirg.org/)
+
+## Fun
+
+- https://pessimistsarchive.org
 
 I want to thank [Free DNS](https://freedns.afraid.org) for DNS registration and [CloudFlare](https://cloudflare.com) for web hosting.
