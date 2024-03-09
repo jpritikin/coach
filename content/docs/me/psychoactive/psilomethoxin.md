@@ -9,8 +9,6 @@ bookToc: true
 
 [![psilomethoxin](4-HO-5-MeO-DMT.svg.png)](https://en.wikipedia.org/wiki/4-Hydroxy-5-methoxydimethyltryptamine)
 
-BREAKING NEWS (2024 Mar 07): [Psilomethoxin is independently confirmed by University of South Florida!](https://thesacredsynthesis.com/church-of-the-sacred-synthesis-march-7-press-release/)
-
 Psilomethoxin (Pm) offers soothing comfort similar to MDMA, but without MDMA’s stimulant-like effects. Pm is an incredibly important discovery because it is the ideal complement to psychotherapy.[^beres2019]
 
 For more information, read [my case report]({{< relref "psilomethoxin-case-report" >}}).
