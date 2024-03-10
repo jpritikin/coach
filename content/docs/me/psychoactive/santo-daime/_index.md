@@ -27,7 +27,7 @@ Before suggesting improvements, I want to underline what is revolutionary about 
 The force of the daime draws one's attention to the present and opens up more opportunity for choice.
 When group behavior is the reference point,
 your conscious choice to harmonize with the group can help relieve varieties of self-centeredness including feeling entitled, lack of connection, and internal conflict.
-In contrast, entitlement and arrogance are a risk when intention is limited to individual exploration.
+In contrast, entitlement and arrogance are a risk when intention is limited to individual exploration.[^haridy2024]
 The group experience is a hugely significant innovation.
 If your experience of psychedelics is only individual exploration then you have not had a chance to appreciate their full transformative potential.
 
@@ -134,3 +134,5 @@ Daime is sufficient to consummate baptism.
     - Luhrmann, T. M. (2020). *How God Becomes Real: Kindling the Presence of Invisible Others.* Princeton University Press.
 
 [^guimarãesdossantos2013]: Guimarães dos Santos, R. (2013). Safety and side effects of ayahuasca in humans—an overview focusing on developmental toxicology. *Journal of Psychoactive Drugs, 45*(1), 68-78.
+
+[^haridy2024]: [Ego tripping: Why do psychedelics "enlighten" some people — and make others giant narcissists?](https://www.salon.com/2024/03/08/ego-tripping-why-do-psychedelics-enlighten-some-people--and-make-others-giant-narcissists/)
