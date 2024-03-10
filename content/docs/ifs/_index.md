@@ -49,6 +49,6 @@ Note: Audio is very faint for the first minute.
 
 Initially launched in 2017 by Mariel Pastor, and seemingly will be relaunching soon:
 
-- [https://www.character-mapping.com/](https://www.character-mapping.com/)
+- https://www.marielpastor.com/character-mapping
 - [https://www.youtube.com/channel/UCBgeVPlMbWzMAxHHIsDieow](https://www.youtube.com/channel/UCBgeVPlMbWzMAxHHIsDieow)
 
