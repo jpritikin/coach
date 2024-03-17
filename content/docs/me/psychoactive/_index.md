@@ -162,8 +162,6 @@ Credit: Carhart-Harris & Nutt, 2017, Figure 3
 
 I suggest that psychedelics that target the 5-HT1A receptor pose the
 least risk to the naive user.
-The subjective experience is a gentle spotlight on the feeling of soothing comfort.
-Using this soothing comfort as a target helps tangled Parts relax.
 Until recently, MDMA and 5-MeO-DMT were the popular psychedelics
 that seemed to modulate 5-HT1A activity.
 5-MeO-DMT directly modulates the 5-HT1A receptor, but MDMA influences it indirectly.

@@ -9,7 +9,7 @@ bookToc: true
 
 [![psilomethoxin](4-HO-5-MeO-DMT.svg.png)](https://en.wikipedia.org/wiki/4-Hydroxy-5-methoxydimethyltryptamine)
 
-Psilomethoxin (Pm) offers soothing comfort similar to MDMA, but without MDMA’s stimulant-like effects. Pm is an incredibly important discovery because it is the ideal complement to psychotherapy.[^beres2019]
+Psilomethoxin (Pm) offers a subjective experience similar to MDMA, but without MDMA’s stimulant-like effects. Pm is the ideal complement to psychotherapy.[^beres2019]
 
 For more information, read [my case report]({{< relref "psilomethoxin-case-report" >}}).
 
@@ -124,15 +124,21 @@ To really understand the effect, it is important to sample Pm at different dosag
 This helps constrain the slope.
 If you only try a dose of 500mg then there is a lot of uncertainty about what the subjective effects actual are (lightly dotted lines). If you try 500mg and 1g then that narrows down the subjective effects somewhat (dashed lines). If you try 500mg, 1g, and 2g then you can look for commonalities across your experiences to refine your understanding of the effect (thick line).
 
-*Activity* is another variable. Whereas I recommend starting with a boring environment, it is also interesting to experiment with various activities:
+At the risk of creating expectancy bias, I suggest the subjective experience of Pm boils down to:
+- enhanced emotional clarity
+- blunting of anxiety
+- reduced interest in multitasking
+- increased patience
+
+Whereas I recommend starting with a boring environment, it is also interesting to experiment with various activities:
 - A group might plan a *hikrodose* that consists of consuming a microdose and then hiking through nature together.[^hikrodose]
 - Tour museums
-- Receive a massage
+- Receive a massage, cuddling
 - Physical activities (e.g., lift weights, hatha yoga, dance)
 - Music appreciation (e.g., concert, soundbath)
 - Play video games
 - Go beyond boring environments with formal [meditation]({{< ref "/docs/me/meditation" >}}).
-- Pm is well suited to talk therapy because of the wide [psycholytic](https://en.wikipedia.org/wiki/Psychedelic_therapy#Psycholytic_therapy) dosage range. IFS therapists are experimenting with using Pm in the therapist role. Pm might also be used by the client, or by both the therapist and client simultaneously.
+- Pm is well suited to [psycholytic](https://en.wikipedia.org/wiki/Psychedelic_therapy#Psycholytic_therapy) use in concert with talk therapy. IFS therapists are experimenting with using Pm in the therapist role. Pm might also be used by the client, or by both the therapist and client simultaneously.
 
 ## Notes
 
