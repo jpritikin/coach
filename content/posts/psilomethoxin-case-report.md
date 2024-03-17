@@ -33,8 +33,6 @@ Mental health professionals such as psychiatrists have often held a patronizing 
 ## Open questions
 
 * How is Pm metabolized? Why doesn’t the body build up a tolerance to Pm?
-* How similar are the subjective effects of Pm and 5-MeO-DMT?
-* For 5-MeO-DMT, dosage ranges have been categorized into: handshake, hug, and full release. What are suitable dosage ranges for Pm and what should they be called?
 * What is the LD50 dose for Pm? Are there short or long-term side effects to using Pm?
 
 ## Addendum

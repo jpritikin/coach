@@ -13,11 +13,17 @@ Psilomethoxin (Pm) offers a subjective experience similar to MDMA, but without M
 
 For more information, read [my case report]({{< relref "psilomethoxin-case-report" >}}).
 
-![Pm](pm-logo.webp)
+## Safety
 
-Credit: Christopher Scott
+According to the [2024 Mar 07 defamation lawsuit](https://drive.google.com/file/d/1l4Xjv15zfbKtf3WO0SXprOlZU7bHISK2/view?usp=drive_link):
 
-## Contraindications
+> 96. Between November 2021 and August 2022, the Church Co-Founders shared the sacrament with approximately 750 people, most of whom were either veterans, cancer patients, and/or highly experienced entheogen-based religious practitioners. All the Sacrament dispensed during this time was done in a religious setting and great care was taken to ensure the Sacrament was respected and used appropriately at all times.
+> 97. During the period described in the above paragraph, approximately 10,000 doses of the Sacrament were consumed without any negative reports or safety concerns raised; [...snip...]
+
+> 105. In early April 2023, the Church sponsored an event in Austin, Texas called Entheogenesis. This event was aimed at bringing together the Church’s Texas membership and community but was attended by members and other entheogen-based religious practitioners from all over the United States and the world. In total, approximately 350 people attended the all-day event and Sacrament was offered multiple times throughout the day. Despite the number of people in attendance and amount of Sacrament consumed, there were no negative incidents, medical or otherwise [...snip...]
+> 106. To date, at least 500,000 doses of the Church’s Psilomethoxin Sacrament have been dispensed without incident and as such, its safety profile is impeccable. In fact, based upon the actual numbers, it is very likely that most over the counter drugs have more dangerous side effects and cause more harm than the Church’s Psilomethoxin Sacrament.
+
+### Contraindications
 
 Since psilomethoxin is similar to 5-MeO-DMT, it is prudent to regard
 contraindications for 5-MeO-DMT as contraindications for psilomethoxin
@@ -35,6 +41,10 @@ until we have more data.
 For more details, see:
 - [F.I.V.E.'s Risks and Cautions](https://five-meo.education/risks-and-cautions/)
 
+![Pm](pm-logo.webp)
+
+Credit: Christopher Scott
+
 ## Suggestions for Initial Use
 
 There can be a lot of anxiety associated with the first use of a substance.
@@ -50,6 +60,7 @@ Storage in a refrigerator or freezer is not recommended because low temperatures
 
 Pm is sensitive to heat.
 To mix the powder with chocolate, use the lowest possible temperature.
+Even chocolate sourced from the Church of Sacred Synthesis has occasionally been found to be impotent.
 
 ### Dosage
 
@@ -129,6 +140,10 @@ At the risk of creating expectancy bias, I suggest the subjective experience of 
 - blunting of anxiety
 - reduced interest in multitasking
 - increased patience
+
+As another data point, according to the [2024 Mar 07 defamation lawsuit](https://drive.google.com/file/d/1l4Xjv15zfbKtf3WO0SXprOlZU7bHISK2/view?usp=drive_link):
+
+> 85. On or about September 2021, the first batch of Sacred Psilomethoxin mushrooms were created. Within a few days of creating the first batch, approximately ten highly experienced entheogen-based religious practitioners sampled the new sacred mushrooms by engaging in a three day “dieta.” At the end of this sacred process, all agreed the effects of the new Sacraments were similar to what a 4-hydroxylated version of 5-MEO-DMT would produce and was similar to a very weak, orally available, longer-acting form of 5-MEO-DMT.
 
 Whereas I recommend starting with a boring environment, it is also interesting to experiment with various activities:
 - A group might plan a *hikrodose* that consists of consuming a microdose and then hiking through nature together.[^hikrodose]
