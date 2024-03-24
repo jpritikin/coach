@@ -27,7 +27,7 @@ Combine sabudana with:
 - 1 thai chili or 1/4 jalapeno, minced (optional)
 - 4-5g fresh ginger, minced (= 3/4 tea puree)
 - 8-10 curry leaves (optional)
-- 1 table shredded coconut (optional, don't use coconut flour)
+- 1 table shredded coconut (optional)
 - 1/2 table lemon juice
 
 Mix all ingredients except potato & cilantro. Microwave in a sealed container; 3:30 min works for 1/2 cup, 5 min works for 1 cup, and 9 min for 2 cups. Basically you want the water hot enough to steam for a solid minute.
