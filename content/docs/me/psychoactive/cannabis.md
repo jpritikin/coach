@@ -24,7 +24,8 @@ a matter of intention, not an inherent property of the substance.[^wolinsky2023]
 
 ## Administration Protocol
 
-To use cannabis as a psychedelic, I came up with the following protocol.
+Cannabis is less interesting than other psychoactives because its effects tend to be unpredictable.
+In a quest to obtain more repeatable, consistently psychedelic effects, I came up with the following protocol.
 
 - Daytime: Cannabinoids can make one pleasantly sleepy, but if you sleep then you aren't fully enjoying the effects.
 - Fasting: There are cannabinoid receptors throughout the digestive system. Eating would add a confounding factor and make the experience less reproducible.
