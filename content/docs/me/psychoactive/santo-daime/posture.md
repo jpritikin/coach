@@ -220,6 +220,12 @@ Moving the fingers is like wiggling the petals.
 
 Variation: By relaxing the humerus to a more neutral position, this gesture becomes a one-armed version of the [Añjali Mudrā](https://en.wikipedia.org/wiki/A%C3%B1jali_Mudr%C4%81).
 
+{{% hint info %}}
+Wide acceptance of the two-handed Añjali Mudrā is based on a misinterpretation.
+The two-handed version is not the gesture.
+Two people together assembling the Añjali Mudrā with one hand each is the gesture.
+{{% /hint %}}
+
 ## Standing-only Pose Ensembles
 
 ### Pose: Shark fin 🦈
