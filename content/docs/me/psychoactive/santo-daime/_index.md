@@ -48,6 +48,13 @@ It would be nice if the hymns included more diversity in religious heritage.
 - [Divine Rose Store](https://divinerosestore.com)
 - [Luz da Rainha Publications](http://daimebooks.org)
 
+### Rosary 👎🏼
+
+Abolish the rosary. 📿
+It's so boring that the leader sometimes loses track of which prayer to say next.
+In general, minimize prayer repetition.
+Specifically, the mass could benefit from some judicious pruning.
+
 ### Harmonies?
 
 Sung harmonies weaves two or more vocal lines together to create a richer, fuller sound than could be achieved with a single voice.
