@@ -255,7 +255,6 @@ The `open` and `closed` variations just indicate whether the palms are facing or
 Even without group consensus,
 I use variations of umbrella, feather ruffle, holding a flower, and shark fin in almost every work.
 These gestures are innocuous and do not prompt correction from the guardians.
-Eventually, I hope that the ideas presented here become part of the accepted canon of the Santo Daime.
 
 ## Parody?
 

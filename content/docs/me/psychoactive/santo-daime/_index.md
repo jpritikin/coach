@@ -127,6 +127,11 @@ However, placebo sacrament baptism seems like a confused practice.
 We have Daime.
 Daime is sufficient to consummate baptism.
 
+### Co-signers 🖋️
+
+Want to see these changes happen?
+Let me know if you would like to add your name here.
+
 ## Notes
 
 [^turner2012]: Turner, E. (2012). *Communitas: The anthropology of collective joy.* Springer.
