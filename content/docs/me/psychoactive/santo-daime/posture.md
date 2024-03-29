@@ -121,7 +121,7 @@ None of these pose ensembles incorporate all of the components mentioned above,
 but all of them incorporate some of the components. I also call out similar
 poses that miss opportunities to improve the conductivity of reverence.
 
-### Pose: Umbrella
+### Pose: Umbrella ☂️
 
 | sitting | evaluation |
 |---|---|
@@ -138,7 +138,7 @@ Variations:
 Of course, it is challenging to keep an arm (or arms) elevated for a long duration,
 but five minutes is feasible.
 
-### Pose: Feather ruffle
+### Pose: Feather ruffle 🪶
 
 | sitting | evaluation |
 |---|---|
@@ -206,7 +206,7 @@ The right hand is balled in a fist, perhaps to hold a maraca (not sculpted).
 The left hand is cupped (flexion not extension), but I'll cut the artist some slack.
 Wow. 😍
 
-### Pose: Holding a Flower
+### Pose: Holding a Flower 🥀
 
 | concept | actual | evaluation |
 |---|---|---|
@@ -222,7 +222,7 @@ Variation: By relaxing the humerus to a more neutral position, this gesture beco
 
 ## Standing-only Pose Ensembles
 
-### Pose: Shark fin
+### Pose: Shark fin 🦈
 
 | Pose | Evaluation |
 |---|---|

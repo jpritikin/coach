@@ -17,7 +17,7 @@ draft: false
 Ayahuasca is a psychoactive brew used by various indigenous groups (including pregnant women[^guimarãesdossantos2013]) in the Amazon.
 Incorporating ayahuasca as a sacrament, Santo Daime is a syncretic religion founded in Brazil in the 1930s.
 While traditional use of ayahuasca often emphasizes individual exploration, Santo Daime emphasizes group synchrony and communitas.[^turner2012]
-I've attended Santo Daime works for about two years (as of Jan 2024).
+I've attended Santo Daime works since Dec 2021.
 There are a number of areas that I think could be improved.
 
 ### What is special about the group experience?
@@ -87,7 +87,7 @@ The smoke is fanned with feathers or hands with specific intentions and prayers.
 Unfortunately [burning incense has been found to generate about four times the particulate matter as burning cigarettes](https://nutritionfacts.org/video/the-side-effects-of-burning-incense/).
 Worse, the incomplete combustion results in carbon monoxide, nitric oxides, sulfur dioxide, carcinogenic polycyclic aromatic hydrocarbons, and volatile organic compounds like benzene and formaldehyde.
 Feeling purified? Really?
-Just say "no" to smudging. 🧯
+Just say "no" to smudging. 🧯 🚭
 
 ### Ginger 🫚
 
@@ -103,7 +103,7 @@ If some traditions use an emetic, why not offer an optional antiemetic in Santo 
 Why not make ginger capsules[^marx2015] available and encourage their use?
 Maybe we should be open to pharmauasca?[^aicher2024]
 
-### Baptism
+### Baptism 🌊
 
 > I baptize you with water for repentance. But after me comes one who is more powerful than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire. (Matthew 3:11)
 
