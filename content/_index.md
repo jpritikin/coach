@@ -20,7 +20,7 @@ I offer a serene and confidential environment to talk about matters of the heart
 
 My goal is to help you reprocess your psychological pain and suffering in a way that releases any detrimental limits for love, contentment, and positive self-concept (🤪 and 😬 → 😇).
 
-I use **Internal Family Systems** (IFS). IFS is an [evidence-based](https://www.foundationifs.org/news-articles/79-ifs-an-evidence-based-practice) and [trauma-informed](https://www.verywellmind.com/trauma-informed-therapy-definition-and-techniques-5209445) model. ![IFS](/images/ifs-logo.webp)
+I use **Internal Family Systems** (IFS). IFS is an [evidence-based](https://www.foundationifs.org/research/empirical-evidence) and [trauma-informed](https://www.verywellmind.com/trauma-informed-therapy-definition-and-techniques-5209445) model. ![IFS](/images/ifs-logo.webp)
 
 ## Areas of Expertise
 
