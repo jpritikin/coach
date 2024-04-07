@@ -7,6 +7,10 @@ bookToc: true
 
 # Psychoactive Drugs
 
+{{% hint info %}}
+We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and <span class="rainbow-letters" style="font-size: larger">**the pursuit of Happiness**</span>.
+{{% /hint %}}
+
 {{% details "Nora Volkow interview May 25, 2023" %}}
 Nora D. Volkow, MD, is Director of the National Institute on Drug Abuse (NIDA) at the National Institutes of Health
 
