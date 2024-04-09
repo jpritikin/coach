@@ -23,6 +23,14 @@ is because these poses have much greater significance when implemented
 by a whole group of people simultaneously in careful coordination.
 Posing solo is a bit self-indulgent.
 
+### Precedent
+
+See *How to Stand* from the Saint Michael work, p. 39-40.
+Why this gesture and not some other?
+What is the significance of this gesture?
+Unfortunately no rationale is given.
+About all we can gather from this passage is acknowledgment that posture is important.
+
 ### Crossings
 
 There is a tradition of not crossing arms or legs.
