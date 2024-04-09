@@ -31,29 +31,15 @@ In contrast, entitlement and arrogance are a risk when intention is limited to i
 The group experience is a hugely significant innovation.
 If your experience of psychedelics is only individual exploration then you have not had a chance to appreciate their full transformative potential.
 
-### On Lyrics and Prayers
+### Lyrics
 
-Some people seem to enjoy talking to a higher power, expressing faith, or strengthening their religious identity.
-Personally, these types of activities do not appeal to me.
-Perhaps I have been traumatized by placebo sacrament religions (and cults) where these activities feel fake to me.[^luhrmann2020]
-The only belief that I need: Daime can facilitate a direct experience of the Divine.
-Another possible purpose for the lyrics is to teach about the inner world.
-However, [IFS]({{< relref "ifs" >}}) conveys the same information with greater precision and finesse.
-
-The lyrics and prayers are important mainly because they facilitate precise synchronization among the group, not just physically and physiologically but in the imaginal space.
+Lyrics facilitate precise synchronization among the group, not just physically and physiologically but in the imaginal space.
 Since we have to recite something to achieve this degree of synchronization,
 we might as well recite something religious (i.e., unobjectionable).
 As far as I can tell, the preponderance of Christian and African religious material reflects nothing more than a historical accident.
 It would be nice if the hymns included more diversity in religious heritage.
 - [Divine Rose Store](https://divinerosestore.com)
 - [Luz da Rainha Publications](http://daimebooks.org)
-
-### Rosary 👎🏼
-
-Abolish the rosary. 📿
-It's so boring that the leader sometimes loses track of which prayer to say next.
-In general, minimize prayer repetition.
-Specifically, the mass could benefit from some judicious pruning.
 
 ### Harmonies?
 
@@ -79,6 +65,41 @@ Benefits of singing harmonies:
 * **Showcases vocal skill and musicianship:** Demonstrates a singer's understanding of music and ability to blend their voice with others.
 
 So why don't we do it (more) in Santo Daime?
+
+### Rosary 👎🏼
+
+Abolish the rosary. 📿
+It's so boring that the leader sometimes loses track of which prayer to say next.
+In general, minimize prayer repetition.
+Specifically, the mass could benefit from judicious pruning.
+
+### Prayers
+
+Some people seem to enjoy using prayer to communicate with a higher power, petition for help, or express gratitude.
+Perhaps I have been traumatized by placebo sacrament religions (and cults) where these activities feel fake to me.[^luhrmann2020]
+Another possible purpose for the prayers is to teach about the inner world.
+However, [IFS]({{< relref "ifs" >}}) conveys the same information with greater precision and finesse.
+
+For example, consider Padrinho Alfredo's Saint Michael Work.
+This work of spiritual cleansing and healing contains beautiful hymns, but some of the prayers are not great.
+
+**Offense**: Utter lack of or insufficient compassion. These prayers condemn and exile *evil* instead of encouraging to understand the motivations of surprising behavior.[^schwartz2021]
+
+**Evidence**:
+
+{{% hint info %}}
+Pages | Prayer  | Hall of Shame
+----- | -------------------- | -------
+49-52 | Allan Kardec's *Prayer for the Beginning of the Meeting* | "**Keep away** wicked spirits"
+53-54 | Allan Kardec's *Prayer for the Mediums* | "If I am tempted in any way to abuse, in any form, the gift bestowed on me by Your grace, or if I become proud of it, I ask that You **take it back**" (punitive self-flagellation)
+59-60 | Allan Kardec's *Prayer to Remove Wrong-Doing Spirits* | "clean your soul of its impurities in order to **avoid** bad spirits"
+61-62 | Prayer | "I **repel** you with all the strength in my soul"
+{{% /hint %}}
+
+**Demand**: Rescind these prayers and apologize. 🚫
+
+I met Padrinho Alfredo face-to-face in Portland on 2024 Apr 07.
+Having met him, I am confident that he can receive this message as constructive criticism.
 
 ### Posture and Gesture 🪽
 
@@ -148,3 +169,5 @@ Let me know if you would like to add your name here.
 [^guimarãesdossantos2013]: Guimarães dos Santos, R. (2013). Safety and side effects of ayahuasca in humans—an overview focusing on developmental toxicology. *Journal of Psychoactive Drugs, 45*(1), 68-78.
 
 [^haridy2024]: [Ego tripping: Why do psychedelics "enlighten" some people — and make others giant narcissists?](https://www.salon.com/2024/03/08/ego-tripping-why-do-psychedelics-enlighten-some-people--and-make-others-giant-narcissists/)
+
+[^schwartz2021]: Schwartz, R. (2021). *No Bad Parts.* Sounds True Adult.
