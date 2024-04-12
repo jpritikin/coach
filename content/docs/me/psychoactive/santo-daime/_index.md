@@ -150,8 +150,16 @@ Daime is sufficient to consummate baptism.
 
 ### Co-signers 🖋️
 
+{{% columns %}}
+
+![Waiting](wait.webp)
+
+<--->
+
 Want to see these changes happen?
 Let me know if you would like to add your name here.
+
+{{% /columns %}}
 
 ## Notes
 
