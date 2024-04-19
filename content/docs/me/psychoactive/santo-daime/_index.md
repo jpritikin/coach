@@ -36,7 +36,7 @@ If your experience of psychedelics is only individual exploration then you have 
 Lyrics facilitate precise synchronization among the group, not just physically and physiologically but in the imaginal space.
 Since we have to recite something to achieve this degree of synchronization,
 we might as well recite something religious (i.e., unobjectionable).
-As far as I can tell, the preponderance of Christian and African religious material reflects nothing more than a historical accident.
+As far as I can tell, the preponderance of Christian and African religious material reflects nothing more than a historical accident.[^muraresku2020]
 It would be nice if the hymns included more diversity in religious heritage.
 - [Divine Rose Store](https://divinerosestore.com)
 - [Luz da Rainha Publications](http://daimebooks.org)
@@ -179,3 +179,6 @@ Let me know if you would like to add your name here.
 [^haridy2024]: [Ego tripping: Why do psychedelics "enlighten" some people — and make others giant narcissists?](https://www.salon.com/2024/03/08/ego-tripping-why-do-psychedelics-enlighten-some-people--and-make-others-giant-narcissists/)
 
 [^schwartz2021]: Schwartz, R. (2021). *No Bad Parts.* Sounds True Adult.
+
+[^muraresku2020]: It could be argued that the respectability of Santo Daime was in part due to its embrace of Christianity. Christian missionaries have often violently crushed traditions centered around the use of psychoactive sacraments that did not acknowlege Christianity (Muraresku 2020).
+    - Muraresku, B. C. (2020). *The Immortality Key: The Secret History of the Religion with No Name.* St. Martin's Press.
