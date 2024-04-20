@@ -128,8 +128,9 @@ Some even add emetic agents to the brew![^beyer2008]
 
 While Santo Daime acknowledges the potential cleansing and cathartic effects of purging, it's not considered a central focus of the experience.
 If some traditions use an emetic, why not offer an optional antiemetic in Santo Daime?
-Why not make ginger capsules[^marx2015] available and encourage their use?
-Maybe we should be open to pharmauasca?[^aicher2024]
+Why not make ginger capsules[^marx2015] available?
+Or pharmauasca?[^aicher2024]
+Or ondansetron (if not pregnant[^picot2020])?
 
 ### Baptism 🌊
 
@@ -182,3 +183,5 @@ Let me know if you would like to add your name here.
 
 [^muraresku2020]: It could be argued that the respectability of Santo Daime was in part due to its embrace of Christianity. Christian missionaries have often violently crushed traditions centered around the use of psychoactive sacraments that did not acknowlege Christianity (Muraresku 2020).
     - Muraresku, B. C. (2020). *The Immortality Key: The Secret History of the Religion with No Name.* St. Martin's Press.
+
+[^picot2020]: Picot, C., Berard, A., Grenet, G., Ripoche, E., Cucherat, M., & Cottin, J. (2020). Risk of malformation after ondansetron in pregnancy: An updated systematic review and meta‐analysis. *Birth Defects Research, 112*(13), 996-1013.
