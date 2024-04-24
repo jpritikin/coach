@@ -34,6 +34,10 @@ These are the books that I feel are practice focused, actually teach you how to 
     ![Burris](burris-2023.webp)
     {{< /partDetails >}}
     {{< /hint >}}
+- Sweezy, M. (2023). *Internal Family Systems Therapy for Shame and Guilt.* The Guilford Press.
+    {{< hint info >}}
+    There is coverage of shame and guilt, but that is a tiny portion of the scope of this book. Lots of wisdom here. For example, an ingenious framework for unblending (pp. 134-135).
+    {{< /hint >}}
 
 ## Why no books on Intimacy from the Inside Out (IFIO)?
 
