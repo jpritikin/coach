@@ -19,6 +19,8 @@ Can combine with [withdrawal of the senses]({{< relref "senses"  >}}).
 In fact, with lukewarm water, foot soak could be regarded as
 withdrawing the feet from the touch and texture of being on a surface.
 
+If your legs still feel restless, try [calf raises](https://www.youtube.com/watch?v=-M4-G8p8fmc).
+
 Use [cold exposure]({{< relref "cold-exposure"  >}}) instead if you need greater relief.
 
 ## Credit
