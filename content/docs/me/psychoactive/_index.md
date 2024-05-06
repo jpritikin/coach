@@ -75,7 +75,7 @@ Nutt, D. J., King, L. A., & Phillips, L. D. (2010). Drug harms in the UK: a mult
 {{% /details %}}
 
 Also check out:
-- [Decriminalize Our Minds](https://www.decriminalizeourminds.org/)
+- [Decriminalize Our Minds](https://www.decriminalizeourminds.org/about)
 - Parody [Drug Dealers Against Legalization](https://jpritikin.github.io/ddal/)
 - [A sane reform proposal](https://maps.org/bulletin-criminal-legal-system-reform-healthier-society/)
 - [Limitless 2011](https://en.wikipedia.org/wiki/Limitless_(film))
