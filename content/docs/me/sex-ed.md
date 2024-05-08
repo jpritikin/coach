@@ -33,6 +33,28 @@ The invention of the polygraph inspired a remarkable film, [Professor Marston & 
 
 Thomas Maier wrote a [history of the first scientific investigation of human sexuality](https://www.basicbooks.com/titles/thomas-maier/masters-of-sex/9780465079995/). The associated miniseries, [Masters of Sex 2013](https://en.wikipedia.org/wiki/Masters_of_Sex), incorporates some fictional elements that well complement the extraordinary story. I particularly enjoyed the rich depictions of Sensate Focus Therapy.[^masters1994]
 
+### Contemporary Feminism vs. Dignity
+
+Perry, L. (2022). *The Case Against the Sexual Revolution.* John Wiley & Sons.
+
+Harrington, M. (2023). *Feminism Against Progress.* Regnery Publishing.  
+[Mar 2, 2023 Interview](https://www.youtube.com/watch?v=8-pTX3X4yVE)  
+{{% hint info %}}
+{{% details "This important book is unfortunately written in a conversational stream-of-consciousness style with complex sentence constructions. Here is a simplified summary." %}}
+- **Part One** examines the history of feminism from the 1600s to around 1950. This information isn't all that important. You can skip this part and get most of the arguments. In my mind, this part is mostly a flex by the author to show that she has done her homework.
+- **Part Two** describes the three areas that have been disrupted by disembedding, disembodiment, atomization, and marketization.
+  - The relationship between men and women
+  - The relationship between mother and child, "the devouring mother"
+  - The relationship between mind and body, "meat lego gnosticism"
+- **Part Three** suggests some ways to address the aforementioned problems.
+  - Commit to marriage and take advantage of work-from-home compatible jobs to better share the responsibility of caring for family members.
+  - Don't blindly favor androgynous associations. Embodied sex can make a difference. Examples of where biological sex segregation is appropriate include Boy/Girl Scouts, small military units, and prisons. Examples where sex segregation is usually inappropriate include elite executive golf clubs and corporate boards of directors.
+  - Abstain from hormonal birth control. That is not to argue against all types of family planning, but to reject casual, no-consequence sexual encounters.
+{{% /details %}}
+{{% /hint %}}
+
+Clark-Flory, T. (2021). *Want Me: A Sex Writer's Journey into the Heart of Desire.* Penguin Books.
+
 ### Science
 
 Hite, S. (2003). *The Hite Report: A Nationwide Study of Female Sexuality.* Seven Stories Press. (Original work published 1976)
@@ -57,28 +79,6 @@ Some dietary tweaks:
 Lube carefully[^edwards2016]
 
 Cannabis[^mulvehill2024]
-
-### Contemporary Feminism vs. Dignity
-
-Perry, L. (2022). *The Case Against the Sexual Revolution.* John Wiley & Sons.
-
-Harrington, M. (2023). *Feminism Against Progress.* Regnery Publishing.  
-[Mar 2, 2023 Interview](https://www.youtube.com/watch?v=8-pTX3X4yVE)  
-{{% hint info %}}
-{{% details "This important book is unfortunately written in a conversational stream-of-consciousness style with complex sentence constructions. Here is a simplified summary." %}}
-- **Part One** examines the history of feminism from the 1600s to around 1950. This information isn't all that important. You can skip this part and get most of the arguments. In my mind, this part is mostly a flex by the author to show that she has done her homework.
-- **Part Two** describes the three areas that have been disrupted by disembedding, disembodiment, atomization, and marketization.
-  - The relationship between men and women
-  - The relationship between mother and child, "the devouring mother"
-  - The relationship between mind and body, "meat lego gnosticism"
-- **Part Three** suggests some ways to address the aforementioned problems.
-  - Commit to marriage and take advantage of work-from-home compatible jobs to better share the responsibility of caring for family members.
-  - Don't blindly favor androgynous associations. Embodied sex can make a difference. Examples of where biological sex segregation is appropriate include Boy/Girl Scouts, small military units, and prisons. Examples where sex segregation is usually inappropriate include elite executive golf clubs and corporate boards of directors.
-  - Abstain from hormonal birth control. That is not to argue against all types of family planning, but to reject casual, no-consequence sexual encounters.
-{{% /details %}}
-{{% /hint %}}
-
-Clark-Flory, T. (2021). *Want Me: A Sex Writer's Journey into the Heart of Desire.* Penguin Books.
 
 ### Tools for Healthy Relationships
 
