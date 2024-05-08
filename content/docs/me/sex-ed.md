@@ -56,6 +56,8 @@ Some dietary tweaks:
 
 Lube carefully[^edwards2016]
 
+Cannabis[^mulvehill2024]
+
 ### Contemporary Feminism vs. Dignity
 
 Perry, L. (2022). *The Case Against the Sexual Revolution.* John Wiley & Sons.
@@ -150,3 +152,5 @@ Credit: [Lucy Churchill](https://www.lucychurchill.com/product/anasyrma-vulval-m
 [^ginger]: [Benefits of Ginger for Menstrual Cramps](https://nutritionfacts.org/video/benefits-of-ginger-for-menstrual-cramps/)
 
 [^dates]: [Best Food for Late Pregnancy](https://nutritionfacts.org/video/best-food-for-late-pregnancy/) and [Best Food for Labor and Delivery](https://nutritionfacts.org/video/best-food-for-labor-and-delivery/)
+
+[^mulvehill2024]: Mulvehill, S., & Tishler, J. (2024). Assessment of the effect of cannabis use before partnered sex on women with and without orgasm difficulty. *Sexual Medicine, 12*(2), qfae023.
