@@ -196,6 +196,18 @@ Unaided, [effortless meditation]({{< relref "effortlessness" >}}) is precarious 
 This is where DMT can pick up the slack.
 DMT can facilitate Self energy in situations where Parts must exert some effort. For example, Santo Daime is a psychedelic church that has won legal protection in the USA, parts of Canada, and Brazil. In Santo Daime ceremonies, everybody present drinks Daime tea, lead musicians included. Moreover, everybody is expected to sing 🎶 and dance. It seems unlikely to me that new members would often enjoy much Self energy without the help of the psychedelic sacrament. The Daime helps the congregation remain mostly in Self while exerting considerable effort to pronounce Portuguese and precisely synchronize movements to the rhythm 🥁 of the music. The combination of ample Self energy and creative involvement in the ceremony can make for an extraordinarily beautiful experience.
 
+## On Alan W. Watts
+
+> If you get the message, hang up the phone. For psychedelic drugs are simply instruments, like microscopes, telescopes, and telephones. The biologist does not sit with eye permanently glued to the microscope, he goes away and works on what he has seen.
+
+**Rebuttal:** I agree with Watts that psychedelics can be powerful tools for self-discovery.
+Sometimes, like the biologist stepping away from the microscope, we need to [integrate]({{< relref "integration" >}}) the insights from a trip, incorporating them to our daily lives.
+But what about journeys that do not contain a utilitarian message?
+Perhaps there is only an altered consciousness that we can savor.
+Like a breathtaking vista, it may not need analysis, just appreciation.
+Embracing this beauty with open arms isn't a failure to "get the message" – it's a form of wisdom.
+We don't have to be on a constant quest for self-improvement and there's no shame in seeking [help]({{< relref "effortlessness" >}}/#beyond-your-ability-a-helping-hand) to taste the heights of beauty.
+
 ## Notes
 
 [^catholic]: I am a bit embarrassed to be affiliated with Catholicism given its [sordid history](https://en.wikipedia.org/wiki/Catholic_Church). In general, I admire the best of all of the world's religions.
