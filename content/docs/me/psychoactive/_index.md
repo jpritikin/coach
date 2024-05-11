@@ -102,7 +102,7 @@ I have personal experience with
 *   Salvia divinorum
 *   Cannabis
 *   Daime (a.k.a. ayahuasca) 🍵
-*   Piper methysticum a.k.a. [kava](https://www.kavacoalition.org/blog/introduction-to-kavalactones-part-1) ([kavain, dihydrokavain](https://www.kavacoalition.org/blog/introduction-to-kavalactones-part-2), [methysticin, dihydromethysticin](https://www.kavacoalition.org/blog/introduction-to-kavalactones-part-3), [yangonin, and desmethoxyyangonin](https://www.kavacoalition.org/blog/introduction-to-kavalactones-part-4))
+*   Piper methysticum a.k.a. [kava](https://www.kavacoalition.org/blog/introduction-to-kavalactones-part-1) ([kavain, dihydrokavain](https://www.kavacoalition.org/blog/introduction-to-kavalactones-part-2), [methysticin, dihydromethysticin](https://www.kavacoalition.org/blog/introduction-to-kavalactones-part-3), [yangonin, and desmethoxyyangonin](https://www.kavacoalition.org/blog/introduction-to-kavalactones-part-4)). Probably safer than hypnotics?[^kripke2012]
 *   Sceletium tortuosum (kanna)
 *   Psilomethoxin ([orally active 5-methoxy-N,N-dimethyltryptamine](https://www.youtube.com/watch?v=SeROOGFnwek)) 🐸
 
@@ -230,3 +230,5 @@ We don't have to be on a constant quest for self-improvement and there's no sham
 [^healy2021]: Healy, C. J. (2021). The acute effects of classic psychedelics on memory in humans. *Psychopharmacology, 238*, 639-653.
 
 [^cheetah]: The potential adverse events are similar to what you might get with a [meditation session gone wrong](https://www.cheetahhouse.org/symptoms), but worse.
+
+[^kripke2012]: Kripke, D. F., Langer, R. D., & Kline, L. E. (2012). Hypnotics' association with mortality or cancer: a matched cohort study. *BMJ Open, 2*(1), e000850.
