@@ -106,7 +106,7 @@ I have personal experience with
 *   Sceletium tortuosum (kanna)
 *   Psilomethoxin ([orally active 5-methoxy-N,N-dimethyltryptamine](https://www.youtube.com/watch?v=SeROOGFnwek)) 🐸
 
-I am a member of
+I am a [sincere religious practitioner](https://chacruna.net/chacruna_guide_rfra_best_practices_psychedelic_churches/) who is a member of
 - [Santo Daime](https://en.wikipedia.org/wiki/Santo_Daime)[^catholic]
 {{< partDetails "I received my star 24 June 2023." >}}  
 ![Star](star.webp)  
@@ -114,6 +114,7 @@ Me with [Padrinho Jonathan Goldman](https://casetext.com/case/church-of-holy-lig
 {{< /partDetails >}}
 - [Church of Sacred Synthesis](https://thesacredsynthesis.com/)
 - [Sacred Garden Church](https://sacredgarden.life/); I love the notion of "least dogma!"
+- [PSILO Temple](https://psilotemple.org/)
 
 {{% hint danger %}}
 Psychedelics are not for everybody.
