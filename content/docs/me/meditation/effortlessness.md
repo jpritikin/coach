@@ -134,6 +134,8 @@ All of the targets mentioned so far require some focusing vigilance,
 hitting a limit comparable to that of self-tickle.[^blakemore2000]
 As far as I know, assistance is the only way to invite even more Self energy, either via partnered [orgasmic meditation]({{< relref "sex-ed" >}}) or [psychedelics]({{< relref "psychoactive" >}}) (or both?[^barba2024] 🤯).[^siegel2021]
 
+### Visualization
+
 I want to discuss this from another angle to hopefully clarify any misconceptions.
 In the context of meditation, the usual positive relationship between technique complexity and tacit skill is reversed:
 
@@ -160,6 +162,30 @@ The complexity of visualization is precisely what makes it suitable only for beg
 With no disrespect to Tibetan traditions, if you are a beginner considering whether to train in visualization, instead consider mathematics or some similar area.
 By studying mathematics, you feed two birds with one scone:
 develop mental dexterity, and at the same time, gain widely valued technical skills.
+
+### An ode to receiving help
+
+From ink-stained hands and mind aflame,  
+A thirst for knowledge, whispered name.  
+Heroic study, self-improvement's hold,  
+A burning quest for truths untold.
+
+But pride, a serpent, reared its head,  
+Independence, on illusion fed.  
+"No hand I need," the arrogance cried,  
+"My path alone, where triumphs hide."
+
+Then wisdom's tap upon the soul,  
+A gentle nudge to make us whole.  
+To see the strength in open arms,  
+The power found in learning's charms.
+
+For even giants, rooted deep,  
+Must drink the rain, their secrets keep.  
+So let us bow, with grateful heart,  
+And learn the art of playing our part. 
+
+Credit: Google Gemini 2024.04.30
 
 ## References
 
