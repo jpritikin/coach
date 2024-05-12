@@ -149,8 +149,8 @@ flowchart TD;
   Meditation --> A(Flow)
 {{< /mermaid >}}
 
-Psychedelics can inspire and teach us how to meditate. However, psychedelic trips
-consume a lot of time and, if you have a job, can have a maximum frequency of once a week.
+Psychedelics can inspire and teach us how to meditate.
+However, psychedelic trips can consume a lot of time and, if you have a job, probably have a maximum frequency of about once a week.
 In contrast, meditation is a daily practice that can increase your access to Self energy.
 Increased Self energy makes life somewhat less mundane and tedious.
 More often, we may enjoy full immersion in our daily activities (flow).
