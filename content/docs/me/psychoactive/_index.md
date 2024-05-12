@@ -85,16 +85,6 @@ Also check out:
 
 Psychedelics are substances that reveal and amplify your inner experience.[^nichols2023]
 
-I have personal experience with
-
-*   Psilocybin 🍄
-*   Salvia divinorum
-*   Cannabis
-*   Daime (a.k.a. ayahuasca) 🍵
-*   Piper methysticum a.k.a. [kava](https://www.kavacoalition.org/blog/introduction-to-kavalactones-part-1) ([kavain, dihydrokavain](https://www.kavacoalition.org/blog/introduction-to-kavalactones-part-2), [methysticin, dihydromethysticin](https://www.kavacoalition.org/blog/introduction-to-kavalactones-part-3), [yangonin, and desmethoxyyangonin](https://www.kavacoalition.org/blog/introduction-to-kavalactones-part-4)). Probably safer than hypnotics?[^kripke2012]
-*   Sceletium tortuosum (kanna)
-*   Psilomethoxin ([orally active 5-methoxy-N,N-dimethyltryptamine](https://www.youtube.com/watch?v=SeROOGFnwek)) 🐸
-
 I am a [sincere religious practitioner](https://chacruna.net/chacruna_guide_rfra_best_practices_psychedelic_churches/) who is a member of
 - [Santo Daime](https://en.wikipedia.org/wiki/Santo_Daime)[^catholic]
 {{< partDetails "I received my star 24 June 2023." >}}  
@@ -104,6 +94,17 @@ Me with [Padrinho Jonathan Goldman](https://casetext.com/case/church-of-holy-lig
 - [Church of Sacred Synthesis](https://thesacredsynthesis.com/)
 - [Sacred Garden Church](https://sacredgarden.life/); I love the notion of "least dogma!"
 - [PSILO Temple](https://psilotemple.org/)
+
+I have personal experience with
+
+*   Psilocybin 🍄
+*   Salvia divinorum
+*   Cannabis
+*   Daime (a.k.a. ayahuasca) 🍵
+*   Piper methysticum a.k.a. [kava](https://www.kavacoalition.org/blog/introduction-to-kavalactones-part-1) ([kavain, dihydrokavain](https://www.kavacoalition.org/blog/introduction-to-kavalactones-part-2), [methysticin, dihydromethysticin](https://www.kavacoalition.org/blog/introduction-to-kavalactones-part-3), [yangonin, and desmethoxyyangonin](https://www.kavacoalition.org/blog/introduction-to-kavalactones-part-4)). Probably safer than hypnotics?[^kripke2012]
+*   Sceletium tortuosum (kanna)
+*   Psilomethoxin ([orally active 5-methoxy-N,N-dimethyltryptamine](https://www.youtube.com/watch?v=SeROOGFnwek)) 🐸
+*   Mescaline 🌵
 
 {{% hint danger %}}
 Psychedelics are not for everybody.
