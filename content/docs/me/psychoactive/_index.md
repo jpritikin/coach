@@ -85,17 +85,6 @@ Also check out:
 
 Psychedelics are substances that reveal and amplify your inner experience.[^nichols2023]
 
-<table>
-<tr>
-<td>
-<picture style="display: block;">
-<img alt="Sacred mandala" src="sacred_mandala.webp">
-</picture>
-</td>
-<td class='rotate'><div>Credit: Midjourney "sacred mandala"</div></td>
-</tr/>
-</table>
-
 I have personal experience with
 
 *   Psilocybin 🍄
@@ -204,7 +193,7 @@ DMT can facilitate Self energy in situations where Parts must exert some effort.
 **Rebuttal:** I agree with Watts that psychedelics can be powerful tools for self-discovery.
 Sometimes, like the biologist stepping away from the microscope, we need to [integrate]({{< relref "integration" >}}) the insights from a trip, incorporating them to our daily lives.
 But what about journeys that do not contain a utilitarian message?
-Perhaps there is only an altered consciousness that we can savor.
+Perhaps there is only an altered consciousness.
 Like a breathtaking vista, it may not need analysis, just appreciation.
 Embracing this beauty with open arms isn't a failure to "get the message" – it's a form of wisdom.
 We don't have to be on a constant quest for self-improvement and there's no shame in seeking [help]({{< relref "effortlessness" >}}/#beyond-your-ability-a-helping-hand) to taste the heights of beauty.
