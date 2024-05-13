@@ -5,11 +5,13 @@ weight: 4
 bookToc: true
 ---
 
-# Psychoactive Drugs
+## Psychoactive Drugs
 
 {{% hint info %}}
 We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and <span class="rainbow-letters" style="font-size: larger">**the pursuit of Happiness**</span>.
 {{% /hint %}}
+
+### On drug (mis)regulation 🚧
 
 {{% details "Nora Volkow interview May 25, 2023" %}}
 Nora D. Volkow, MD, is Director of the National Institute on Drug Abuse (NIDA) at the National Institutes of Health
@@ -75,27 +77,23 @@ Nutt, D. J., King, L. A., & Phillips, L. D. (2010). Drug harms in the UK: a mult
 {{% /details %}}
 
 Also check out:
+- [One sane reform proposal](https://maps.org/bulletin-criminal-legal-system-reform-healthier-society/)
 - [Decriminalize Our Minds](https://www.decriminalizeourminds.org/about)
-- Parody [Drug Dealers Against Legalization](https://jpritikin.github.io/ddal/)
-- [A sane reform proposal](https://maps.org/bulletin-criminal-legal-system-reform-healthier-society/)
-- [Limitless 2011](https://en.wikipedia.org/wiki/Limitless_(film))
-- [Hamilton’s Pharmacopeia](https://www.vicetv.com/en_us/show/hamiltons-pharmacopeia)
+- Parody [Drug Dealers Against Legalization](https://jpritikin.github.io/ddal/) and the grave menace of equasy[^equasy] 🐎
 
-## My experience
+### My experience 👋🏼
 
-Psychedelics are substances that reveal and amplify your inner experience.[^nichols2023]
-
-I am a [sincere religious practitioner](https://chacruna.net/chacruna_guide_rfra_best_practices_psychedelic_churches/) who is a member of
+I am a sincere religious practitioner[^chacruna2021] who is a member of
 - [Santo Daime](https://en.wikipedia.org/wiki/Santo_Daime)[^catholic]
 {{< partDetails "I received my star 24 June 2023." >}}  
 ![Star](star.webp)  
 Me with [Padrinho Jonathan Goldman](https://casetext.com/case/church-of-holy-light-of-queen-v-mukasey-2)  
 {{< /partDetails >}}
 - [Church of Sacred Synthesis](https://thesacredsynthesis.com/)
-- [Sacred Garden Church](https://sacredgarden.life/); I love the notion of "least dogma!"
+- [Sacred Garden Church](https://sacredgarden.life/); I love the notion of "least dogma!"[^carse2009]
 - [PSILO Temple](https://psilotemple.org/)
 
-I have personal experience with
+I have first-hand experience with
 
 *   Psilocybin 🍄
 *   Salvia divinorum
@@ -106,11 +104,23 @@ I have personal experience with
 *   Psilomethoxin ([orally active 5-methoxy-N,N-dimethyltryptamine](https://www.youtube.com/watch?v=SeROOGFnwek)) 🐸
 *   Mescaline 🌵
 
-{{% hint danger %}}
-Psychedelics are not for everybody.
-{{% /hint %}}
+### In film 📽️
 
-## Amplification
+{{% columns %}}
+
+[![Limitless 2011](Limitless_Poster.webp)](https://en.wikipedia.org/wiki/Limitless_(film))
+
+<--->
+
+[![Hamilton’s Pharmacopeia](Pharmacopeia.webp)](https://www.vicetv.com/en_us/show/hamiltons-pharmacopeia)
+
+{{% /columns %}}
+
+## Journey Invitation 🛝
+
+### Amplification
+
+Psychedelics are substances that reveal and amplify your inner experience.[^nichols2023]
 
 The subjective sense of psychedelic amplification is the reflection of
 a corresponding impairment of working memory.[^healy2021]
@@ -122,7 +132,26 @@ much more than emotional working memory.
 Serotonergic psychedelics impair emotional working memory
 much more than cognitive working memory.
 
-### Predicting Your Reaction to Psychedelics
+### Can psychedelics help challenge belief systems?
+
+Yes, this is one of their most valuable potential benefits.[^carse2009]
+
+- **Increased Openness**: Psychedelics can loosen rigid thinking patterns, making individuals more receptive to considering viewpoints outside their current framework.
+- **Enhance self-reflection:** Increased self-awareness can expose contradictions or limitations within a person's current belief system.
+- **A tacit feeling of interconnectedness:** The feeling of being part of something larger can prompt a questioning of self-imposed boundaries, leading to a potential reevaluation of beliefs about oneself and the world.
+
+{{% hint danger %}}
+Psychedelics are not salubrious for everybody.
+{{% /hint %}}
+
+- Psychedelics don't guarantee a change in beliefs. They can also reinforce existing belief systems, especially if used with that intention.
+- There is a potential risk for individuals with already fluid belief systems to lose touch with reality and develop psychosis.
+
+{{% hint info %}}
+Will psychedelics be salubrious for you?
+{{% /hint %}}
+
+### Predicting your reaction 🏹
 
 Your reaction to a psychedelic strongly depends on the willingness of your Parts to get quiet.[^aday2021]
 See my discussion of [effortless meditation]({{< relref "effortlessness" >}}) to learn more about Parts
@@ -168,7 +197,7 @@ The disadvantage of 5-MeO-DMT is its rapid onset and come down, which can be dis
 In contrast, psilomethoxin has a user-friendly gradual onset and come down.
 However, the main advantage of psilomethoxin over these other
 substances is its legal status.
-Psilomethoxin is currently unregulated and easy to obtain.
+Psilomethoxin is currently unregulated and [easy to obtain]({{< relref "psilomethoxin" >}}).
 
 Once there is familiarity with altered states and some confidence is
 gained in [effortless meditation]({{< relref "effortlessness" >}}) then
@@ -185,9 +214,9 @@ demanding more cooperation from Parts to guide the experience.
 
 Unaided, [effortless meditation]({{< relref "effortlessness" >}}) is precarious in the sense that we can not entertain targets that prompt much Part involvement.
 This is where DMT can pick up the slack.
-DMT can facilitate Self energy in situations where Parts must exert some effort. For example, Santo Daime is a psychedelic church that has won legal protection in the USA, parts of Canada, and Brazil. In Santo Daime ceremonies, everybody present drinks Daime tea, lead musicians included. Moreover, everybody is expected to sing 🎶 and dance. It seems unlikely to me that new members would often enjoy much Self energy without the help of the psychedelic sacrament. The Daime helps the congregation remain mostly in Self while exerting considerable effort to pronounce Portuguese and precisely synchronize movements to the rhythm 🥁 of the music. The combination of ample Self energy and creative involvement in the ceremony can make for an extraordinarily beautiful experience.
+DMT can facilitate Self energy in situations where Parts must exert some effort. For example, In [Santo Daime]({{< relref "Santo Daime" >}}) ceremonies, everybody is expected to sing 🎶 and dance. It seems unlikely to me that members would often enjoy much Self energy without the help of the psychedelic sacrament.
 
-## On Alan W. Watts
+### On Alan W. Watts 🔬
 
 > If you get the message, hang up the phone. For psychedelic drugs are simply instruments, like microscopes, telescopes, and telephones. The biologist does not sit with eye permanently glued to the microscope, he goes away and works on what he has seen.
 
@@ -197,7 +226,7 @@ But what about journeys that do not contain a utilitarian message?
 Perhaps there is only an altered consciousness.
 Like a breathtaking vista, it may not need analysis, just appreciation.
 Embracing this beauty with open arms isn't a failure to "get the message" – it's a form of wisdom.
-We don't have to be on a constant quest for self-improvement and there's no shame in seeking [help]({{< relref "effortlessness" >}}/#beyond-your-ability-a-helping-hand) to taste the heights of beauty.
+We don't have to be on a constant quest for self-improvement and there's no shame in seeking [help]({{< relref "effortlessness" >}}/#beyond-your-ability-a-helping-hand) to taste the heights of beauty. 🌺
 
 ## Notes
 
@@ -222,3 +251,9 @@ We don't have to be on a constant quest for self-improvement and there's no sham
 [^cheetah]: The potential adverse events are similar to what you might get with a [meditation session gone wrong](https://www.cheetahhouse.org/symptoms), but worse.
 
 [^kripke2012]: Kripke, D. F., Langer, R. D., & Kline, L. E. (2012). Hypnotics' association with mortality or cancer: a matched cohort study. *BMJ Open, 2*(1), e000850.
+
+[^carse2009]: Carse, J. P. (2009). *The Religious Case Against Belief.* Penguin Publishing Group.
+
+[^chacruna2021]: [Guide to RFRA and Best Practices for Psychedelic Plant Medicine Churches](https://chacruna.net/chacruna_guide_rfra_best_practices_psychedelic_churches/)
+
+[^equasy]: Nutt, D. J. (2009). Equasy—an overlooked addiction with implications for the current debate on drug harms. *Journal of Psychopharmacology, 23*(1), 3-5.
