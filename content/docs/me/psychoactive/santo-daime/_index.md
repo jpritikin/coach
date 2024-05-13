@@ -14,7 +14,7 @@ draft: false
 | ---------------------- | ------- |
 | [![DMT](dmt.webp)](https://en.wikipedia.org/wiki/Psychotria_viridis)       | [![Harmine](harmine.webp) ![Tetrahydroharmine](tetrahydroharmine.webp)](https://en.wikipedia.org/wiki/Banisteriopsis_caapi) |
 
-Ayahuasca is a psychoactive brew used by various indigenous groups (including pregnant women[^guimarãesdossantos2013]) in the Amazon.
+Ayahuasca is a psychoactive brew used by various indigenous groups (including pregnant women[^guimarães-dos-santos2013]) in the Amazon.
 Incorporating ayahuasca as a sacrament, Santo Daime is a syncretic religion founded in Brazil in the 1930s.
 While traditional use of ayahuasca often emphasizes individual exploration, Santo Daime emphasizes group synchrony and communitas.[^turner2012]
 I've attended Santo Daime works since Dec 2021.
@@ -177,7 +177,7 @@ Let me know if you would like to add your name here.
 [^luhrmann2020]: I want to emphasize that this is just my personal opinion. I recognized books like Luhrmann (2020).
     - Luhrmann, T. M. (2020). *How God Becomes Real: Kindling the Presence of Invisible Others.* Princeton University Press.
 
-[^guimarãesdossantos2013]: Guimarães dos Santos, R. (2013). Safety and side effects of ayahuasca in humans—an overview focusing on developmental toxicology. *Journal of Psychoactive Drugs, 45*(1), 68-78.
+[^guimarães-dos-santos2013]: Guimarães dos Santos, R. (2013). Safety and side effects of ayahuasca in humans—an overview focusing on developmental toxicology. *Journal of Psychoactive Drugs, 45*(1), 68-78.
 
 [^haridy2024]: [Ego tripping: Why do psychedelics "enlighten" some people — and make others giant narcissists?](https://www.salon.com/2024/03/08/ego-tripping-why-do-psychedelics-enlighten-some-people--and-make-others-giant-narcissists/)
 
