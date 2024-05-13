@@ -76,7 +76,7 @@ Specifically, the mass could benefit from judicious pruning.
 ### Prayers
 
 Some people seem to enjoy using prayer to communicate with a higher power, petition for help, or express gratitude.
-Perhaps I have been traumatized by placebo sacrament religions (and cults) where these activities feel fake to me.[^luhrmann2020]
+Perhaps I have been traumatized by placebo sacrament religions (and cults) where these activities feel fake to me.[^belief]
 Another possible purpose for the prayers is to teach about the inner world.
 However, [IFS]({{< relref "ifs" >}}) conveys the same information with greater precision and finesse.
 
@@ -174,7 +174,8 @@ Let me know if you would like to add your name here.
 
 [^aicher2024]: Aicher, H. D., Mueller, M. J., Dornbierer, D. A., Suay, D., Meling, D., Mueller, J., ... & Scheidegger, M. (2024). Potential therapeutic effects of an ayahuasca-inspired N, N-DMT and harmine formulation: A controlled trial in healthy subjects. *Frontiers in Psychiatry, 14*, 1302559.
 
-[^luhrmann2020]: I want to emphasize that this is just my personal opinion. I recognized books like Luhrmann (2020).
+[^belief]: I think it is important to be slightly sophisticated about what it means to be religious. I recognized books like:
+    - Carse, J. P. (2009). *The Religious Case Against Belief.* Penguin Publishing Group.
     - Luhrmann, T. M. (2020). *How God Becomes Real: Kindling the Presence of Invisible Others.* Princeton University Press.
 
 [^guimarães-dos-santos2013]: Guimarães dos Santos, R. (2013). Safety and side effects of ayahuasca in humans—an overview focusing on developmental toxicology. *Journal of Psychoactive Drugs, 45*(1), 68-78.

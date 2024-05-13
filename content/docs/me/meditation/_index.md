@@ -116,5 +116,6 @@ Check out [JP Sears](https://en.wikipedia.org/wiki/JP_Sears)'s collection of par
 [^serotonin2017]: Carhart-Harris, R. L., & Nutt, D. J. (2017). Serotonin and brain function: a tale of two receptors. *Journal of Psychopharmacology (Oxford, England), 31*(9), 1091-1120.
 
 [^grand-unified]: IFS is the grand unified theory of religion. ☀️🌜⭐ I admit my claim is a bit bombastic, but check out:
+    - Carse, J. P. (2009). *The Religious Case Against Belief.* Penguin Publishing Group.
     - Luhrmann, T. M., & Weisman, K. (2022). Porosity Is the Heart of Religion. *Current Directions in Psychological Science, 31*(3), 247-253.
     - Schwartz, R. C., & Falconer, R. (2017). *Many minds, one self: Evidence for a radical shift in paradigm.* Oak Park: Trailheads.
