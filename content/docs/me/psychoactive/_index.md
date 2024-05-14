@@ -214,7 +214,7 @@ demanding more cooperation from Parts to guide the experience.
 
 Unaided, [effortless meditation]({{< relref "effortlessness" >}}) is precarious in the sense that we can not entertain targets that prompt much Part involvement.
 This is where DMT can pick up the slack.
-DMT can facilitate Self energy in situations where Parts must exert some effort. For example, In [Santo Daime]({{< relref "Santo Daime" >}}) ceremonies, everybody is expected to sing 🎶 and dance. It seems unlikely to me that members would often enjoy much Self energy without the help of the psychedelic sacrament.
+DMT can facilitate Self energy in situations where Parts must exert some effort. For example, In [Santo Daime]({{< relref "santo-daime" >}}) ceremonies, everybody is expected to sing 🎶 and dance. It seems unlikely to me that members would often enjoy much Self energy without the help of the psychedelic sacrament.
 
 ### On Alan W. Watts 🔬
 
