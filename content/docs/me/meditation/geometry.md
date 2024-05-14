@@ -29,7 +29,7 @@ These numbers are guestimates based on the size of our brain and its reaction ti
 The brain has no intrinsic consciousness[^zombie][^sapolsky2023] but provides the user interface that we use to interact with space-time representations.[^norretranders1999]
 For example, the brain contains something like a multimodal large language model[^llm] that we use to predict and imagine.
 The brain also contains multimodal memories, just like my computer's storage device.
-This is not a Homunculus argument,[^homunculus] but we do have to accept that the here-and-now is an axiom.
+This is not a Homunculus argument,[^homunculus] but we do have to accept the here-and-now as axiomatic.
 
 ## Dark matter
 
