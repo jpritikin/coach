@@ -151,6 +151,26 @@ Psychedelics are not salubrious for everybody.
 Will psychedelics be salubrious for you?
 {{% /hint %}}
 
+### Bad trip mythology
+
+A *bad trip* refers to a distressing and challenging experience that can occur when someone takes a psychedelic substance. Characteristics of a bad trip might include:
+
+- **Intense Anxiety and Paranoia**: Individuals may feel extreme fear, unease, or paranoia. This can manifest as a sense that something terrible is about to happen or that they are in danger.
+- **Confusion and Disorientation**: A person may become very confused, unable to understand their surroundings, or unable to recognize familiar people or places. They might feel lost or trapped in their own mind.
+- **Emotional Distress**: Strong negative emotions such as sadness, hopelessness, or despair can overwhelm the individual. These emotions can feel intense and all-encompassing.
+- **Sense of Losing Control**: A person on a bad trip might feel like they are losing control over their thoughts, body, or the situation around them. This loss of control can be very frightening.
+- **Physical Discomfort**: While primarily psychological, a bad trip can also involve physical symptoms such as nausea, chills, sweating, or a racing heart.
+
+The likelihood of a bad trip is increased by many factors such as the use of too high a dosage, prior health conditions, lack of preparation, and taking psychedelics in an unsafe or unpredictable environment.
+By taking basic precautions and avoiding these known pitfalls, a bad trip becomes much less likely.
+Sensationalized accounts of the rare bad trip have made them seem far more common than they actually are.
+With a little care, you can be confident of avoiding a bad trip.
+
+A good analogy is food poisoning.
+Consuming contaminated food can lead to an unpleasant experience with nausea, indigestion, and diarrhea.
+However, people do not live in constant fear of food poisoning.
+By washing your hands thoroughly and keeping meat-borne bacteria away from raw foods like salads, the likelihood of getting sick is very low.
+
 ### Predicting your reaction 🏹
 
 Your reaction to a psychedelic strongly depends on the willingness of your Parts to get quiet.[^aday2021]
