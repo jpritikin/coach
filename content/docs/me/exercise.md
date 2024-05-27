@@ -33,6 +33,8 @@ In addition, I think it is prudent to require
 
 Although the research has not been done yet, I would also weigh facets that support group flow.[^sawyer2007]
 
+Game design is a closely related area of study.[^nguyen2020]
+
 ## Recommendations
 
 Based on the above criteria, I have identified two activities that seem particularly promising:
@@ -55,3 +57,5 @@ Hopefully inverted positions 🙃 do not increase the risk of glaucoma![^jasien2
 [^sawyer2007]: Sawyer, K. (2007). *Group genius: The creative power of collaboration.* Basic Books.
 
 [^jasien2015]: Jasien, J. V., Jonas, J. B., de Moraes, C. G., & Ritch, R. (2015). Intraocular Pressure Rise in Subjects with and without Glaucoma during Four Common Yoga Positions. *PLOS ONE, 10*(12), e0144505. https://doi.org/10.1371/journal.pone.0144505
+
+[^nguyen2020]: Nguyen, C. T. (2020). *Games: Agency as art.* Oxford University Press, USA.
