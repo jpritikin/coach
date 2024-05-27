@@ -17,6 +17,8 @@ In real life, I am highly opinionated about diverse content areas.
 This area of my website is the safe space for me to broadcast my opinions.
 {{% /hint %}}
 
+Maybe you trust me. I can help you navigate the age of hyperspecialization.[^millgram2015]
+
 ## No Secrets
 
 In my previous career,
@@ -60,3 +62,7 @@ If you do think you hear me express an opinion, I want to know about it. 🙊
 
 [![Association for Coaching](/images/ac.webp)](https://www.associationforcoaching.com)
 {.center}
+
+## Notes
+
+[^millgram2015]: Millgram, E. (2015). *The great endarkenment: Philosophy for an age of hyperspecialization.* Oxford University Press.
