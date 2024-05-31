@@ -109,10 +109,15 @@ I have first-hand experience with
 {{% columns %}}
 
 [![Limitless 2011](Limitless_Poster.webp)](https://en.wikipedia.org/wiki/Limitless_(film))
+{.center}
 
 <--->
 
 [![Hamilton’s Pharmacopeia](Pharmacopeia.webp)](https://www.vicetv.com/en_us/show/hamiltons-pharmacopeia)
+{.center}
+
+Hamilton’s Pharmacopeia
+{.center}
 
 {{% /columns %}}
 
