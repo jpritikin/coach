@@ -43,4 +43,4 @@ For example, avoid psyllium fiber (e.g., Metamucil) because it is **not** fermen
 
 ## Notes
 
-[^hu2010]: Hu, G. X., Chen, G. R., Xu, H., Ge, R. S., & Lin, J. (2010). Activation of the AMP activated protein kinase by short-chain fatty acids is the main mechanism underlying the beneficial effect of a high fiber diet on the metabolic syndrome. *Medical Hypotheses, 74*(1), 123–126. https://doi.org/10.1016/j.mehy.2009.07.022
+[^hu2010]: Hu, G. X., Chen, G. R., Xu, H., Ge, R. S., & Lin, J. (2010). Activation of the AMP activated protein kinase by short-chain fatty acids is the main mechanism underlying the beneficial effect of a high fiber diet on the metabolic syndrome. *Medical Hypotheses, 74*(1), 123–126.
