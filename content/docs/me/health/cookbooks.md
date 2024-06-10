@@ -78,6 +78,13 @@ There are disadvantages to using the ready-made condiment instead of mustard see
 
 The reason to prefer raw mustard seeds is that the [myrosinase enzymes](https://nutritionfacts.org/video/second-strategy-to-cooking-broccoli/) are deactivated by cooking.
 
+### Cooking oil
+
+The best choice is to avoid oil completely.
+However, it would be dishonest not to acknowledge that there are some recipes, made without oil, where taste is substantially compromised.
+If you decide that you're willing to use oil, which is the least harmful?
+Extra-virgin olive oil gets the hype, but canola oil might be more healthful.[^vogel2000][^pourrajab2023]
+
 ## Bibliography
 
 Campbell, K. (2015). *The PlantPure Nation Cookbook: The Official Companion Cookbook to the Breakthrough Film...with over 150 Plant-Based Recipes.* BenBella Books
@@ -91,3 +98,8 @@ Page, K. (2014). *The Vegetarian Flavor Bible: The Essential Guide to Culinary C
 ## Notes
 
 [^vanilla-extract]: [Vanilla extract](https://en.wikipedia.org/wiki/Vanilla_extract)
+
+[^vogel2000]: Vogel, R. A., Corretti, M. C., & Plotnick, G. D. (2000). The postprandial effect of components of the Mediterranean diet on endothelial function. *Journal of the American College of Cardiology, 36*(5), 1455–1460.
+
+[^pourrajab2023]: Pourrajab, B., Sharifi-Zahabi, E., Soltani, S., Shahinfar, H., & Shidfar, F. (2023). Comparison of canola oil and olive oil consumption on the serum lipid profile in adults: a systematic review and meta-analysis of randomized controlled trials. Critical reviews in food science and nutrition, 63(33), 12270–12284.
+
