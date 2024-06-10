@@ -190,7 +190,7 @@ Suppose you are curious to try a psychedelic but are not sure whether your Parts
 Which psychedelic poses the least risk to the naive user?
 {{% /hint %}}
 
-### Serotonin
+### Serotonin Overview
 
 ![Serotonin](serotonin-molecule.webp)
 {.center}
@@ -209,37 +209,41 @@ The figure below shows the function of the two main serotonin receptors.[^seroto
 Credit: Carhart-Harris & Nutt, 2017, Figure 3
 {.center}
 
-I suggest that psychedelics that target the 5-HT1A receptor pose the
-least risk to the naive user.
-Until recently, MDMA and 5-MeO-DMT were the popular psychedelics
-that seemed to modulate 5-HT1A activity.
+### Serotonin 1A
+
+I suggest that psychedelics that target the 5-HT1A receptor pose the least risk to the naive user.
+Until recently, MDMA and 5-MeO-DMT were the popular choices believed to modulate 5-HT1A activity.
 5-MeO-DMT directly modulates the 5-HT1A receptor, but MDMA influences it indirectly.
 MDMA seems to influence the 5-HT1A receptor by
 its ability to release serotonin (biology is complicated[^ray2010]).
-In any case, both MDMA and 5-MeO-DMT have disadvantages compared to
-[psilomethoxin]({{< relref "psilomethoxin-case-report" >}}).
-The disadvantage of 5-MeO-DMT is its rapid onset and come down, which can be disorienting.
-In contrast, psilomethoxin has a user-friendly gradual onset and come down.
-However, the main advantage of psilomethoxin over these other
-substances is its legal status.
-Psilomethoxin is currently unregulated and [easy to obtain]({{< relref "psilomethoxin" >}}).
+The subjective effects of these substances are more or less different, but the main advantage of [psilomethoxin]({{< relref "psilomethoxin-case-report" >}}) is that it is currently unregulated, well suited to low dosages, and [easy to obtain]({{< relref "psilomethoxin" >}}).
 
-Once there is familiarity with altered states and some confidence is
-gained in [effortless meditation]({{< relref "effortlessness" >}}) then
-I suggest the next psychedelic to try is dimethyltryptamine (DMT),
-a potent 5-HT2A agonist,
-combined with a monoamine oxidase inhibitor,
-a combination colloquially known as Daime or Ayahuasca.
-Pure vaporized DMT has an extremely rapid onset and come down.
-The monoamine oxidase inhibitor stretches out the journey to about four hours,
-with a gradual onset and come down.
-Subjectively, in contrast to psilomethoxin, DMT does not spotlight any particular emotion
-but facilitates affective unblending in a more pure or indifferent way,
-demanding more cooperation from Parts to guide the experience.
+### Cannabis
+
+Using serotonin 2A agonists carries certain risks, such as the potential to immersively relive traumatic autobiographical memories.[^healy2021]
+Cannabis, with its euphoric, relaxing, and sensitivity-enhancing effects, offers a relatively safe container.
+The simplest way to access cannabis is with Delta-8 THC tincture and CBD distillate.
+For example, take 25mg Δ8-THC and 125mg CBD, wait one hour then take 0.5g psilomethoxin.[^cannabis]
+
+{{% hint danger %}}
+Do not take THC without CBD.
+The entourage effect is real.
+The combination of THC and CBD feels completely different than either molecule ingested alone.
+{{% /hint %}}
+
+The euphoria of cannabis is both an advantage and disadvantage.
+Euphoria is great for beginners, but the greater art is in freely shaping emotion.
+Once comfortable with cannabis, I suggest transitioning to other psychedelics like Daime.
+
+### Serotonin 2A
+
+Daime or Ayahuasca, a serotonin 2A agonist, does not spotlight any particular emotion but affectively amplifies in a pure or unbiased way.
+Initial use of 5-HT1A psychedelics or cannabis can be seen as preparatory, akin to training wheels.
+If 5-HT1A is likened to vanilla ice cream, 5-HT2A offers a vast array of flavors.
 
 Unaided, [effortless meditation]({{< relref "effortlessness" >}}) is precarious in the sense that we can not entertain targets that prompt much Part involvement.
-This is where DMT can pick up the slack.
-DMT can facilitate Self energy in situations where Parts must exert some effort.
+This is where Daime can pick up the slack.
+Daime can facilitate Self energy in environments that require effortful participation.
 For example, in [Santo Daime]({{< relref "santo-daime" >}}) ceremonies, everybody is expected to sing 🎶 and dance.
 It seems unlikely to me that members would often enjoy much Self energy without the help of the psychedelic sacrament.
 
@@ -284,3 +288,7 @@ We don't have to be on a constant quest for self-improvement and there's no sham
 [^chacruna2021]: [Guide to RFRA and Best Practices for Psychedelic Plant Medicine Churches](https://chacruna.net/chacruna_guide_rfra_best_practices_psychedelic_churches/)
 
 [^equasy]: Nutt, D. J. (2009). Equasy—an overlooked addiction with implications for the current debate on drug harms. *Journal of Psychopharmacology, 23*(1), 3-5.
+
+[^healy2021]: Healy, C. J. (2021). The acute effects of classic psychedelics on memory in humans. *Psychopharmacology, 238*, 639-653.
+
+[^cannabis]: The intensity of the experience is mostly driven by the amount of Δ8-THC. I'm not sure how much CBD is required to complement the THC. Maybe the ratio could be as low as 1:1 (on a weight basis). That is, maybe only 10mg of CBD is needed for 10mg Δ8-THC, but you definitely want enough CBD and extra isn't a problem. The psilomethoxin is optional and will just help launch you into the cannabis experience. Onset of the THC effects occur about 90 min after ingestion and last for 3-4 hours.
