@@ -11,12 +11,7 @@ bookToc: false
 
 ## Free Consultation
 
-<center>
-<!-- ScheduleOnce button START -->
-<button id="SOIBTN_jpintro" style="background: #006DAF; color: #ffffff; padding: 10px 20px; border: 1px solid #c8c8c8; font: bold 14px Arial; cursor: pointer;" data-height="580" data-psz="00" data-so-page="jpintro" data-delay="1">Schedule an Appointment</button>
-<script type="text/javascript" src="https://cdn.oncehub.com/mergedjs/so.js"></script>
-<!-- ScheduleOnce button END -->
-</center>
+<center><form><input class="glowing" type="button" onclick="window.open('https://joshua-pritikin.clientsecure.me/request/service', '_blank')" value="Schedule an Appointment" /></form></center>
 
 ## Client Portal
 
