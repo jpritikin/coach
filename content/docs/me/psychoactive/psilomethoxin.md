@@ -1,6 +1,7 @@
 ---
 title: Psilomethoxin
 bookToc: true
+weight: 10
 ---
 
 # Psilomethoxin

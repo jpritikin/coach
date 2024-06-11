@@ -3,6 +3,7 @@ title: Santo Daime
 section: Psychedelics
 bookToc: true
 bookCollapseSection: true
+weight: 10
 draft: false
 ---
 

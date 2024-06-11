@@ -1,6 +1,7 @@
 ---
 title: Salvia Divinorum
 section: Psychedelics
+weight: 10
 ---
 
 # Guide to Using Salvia

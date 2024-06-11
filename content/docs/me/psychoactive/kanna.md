@@ -1,6 +1,7 @@
 ---
 title: Kanna
 bookToc: false
+weight: 10
 ---
 
 # Kanna

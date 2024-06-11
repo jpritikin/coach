@@ -123,6 +123,8 @@ Hamilton’s Pharmacopeia
 
 ## Journey Invitation 🛝
 
+Yes, [why not]({{< relref "gateway" >}})?
+
 ### Amplification
 
 Psychedelics are substances that reveal and amplify your inner experience.[^nichols2023]
@@ -192,8 +194,12 @@ Which psychedelic poses the least risk to the naive user?
 
 ### Serotonin Overview
 
+{{% columns %}}
+
 ![Serotonin](serotonin-molecule.webp)
 {.center}
+
+<--->
 
 Some of the most popular psychoactive substances operate by modulating the serotonin system.
 Serotonin is important because it is, in part, responsible for the regulation of serenity.[^olivier1990]
@@ -202,6 +208,8 @@ There are at least 14 different serotonin receptors that allow cells
 to respond in various ways to the presence of serotonin. The two most prevalent brain receptors
 are known as 1A and 2A (also called 5-HT1A and 5-HT2A).
 The figure below shows the function of the two main serotonin receptors.[^serotonin2017]
+
+{{% /columns %}}
 
 ![Serotonin](serotonin.webp)
 {.center}
