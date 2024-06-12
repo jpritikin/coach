@@ -13,11 +13,9 @@ bookToc: false
 
 <center><form><input class="glowing" type="button" onclick="window.open('https://joshua-pritikin.clientsecure.me/request/service', '_blank')" value="Schedule an Appointment" /></form></center>
 
-## Client Portal
+## Online Booking
 
-### New clients [go here](https://joshua-pritikin.clientsecure.me/request/service).
-  - Register. Schedule your first session.
-### Continuing clients [go here](https://joshua-pritikin.clientsecure.me/sign-in).
+[>>Go here<<](https://joshua-pritikin.clientsecure.me/sign-in)
 {{% hint info %}}
 {{% details "Reveal hints" %}}
   - Enter your email address to *Sign in*. There is no password. If you don't receive the email invitation to login within five minutes, check your spam folder for `simplepractice.com`.
@@ -25,11 +23,7 @@ bookToc: false
 {{% /details %}}
 {{% /hint %}}
 
-### Zoom link for clients
-
-{{% hint warning %}}
-Note: Free consultations use a different room/link.
-{{% /hint %}}
+### Zoom link
 
 [![Zoom link](zoom.webp)](https://us06web.zoom.us/j/7756484053)
 
