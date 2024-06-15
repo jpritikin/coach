@@ -177,6 +177,34 @@ Consuming contaminated food can lead to an unpleasant experience with nausea, in
 However, people do not live in constant fear of food poisoning.
 By washing your hands thoroughly and keeping meat-borne bacteria away from raw foods like salads, the likelihood of getting sick is very low.
 
+{{% columns %}}
+
+Another way to look at it is to compare the distress of a bad trip to the potential harms that law enforcement might inflict. Here are some potential harms ordered from least disruptive to most severe:
+
+Almost always, a bad trip is no worse than *arrest without prosecution*.
+
+<--->
+
+1. Stop and search
+1. Confiscation of drugs
+1. Arrest without prosecution
+1. Fines and penalties
+1. Short-term detention (e.g., overnight in jail)
+1. Criminal charges and prosecution
+1. Imprisonment
+1. Asset seizure and forfeiture
+1. Violence and abuse by law enforcement
+1. Extrajudicial actions (e.g., unlawful killings)
+
+{{% /columns %}}
+
+{{% hint info %}}
+In many cases, there exists a legal drug comparable in effect to a desired illegal drug.
+Or an illegal drug might be legal in particular contexts.
+Law enforcement is almost always the most dangerous aspect of drug use.
+For you own safety, **don't break the law.**
+{{% /hint %}}
+
 ### Predicting your reaction 🏹
 
 Your reaction to a psychedelic strongly depends on the willingness of your Parts to get quiet.[^aday2021]
@@ -195,11 +223,6 @@ Which psychedelic poses the least risk to the naive user?
 
 {{% columns %}}
 
-![Serotonin](serotonin-molecule.webp)
-{.center}
-
-<--->
-
 Some of the most popular psychoactive substances operate by modulating the serotonin system.
 Serotonin is important because it is, in part, responsible for the regulation of serenity.[^olivier1990]
 Serotonin is also known as 5-hydroxytryptamine, or abbreviated, 5-HT.
@@ -207,6 +230,11 @@ There are at least 14 different serotonin receptors that allow cells
 to respond in various ways to the presence of serotonin. The two most prevalent brain receptors
 are known as 1A and 2A (also called 5-HT1A and 5-HT2A).
 The figure below shows the function of the two main serotonin receptors.[^serotonin2017]
+
+<--->
+
+![Serotonin](serotonin-molecule.webp)
+{.center}
 
 {{% /columns %}}
 
@@ -234,7 +262,6 @@ For example, take 25mg Δ8-THC and 125mg CBD, wait one hour then take 0.5g psilo
 
 {{% hint danger %}}
 Do not take THC without CBD.
-The entourage effect is real.
 The combination of THC and CBD feels completely different than either molecule ingested alone.
 {{% /hint %}}
 
