@@ -181,7 +181,7 @@ By washing your hands thoroughly and keeping meat-borne bacteria away from raw f
 
 Another way to look at it is to compare the distress of a bad trip to the potential harms that law enforcement might inflict. Here are some potential harms ordered from least disruptive to most severe:
 
-Almost always, a bad trip is no worse than *arrest without prosecution*.
+Almost always,[^krebs2013] a bad trip is no worse than *arrest without prosecution*.
 
 <--->
 
@@ -201,7 +201,7 @@ Almost always, a bad trip is no worse than *arrest without prosecution*.
 {{% hint info %}}
 In many cases, there exists a legal drug comparable in effect to a desired illegal drug.
 Or an illegal drug might be legal in particular contexts.
-Law enforcement is almost always the most dangerous aspect of drug use.
+Law enforcement is almost always[^krebs2013] the most dangerous aspect of drug use.
 For you own safety, **don't break the law.**
 {{% /hint %}}
 
@@ -326,3 +326,6 @@ We don't have to be on a constant quest for self-improvement and there's no sham
 [^healy2021]: Healy, C. J. (2021). The acute effects of classic psychedelics on memory in humans. *Psychopharmacology, 238*, 639-653.
 
 [^cannabis]: The intensity of the experience is mostly driven by the amount of Δ8-THC. I'm not sure how much CBD is required to complement the THC. Maybe the ratio could be as low as 1:1 (on a weight basis). That is, maybe only 10mg of CBD is needed for 10mg Δ8-THC, but you definitely want enough CBD and extra isn't a problem. The psilomethoxin is optional and will just help launch you into the cannabis experience. Onset of the THC effects occur about 90 min after ingestion and last for 3-4 hours.
+
+[^krebs2013]: Anecdotal reports suggest a possible link between drug use and serious mental health problems, but it is not clear the degree to which the drug was causal. Said people might have been mentally ill prior to the drug exposure. Correlational studies find no link (Krebs, 2013).  
+    - Krebs, T. S., & Johansen, P. Ø. (2013). Psychedelics and mental health: a population study. PloS one, 8(8), e63972.
