@@ -233,12 +233,12 @@ The figure below shows the function of the two main serotonin receptors.[^seroto
 
 <--->
 
-![Serotonin](serotonin-molecule.webp)
+[![Serotonin](serotonin-molecule.webp)](https://en.wikipedia.org/wiki/Serotonin)
 {.center}
 
 {{% /columns %}}
 
-![Serotonin](serotonin.webp)
+[![Serotonin](serotonin.webp)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5606297/)
 {.center}
 
 Credit: Carhart-Harris & Nutt, 2017, Figure 3
@@ -255,6 +255,14 @@ The subjective effects of these substances are more or less different, but the m
 
 ### Cannabis
 
+{{% columns %}}
+[![Delta8](delta8thc.webp)](https://en.wikipedia.org/wiki/%CE%94-8-Tetrahydrocannabinol)
+{.center}
+<--->
+[![Cannabidiol](cbd.webp)](https://en.wikipedia.org/wiki/Cannabidiol)
+{.center}
+{{% /columns %}}
+
 Using serotonin 2A agonists carries certain risks, such as the potential to immersively relive traumatic autobiographical memories.[^healy2021]
 Cannabis, with its euphoric, relaxing, and sensitivity-enhancing effects, offers a relatively safe container.
 The simplest way to access cannabis is with Delta-8 THC tincture and CBD distillate.
@@ -267,7 +275,7 @@ The combination of THC and CBD feels completely different than either molecule i
 
 The euphoria of cannabis is both an advantage and disadvantage.
 Euphoria is great for beginners, but the greater art is in freely shaping emotion.
-Once comfortable with cannabis, I suggest transitioning to other psychedelics like Daime.
+Once comfortable with cannabis, I suggest exploring other psychedelics like Daime.
 
 ### Serotonin 2A
 
