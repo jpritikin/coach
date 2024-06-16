@@ -61,7 +61,7 @@ Storage in a refrigerator or freezer is not recommended because low temperatures
 
 Pm is sensitive to heat.
 To mix the powder with chocolate, use the lowest possible temperature.
-Even chocolate sourced from the Church of Sacred Synthesis has occasionally been found to be impotent.
+Even chocolate sourced from the Church of Sacred Synthesis has occasionally been found to be inert.
 
 ### Dosage
 
