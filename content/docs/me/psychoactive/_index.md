@@ -263,10 +263,10 @@ The subjective effects of these substances are more or less different, but the m
 {.center}
 {{% /columns %}}
 
-Using serotonin 2A agonists carries certain risks, such as the potential to immersively relive traumatic autobiographical memories.[^healy2021]
-Cannabis, with its euphoric, relaxing, and sensitivity-enhancing effects, offers a relatively safe container.
+Cannabis offers euphoric, relaxing, and sensitivity-enhancing effects.
+The main psychoactive, THC, does not bind to serotonin receptors directly, but influences their activity indirectly.
 The simplest way to access cannabis is with Delta-8 THC tincture and CBD distillate.
-For example, take 25mg Δ8-THC and 125mg CBD, wait one hour then take 0.5g psilomethoxin.[^cannabis]
+For example, take 25mg Δ8-THC and 25mg CBD, wait one hour then take 0.5g psilomethoxin.[^cannabis]
 
 {{% hint danger %}}
 Do not take THC without CBD.
@@ -333,7 +333,7 @@ We don't have to be on a constant quest for self-improvement and there's no sham
 
 [^healy2021]: Healy, C. J. (2021). The acute effects of classic psychedelics on memory in humans. *Psychopharmacology, 238*, 639-653.
 
-[^cannabis]: The intensity of the experience is mostly driven by the amount of Δ8-THC. I'm not sure how much CBD is required to complement the THC. Maybe the ratio could be as low as 1:1 (on a weight basis). That is, maybe only 10mg of CBD is needed for 10mg Δ8-THC, but you definitely want enough CBD and extra isn't a problem. The psilomethoxin is optional and will just help launch you into the cannabis experience. Onset of the THC effects occur about 90 min after ingestion and last for 3-4 hours.
+[^cannabis]: The intensity of the experience is mostly a function of the amount of THC. I'm not sure how much CBD is required to complement the THC. Maybe the ratio could be less than 1mg CBD per 1mg THC. That is, maybe only 5mg of CBD is needed for 10mg Δ8-THC, but you definitely want enough CBD and extra isn't a problem. The psilomethoxin is optional and will just help launch you into the cannabis experience. Onset of the THC effects occur about 90 min after ingestion and last for 3-5 hours.
 
 [^krebs2013]: Anecdotal reports suggest a possible link between drug use and serious mental health problems, but it is not clear the degree to which the drug was causal. Said people might have been mentally ill prior to the drug exposure. Correlational studies find no link (Krebs, 2013).  
     - Krebs, T. S., & Johansen, P. Ø. (2013). Psychedelics and mental health: a population study. PloS one, 8(8), e63972.
