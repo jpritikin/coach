@@ -14,7 +14,7 @@ bookCollapseSection: true
 In real life, I am highly opinionated about diverse content areas.
 
 {{% hint info %}}
-This area of my website is the safe space for me to broadcast my opinions.
+This area of my website is the safe space for me to broadcast my opinions. 🤓
 {{% /hint %}}
 
 Maybe you trust me. I can help you navigate the age of hyperspecialization.[^millgram2015]
