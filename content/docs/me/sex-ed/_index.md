@@ -1,6 +1,7 @@
 ---
 title: Sex Ed
 bookToc: true
+bookCollapseSection: true
 draft: false
 weight: 20
 ---
