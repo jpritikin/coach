@@ -1,6 +1,7 @@
 ---
 title: Sex Ed
 bookToc: true
+bookCollapseSection: true
 draft: false
 weight: 20
 ---
@@ -102,6 +103,8 @@ Morin, J. (1996). *The Erotic Mind: Unlocking the Inner Sources of Passion and F
 
 Shah, R., & Davis, B. (2020). *Nourish: The Definitive Plant-Based Nutrition Guide for Families--With Tips & Recipes for Bringing Health, Joy, & Connection to Your Dinner Table.* Simon and Schuster.
 
+[Have kids?]({{< relref "kids" >}})
+
 ### Pregnancy
 
 Check out [Dr. Greger's recommendations](https://nutritionfacts.org/topics/pregnancy/)!
@@ -109,10 +112,6 @@ Check out [Dr. Greger's recommendations](https://nutritionfacts.org/topics/pregn
 What to eat during late pregnancy, labor, and delivery?[^dates]
 
 ### Parenting
-
-{{% details "It's simple." %}}
-Do you own work. If you're in a great state of mind then you can improvise great solutions to any parenting challenge. ䷤
-{{% /details %}}
 
 Kearney, M. S. (2023). *The Two-Parent Privilege: How Americans Stopped Getting Married and Started Falling Behind.* University of Chicago Press.  
 [Oct 5, 2023 Interview](https://www.youtube.com/watch?v=JRjMnH-4cYo)
