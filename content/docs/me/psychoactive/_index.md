@@ -122,7 +122,7 @@ Hamilton’s Pharmacopeia
 
 ## Journey Invitation 🛝
 
-Yes, [why not]({{< relref "gateway" >}})?
+I promote drug use. [Why shouldn't I?]({{< relref "gateway" >}})
 
 ### Amplification
 
