@@ -56,6 +56,7 @@ There are a lot of options to approach a milky flavor using plant-based ingredie
 - Cauliflower
 - Coconut flour
 - Oats
+- Tapioca
 
 ### Vanilla flavor
 
