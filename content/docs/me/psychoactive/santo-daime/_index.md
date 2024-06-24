@@ -152,6 +152,10 @@ However, placebo sacrament baptism seems like a confused practice.
 We have Daime.
 Daime is sufficient to consummate baptism.
 
+**On the other hand:** What's wrong with a confused practice?
+Daime is a trickster.
+If people want water baptism, why not?
+
 ### Co-signers 🖋️
 
 {{% columns %}}
