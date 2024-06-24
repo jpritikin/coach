@@ -122,7 +122,7 @@ Just say "no" to smudging. 🧯 🚭
 
 ### Ginger 🫚
 
-Some ayahuasca traditions regard purging (i.e., vomito) as necessary and even powerful part of the healing process.
+Some ayahuasca traditions regard purging as necessary and even powerful part of the healing process.
 Some even add emetic agents to the brew![^beyer2008]
 
 - **Physical Cleansing**: Many traditions view purging as a crucial element of physical cleansing, eliminating negative energies, toxins, and blockages from the body, allowing for deeper spiritual and emotional healing.
@@ -134,6 +134,13 @@ If some traditions use an emetic, why not offer an optional antiemetic in Santo 
 Why not make ginger capsules[^marx2015] available?
 Or pharmauasca?[^aicher2024]
 Or ondansetron (if not pregnant[^picot2020])?
+
+### Cannabis
+
+There is some precedent for the use of cannabis in the Santo Daime tradition.[^macrae1998]
+I suggest ingesting 25mg Δ8-THC and 25mg CBD about two hours before the work commences.
+This low dose would help ease the experience during the first serving of Daime.
+As a bonus, cannabis is also an antiemetic.
 
 ### Baptism 🌊
 
@@ -193,3 +200,5 @@ Let me know if you would like to add your name here.
     - Muraresku, B. C. (2020). *The Immortality Key: The Secret History of the Religion with No Name.* St. Martin's Press.
 
 [^picot2020]: Picot, C., Berard, A., Grenet, G., Ripoche, E., Cucherat, M., & Cottin, J. (2020). Risk of malformation after ondansetron in pregnancy: An updated systematic review and meta‐analysis. *Birth Defects Research, 112*(13), 996-1013.
+
+[^macrae1998]: MacRae, E. (1998). Santo Daime and Santa Maria–The licit ritual use of ayabuasca and the illicit use of cannabis in a Brazilian Amazonian religion. *International Journal of Drug Policy, 9*(5), 325-338.
