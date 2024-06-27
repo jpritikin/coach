@@ -96,7 +96,7 @@ However, the most comprehensive model comes from "Intimacy from the Inside Out,"
 These proven techniques foster deep connection between partners in a couple;
 they are equally effective in the parent-child relationship.
 The aim?
-Communion,[^cohen2002] available when parent and child each voluntarily step back from Parts-driven behavior.
+Communion via play,[^cohen2002] available when parent and child each voluntarily step back from Parts-driven behavior.
 
 ### Navigation
 
