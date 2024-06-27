@@ -146,8 +146,15 @@ As another data point, according to the [2024 Mar 07 defamation lawsuit](https:/
 
 > 85. On or about September 2021, the first batch of Sacred Psilomethoxin mushrooms were created. Within a few days of creating the first batch, approximately ten highly experienced entheogen-based religious practitioners sampled the new sacred mushrooms by engaging in a three day “dieta.” At the end of this sacred process, all agreed the effects of the new Sacraments were similar to what a 4-hydroxylated version of 5-MEO-DMT would produce and was similar to a very weak, orally available, longer-acting form of 5-MEO-DMT.
 
+### Hikrodose
+
+A group might plan a *hikrodose* that consists of consuming Pm and then hiking through nature together.[^hikrodose]
+With a dose of 1g or less, you may not feel anything unusual during the hike.
+If you time the hike to conclude about 90 minutes after ingestion then you will likely be well placed to enjoy the remainder of the Pm effects as you rest.
+
+### Setting
+
 Whereas I recommend starting with a boring environment, it is also interesting to experiment with various activities:
-- A group might plan a *hikrodose* that consists of consuming a microdose and then hiking through nature together.[^hikrodose]
 - Tour museums
 - Receive a massage, cuddling
 - Physical activities (e.g., lift weights, hatha yoga, dance)
@@ -155,6 +162,10 @@ Whereas I recommend starting with a boring environment, it is also interesting t
 - Play video games
 - Go beyond boring environments with formal [meditation]({{< ref "/docs/me/meditation" >}}).
 - Pm is well suited to [psycholytic](https://en.wikipedia.org/wiki/Psychedelic_therapy#Psycholytic_therapy) use in concert with talk therapy. IFS therapists are experimenting with using Pm in the therapist role. Pm might also be used by the client, or by both the therapist and client simultaneously.
+
+### Cannabis
+
+It's a great combo. Explore.
 
 ## Notes
 
