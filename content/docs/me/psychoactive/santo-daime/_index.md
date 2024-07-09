@@ -186,7 +186,8 @@ Let me know if you would like to add your name here.
 
 [^aicher2024]: Aicher, H. D., Mueller, M. J., Dornbierer, D. A., Suay, D., Meling, D., Mueller, J., ... & Scheidegger, M. (2024). Potential therapeutic effects of an ayahuasca-inspired N, N-DMT and harmine formulation: A controlled trial in healthy subjects. *Frontiers in Psychiatry, 14*, 1302559.
 
-[^belief]: I think it is important to be slightly sophisticated about what it means to be religious. I recognized books like:
+[^belief]: I think it is important to be slightly sophisticated about what it means to be religious. For example:
+    - [Derren Brown: Fear and Faith (2012)](https://youtu.be/6_xHXp1q8pU?list=PLAZ27CqbEinYIjCH-pbpkdvXG4fh-I7hA)
     - Carse, J. P. (2009). *The Religious Case Against Belief.* Penguin Publishing Group.
     - Luhrmann, T. M. (2020). *How God Becomes Real: Kindling the Presence of Invisible Others.* Princeton University Press.
 
