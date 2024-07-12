@@ -96,7 +96,7 @@ However, the most comprehensive model comes from "Intimacy from the Inside Out,"
 These proven techniques foster deep connection between partners in a couple;
 they are equally effective in the parent-child relationship.
 The aim?
-Communion via play,[^cohen2002] available when parent and child each voluntarily step back from Parts-driven behavior.
+Communion via play,[^cohen2002][^cohen2013] available when parent and child each voluntarily step back from Parts-driven behavior.
 
 ### Navigation
 
@@ -135,5 +135,7 @@ The argument for having children is hard to understand ... until we focus on the
 [^kim2021]: Kim, S. H., Baek, M., & Park, S. (2021). Association of parent–child experiences with insecure attachment in adulthood: A systematic review and meta‐analysis. *Journal of Family Theory & Review, 13*(1), 58-76.
 
 [^cohen2002]: Cohen, L. J. (2002). *Playful Parenting.* Ballantine Books.
+
+[^cohen2013]: Cohen, L. J. (2013). *The Opposite of Worry: The Playful Parenting Approach to Childhood Anxieties and Fears.* Ballantine Books.
 
 [^hill2019]: Hill, S. (2019). *This is your brain on birth control: The surprising science of women, hormones, and the law of unintended consequences.* Penguin.  
