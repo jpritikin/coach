@@ -46,21 +46,17 @@ I use **Internal Family Systems** (IFS). IFS is an [evidence-based](https://www.
 
 ## Education
 
-{{% details "Internal Family Systems" %}}
-- Regular consultation with
-  - [Andrea Nus](https://fullhearttherapy.com/) 💐️, IFS-Certified Therapist, IFIO Staff
-  - [Kelly Kreutz](https://kellykreutz.com) 💐️, IFS-Certified Therapist, Approved IFS Clinical Consultant (>10 hours)
-- IFS and Past Lives with Bob Falconer, Feb 2024
-- [Common Stuck Points Using the IFS Model](https://burriscounseling.com/), Dec 2023
-- IFIO Advanced Training: Sexuality Matters, Nov 2023
-- Attendee at the 2023 IFS Conference in Denver CO
-- [Creating Healing Circles](https://burriscounseling.com): Using the IFS Model in Group Therapy, Aug 2023  
-- [Intimacy from the Inside Out](https://www.toniherbineblank.com/trainings.html) (IFIO) relationship therapy Basic Training (IFS Level 2), Jun 2023
-- IFS Level 1, Nov 2022 🍀🚀
-- [IFS Continuity Program](https://learn.ifs-institute.com/ifs-continuity-program/) subscriber since Sep 2022.
-- Working toward [IFS Certification](https://ifs-institute.com/trainings/ifs-certification).
-- Past consultation with
-  - [Liz Phillips](http://www.lizphillipstherapy.ca/) 💐️, IFS-Certified Therapist, Approved IFS Clinical Consultant, IFIO Senior Staff (5 hours)
+{{% details "Internal Family Systems (Certified, Level 2)" %}}
+| Date | Description |
+|------|-------------|
+| 2024 Jul | [IFS Certified Practitioner]({{< relref "certification" >}}) |
+| 2024 Feb | IFS and Past Lives with Bob Falconer |
+| 2023 Dec | [Common Stuck Points](https://burriscounseling.com/) |
+| 2023 Nov | IFIO Advanced Training: Sexuality Matters |
+| 2023 Aug | [Creating Healing Circles](https://burriscounseling.com): Using the IFS Model in Group Therapy |
+| 2023 Jun | [Intimacy from the Inside Out](https://www.toniherbineblank.com/trainings.html) (IFIO) relationship therapy Basic Training (IFS Level 2) |
+| 2022 Nov | IFS Level 1 🍀🚀 |
+| 2022 Sep to present | [IFS Continuity Program](https://learn.ifs-institute.com/ifs-continuity-program/) |
 {{% /details %}}
 {{% details "Meditation, more than 30 years 🧘🏻‍♂️" %}}
 - Check out my [2023 article on meditation](https://partsandself.org/ifs-and-meditation/) published in the IFS magazine PARTS & SELF!
