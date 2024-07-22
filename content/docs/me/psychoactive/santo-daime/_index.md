@@ -32,6 +32,27 @@ In contrast, entitlement and arrogance are a risk when intention is limited to i
 The group experience is a hugely significant innovation.
 If your experience of psychedelics is only individual exploration then you have not had a chance to appreciate their full transformative potential.
 
+### Dieta / Diet
+
+Santo Daime adheres to the common dietary recommendations for ayahuasca. While these guidelines can vary, they typically include:
+
+- **Avoid**: Salt, sugar and sweeteners, spicy foods, red meat, pork, aged cheeses, fermented foods
+- **Reduce**: Dairy products; oils and fats; processed foods
+- **Focus on**: Plain, simple foods; fruits and vegetables; whole grains; small amounts of fish or chicken (if desired)
+
+This diet is usually suggested to begin 1-2 weeks before the ceremony.
+
+#### Commentary
+
+These recommendations largely align with a [whole food plant-based diet]({{< relref "health" >}}).
+In addition, tyramine should be avoided due to potentially dangerous interactions.[^weiss2018]
+However, the issue is not just tyramine.
+Protein consumption affects the pharmacodynamics of Daime.
+Instead of experiencing a pleasantly strong subjective effect for about two hours, protein buffers the force of the Daime.
+Consequently, participants may feel little (mostly sober) for most of the time, followed by an unpleasantly strong, brief burst of Daime after 1-2 hours.
+Both animal and plant proteins are equally potent in interfering with Daime.
+To mitigate this effect, it's only necessary to minimize protein intake about 8-12 hours prior to the ceremony.
+
 ### Lyrics
 
 Lyrics facilitate precise synchronization among the group, not just physically and physiologically but in the imaginal space.
@@ -207,3 +228,5 @@ Let me know if you would like to add your name here.
 [^picot2020]: Picot, C., Berard, A., Grenet, G., Ripoche, E., Cucherat, M., & Cottin, J. (2020). Risk of malformation after ondansetron in pregnancy: An updated systematic review and meta‐analysis. *Birth Defects Research, 112*(13), 996-1013.
 
 [^macrae1998]: MacRae, E. (1998). Santo Daime and Santa Maria–The licit ritual use of ayabuasca and the illicit use of cannabis in a Brazilian Amazonian religion. *International Journal of Drug Policy, 9*(5), 325-338.
+
+[^weiss2018]: [Everything You Need to Avoid Before You Take Ayahuasca](https://www.vice.com/en/article/pawkek/what-not-to-eat-or-take-before-ayahuasca)
