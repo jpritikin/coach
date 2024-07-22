@@ -139,8 +139,12 @@ Or ondansetron (if not pregnant[^picot2020])?
 
 There is some precedent for the use of cannabis in the Santo Daime tradition.[^macrae1998]
 I suggest ingesting 25mg Δ8-THC and 25mg CBD about two hours before the work commences.
-This low dose would help ease the experience during the first serving of Daime.
+This low dose may help ease the experience during the first serving of Daime.
 As a bonus, cannabis is also an antiemetic.
+
+**On the other hand:** Cannabis interferes with the profound impartiality of Daime.
+Perhaps cannabis is best regarded like training wheels for Daime novices.
+Daime is best when not combined with other psychoactive substances.
 
 ### Baptism 🌊
 
