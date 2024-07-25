@@ -16,11 +16,18 @@ Mencken defined Puritanism as "the haunting fear that someone, somewhere, might 
 
 ## Democracy
 
+- https://electionscience.org/
 - https://equalcitizens.us/
 - https://www.starvoting.org/
 - https://www.nationalpopularvote.com/
 - https://www.citizen.org/
 - https://www.demnext.org/
+
+## Access to Knowledge
+
+- https://scihub.help/
+- [The Harmful Impact of (Amazon) Audible Exclusive Audiobooks](https://blog.libro.fm/the-harmful-impact-of-audible-exclusive-audiobooks/)
+- https://www.ethswarm.org/
 
 ## Criminal Justice
 
