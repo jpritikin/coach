@@ -113,6 +113,8 @@ What to eat during late pregnancy, labor, and delivery?[^dates]
 
 ### Parenting
 
+[Hand in Hand Parenting](https://www.handinhandparenting.org/)
+
 Kearney, M. S. (2023). *The Two-Parent Privilege: How Americans Stopped Getting Married and Started Falling Behind.* University of Chicago Press.  
 [Oct 5, 2023 Interview](https://www.youtube.com/watch?v=JRjMnH-4cYo)
 
