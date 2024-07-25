@@ -35,6 +35,10 @@ Remember, poly-paternity isn't about neglecting responsibilities—it's about sh
 
 Join the poly-paternity revolution today and embrace the future of fatherhood!
 
+## Charting a Path
+
+![Relationship path](relpath.svg)
+
 ## Notes
 
 [^pettay2023]: Pettay, J. E., Danielsbacka, M., Helle, S., Perry, G., Daly, M., & Tanskanen, A. O. (2023). Parental Investment by Birth Fathers and Stepfathers: Roles of Mating Effort and Childhood Co-residence Duration. *Human Nature, 34*(2), 276-294.
