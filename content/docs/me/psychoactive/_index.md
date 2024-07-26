@@ -124,6 +124,54 @@ Hamilton’s Pharmacopeia
 
 I promote drug use. [Why shouldn't I?]({{< relref "gateway" >}})
 
+### Bad trip mythology
+
+A *bad trip* refers to a distressing and challenging experience that can occur when someone takes a psychedelic substance. Characteristics of a bad trip might include:
+
+- **Intense Anxiety and Paranoia**: Individuals may feel extreme fear, unease, or paranoia. This can manifest as a sense that something terrible is about to happen or that they are in danger.
+- **Confusion and Disorientation**: A person may become very confused, unable to understand their surroundings, or unable to recognize familiar people or places. They might feel lost or trapped in their own mind.
+- **Emotional Distress**: Strong negative emotions such as sadness, hopelessness, or despair can overwhelm the individual. These emotions can feel intense and all-encompassing.
+- **Sense of Losing Control**: A person on a bad trip might feel like they are losing control over their thoughts, body, or the situation around them. This loss of control can be very frightening.
+- **Physical Discomfort**: While primarily psychological, a bad trip can also involve physical symptoms such as nausea, chills, sweating, or a racing heart.
+
+The likelihood of a bad trip is increased by many factors such as the use of too high a dosage, prior health conditions, lack of preparation, and taking psychedelics in an unsafe or unpredictable environment.
+By taking basic precautions and avoiding these known pitfalls, a bad trip becomes much less likely.
+Sensationalized accounts of the rare bad trip have made them seem far more common than they actually are.
+With a little care, you can be confident of avoiding a bad trip.
+
+A good analogy is food poisoning.
+Consuming contaminated food can lead to an unpleasant experience with nausea, indigestion, and diarrhea.
+However, people do not live in constant fear of food poisoning.
+By washing your hands thoroughly and keeping meat-borne bacteria away from raw foods like salads, the likelihood of getting sick is very low.
+
+{{% columns %}}
+
+Another way to look at it is to compare the distress of a bad trip to the potential harms that law enforcement might inflict. Here are some potential harms ordered from least disruptive to most severe:
+
+Almost always,[^krebs2013] a bad trip is no worse than *arrest without prosecution*.🔒
+
+<--->
+
+1. Stop and search
+1. Confiscation of drugs
+1. Arrest without prosecution
+1. Fines and penalties
+1. Short-term detention (e.g., overnight in jail)
+1. Criminal charges and prosecution
+1. Imprisonment
+1. Asset seizure and forfeiture
+1. Violence and abuse by law enforcement
+1. Extrajudicial actions (e.g., unlawful killings)
+
+{{% /columns %}}
+
+{{% hint info %}}
+In many cases, there exists a legal drug comparable in effect to a desired illegal drug.
+Or an illegal drug might be legal in particular contexts.
+Law enforcement is almost always[^krebs2013] the most dangerous aspect of drug use.
+For you own safety, **don't break the law.** 🚫
+{{% /hint %}}
+
 ### Amplification
 
 Psychedelics are substances that reveal and amplify your inner experience.[^nichols2023]
@@ -157,54 +205,6 @@ Psychedelics are not salubrious for everybody.
 Will psychedelics be salubrious for you?
 {{% /hint %}}
 
-### Bad trip mythology
-
-A *bad trip* refers to a distressing and challenging experience that can occur when someone takes a psychedelic substance. Characteristics of a bad trip might include:
-
-- **Intense Anxiety and Paranoia**: Individuals may feel extreme fear, unease, or paranoia. This can manifest as a sense that something terrible is about to happen or that they are in danger.
-- **Confusion and Disorientation**: A person may become very confused, unable to understand their surroundings, or unable to recognize familiar people or places. They might feel lost or trapped in their own mind.
-- **Emotional Distress**: Strong negative emotions such as sadness, hopelessness, or despair can overwhelm the individual. These emotions can feel intense and all-encompassing.
-- **Sense of Losing Control**: A person on a bad trip might feel like they are losing control over their thoughts, body, or the situation around them. This loss of control can be very frightening.
-- **Physical Discomfort**: While primarily psychological, a bad trip can also involve physical symptoms such as nausea, chills, sweating, or a racing heart.
-
-The likelihood of a bad trip is increased by many factors such as the use of too high a dosage, prior health conditions, lack of preparation, and taking psychedelics in an unsafe or unpredictable environment.
-By taking basic precautions and avoiding these known pitfalls, a bad trip becomes much less likely.
-Sensationalized accounts of the rare bad trip have made them seem far more common than they actually are.
-With a little care, you can be confident of avoiding a bad trip.
-
-A good analogy is food poisoning.
-Consuming contaminated food can lead to an unpleasant experience with nausea, indigestion, and diarrhea.
-However, people do not live in constant fear of food poisoning.
-By washing your hands thoroughly and keeping meat-borne bacteria away from raw foods like salads, the likelihood of getting sick is very low.
-
-{{% columns %}}
-
-Another way to look at it is to compare the distress of a bad trip to the potential harms that law enforcement might inflict. Here are some potential harms ordered from least disruptive to most severe:
-
-Almost always,[^krebs2013] a bad trip is no worse than *arrest without prosecution*.
-
-<--->
-
-1. Stop and search
-1. Confiscation of drugs
-1. Arrest without prosecution
-1. Fines and penalties
-1. Short-term detention (e.g., overnight in jail)
-1. Criminal charges and prosecution
-1. Imprisonment
-1. Asset seizure and forfeiture
-1. Violence and abuse by law enforcement
-1. Extrajudicial actions (e.g., unlawful killings)
-
-{{% /columns %}}
-
-{{% hint info %}}
-In many cases, there exists a legal drug comparable in effect to a desired illegal drug.
-Or an illegal drug might be legal in particular contexts.
-Law enforcement is almost always[^krebs2013] the most dangerous aspect of drug use.
-For you own safety, **don't break the law.**
-{{% /hint %}}
-
 ### Predicting your reaction 🏹
 
 Your reaction to a psychedelic strongly depends on the willingness of your Parts to get quiet.[^aday2021]
@@ -218,6 +218,46 @@ Suppose you are curious to try a psychedelic but are not sure whether your Parts
 {{% hint info %}}
 Which psychedelic poses the least risk to the naive user?
 {{% /hint %}}
+
+### Cannabinoids
+
+I agree with the cliche that cannabis is the quintessential gateway drug.
+However, cannabis is not a [gateway to harm]({{< relref "gateway" >}}),
+but to health-promoting and life-affirming experiences.
+Medicinal use of cannabis dates back at least 5,000 years.
+Delta-9 tetrahydrocannabinol (THC) is the primary psychoactive in cannabis.
+Commonly reported effects of THC include relaxation, euphoria, increased appetite, pain reduction, drowsiness, and occasionally, anxiety.
+
+The 2018 Farm Bill legalized hemp-derived cannabinoids in the United States.
+While hemp, cannabis, and marijuana are botanically the same species, legal distinctions remain, with Delta-9 THC still prohibited since the [Boggs Act of 1952](https://en.wikipedia.org/wiki/Boggs_Act_of_1951).
+The recent legalization of hemp-based cannabinoids spurred renewed interest in Delta-9 THC alternatives.
+Delta-8 THC, first isolated in the 1940s by chemist Roger Adams, offers effects similar to traditional Delta-9 THC but with less anxiety.
+You might start with 25 mg each of Δ8-THC and CBD.
+
+{{% columns %}}
+[![Delta8](delta8thc.webp)](https://en.wikipedia.org/wiki/%CE%94-8-Tetrahydrocannabinol)
+{.center}
+<--->
+[![Cannabidiol](cbd.webp)](https://en.wikipedia.org/wiki/Cannabidiol)
+{.center}
+{{% /columns %}}
+
+The intensity of the experience is mostly a function of the amount of THC.
+I'm not sure how much CBD is required to complement the THC.
+Maybe the ratio could be less than 1 mg CBD per 1 mg THC, but 0.5 mg CBD per 1 mg of Δ8-THC is not enough.
+You definitely want enough CBD and extra isn't a problem.
+One way to administer cannabis is to hold the liquid under the tongue (i.e., sublingual method), but you'll probably swallow most of it.
+Onset of the effects of swallowed cannabis occur about 90 min after ingestion and last for 3-5 hours.
+Tolerance half-life seems to be about two days.
+
+{{% hint danger %}}
+Do not take THC without CBD.
+The combination of THC and CBD feels completely different than either molecule ingested alone.
+{{% /hint %}}
+
+The euphoria induced by cannabis is both a benefit and a potential limitation.
+While euphoria may be appealing to beginners, the greater art is in exploring a fuller spectrum 🌈 of emotion.
+Once comfortable with cannabis, I suggest exploring serotonergic psychedelics.
 
 ### Serotonin Overview
 
@@ -253,30 +293,6 @@ MDMA seems to influence the 5-HT1A receptor by
 its ability to release serotonin (biology is complicated[^ray2010]).
 The subjective effects of these substances are more or less different, but the main advantage of [psilomethoxin]({{< relref "psilomethoxin-case-report" >}}) is that it is currently unregulated, well suited to low dosages, and [easy to obtain]({{< relref "psilomethoxin" >}}).
 
-### Cannabis
-
-{{% columns %}}
-[![Delta8](delta8thc.webp)](https://en.wikipedia.org/wiki/%CE%94-8-Tetrahydrocannabinol)
-{.center}
-<--->
-[![Cannabidiol](cbd.webp)](https://en.wikipedia.org/wiki/Cannabidiol)
-{.center}
-{{% /columns %}}
-
-Cannabis offers euphoric, relaxing, and sensitivity-enhancing effects.
-The main psychoactive, THC, does not bind to serotonin receptors directly, but influences their activity indirectly.
-The simplest way to access cannabis is with a Delta-8 THC infusion and CBD distillate.
-For example, take 25mg Δ8-THC and 25mg CBD, wait one hour then take 0.5g psilomethoxin.[^cannabis]
-
-{{% hint danger %}}
-Do not take THC without CBD.
-The combination of THC and CBD feels completely different than either molecule ingested alone.
-{{% /hint %}}
-
-The euphoria of cannabis is both an advantage and disadvantage.
-Euphoria is great for beginners, but the greater art is in freely shaping emotion.
-Once comfortable with cannabis, I suggest exploring other psychedelics like Daime.
-
 ### Serotonin 2A
 
 Daime or Ayahuasca, a serotonin 2A agonist, does not spotlight any particular emotion but affectively amplifies in a pure or unbiased way.
@@ -301,7 +317,7 @@ Like a breathtaking vista, it may not need analysis, just appreciation.
 Embracing this beauty with open arms isn't a failure to "get the message" – it's a form of wisdom.
 We don't have to be on a constant quest for self-improvement and there's no shame in seeking [help]({{< relref "effortlessness" >}}/#beyond-your-ability-a-helping-hand) to taste the heights of beauty. 🌺
 
-### Self-evaluation / bucket list
+### Self-evaluation 🗹 / bucket list 🪣
 
 - Tried more than 1g psilomethoxin?
 - Currently, or in the past, indicted on a drug-related offense?
@@ -344,8 +360,6 @@ Share your results with a friend.
 [^equasy]: Nutt, D. J. (2009). Equasy—an overlooked addiction with implications for the current debate on drug harms. *Journal of Psychopharmacology, 23*(1), 3-5.
 
 [^healy2021]: Healy, C. J. (2021). The acute effects of classic psychedelics on memory in humans. *Psychopharmacology, 238*, 639-653.
-
-[^cannabis]: The intensity of the experience is mostly a function of the amount of THC. I'm not sure how much CBD is required to complement the THC. Maybe the ratio could be less than 1mg CBD per 1mg THC, but 0.5mg CBD per 1mg of Δ8-THC is not enough. You definitely want enough CBD and extra isn't a problem. The psilomethoxin is optional and will just help launch you into the cannabis experience. One way to administer cannabis is to hold the liquid under the tongue (i.e., sublingual method). Onset of the effects of swallowed cannabis occurs about 90 min after ingestion and last for 3-5 hours. Tolerance half-life seems to be about two days.
 
 [^krebs2013]: Anecdotal reports suggest a possible link between drug use and serious mental health problems, but it is not clear the degree to which the drug was causal. Said people might have been mentally ill prior to the drug exposure. Correlational studies find no link (Krebs, 2013).  
     - Krebs, T. S., & Johansen, P. Ø. (2013). Psychedelics and mental health: a population study. PloS one, 8(8), e63972.

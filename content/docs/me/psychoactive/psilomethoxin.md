@@ -111,6 +111,13 @@ Don't use Pm more than once per day;
 to get familiar with the substance, you want to feel the subjective effects from the peak all the way through the afterglow and back to baseline.
 The mild lingering afterglow can last for 3-12 hours.[^pharmacodynamics]
 
+### Caveat
+
+Pm is generally manageable for individuals with [meditation]({{< relref "meditation" >}}) experience.
+However, those unfamiliar with introspective practices may find it challenging.
+Lack of experience in self-reflection can result in uncomfortably vivid sensory experiences, such as heightened sensitivity to sound or touch.
+For an easier introduction, go for a [hikrodose](#hikrodose) or coadminister with cannabis.
+
 ### Set & Setting
 
 The subjective effects of Pm are not like coffee.
@@ -124,8 +131,6 @@ To sensitize yourself to the effects of Pm, select a boring environment.
 You might go for a walk in the park during the first hour of the journey, but after that, you should sit down somewhere isolated.
 Find an environment where you can test whether you can still feel boredom.
 If you are a restless impatient person, this is actually an advantage because it will be easier to notice when you cannot feel boredom.
-If you feel more awareness of a more vivid sensory experience then you are holding the wrong end of the stick.
-[Coax your attention inside]({{< relref "senses" >}}).
 
 ![interpolate](interpolate.svg)
 
