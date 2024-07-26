@@ -26,13 +26,11 @@ The gateway drug theory intersects with broader social attitudes that often fram
 
 ## Barriers to Support and Treatment
 
-From a public health perspective, the focus on gateway drugs and the associated stigma can be counterproductive. It often overshadows the need for comprehensive drug education, harm reduction strategies, and accessible treatment options. The stigma associated with the gateway drug theory can deter individuals from seeking help or discussing their drug use openly. This reluctance to seek help can lead to a lack of support and resources for those who need it most, potentially exacerbating health and social problems associated with problematic drug use.
+From a public health perspective, promotion of the gateway drug stigma is counterproductive. It often overshadows the need for comprehensive drug education, harm reduction strategies, and accessible treatment options. The stigma can deter individuals from seeking help or discussing their drug use openly. This reluctance to seek help can lead to a lack of support and resources for those who need it most, potentially exacerbating health and social problems associated with problematic drug use.
 
 ## Towards a Nuanced Approach
 
-While the gateway drug theory aimed to prevent drug use, its overly simplistic narrative has contributed to stigma and misunderstanding. A more effective approach to drug education, prevention, and treatment requires moving beyond this model to address the complexities of drug use.
-
-This could involve:
+While the gateway drug theory aimed to prevent drug use, its overly simplistic narrative has contributed to misunderstanding. A more effective approach to drug education, prevention, and treatment requires moving beyond this model. This could involve:
 
 1. Implementing evidence-based drug education programs that provide accurate, non-judgmental information.
 2. Focusing on harm reduction strategies that prioritize health and safety over abstinence-only approaches.

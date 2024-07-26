@@ -68,7 +68,7 @@ certainly, five or eight years, an openness to  recognizing that the War on Drug
 and that criminalizing drug users is basically  negative and it's promoting structural racism. 
 {{% /details %}}
 
-{{% details "Show me research on drug harms in the UK" %}}
+{{% details "Drug harms in the UK by substance" %}}
 
 ![Drug harms](nutt-2010-fig2.png)
 
@@ -146,7 +146,7 @@ By washing your hands thoroughly and keeping meat-borne bacteria away from raw f
 
 {{% columns %}}
 
-Another way to look at it is to compare the distress of a bad trip to the potential harms that law enforcement might inflict. Here are some potential harms ordered from least disruptive to most severe:
+Another way to look at it is to compare the distress of a bad trip to the potential harms from law enforcement. Here are some potential harms ordered from least disruptive to most severe:
 
 Almost always,[^krebs2013] a bad trip is no worse than *arrest without prosecution*.🔒
 
@@ -222,8 +222,8 @@ Which psychedelic poses the least risk to the naive user?
 ### Cannabinoids
 
 I agree with the cliche that cannabis is the quintessential gateway drug.
-However, cannabis is not a [gateway to harm]({{< relref "gateway" >}}),
-but to health-promoting and life-affirming experiences.
+However, cannabis need not be a [gateway to harm]({{< relref "gateway" >}}),
+but can assist in health-promoting and life-affirming experiences.
 Medicinal use of cannabis dates back at least 5,000 years.
 Delta-9 tetrahydrocannabinol (THC) is the primary psychoactive in cannabis.
 Commonly reported effects of THC include relaxation, euphoria, increased appetite, pain reduction, drowsiness, and occasionally, anxiety.
@@ -232,6 +232,7 @@ The 2018 Farm Bill legalized hemp-derived cannabinoids in the United States.
 While hemp, cannabis, and marijuana are botanically the same species, legal distinctions remain, with Delta-9 THC still prohibited since the [Boggs Act of 1952](https://en.wikipedia.org/wiki/Boggs_Act_of_1951).
 The recent legalization of hemp-based cannabinoids spurred renewed interest in Delta-9 THC alternatives.
 Delta-8 THC, first isolated in the 1940s by chemist Roger Adams, offers effects similar to traditional Delta-9 THC but with less anxiety.
+Best of all, Δ8-THC can be produced legally from hemp.
 You might start with 25 mg each of Δ8-THC and CBD.
 
 {{% columns %}}
@@ -259,7 +260,7 @@ The euphoria induced by cannabis is both a benefit and a potential limitation.
 While euphoria may be appealing to beginners, the greater art is in exploring a fuller spectrum 🌈 of emotion.
 Once comfortable with cannabis, I suggest exploring serotonergic psychedelics.
 
-### Serotonin Overview
+### Serotonin
 
 {{% columns %}}
 
@@ -284,16 +285,15 @@ The figure below shows the function of the two main serotonin receptors.[^seroto
 Credit: Carhart-Harris & Nutt, 2017, Figure 3
 {.center}
 
-### Serotonin 1A
+#### Serotonin 1A
 
-I suggest that psychedelics that target the 5-HT1A receptor pose the least risk to the naive user.
 Until recently, MDMA and 5-MeO-DMT were the popular choices believed to modulate 5-HT1A activity.
 5-MeO-DMT directly modulates the 5-HT1A receptor, but MDMA influences it indirectly.
 MDMA seems to influence the 5-HT1A receptor by
 its ability to release serotonin (biology is complicated[^ray2010]).
 The subjective effects of these substances are more or less different, but the main advantage of [psilomethoxin]({{< relref "psilomethoxin-case-report" >}}) is that it is currently unregulated, well suited to low dosages, and [easy to obtain]({{< relref "psilomethoxin" >}}).
 
-### Serotonin 2A
+#### Serotonin 2A
 
 Daime or Ayahuasca, a serotonin 2A agonist, does not spotlight any particular emotion but affectively amplifies in a pure or unbiased way.
 Initial use of 5-HT1A psychedelics or cannabis can be seen as preparatory, akin to training wheels.
