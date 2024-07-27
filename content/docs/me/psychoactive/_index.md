@@ -223,7 +223,7 @@ Which psychedelic poses the least risk to the naive user?
 
 I agree with the cliche that cannabis is the quintessential gateway drug.
 However, cannabis need not be a [gateway to harm]({{< relref "gateway" >}}),
-but can assist in health-promoting and life-affirming experiences.
+but can foster health-promoting and life-affirming experiences.
 Medicinal use of cannabis dates back at least 5,000 years.
 Delta-9 tetrahydrocannabinol (THC) is the primary psychoactive in cannabis.
 Commonly reported effects of THC include relaxation, euphoria, increased appetite, pain reduction, drowsiness, and occasionally, anxiety.
