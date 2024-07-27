@@ -113,7 +113,7 @@ The mild lingering afterglow can last for 3-12 hours.[^pharmacodynamics]
 
 ### Caveat
 
-Pm is generally manageable for individuals with [meditation]({{< relref "meditation" >}}) experience.
+Pm is generally manageable for individuals with [meditation]({{< relref "/docs/me/meditation" >}}) experience.
 However, those unfamiliar with introspective practices may find it challenging.
 Lack of experience in self-reflection can result in uncomfortably vivid sensory experiences, such as heightened sensitivity to sound or touch.
 For an easier introduction, go for a [hikrodose](#hikrodose) or coadminister with cannabis.
