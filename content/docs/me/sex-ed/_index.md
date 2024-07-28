@@ -113,6 +113,15 @@ What to eat during late pregnancy, labor, and delivery?[^dates]
 
 ### Parenting
 
+Talk therapy is not a great guide for parenting.
+Talk therapy traditionally assumes the context of an unbiased therapist working with a client.
+However, the parent-child relationship inherently differs from this model.
+When parents with therapeutic training attempt to apply talk therapy methods to their children, several issues may arise:
+- Over-analysis: Psychotherapist parents may excessively scrutinize their children's behaviors and emotions, potentially leading to unwarranted concern or intervention.
+- Overly clinical approach: There's a risk of adopting an excessively clinical or therapeutic stance in parenting, rather than a more natural, intuitive one.
+- Difficulty disengaging: Some therapists may struggle to stop analyzing and simply be present as a parent.
+- Overemphasis on verbal communication: While effective communication is crucial, therapist parents may rely too heavily on discussing every issue rather than allowing natural consequences or experiences to impart lessons.
+
 [Hand in Hand Parenting](https://www.handinhandparenting.org/)
 
 Kearney, M. S. (2023). *The Two-Parent Privilege: How Americans Stopped Getting Married and Started Falling Behind.* University of Chicago Press.  
