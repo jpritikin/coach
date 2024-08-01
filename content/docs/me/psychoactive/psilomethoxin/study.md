@@ -8,7 +8,11 @@ title: Study
 
 This is how you agree to join the study. If you are curious, please read this consent agreement carefully before you decide to participate.
 
-**Introduction**: In September 2021, Ian Benouis tried growing a new type of psychoactive mushroom. He gave it to some religious people who use psychedelics, and they judged it to be an important new psychoactive. They called it psilomethoxin, but some people didn't believe it was different from regular magic mushrooms (psilocybin/psilocin).
+**Introduction**: In September 2021, attorney Ian Benouis tried growing a new type of psychoactive mushroom.
+He gave it to several spiritually inclined people who use psychedelics, and some of them judged it to be an important new psychoactive.
+Benouis and his collaborator, Greg Lake, called this fungi "psilomethoxin."
+However, some who tried a sample didn't feel it was any different from regular magic mushrooms (psilocybin/psilocin).
+While others discerned no noticeable subjective effect at all.
 
 **Purpose of the research study**: This study will investigate whether people can tell the difference between psilomethoxin and regular magic mushrooms in a blinded condition.
 
