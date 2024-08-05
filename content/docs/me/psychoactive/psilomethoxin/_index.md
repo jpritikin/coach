@@ -160,6 +160,7 @@ If you time the hike to conclude about 90 minutes after ingestion then you will 
 ### Setting
 
 Whereas I recommend starting with a boring environment, it is also interesting to experiment with various activities:
+- Air travel passenger -- Make those long flights extremely relaxing and refreshing.
 - Tour museums
 - Receive a massage, cuddling
 - Physical activities (e.g., lift weights, hatha yoga, dance)
