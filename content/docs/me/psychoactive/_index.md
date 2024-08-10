@@ -103,6 +103,8 @@ I have first-hand experience with
 *   Psilomethoxin ([orally active 5-methoxy-N,N-dimethyltryptamine](https://www.youtube.com/watch?v=SeROOGFnwek)) 🐸
 *   Mescaline 🌵
 
+In general, I use psychoactive substances as [entheogens](https://en.wikipedia.org/wiki/Entheogen).
+
 ### In film 📽️
 
 {{% columns %}}
