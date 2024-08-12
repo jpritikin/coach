@@ -34,10 +34,6 @@ I use **Internal Family Systems** (IFS). IFS is an [evidence-based](https://www.
 - Understand and integrate your psychedelic journey(s)
 - I do **not** prescribe, procure, or administer substances.
 {{% /details %}}
-{{% details "Expecting your first child? 🚼" %}}
-- Ready for a new full-time job without sleep? Learn the mental health tools you need **before** the proverbial shit hits the fan. 💩
-- If you put more skill and effort into the first three years, you and your child will reap a lifetime of benefits.
-{{% /details %}}
 {{% details "Lifestyle, nutrition, & physical health 🥗" %}}
 - I have studied [nutrition]({{< relref "health" >}}) for many years and am trained to evaluate statistical evidence.
 - I am **not** a licensed dietician.[^capture-of-nutrition]
