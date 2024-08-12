@@ -96,6 +96,8 @@ Fisher, C. (2016). *Straight Up Food: Delicious and Easy Plant-based Cooking wit
 
 Page, K. (2014). *The Vegetarian Flavor Bible: The Essential Guide to Culinary Creativity with Vegetables, Fruits, Grains, Legumes, Nuts, Seeds, and More, Based on the Wisdom of Leading American Chefs.* Little, Brown and Company.
 
+Shukla, S. (2022). *Plant-based India: Nourishing recipes rooted in tradition.* New York: The Experiment.
+
 ## Notes
 
 [^vanilla-extract]: [Vanilla extract](https://en.wikipedia.org/wiki/Vanilla_extract)
