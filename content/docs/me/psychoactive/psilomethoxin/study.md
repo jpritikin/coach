@@ -28,7 +28,7 @@ While others discerned no noticeable subjective effect at all.
 
 **Risks**:
 
-- [The Church of Sacred Synthesis](https://thesacredsynthesis.com/) has distributed at least 500,000 doses of psilomethoxin without any report of an adverse event. However, psilomethoxin is a new substance with only 2-3 years of anecdotal safety data. Research is ongoing, but little about the substance is known for certain. Until we learn more, it is prudent to regard contraindications for 5-MeO-DMT as contraindications for psilomethoxin. The contraindications include epilepsy, CYP2D6 inhibitors, MAO inhibitors, serotonin reuptake inhibitors, lithium, pregnancy, or breastfeeding.
+- [The Church of Sacred Synthesis](https://thesacredsynthesis.com/) has distributed at least 500,000 doses of psilomethoxin without any report of an adverse event. However, psilomethoxin is a new substance with only 2-3 years of anecdotal safety data. Research is ongoing, but little about the substance is known for certain. Until we learn more, it is prudent to regard contraindications for 5-MeO-DMT as contraindications for psilomethoxin. The contraindications include epilepsy, CYP2D6 inhibitors, MAO inhibitors, serotonin reuptake inhibitors, lithium, or pregnancy.
 - There is a small risk of loss of confidentiality since we require your name, email address, and mobile phone number to communicate survey invitations. To minimize this risk, all information will be stored in password protected computers and transferred via encrypted channels. Within one month after the completion of data collection, identifying information will be destroyed.
 
 **Benefits**:
