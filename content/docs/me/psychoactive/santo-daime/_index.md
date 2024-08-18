@@ -161,7 +161,7 @@ Or ondansetron (if not pregnant[^picot2020])?
 #### Coadministration
 
 There is some precedent for the use of cannabis in the Santo Daime tradition.[^macrae1998]
-If desired, I suggest ingesting 25mg Δ8-THC and 25mg CBD about two hours before the work commences.
+If desired, I suggest ingesting 20mg Δ8-THC and 25mg CBD about two hours before the work commences.
 This low dose may help ease the experience during the first serving of Daime.
 As a bonus, cannabis is also an antiemetic.
 
@@ -174,6 +174,7 @@ Daime is best when not combined with other psychoactive substances.
 Some report that Daime interferes with sleep.
 Kava is often not strong enough.
 Cannabinol (CBN) may help address this challenge.[^bonn-miller2024]
+For a nice soft recovery, try 50mg CBN immediately after a work and 20mg Δ8-THC upon waking in the morning.
 
 ### Baptism 🌊
 

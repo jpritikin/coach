@@ -226,37 +226,13 @@ Which psychedelic poses the least risk to the naive user?
 I agree with the cliche that cannabis is the quintessential gateway drug.
 However, cannabis need not be a [gateway to harm]({{< relref "gateway" >}}),
 but can foster health-promoting and life-affirming experiences.
-Medicinal use of cannabis dates back at least 5,000 years.
-Delta-9 tetrahydrocannabinol (THC) is the primary psychoactive in cannabis.
-Commonly reported effects of THC include relaxation, euphoria, increased appetite, pain reduction, drowsiness, and occasionally, anxiety.
-
 The 2018 Farm Bill legalized hemp-derived cannabinoids in the United States.
 While hemp, cannabis, and marijuana are botanically the same species, legal distinctions remain, with Delta-9 THC still prohibited since the [Boggs Act of 1952](https://en.wikipedia.org/wiki/Boggs_Act_of_1951).
+
 The recent legalization of hemp-based cannabinoids spurred renewed interest in Delta-9 THC alternatives.
 Delta-8 THC, first isolated in the 1940s by chemist Roger Adams, offers effects similar to traditional Delta-9 THC but with less anxiety.
 Best of all, Δ8-THC can be produced legally from hemp.
-You might start with 25 mg each of Δ8-THC and CBD.
-
-{{% columns %}}
-[![Delta8](delta8thc.webp)](https://en.wikipedia.org/wiki/%CE%94-8-Tetrahydrocannabinol)
-{.center}
-<--->
-[![Cannabidiol](cbd.webp)](https://en.wikipedia.org/wiki/Cannabidiol)
-{.center}
-{{% /columns %}}
-
-The intensity of the experience is mostly a function of the amount of THC.
-I'm not sure how much CBD is required to complement the THC.
-Maybe the ratio could be less than 1 mg CBD per 1 mg THC, but 0.5 mg CBD per 1 mg of Δ8-THC is not enough.
-You definitely want enough CBD and extra isn't a problem.
-One way to administer cannabis is to hold the liquid under the tongue (i.e., sublingual method), but you'll probably swallow most of it.
-Onset of the effects of swallowed cannabis occur about 90 min after ingestion and last for 3-5 hours.
-Tolerance half-life seems to be about two days.
-
-{{% hint danger %}}
-Do not take THC without CBD.
-The combination of THC and CBD feels completely different than either molecule ingested alone.
-{{% /hint %}}
+You might start with 20 mg each of Δ8-THC and CBD.
 
 The euphoria induced by cannabis is both a benefit and a potential limitation.
 While euphoria may be appealing to beginners, the greater art is in exploring a fuller spectrum 🌈 of emotion.
