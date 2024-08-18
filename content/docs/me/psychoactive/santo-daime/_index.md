@@ -41,16 +41,16 @@ Santo Daime adheres to the common dietary recommendations for ayahuasca. While t
 - **Focus on**: Plain, simple foods; fruits and vegetables; whole grains; small amounts of fish or chicken (if desired)
 
 This diet is usually suggested to begin 1-2 weeks before the ceremony.
+What I find confusing is the lack of specificity in both recommendations and justification.
 
-#### Commentary
-
-These recommendations largely align with a [whole food plant-based diet]({{< relref "health" >}}).
-In addition, tyramine should be avoided due to potentially dangerous interactions.[^weiss2018]
-However, the issue is not just tyramine.
-Protein consumption affects the pharmacodynamics of Daime.
+I think there are at least two things going on here.
+On one hand, recommendations largely align with a [whole food plant-based diet]({{< relref "health" >}}).
+It's a good idea to eat healthy food.
+On the other hand, tyramine should be avoided due to potentially dangerous interactions.[^weiss2018]
+However, the issue is not limited to tyramine.
+Vegans need to know that the pharmacodynamics of Daime are vividly affected by protein consumption.
 Instead of experiencing a pleasantly strong subjective effect for about two hours, protein buffers the force of the Daime.
-Consequently, participants may feel little (mostly sober) for most of the time, followed by an unpleasantly strong, brief burst of Daime after 1-2 hours.
-Both animal and plant proteins are equally potent in interfering with Daime.
+Consequently, participants may feel little (mostly sober) for much of the time, followed by an unpleasantly strong, brief burst of Daime after 1-2 hours.
 To mitigate this effect, it's only necessary to minimize protein intake about 8-12 hours prior to the ceremony.
 
 ### Lyrics
