@@ -44,6 +44,12 @@ Everybody should have the opportunity to climb Maslow's pyramid.
 
 ![Maslow's needs](maslow-needs2.webp)
 
+## What is evil?
+
+> All evil is itself the attempt to eliminate evil.
+
+[James Carse](https://youtu.be/qdIP6HilbWE?t=3585)
+
 ## Meditation Techniques
 
 Meditation is more like a dance than a desk lamp 🪔. There are moves to learn.
