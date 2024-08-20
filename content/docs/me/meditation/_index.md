@@ -37,8 +37,8 @@ free to radiate Self energy.[^grand-unified]
 {{% /hint %}}
 
 In some traditions, there is a notion of *enlightenment* or
-*liberation* that demarcates some stage of personal transformation.
-However, we should not be satisfied with personal transformation of any degree;
+*liberation* that demarcates some stage of personal transformation.[^bodhisattva]
+However, we should not be satisfied with personal transformation of any degree.
 The appropriate benchmark for attainment is global, societal transformation.
 Everybody should have the opportunity to climb Maslow's pyramid.
 
@@ -128,3 +128,5 @@ This is just a sample schedule. Customize as per your preference.
     - Carse, J. P. (2009). *The Religious Case Against Belief.* Penguin Publishing Group.
     - Luhrmann, T. M., & Weisman, K. (2022). Porosity Is the Heart of Religion. *Current Directions in Psychological Science, 31*(3), 247-253.
     - Schwartz, R. C., & Falconer, R. (2017). *Many minds, one self: Evidence for a radical shift in paradigm.* Oak Park: Trailheads.
+
+[^bodhisattva]: For example, there is the concept of [*bodhisattvas*](https://depts.washington.edu/chinaciv/bud/5imgbodd.htm), enlightened beings who have put off entering paradise in order to help others attain enlightenment. This notion is ludicrous, implicitly giving far too much credence to individuality.
