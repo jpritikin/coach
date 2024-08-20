@@ -35,7 +35,7 @@ flowchart TD;
 {{< /mermaid >}}
 
 Psychedelic experience is one important way to inspire interest in meditation.[^doblin1991]
-Scholars suspect that psychedelics were at the origins of many religions.[^muraresku2020][^brown2016][^crowley2019] On the other hand, psychedelics can be a frightening way to learn how to meditate for people who are identified with their parts; it is like being thrown into the deep end of the pool to learn how to swim. Internal Family Systems is a gentler way.
+Scholars suspect that psychedelics were at the origins of many religions[^muraresku2020][^brown2016][^crowley2019] and played an important role in our evolution as a species.[^mckenna1993] On the other hand, psychedelics can be a frightening way to learn how to meditate for people who are identified with their parts; it is like being thrown into the deep end of the pool to learn how to swim. Internal Family Systems is a gentler way.
 
 ## Cults
 
@@ -164,3 +164,5 @@ More often, we may enjoy full immersion in our daily activities (flow).
 [^brown2016]: Brown, J. B., & Brown, J. M. (2016). *The psychedelic gospels: The secret history of hallucinogens in Christianity.* Simon and Schuster.
 
 [^crowley2019]: Crowley, M., & Shulgin, A. (2019). *Secret drugs of Buddhism: Psychedelic sacraments and the origins of the Vajrayana.* Synergetic Press.
+
+[^mckenna1993]: McKenna, T. (1993). *Food of the Gods: The Search for the Original Tree of Knowledge A Radical History of Plants, Drugs, and Human Evolution.* Bantam.
