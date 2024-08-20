@@ -90,7 +90,6 @@ Me with [Padrinho Jonathan Goldman](https://casetext.com/case/church-of-holy-lig
 {{< /partDetails >}}
 - [Church of Sacred Synthesis](https://thesacredsynthesis.com/)
 - [Sacred Garden Church](https://sacredgarden.life/); I love the notion of "least dogma!"[^carse2009]
-- [PSILO Temple](https://psilotemple.org/)
 
 I have first-hand experience with
 
