@@ -41,8 +41,8 @@ Inhalation is probably the most widely known route of administration because it 
   - Pros: Rapid onset of effects (usually within minutes)
   - **Cons**: Respiratory irritation (especially with smoking), short duration of effects, imprecise dosing
 - **Oral Ingestion** (Edibles, Oils, Capsules):
-  - **Pros**: Longer-lasting effects (4-8 hours typically), no respiratory risks, discreet consumption
-  - Cons: Slow onset (30 minutes to 2 hours), precise dosage
+  - **Pros**: Longer-lasting effects (4-8 hours typically), no respiratory risks, discreet consumption, precise dosing
+  - Cons: Slow onset (30 minutes to 2 hours)
 - Sublingual (Tinctures, Sprays):
   - Pros: Relatively fast onset (15-45 minutes), bypasses first-pass liver metabolism
   - **Cons**: Hard to segregate from oral ingestion
