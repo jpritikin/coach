@@ -13,7 +13,7 @@ because you should use all of your attention to relax your
 feet. Use ample ice because it's easier to relax when the water is at
 lower a temperature.[^carney2020]
 
-Effective for [Restless Legs Syndrome](https://www.ninds.nih.gov/health-information/patient-caregiver-education/fact-sheets/restless-legs-syndrome-fact-sheet).
+Effective for [Restless Legs Syndrome](https://www.ninds.nih.gov/health-information/disorders/restless-legs-syndrome).
 
 If your legs still feel restless, try [calf raises](https://www.youtube.com/watch?v=-M4-G8p8fmc).
 
