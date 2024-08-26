@@ -13,7 +13,7 @@ Place some warm water in a dishpan[^pan] with a handful of salt.[^salt]
 Sit comfortably on a chair, put your feet in the salt water,
 and meditate for 5-15 minutes.
 
-Helps address [Restless Legs Syndrome](https://www.ninds.nih.gov/health-information/patient-caregiver-education/fact-sheets/restless-legs-syndrome-fact-sheet) and improves sleep quality.[^haghayegh2019][^aghamohammadi2020][^sung2000]
+Helps address [Restless Legs Syndrome](https://www.ninds.nih.gov/health-information/disorders/restless-legs-syndrome) and improves sleep quality.[^haghayegh2019][^aghamohammadi2020][^sung2000]
 
 Can combine with [withdrawal of the senses]({{< relref "senses"  >}}).
 In fact, with lukewarm water, foot soak could be regarded as
