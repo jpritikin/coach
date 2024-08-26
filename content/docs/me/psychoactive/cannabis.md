@@ -39,7 +39,7 @@ Inhalation is probably the most widely known route of administration because it 
 
 - Inhalation (Smoking or Vaporizing): 
   - Pros: Rapid onset of effects (usually within minutes)
-  - **Cons**: Respiratory irritation (especially with smoking), short duration of effects, imprecise dosing
+  - **Cons**: Respiratory irritation (especially with smoking), short duration of effects, imprecise dosing, must avoid acetate forms[^acetates]
 - **Oral Ingestion** (Edibles, Oils, Capsules):
   - **Pros**: Longer-lasting effects (4-8 hours typically), no respiratory risks, discreet consumption, precise dosing
   - Cons: Slow onset (30 minutes to 2 hours)
@@ -114,3 +114,5 @@ I don't see the application.
 [^bonn-miller2024]: Bonn-Miller, M. O., Feldner, M. T., Bynion, T. M., Eglit, G. M. L., Brunstetter, M., Kalaba, M., Zvorsky, I., Peters, E. N., & Hennesy, M. (2024). A double-blind, randomized, placebo-controlled study of the safety and effects of CBN with and without CBD on sleep quality. *Experimental and clinical psychopharmacology, 32*(3), 277–284.
 
 [^entourage]: https://en.wikipedia.org/wiki/Entourage_effect
+
+[^acetates]: Munger, K. R., Jensen, R. P., & Strongin, R. M. (2022). Vaping cannabinoid acetates leads to ketene formation. *Chemical Research in Toxicology, 35*(7), 1202-1205.
