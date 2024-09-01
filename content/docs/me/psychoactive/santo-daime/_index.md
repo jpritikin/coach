@@ -161,7 +161,7 @@ Or ondansetron (if not pregnant[^picot2020])?
 #### Coadministration
 
 There is some precedent for the use of cannabis in the Santo Daime tradition.[^macrae1998]
-If desired, I suggest ingesting 20mg Δ8-THC and 25mg CBD about two hours before the work commences.
+If desired, I suggest ingesting 20mg of Δ8-THC about two hours before the work commences.
 This low dose may help ease the experience during the first serving of Daime.
 As a bonus, cannabis is also an antiemetic.
 
@@ -173,7 +173,7 @@ Daime is best when not combined with other psychoactive substances.
 
 Some report that Daime interferes with sleep.
 Kava is often not strong enough.
-Cannabinol (CBN) may help address this challenge.[^bonn-miller2024]
+Cannabinol (CBN) may help address this challenge.
 For a nice soft recovery, try 50mg CBN immediately after a work and 20mg Δ8-THC upon waking in the morning.
 
 ### Baptism 🌊
@@ -239,5 +239,3 @@ Let me know if you would like to add your name here.
 [^macrae1998]: MacRae, E. (1998). Santo Daime and Santa Maria–The licit ritual use of ayabuasca and the illicit use of cannabis in a Brazilian Amazonian religion. *International Journal of Drug Policy, 9*(5), 325-338.
 
 [^weiss2018]: [Everything You Need to Avoid Before You Take Ayahuasca](https://www.vice.com/en/article/pawkek/what-not-to-eat-or-take-before-ayahuasca)
-
-[^bonn-miller2024]: Bonn-Miller, M. O., Feldner, M. T., Bynion, T. M., Eglit, G. M. L., Brunstetter, M., Kalaba, M., Zvorsky, I., Peters, E. N., & Hennesy, M. (2024). A double-blind, randomized, placebo-controlled study of the safety and effects of CBN with and without CBD on sleep quality. *Experimental and clinical psychopharmacology, 32*(3), 277–284.

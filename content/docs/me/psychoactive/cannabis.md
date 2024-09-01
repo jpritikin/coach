@@ -95,7 +95,7 @@ There is likely cross-tolerance because both substances are [CB1](https://en.wik
 
 [![CBN](cannabinol.webp)](https://en.wikipedia.org/wiki/Cannabinol)
 
-CBN (without CBD) is recommmended for sleep.[^bonn-miller2024]
+CBN (without CBD) is recommmended for sleep.[^bonn-miller2024][^kolobaric2024]
 How does the subjective effect differ with and without CBD?
 What about combining CBN with THC?
 
@@ -112,6 +112,8 @@ I don't see the application.
 ## Notes
 
 [^bonn-miller2024]: Bonn-Miller, M. O., Feldner, M. T., Bynion, T. M., Eglit, G. M. L., Brunstetter, M., Kalaba, M., Zvorsky, I., Peters, E. N., & Hennesy, M. (2024). A double-blind, randomized, placebo-controlled study of the safety and effects of CBN with and without CBD on sleep quality. *Experimental and clinical psychopharmacology, 32*(3), 277–284.
+
+[^kolobaric2024]: Kolobaric, A., Saleska, J., Hewlings, S. J., Bryant, C., Colwell, C. S., D'Adamo, C. R., Chen, J., & Pauli, E. K. (2024). A Randomized, Double-Blind, Placebo-Controlled Trial to Assess the Effectiveness and Safety of Melatonin and Three Formulations of Floraworks Proprietary TruCBN™ for Improving Sleep. *Pharmaceuticals (Basel, Switzerland), 17*(8), 977.
 
 [^entourage]: https://en.wikipedia.org/wiki/Entourage_effect
 
