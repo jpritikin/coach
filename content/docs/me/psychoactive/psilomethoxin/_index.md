@@ -55,13 +55,25 @@ Since Pm blunts anxiety, it is particularly important not to put yourself in a s
 ### Storage
 
 If you have dried Psilocybe mushroom powder, store it at room temperature in a dark place.
-Storage in a refrigerator or freezer is not recommended because low temperatures can cause water to condense and the water can cause degradation.
+Storage in a refrigerator or freezer is not recommended because low temperatures can cause water to condense which can cause degradation.
 
 ### Cooking
 
 Pm is sensitive to heat.
 To mix the powder with chocolate, use the lowest possible temperature.
 Even chocolate sourced from the Church of Sacred Synthesis has occasionally been found to be inert.
+
+### Caution
+
+Pm is generally manageable for individuals with [meditation]({{< relref "/docs/me/meditation" >}}) experience.
+However, those unfamiliar with introspective practices may find it challenging.
+Lack of experience in self-reflection can result in uncomfortably vivid sensory experiences, such as heightened sensitivity to sound or touch.
+This can occur mainly during the first hour.
+There are some options to mitigate this risk:
+
+- Coadminister with cannabis
+- Vigorous physical activity (e.g., lift weights, hatha yoga, dance)
+- [Hikrodose](#hikrodose)
 
 ### Dosage
 
@@ -90,6 +102,7 @@ If a **pm savvy** guide is not available then a group of two or more **naïve** 
 | 600mg, 800mg  | A confident **pm savvy** guide could consider this dose for an adventurous **trad savvy** friend. For perspective, I would hesitate to use more than 600mg while driving a car. |
 
 Amounts are in mg of dried Psilocybe mushroom powder.
+Observe [caution](#caution) with doses above 250mg.
 
 ### Timing
 
@@ -110,13 +123,6 @@ Once you decide on a dose, take the whole dose at once, or maybe within 5-10 min
 Don't use Pm more than once per day;
 to get familiar with the substance, you want to feel the subjective effects from the peak all the way through the afterglow and back to baseline.
 The mild lingering afterglow can last for 3-12 hours.[^pharmacodynamics]
-
-### Caveat
-
-Pm is generally manageable for individuals with [meditation]({{< relref "/docs/me/meditation" >}}) experience.
-However, those unfamiliar with introspective practices may find it challenging.
-Lack of experience in self-reflection can result in uncomfortably vivid sensory experiences, such as heightened sensitivity to sound or touch.
-For an easier introduction, go for a [hikrodose](#hikrodose) or coadminister with cannabis.
 
 ### Set & Setting
 
@@ -163,7 +169,6 @@ Whereas I recommend starting with a boring environment, it is also interesting t
 - Air travel passenger -- Make those long flights extremely relaxing and refreshing.
 - Tour museums
 - Receive a massage, cuddling
-- Physical activities (e.g., lift weights, hatha yoga, dance)
 - Music appreciation (e.g., concert, soundbath)
 - Play video games
 - Go beyond boring environments with formal [meditation]({{< ref "/docs/me/meditation" >}}).
@@ -171,7 +176,7 @@ Whereas I recommend starting with a boring environment, it is also interesting t
 
 ### Cannabis
 
-It's a great combo. Explore.
+It's a **great** combo. Explore.
 
 ## Notes
 
