@@ -50,7 +50,8 @@ Credit: Christopher Scott
 
 There can be a lot of anxiety associated with the first use of a substance.
 The goal of this brief guide is to help you enjoy Pm, for the first time, with the least amount of risk.
-Since Pm blunts anxiety, it is particularly important not to put yourself in a situation that stokes anxiety.
+- Since Pm blunts anxiety, try to avoid putting yourself in a situation that stokes anxiety.
+- Be well rested. Sleepiness tends to clash with the pleasant effects of Pm.
 
 ### Storage
 
