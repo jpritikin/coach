@@ -76,6 +76,8 @@ There are some options to mitigate this risk:
 - Vigorous physical activity (e.g., lift weights, hatha yoga, dance)
 - [Hikrodose](#hikrodose)
 
+I speculate that the risk can be mitigated by engaging in any activity similar to Progressive Muscle Relaxation as advocated by Edmund Jacobson since 1908.
+
 ### Dosage
 
 Start with a low-to-medium [psycholytic](https://en.wikipedia.org/wiki/Psychedelic_therapy#Psycholytic_therapy) dose.
@@ -162,7 +164,7 @@ As another data point, according to the [2024 Mar 07 defamation lawsuit](https:/
 
 A group might plan a *hikrodose* that consists of consuming Pm and then hiking through nature together.[^hikrodose]
 With a dose of 1g or less, you may not feel anything unusual during the hike.
-If you time the hike to conclude about 90 minutes after ingestion then you will likely be well placed to enjoy the remainder of the Pm effects as you rest.[^hikrodose-mech]
+If you time the hike to conclude about 90 minutes after ingestion then you will likely be well placed to enjoy the remainder of the Pm effects as you rest.
 
 ### Setting
 
@@ -191,5 +193,3 @@ Although many mushrooms of the Psilocybe genus produce psilocybin and psilocin, 
 [^pharmacodynamics]: [Guesswork on Pm's pharmacodynamics]({{< relref "/posts/psilomethoxin-case-report-addendum2.md" >}})
 
 [^hikrodose]: [Veteran Initiatives](https://thesacredsynthesis.com/veteran-initiatives/)
-
-[^hikrodose-mech]: I speculate that this works on the same mechanism as Progressive Muscle Relaxation as advocated by Edmund Jacobson since 1908.
