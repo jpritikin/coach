@@ -18,7 +18,7 @@ I have not studied dynamic poses
 (e.g., mimicking the flapping and soaring of eagle wings with your arms 🪽).
 The postures listed here are intended as static poses
 to be held steadily for a few minutes at a time.
-The reason that this article is under [*Santo Daime*](http://web.archive.org/web/20240718192622/https://maps.org/news/bulletin/psychedelic-parenthood-a-new-ancestral-way/) and not a generic *Postures and Gestures* page
+The reason that this article is under [*Santo Daime*](https://maps.org/news/bulletin/psychedelic-parenthood-a-new-ancestral-way/) and not a generic *Postures and Gestures* page
 is because these poses have much greater significance when implemented
 by a whole group of people simultaneously in careful coordination.
 Posing solo is a bit self-indulgent.
