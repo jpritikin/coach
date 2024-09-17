@@ -40,7 +40,7 @@ Game design is a closely related area of study.[^nguyen2020]
 Based on the above criteria, I have identified two activities that seem particularly promising:
 
 {{% details "Reveal my current favorites" %}}
-- [AcroYoga](https://www.acroyoga.org/)  
+- [AcroYoga](https://en.wikipedia.org/wiki/Acroyoga)  
 ![AcroYoga Camp 2023](acroyogacamp-2023.webp)  
 Me at NW AcroYoga Camp-Out 2023 in Bellingham, WA
 - Brazilian Jiu-Jitsu  
