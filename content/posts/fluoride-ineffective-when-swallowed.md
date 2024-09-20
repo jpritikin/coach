@@ -2,7 +2,7 @@
 title = "CDC Unable To Cite Studies Showing Fluoride Is Effective When Swallowed"
 tags = ["law","nutrition"]
 date = "2023-12-16"
-categories = ["interview"]
+categories = ["news"]
 menu = "main"
 bookToc = true
 +++

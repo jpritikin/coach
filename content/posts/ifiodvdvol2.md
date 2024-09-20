@@ -2,7 +2,7 @@
 title = "IFIO Study Hall"
 tags = ["internal family systems","therapy"]
 date = "2023-11-14"
-categories = ["education"]
+categories = ["opinion"]
 menu = "main"
 bookToc = false
 +++

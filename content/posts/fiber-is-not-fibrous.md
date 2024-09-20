@@ -3,7 +3,7 @@ title = "Fiber is not necessarily fibrous"
 description = "Fiber is an unfortunate word choice with the wrong connotations"
 tags = ["nutrition", "semantics"]
 date = "2022-12-29"
-categories = ["essay"]
+categories = ["opinion"]
 menu = "main"
 bookToc = false
 +++

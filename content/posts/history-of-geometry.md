@@ -2,7 +2,7 @@
 title = "History of non-Euclidean geometry / Veritasium"
 tags = ["mathematics", "geometry", "physics", "history"]
 date = "2023-10-22"
-categories = ["documentary"]
+categories = ["news"]
 menu = "main"
 bookToc = false
 +++

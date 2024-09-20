@@ -2,7 +2,7 @@
 title = "Chat about Sacred Synthesis and Psilomethoxin"
 tags = ["psychedelics","consciousness","spirituality"]
 date = "2024-06-06"
-categories = ["news"]
+categories = ["opinion"]
 menu = "main"
 bookToc = false
 +++
