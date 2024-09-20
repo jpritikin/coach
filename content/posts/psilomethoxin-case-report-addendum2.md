@@ -2,7 +2,7 @@
 title = "Psilomethoxin, My Case Report (Addendum #2)"
 tags = ["psychedelics", "science"]
 date = "2023-10-09"
-categories = ["essay"]
+categories = ["opinion"]
 menu = "main"
 bookToc = false
 +++

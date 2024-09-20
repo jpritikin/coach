@@ -3,7 +3,7 @@ title = "A Relativistic Theory of Consciousness (2022)"
 description = "An interesting approach to the hard problem"
 tags = ["science", "physics", "consciousness"]
 date = "2022-08-30"
-categories = ["research paper"]
+categories = ["news"]
 menu = "main"
 bookToc = false
 +++

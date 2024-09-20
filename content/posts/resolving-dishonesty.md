@@ -2,7 +2,7 @@
 title = "Compassionate Resolution of Dishonesty"
 tags = ["internal family systems","therapy"]
 date = "2023-11-11"
-categories = ["essay"]
+categories = ["opinion"]
 menu = "main"
 bookToc = true
 +++

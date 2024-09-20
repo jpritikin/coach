@@ -3,7 +3,7 @@ title = "Psilomethoxin, My Case Report"
 description = "My experience with psilomethoxin"
 tags = ["psychedelics", "science"]
 date = "2023-02-16"
-categories = ["essay"]
+categories = ["opinion"]
 menu = "main"
 bookToc = false
 +++

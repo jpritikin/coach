@@ -2,7 +2,7 @@
 title = "Roger Penrose speculates about the observer problem"
 tags = ["science", "physics", "consciousness"]
 date = "2023-11-08"
-categories = ["interview"]
+categories = ["news"]
 menu = "main"
 bookToc = false
 +++

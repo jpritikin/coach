@@ -2,7 +2,7 @@
 title = "The Big Secret in the Academy Is That Most Research Is Secret"
 tags = ["science","history","politics","radiation"]
 date = "2023-12-05"
-categories = ["research paper"]
+categories = ["news"]
 menu = "main"
 bookToc = true
 +++

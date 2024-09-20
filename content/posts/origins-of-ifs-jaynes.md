@@ -2,7 +2,7 @@
 title = "Origins of IFS in the bicameral mind"
 tags = ["internal family systems", "history"]
 date = "2023-10-26"
-categories = ["essay"]
+categories = ["opinion"]
 menu = "main"
 bookToc = false
 +++
