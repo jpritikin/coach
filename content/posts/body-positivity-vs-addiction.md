@@ -114,8 +114,8 @@ If you're on a wide screen, you may like to make the page full width by clicking
 {{% hint danger %}}
 This example is offered to suggest a therapeutic direction, not as an instruction manual.
 Alice is in a vulnerable place.
-A safe IFS intervention demands enlistment of a trained professional 🦺.
-Alice should approach a Certified IFS Practitioner 💐 to discuss her situation.
+A safe IFS intervention prompts enlistment of a trained professional 🦺.
+Alice should approach a [Certified IFS Practitioner]({{< relref "certification"  >}}) 💐 to discuss her situation.
 {{% /hint %}}
 
 {{< mermaid >}}
