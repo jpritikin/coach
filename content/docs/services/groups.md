@@ -48,20 +48,6 @@ Open to all who identify as male including gay, bisexual, transgender, or queer.
 
 **Cultivate Inner Resilience**: Whether you're facing transitions, personal hurdles, or seeking self-improvement, our group offers a space for growth and healing.
 
-### Addiction Group
-
-**Uncover the Root Causes**: IFS goes beyond surface-level solutions. It delves deep into your inner world, helping you explore the core issues and traumas that may have fueled your addiction. By understanding and healing these wounds, you can break free from the cycle of dependence.
-
-**Release Your Inner Healing Resources**: Your inner self is a rich reservoir of strength and resilience. IFS empowers you to connect with your inner parts, each with unique qualities and experiences, to harness their wisdom and healing energy. This collaborative approach leads to lasting recovery.
-
-**Embrace Self-Compassion**: Addiction often leads to self-blame and shame. IFS fosters a non-judgmental and compassionate relationship with yourself, allowing you to let go of self-destructive patterns and embrace self-love.
-
-**Restore Balance and Harmony**: Just as a family thrives when its members work together, your internal system functions best when all your parts cooperate harmoniously. IFS helps you resolve inner conflicts and achieve a sense of unity and balance within yourself.
-
-**Build Resilience for the Future**: IFS equips you with practical tools and coping strategies to navigate life's challenges without resorting to addiction. You'll develop the skills to face triggers and stressors with confidence.
-
-*Note: I'm thinking that an addiction cohort should stay together for at least twice as long as for these other themes.*
-
 ### Parenting Group
 
 {{% hint info %}}
