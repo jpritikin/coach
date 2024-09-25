@@ -29,10 +29,8 @@ no paywall or subscription for my website content. 📬
 
 ## Counseling ≠ Telling My Opinions
 
-As an IFS Practitioner, I attend
-to structure and process while maintaining indifference to content.
-I believe that a good counselor is extremely neutral ⚖️, to encourage the
-client's inner system to lead. 🗽
+As an IFS Practitioner, I attend to structure and process while holding content lightly.
+I believe that a good counselor is extremely impartial ⚖️, thereby inviting the client's inner system to lead. 🗽
 
 {{% details "The illustration below is an analogy" %}}
 {{< hint info >}}
@@ -43,7 +41,7 @@ client's inner system to lead. 🗽
 {{% /details %}}
 
 You should not hear any unsolicited opinions from me when I am working with you as your counselor.
-If you do think you hear me express an opinion, I want to know about it. 🙊
+If you think you hear me express an opinion, I want to know about it. 🙊
 
 <table>
 <tr>
