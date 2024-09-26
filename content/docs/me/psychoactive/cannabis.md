@@ -95,6 +95,8 @@ However, the botanical validity of this simple dichotomy has been eroded by two 
 As a result, the cannabis landscape has shifted.
 The insatiable demand for novel cannabinoid blends no longer relies exclusively on careful plant cultivation.
 Instead, isolated cannabinoids can be mixed in precise proportions to produce desired effects, offering a level of customization previously unattainable through traditional growing methods.
+Since the 1986, cannabinoids were hindered by legal ambiguity.[^rubin2023]
+After the 2018 Farm Bill, many interesting cannabinoids became legal.[^shea2024]
 
 Cannabinoids can be organized into two categories: THC-like and CBD-like.
 In general, the experience of one or more THC-like substances are improved by pairing with one or more CBD-like substances. However, some single cannabinoids are great in isolation.
@@ -109,7 +111,7 @@ In general, the experience of one or more THC-like substances are improved by pa
 
 - CBD is the classic potentiator.
 - CBDV (cannabidivarin) is believed to support focus, alertness, and overall cognitive function. CBDV is less relaxing than CBD.
-- CBN (cannabinol) is much more relaxing than CBD.
+- CBN (cannabinol) is more grounding and less psychoactive than CBD.
 
 ## Δ8-THC vs Δ9-THC
 
@@ -151,9 +153,9 @@ CBN used alone has little cross-tolerance with THC.
 
 - The effects (if any) of CBG (cannabigerol) are subtle. I haven't figured it out yet. Maybe CBG is great in combination with something else.
 
-## Resources
+## Fellow Travelers
 
-[Cannabinoids with Turkey](https://www.cannabinoidswithturkey.com/)
+[Cannabinoids with Turkey](https://www.cannabinoidswithturkey.com/) 🦃
 
 ## Notes
 
@@ -168,3 +170,7 @@ CBN used alone has little cross-tolerance with THC.
 [^lo2023]: Lo, L. A., Christiansen, A., Eadie, L., Strickland, J. C., Kim, D. D., Boivin, M., ... & MacCallum, C. A. (2023). Cannabidiol‐associated hepatotoxicity: A systematic review and meta‐analysis. *Journal of Internal Medicine, 293*(6), 724-752.
 
 [^klein2011]: Klein, C., Karanges, E., Spiro, A., Wong, A., Spencer, J., Huynh, T., ... & McGregor, I. S. (2011). Cannabidiol potentiates Δ9-tetrahydrocannabinol (THC) behavioural effects and alters THC pharmacokinetics during acute and chronic treatment in adolescent rats. *Psychopharmacology, 218,* 443-457.
+
+[^rubin2023]: Rubin, J. S. (2023). *Bizarro: The surreal sage of America's secret war on synthetic drugs and the Florida kingpins it captured.* University of California Press.
+
+[^shea2024]: [The 2018 Farm Bill’s Effect on State Cannabis Laws](https://www.gdldlaw.com/blog/the-2018-farm-bills-effect-on-state-cannabis-laws)
