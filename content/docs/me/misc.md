@@ -7,7 +7,7 @@ weight: 101
 
 # Miscellaneous
 
-Mencken defined Puritanism as "the haunting fear that someone, somewhere, might be happy." 🤦
+H. L. Mencken defined Puritanism as "the haunting fear that someone, somewhere, might be happy." 🤦
 
 ## Journalism
 
