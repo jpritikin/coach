@@ -138,6 +138,8 @@ Non-placebo sacraments are our highest ranking teacher because
 chemicals don't become egomaniacal.
 {{% /hint %}}
 
+Even the [Shipibo Ayahuasca Tradition](https://www.ayahuascafoundation.org/shipibo-tradition/) is tainted by middleman thinking![^ruffell2024] 🤦🖓
+
 ## Integrated
 
 {{< mermaid >}}
@@ -166,3 +168,5 @@ More often, we may enjoy full immersion in our daily activities (flow).
 [^crowley2019]: Crowley, M., & Shulgin, A. (2019). *Secret drugs of Buddhism: Psychedelic sacraments and the origins of the Vajrayana.* Synergetic Press.
 
 [^mckenna1993]: McKenna, T. (1993). *Food of the Gods: The Search for the Original Tree of Knowledge A Radical History of Plants, Drugs, and Human Evolution.* Bantam.
+
+[^ruffell2024]: [Drug Science Podcast #113: Psychiatrists and Curanderos with Dr Simon Ruffell, 20:10](https://youtu.be/jItersgFTcE?t=1213)
