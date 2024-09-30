@@ -50,10 +50,6 @@ Open to all who identify as male including gay, bisexual, transgender, or queer.
 
 ### Parenting Group
 
-{{% hint info %}}
-This theme is open to all parents.
-{{% /hint %}}
-
 **Unlock Your Inner Balance**: IFS is like a compass for your emotional world, helping you navigate the complexities of parenthood with confidence. By understanding and addressing the different Parts within you, you can create a harmonious inner ecosystem that radiates calm and resilience.
 
 **Strengthen Family Bonds**: 👪 IFS isn't just about individual self-discovery; it's a tool that empowers parents to nurture healthier family connections. Learn how to resolve conflicts with more ease and foster an atmosphere of love, trust, and understanding at home.
