@@ -72,7 +72,7 @@ Perhaps science can also crack the mystery of birth 🎂 and death ☠️ (and m
 How might these soul particles function?
 They [exercise volition]({{< relref "/posts/against-reality.md" >}}) (i.e., two-way communication between here-and-now and space-time).
 How do they exercise volition?
-Maybe by sensing the range of outcomes afforded by the uncollapsed quantum wave function 🌊 and choosing how to [collapse it]({{< relref "/posts/penrose-physics-2023.md" >}}) 🞋. Perhaps dark matter is the physical realization of [qualia](https://en.wikipedia.org/wiki/Qualia).
+Maybe by sensing the range of outcomes afforded by the uncollapsed quantum wave function 🌊 and choosing how to [collapse it 🞋, bounded by the uncertainty in the mass of the system]({{< relref "/posts/penrose-physics-2023.md" >}}). Perhaps dark matter is the physical realization of [qualia](https://en.wikipedia.org/wiki/Qualia).
 
 [^zombie]: [Philosophical zombie](https://en.wikipedia.org/wiki/Philosophical_zombie)
 
