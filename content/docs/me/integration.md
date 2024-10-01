@@ -138,7 +138,11 @@ Non-placebo sacraments are our highest ranking teacher because
 chemicals don't become egomaniacal.
 {{% /hint %}}
 
-Even the [Shipibo Ayahuasca Tradition](https://www.ayahuascafoundation.org/shipibo-tradition/) is tainted by middleman thinking![^ruffell2024] 🤦🖓
+The [Shipibo Ayahuasca Tradition](https://www.ayahuascafoundation.org/shipibo-tradition/) is tainted by middleman thinking![^ruffell2024] 🤦🖓
+
+> Avoid gurus, follow plants
+
+Terence McKenna
 
 ## Integrated
 
