@@ -109,9 +109,10 @@ In general, the experience of one or more THC-like substances are improved by pa
 
 ### Potentiators (CBD-like)
 
-- CBD is the classic potentiator.
+- CBD is the classic potentiator. CBD opens the emotional spigot around the chest.
+- [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. CBD is obsolete. Swap out your CBD for H4CBD.
 - CBDV (cannabidivarin) is believed to support focus, alertness, and overall cognitive function. CBDV is less relaxing than CBD.
-- CBN (cannabinol) is more grounding and less psychoactive than CBD.
+- CBN (cannabinol) is more grounding and less psychoactive than CBD. CBN offers a head high.
 
 ## Δ8-THC vs Δ9-THC
 
@@ -140,7 +141,6 @@ For sedation and analgesia, CBN can be used daily (seemingly there is no toleran
 For this type of use, CBN does not cause the munchies.
 CBN-O is 2-3 times as potent as CBN, but they are otherwise very similar.
 
-How does the subjective effect differ with and without CBD?
 What about combining CBN with THC?
 
 CBN used alone has little cross-tolerance with THC.
