@@ -283,6 +283,10 @@ Daime can facilitate Self energy in environments that require effortful particip
 For example, in [Santo Daime]({{< relref "santo-daime" >}}) ceremonies, everybody is expected to sing 🎶 and dance.
 It seems unlikely to me that members would often enjoy much Self energy without the help of the psychedelic sacrament.
 
+{{% hint info %}}
+Daime is the holy ghost. 👻😇
+{{% /hint %}}
+
 ### On Alan W. Watts 🔬
 
 > If you get the message, hang up the phone. For psychedelic drugs are simply instruments, like microscopes, telescopes, and telephones. The biologist does not sit with eye permanently glued to the microscope, he goes away and works on what he has seen.

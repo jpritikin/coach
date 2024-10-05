@@ -12,6 +12,10 @@ weight: 10
 
 In light of this knowledge deficit, personal exploration becomes a valuable, albeit limited, source of insight. Here I present my evolving ideas about cannabinoids, primarily based on self-experimentation and a critical analysis of available scientific literature, anecdotal reports, and expert opinions. By combining these sources, I aim to contribute to a more comprehensive understanding of cannabinoids while acknowledging the shortcomings of this approach.
 
+### Fellow Travelers
+
+[Cannabinoids with Turkey](https://www.cannabinoidswithturkey.com/) 🦃 -- This guy has an ahead start of 10 year on me.
+
 ## Background
 
 {{% columns %}}
@@ -95,8 +99,8 @@ However, the botanical validity of this simple dichotomy has been eroded by two 
 As a result, the cannabis landscape has shifted.
 The insatiable demand for novel cannabinoid blends no longer relies exclusively on careful plant cultivation.
 Instead, isolated cannabinoids can be mixed in precise proportions to produce desired effects, offering a level of customization previously unattainable through traditional growing methods.
-Since the 1986, cannabinoids were hindered by legal ambiguity.[^rubin2023]
-After the 2018 Farm Bill, many interesting cannabinoids became legal.[^shea2024]
+Since 1986, cannabinoids were hindered by legal ambiguity.[^rubin2023]
+After the 2018 Farm Bill, many interesting cannabinoids became legal.
 
 Cannabinoids can be organized into two categories: THC-like and CBD-like.
 In general, the experience of one or more THC-like substances are improved by pairing with one or more CBD-like substances. However, some single cannabinoids are great in isolation.
@@ -104,17 +108,11 @@ In general, the experience of one or more THC-like substances are improved by pa
 ### Euphoriants (THC-like)
 
 - THC (Δ8-THC or Δ9-THC) offers a relaxing body high.
-- HHC (hexahydrocannabinol) feels similar to Δ8-THC, but distributed unevenly across the body. Most of the effect is from the neck up, with some sensation from the waist up. The high is roughly balanced between energizing and relaxing. Weird.
+- HHC (hexahydrocannabinol) feels similar to Δ8-THC, but distributed unevenly across the body. Most of the effect is from the neck up, with some sensation from the waist up. The high is roughly balanced between energizing and relaxing. Weird. 👎
 - THCV (tetrahydrocannabivarin) offers an energizing head high.
+- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers an energizing head high. (More clear, less fuzzy, more present than THCV?).
 
-### Potentiators (CBD-like)
-
-- CBD is the classic potentiator. CBD opens the emotional spigot around the chest.
-- [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. CBD is obsolete. Swap out your CBD for H4CBD.
-- CBDV (cannabidivarin) is believed to support focus, alertness, and overall cognitive function. CBDV is less relaxing than CBD.
-- CBN (cannabinol) is more grounding and less psychoactive than CBD. CBN offers a head high.
-
-## Δ8-THC vs Δ9-THC
+#### Closest Cousins: Δ8-THC vs Δ9-THC
 
 {{% columns %}}
 [![Delta8](delta8thc.webp)](https://en.wikipedia.org/wiki/%CE%94-8-Tetrahydrocannabinol)
@@ -124,7 +122,6 @@ In general, the experience of one or more THC-like substances are improved by pa
 {.center}
 {{% /columns %}}
 
-The subjective experiences are extremely similar.
 The main difference is that Δ8-THC is emotionally soothing while Δ9-THC is emotionally potentiating.
 I might even draw the analogy that Δ8-THC is to psilomethoxin as Δ9-THC is to psilocybin.
 If you haven't tried THC, start with Δ8-THC before trying Δ9-THC.
@@ -132,18 +129,56 @@ If you haven't tried THC, start with Δ8-THC before trying Δ9-THC.
 For occasional use, tolerance half-life seems to be about two days.
 There is likely cross-tolerance because both substances are [CB1](https://en.wikipedia.org/wiki/Cannabinoid_receptor_1) agonists.
 
+#### What happens if you combine energizing and relaxing cannabinoids?
+
+{{% details "Do you get one or the other or both?" %}}
+{{% hint info %}}
+Energy dominates.
+{{% /hint %}}
+{{% /details %}}
+
+### Potentiators (CBD-like)
+
+- CBD is the classic potentiator. CBD opens the emotional spigot around the chest.
+- [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. CBD is largely obsolete. However, consider that H4CBD has a longer duration than CBD which might be good or bad depending on your application.
+- CBDV (cannabidivarin) is believed to support focus, alertness, and overall cognitive function. CBDV is less relaxing than CBD.
+- CBN (cannabinol) is more grounding and less psychoactive than CBD. CBN offers a head high.
+
+## Blends
+
+| Cannabinoids | Ratio | Description and comments |
+| ------------ | ----- | ------------------------ |
+| Δ8-THC:CBD:CBN | 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. Underwelming in a good way. |
+| Δ8-THC:H4CBD | 1:1 | Very beautiful meditative experience. There is a duration mismatch as the H4CBD lasts too long. WIP |
+| Δ8-THC:THCV:CBDV | 4:1:1 | TBD |
+| Δ8-THC:H4CBD:CBC | 47:47:6 | TBD |
+| Δ10-THC:CBG | 1:1 | TBD |
+| HHC:H4CBD:CBC | 47:47:6 | TBD |
+
 ## Cannabinol (CBN) / Acetylated cannabinol (CBN-O)
 
 [![CBN](cannabinol.webp)](https://en.wikipedia.org/wiki/Cannabinol)
 
-CBN (without CBD) is recommmended for sleep.[^bonn-miller2024][^kolobaric2024]
+CBN (without other cannabinoids) is recommmended for sleep.[^bonn-miller2024][^kolobaric2024]
 For sedation and analgesia, CBN can be used daily (seemingly there is no tolerance).
 For this type of use, CBN does not cause the munchies.
 CBN-O is 2-3 times as potent as CBN, but they are otherwise very similar.
 
-What about combining CBN with THC?
-
 CBN used alone has little cross-tolerance with THC.
+
+### Troubleshooting
+
+CBN isn't a panacea.
+If you are in heart-space then the CBN effect is too weak.
+To really enjoy CBN, you need to get to head-space and out of heart-space.
+Kanna is a promising solution.
+Co-administer kanna and CBN.
+Kanna peaks in an hour, just when CBN is coming online.
+
+## Storage
+
+Store acetylated cannabinoids in the refridgerator.
+Everything else is fine at room temperature in a cool, dark place.
 
 ## Hepatotoxicity
 
@@ -152,10 +187,6 @@ CBN used alone has little cross-tolerance with THC.
 ## Pending further self-experimentation
 
 - The effects (if any) of CBG (cannabigerol) are subtle. I haven't figured it out yet. Maybe CBG is great in combination with something else.
-
-## Fellow Travelers
-
-[Cannabinoids with Turkey](https://www.cannabinoidswithturkey.com/) 🦃
 
 ## Notes
 
@@ -172,5 +203,3 @@ CBN used alone has little cross-tolerance with THC.
 [^klein2011]: Klein, C., Karanges, E., Spiro, A., Wong, A., Spencer, J., Huynh, T., ... & McGregor, I. S. (2011). Cannabidiol potentiates Δ9-tetrahydrocannabinol (THC) behavioural effects and alters THC pharmacokinetics during acute and chronic treatment in adolescent rats. *Psychopharmacology, 218,* 443-457.
 
 [^rubin2023]: Rubin, J. S. (2023). *Bizarro: The surreal sage of America's secret war on synthetic drugs and the Florida kingpins it captured.* University of California Press.
-
-[^shea2024]: [The 2018 Farm Bill’s Effect on State Cannabis Laws](https://www.gdldlaw.com/blog/the-2018-farm-bills-effect-on-state-cannabis-laws)
