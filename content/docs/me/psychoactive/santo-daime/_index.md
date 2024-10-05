@@ -98,7 +98,7 @@ Specifically, the mass could benefit from judicious pruning.
 ### Prayers
 
 Some people seem to enjoy using prayer to communicate with a higher power, petition for help, or express gratitude.
-Perhaps I have been traumatized by placebo sacrament religions (and cults) where these activities feel fake to me.[^belief]
+Perhaps I have been traumatized by placebo sacrament religions (and cults) where these activities feel fake.[^belief]
 Another possible purpose for the prayers is to teach about the inner world.
 However, [IFS]({{< relref "ifs" >}}) conveys the same information with greater precision and finesse.
 
