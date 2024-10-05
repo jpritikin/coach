@@ -150,7 +150,7 @@ By washing your hands thoroughly and keeping meat-borne bacteria away from raw f
 
 Another way to look at it is to compare the distress of a bad trip to the potential harms from law enforcement. Here are some potential harms ordered from least disruptive to most severe:
 
-Almost always,[^krebs2013] a bad trip is no worse than *arrest without prosecution*.🔒
+Almost always,[^krebs2013][^berger2024] a bad trip is no worse than *arrest without prosecution*.🔒
 
 <--->
 
@@ -344,3 +344,4 @@ Share your results with a friend.
 
 [^bigwood2024]: Hamilton Morris has a great interview with Jeremy Bigwood released on 2024 Sep 30.
 
+[^berger2024]: An exception or all's well, ends well? [Penile Replantation after Self-Amputation Following Psilocybin-Induced Drug Psychosis](https://megajournalofsurgery.com/wp-content/uploads/2024/09/MJS-79-2016.pdf?utm_source=substack&utm_medium=email)
