@@ -103,6 +103,7 @@ I have first-hand experience with
 *   Mescaline 🌵
 
 In general, I use psychoactive substances as [entheogens](https://en.wikipedia.org/wiki/Entheogen).
+My preferred substances generally align with the opinions of the 1972 Church of the Tree of Life.[^bigwood2024]
 
 ### In film 📽️
 
@@ -340,3 +341,6 @@ Share your results with a friend.
 
 [^krebs2013]: Anecdotal reports suggest a possible link between drug use and serious mental health problems, but it is not clear the degree to which the drug was causal. Said people might have been mentally ill prior to the drug exposure. Correlational studies find no link (Krebs, 2013).  
     - Krebs, T. S., & Johansen, P. Ø. (2013). Psychedelics and mental health: a population study. PloS one, 8(8), e63972.
+
+[^bigwood2024]: Hamilton Morris has a great interview with Jeremy Bigwood released on 2024 Sep 30.
+
