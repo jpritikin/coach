@@ -48,11 +48,11 @@ Another research result, temporary memory impairment, I believe is a true findin
 
 ### Above the Clouds?
 
-In describing how to navigate altered states, there is a certain apt analogy that I have heard from fellow psychonauts. Imagine an airplane sitting motionless on the runway waiting for takeoff. The airplane takes off, rapidly gains altitude, banks hard to change direction, and hits some turbulence. Suppose rain is coming down, there are lightning strikes, and the wind is constantly changing direction. Finally, the airplane breaks upward through the ceiling of the clouds. Although the airspeed keeps increasing, the ride is smooth and the sun is shining gloriously.
+In describing how to navigate altered states, there is a certain apt analogy that I have heard from fellow psychonauts.[^leary1977] Imagine an airplane sitting motionless on the runway waiting for takeoff. The airplane takes off, rapidly gains altitude, banks hard to change direction, and hits some turbulence. Suppose rain is coming down, there are lightning strikes, and the wind is constantly changing direction. Finally, the airplane breaks upward through the ceiling of the clouds. Although the airspeed keeps increasing, the ride is smooth and the sun is shining gloriously.
 
 | airplane      | mental state |
 | ------------- | -----------  |
-| sitting motionless | ordinary, stable |
+| runway | ordinary, stable |
 | climbing           | transitional, unstable |
 | above the clouds   | altered, stable |
 
@@ -150,3 +150,4 @@ There is [at least one case report](https://medium.com/an-idea/meeting-the-shepa
 
 [^prause2021]: Prause, N., Siegle, G. J., & Coan, J. (2021). Partner intimate touch is associated with increased interpersonal closeness, especially in non-romantic partners. *PLOS ONE, 16*(3), e0246065.
 
+[^leary1977]: (Probably) Leary, T. (1977) *Exo-Psychology: A Manual on The Use of the Nervous System According to the Instructions of the Manufacturers.* Los Angeles: Starseed/Peace Press.
