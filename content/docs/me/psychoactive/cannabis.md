@@ -146,14 +146,14 @@ Energy dominates.
 
 ## Blends
 
-| Cannabinoids | Ratio | Description and comments |
-| ------------ | ----- | ------------------------ |
-| Δ8-THC:CBD:CBN | 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. Underwelming in a good way. |
-| Δ8-THC:H4CBD | 1:1 | Very beautiful meditative experience. There is a duration mismatch as the H4CBD lasts too long. WIP |
-| Δ8-THC:THCV:CBDV | 4:1:1 | TBD |
-| Δ8-THC:H4CBD:CBC | 47:47:6 | TBD |
-| Δ10-THC:CBG | 1:1 | TBD |
-| HHC:H4CBD:CBC | 47:47:6 | TBD |
+| Cannabinoids, ratio | Description, comments |
+| ----------------- | ------------------------ |
+| Δ8-THC:CBD:CBN 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. Underwelming in a good way. |
+| Δ8-THC:H4CBD 1:1 | Very beautiful meditative experience. There is a duration mismatch as the H4CBD lasts too long. WIP |
+| Δ8-THC:THCV:CBDV 4:1:1 | TBD |
+| Δ8-THC:H4CBD:CBC 47:47:6 | TBD |
+| Δ10-THC:CBG 1:1 | TBD |
+| HHC:H4CBD:CBC 47:47:6 | TBD |
 
 ## Cannabinol (CBN) / Acetylated cannabinol (CBN-O)
 
