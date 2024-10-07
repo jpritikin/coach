@@ -197,6 +197,28 @@ Daime is sufficient to consummate baptism.
 Daime is a trickster.
 If people want water baptism, why not?
 
+### Dose Adequately
+
+When exploring altered states, a fitting analogy comes to mind, shared by fellow psychonauts.[^leary1977] Imagine an airplane on the runway, poised for takeoff. As it soars, it rapidly gains altitude, banks sharply to change course, and encounters turbulence. Heavy rain pounds against the plane, lightning flashes, and winds shift unpredictably. But then, it breaks through the cloud ceiling. Suddenly, the airspeed increases smoothly, and sunlight illuminates the calm.
+
+We can map this journey onto our mental states:
+
+| airplane      | mental state |
+| ------------- | -----------  |
+| runway             | ordinary, stable |
+| climbing           | transitional, unstable |
+| above the clouds   | altered, stable |
+
+The transitional phase can be uncomfortable. However, there's a simple remedy: adequate dosing.
+
+I have attended some works where it seems like the leader is aiming for the transitional state.
+Why?
+Is the idea for some congregants struggle with meditation?
+What's the point of that?
+Congregants can meditate as much as they want at home without daime.
+
+When I attend a work, I expect to transcend the turmoil and reach the serene heights, at least for one serving. So, I urge leaders: don't be stingy. 
+
 ### Co-signers 🖋️
 
 {{% columns %}}
@@ -239,3 +261,6 @@ Let me know if you would like to add your name here.
 [^macrae1998]: MacRae, E. (1998). Santo Daime and Santa Maria–The licit ritual use of ayabuasca and the illicit use of cannabis in a Brazilian Amazonian religion. *International Journal of Drug Policy, 9*(5), 325-338.
 
 [^weiss2018]: [Everything You Need to Avoid Before You Take Ayahuasca](https://www.vice.com/en/article/pawkek/what-not-to-eat-or-take-before-ayahuasca)
+
+[^leary1977]: (Probably) Leary, T. (1977) *Exo-Psychology: A Manual on The Use of the Nervous System According to the Instructions of the Manufacturers.* Los Angeles: Starseed/Peace Press.
+
