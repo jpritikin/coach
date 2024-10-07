@@ -108,9 +108,8 @@ In general, the experience of one or more THC-like substances are improved by pa
 ### Euphoriants (THC-like)
 
 - THC (Δ8-THC or Δ9-THC) offers a relaxing body high.
+- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers an energizing head high. (More clear, less fuzzy, more present than THCV?). This is what I wanted HHC to be.
 - HHC (hexahydrocannabinol) feels similar to Δ8-THC, but distributed unevenly across the body. Most of the effect is from the neck up, with some sensation from the waist up. The high is roughly balanced between energizing and relaxing. Weird. 👎
-- THCV (tetrahydrocannabivarin) offers an energizing head high.
-- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers an energizing head high. (More clear, less fuzzy, more present than THCV?).
 
 #### Closest Cousins: Δ8-THC vs Δ9-THC
 
@@ -141,18 +140,18 @@ Energy dominates.
 
 - CBD is the classic potentiator. CBD opens the emotional spigot around the chest.
 - [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. CBD is largely obsolete. However, consider that H4CBD has a longer duration than CBD which might be good or bad depending on your application.
-- CBDV (cannabidivarin) is believed to support focus, alertness, and overall cognitive function. CBDV is less relaxing than CBD.
 - CBN (cannabinol) is more grounding and less psychoactive than CBD. CBN offers a head high.
+- CBG (cannabigerol) is a great potentiator for energy blends. However, taken alone, I don't notice any effect from it.
 
 ## Blends
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
 | Δ8-THC:CBD:CBN 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. Underwelming in a good way. |
+| Δ10-THC:CBG 1:1 | So far, the best work blend. Super clear-headed stimulating head-high. The stereotypical cannabis memory impairment is present, but not too severe, just a touch. WIP explore tolerance, ratio |
 | Δ8-THC:H4CBD 1:1 | Very beautiful meditative experience. There is a duration mismatch as the H4CBD lasts too long. WIP |
-| Δ8-THC:THCV:CBDV 4:1:1 | TBD |
+| Δ8-THC:THCV:CBDV 4:1:1 | TBD: Compare with Δ10-THC:CBG |
 | Δ8-THC:H4CBD:CBC 47:47:6 | TBD |
-| Δ10-THC:CBG 1:1 | TBD |
 | HHC:H4CBD:CBC 47:47:6 | TBD |
 
 ## Cannabinol (CBN) / Acetylated cannabinol (CBN-O)
@@ -178,15 +177,11 @@ Kanna peaks in an hour, just when CBN is coming online.
 ## Storage
 
 Store acetylated cannabinoids in the refridgerator.
-Everything else is fine at room temperature in a cool, dark place.
+Other cannabinoids will probably be happier in the refridgerator too.
 
 ## Hepatotoxicity
 
 - CBD: Less than 300 mg/day is safe.[^lo2023]
-
-## Pending further self-experimentation
-
-- The effects (if any) of CBG (cannabigerol) are subtle. I haven't figured it out yet. Maybe CBG is great in combination with something else.
 
 ## Notes
 
