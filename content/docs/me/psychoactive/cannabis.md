@@ -109,7 +109,7 @@ In general, the experience of one or more THC-like substances are improved by pa
 ### Euphoriants (THC-like)
 
 - THC (Δ8-THC or Δ9-THC) offers a relaxing body high.
-- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers an energizing head high. (More clear, less fuzzy, more present than THCV?). This is what I wanted HHC to be.
+- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers an energizing head high. (More clear, less fuzzy, more present than THCV?).
 - HHC (hexahydrocannabinol) feels similar to Δ8-THC, but distributed unevenly across the body. Most of the effect is from the neck up, with some sensation from the waist up. The high is roughly balanced between energizing and relaxing. Weird. 👎
 
 #### Closest Cousins: Δ8-THC vs Δ9-THC
@@ -134,6 +134,8 @@ There is likely cross-tolerance because both substances are [CB1](https://en.wik
 {{% details "Do you get one or the other or both?" %}}
 {{% hint info %}}
 Energy dominates.
+
+Also, tolerance can be different for different components of a blend. So energy blends can feel especially weird if you don't wait long enough for the tolerance to wear off.
 {{% /hint %}}
 {{% /details %}}
 
@@ -149,7 +151,7 @@ Energy dominates.
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
 | Δ8-THC:CBD:CBN 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. Underwelming in a good way. |
-| Δ10-THC:CBG 1:1 | So far, the best work blend. Super clear-headed stimulating head-high. The stereotypical cannabis memory impairment is present, but not too severe, just a touch. WIP explore tolerance, ratio |
+| Δ10-THC:CBG 1:1 | So far, the best work blend. Super clear-headed stimulating head-high. The stereotypical cannabis memory impairment is present, but not too severe, just a touch. WIP explore ratio |
 | Δ8-THC:H4CBD 1:1 | Very beautiful meditative experience. There is a duration mismatch as the H4CBD lasts too long. WIP |
 | Δ8-THC:THCV:CBDV 4:1:1 | TBD: Compare with Δ10-THC:CBG |
 | Δ8-THC:H4CBD:CBC 47:47:6 | TBD |
