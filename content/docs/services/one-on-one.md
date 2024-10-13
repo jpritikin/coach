@@ -20,12 +20,9 @@ During the no-fee consultation, we’ll decide together what is the best fit. �
 
 ### Couples & Dyads
 
-I plead that you regard 90-minute sessions as a **minimum** duration.
+As a default, I recommend 90-minute sessions every week.
 {{% details "Why? 😠" %}}
 There is a lot of per-session overhead.
-At the beginning of every session, we need to negotiate what to work on.
-At the end of every session, I will solicit your feedback so we can plan the next session.
-The intro and outro sections together can take 30 minutes or more. ⏳
 Add to that that couples counseling is extremely delicate. 🦋🐝
 To work safely, we have to progress slowly, with great caution.
 {{% /details %}}
