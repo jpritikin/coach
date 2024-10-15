@@ -145,17 +145,24 @@ Also, tolerance can be different for different components of a blend. So energy 
 - [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. CBD is largely obsolete. However, consider that H4CBD has a longer duration than CBD which might be good or bad depending on your application.
 - CBN (cannabinol) is more grounding and less psychoactive than CBD. CBN offers a head high.
 - CBG (cannabigerol) is a great potentiator for energy blends. However, taken alone, I don't notice any effect from it.
+- CBC (cannabichromene) seems to provide too much emotional stability. It's not unpleasant, but blocks the more subtle effects of H4CBD. Maybe it has something to offer in other blends?
 
 ## Blends
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
 | Δ8-THC:CBD:CBN 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. Underwelming in a good way. |
-| Δ10-THC:CBG 1:1 | So far, the best work blend. Super clear-headed stimulating head-high. The stereotypical cannabis memory impairment is present, but not too severe, just a touch. WIP explore ratio |
+| Δ10-THC:CBG 1:1 | So far, the best work blend. Super clear-headed stimulating head-high. Just a touch scatterbrained. WIP explore ratio |
 | Δ8-THC:H4CBD 1:1 | Very beautiful meditative experience. There is a duration mismatch as the H4CBD lasts too long. WIP |
+
+### Experimentation Log
+
+| Cannabinoids, ratio | Description, comments |
+| ----------------- | ------------------------ |
+| Δ8-THC:H4CBD:CBC 46:46:8 | CBC seems to block the unique effects of H4CBD. |
+| Δ8-THC:Δ10-THC:H4CBD 1:1:2 | Δ10-THC seems to dominate Δ8-THC. H4CBD feels like CBD.  |
 | Δ8-THC:THCV:CBDV 4:1:1 | TBD: Compare with Δ10-THC:CBG |
-| Δ8-THC:H4CBD:CBC 47:47:6 | TBD |
-| HHC:H4CBD:CBC 47:47:6 | TBD |
+| HHC:H4CBD 1:1 | TBD |
 
 ## Cannabinol (CBN) / Acetylated cannabinol (CBN-O)
 
