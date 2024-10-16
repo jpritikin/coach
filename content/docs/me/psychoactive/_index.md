@@ -93,13 +93,14 @@ Me with [Padrinho Jonathan Goldman](https://casetext.com/case/church-of-holy-lig
 
 I have first-hand experience with
 
-*   Psilocybin 🍄
-*   Salvia divinorum
 *   Cannabis
+*   Kanna (Sceletium tortuosum extract)
 *   Daime (a.k.a. ayahuasca) 🍵
 *   Piper methysticum a.k.a. [kava](https://www.kavacoalition.org/blog/introduction-to-kavalactones-part-1) ([kavain, dihydrokavain](https://www.kavacoalition.org/blog/introduction-to-kavalactones-part-2), [methysticin, dihydromethysticin](https://www.kavacoalition.org/blog/introduction-to-kavalactones-part-3), [yangonin, and desmethoxyyangonin](https://www.kavacoalition.org/blog/introduction-to-kavalactones-part-4)). Probably safer than hypnotics?[^kripke2012]
-*   Sceletium tortuosum (kanna)
+*   [Muscimol](https://en.wikipedia.org/wiki/Muscimol) (Amanita muscaria extract) 🍄
 *   Psilomethoxin ([orally active 5-methoxy-N,N-dimethyltryptamine](https://www.youtube.com/watch?v=SeROOGFnwek)) 🐸
+*   Psilocybin
+*   Salvia divinorum
 *   Mescaline 🌵
 
 In general, I use psychoactive substances as [entheogens](https://en.wikipedia.org/wiki/Entheogen).
