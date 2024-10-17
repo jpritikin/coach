@@ -268,14 +268,14 @@ Credit: Carhart-Harris & Nutt, 2017, Figure 3
 
 Until recently, MDMA and 5-MeO-DMT were the popular choices believed to modulate 5-HT1A activity.
 5-MeO-DMT directly modulates the 5-HT1A receptor, but MDMA influences it indirectly.
-MDMA seems to influence the 5-HT1A receptor by
-its ability to release serotonin (biology is complicated[^ray2010]).
-The subjective effects of these substances are more or less different, but the main advantage of [psilomethoxin]({{< relref "psilomethoxin-case-report" >}}) is that it is currently unregulated, well suited to low dosages, and [easy to obtain]({{< relref "psilomethoxin" >}}).
+MDMA seems to influence the 5-HT1A receptor by its ability to release serotonin (biology is complicated[^ray2010]).
+[Psilomethoxin]({{< relref "psilomethoxin-case-report" >}}) is a relatively new substance believed to offer roughly comparable subjective effects.
+The main advantage of psilomethoxin is that it is unregulated, well suited to low dosages, and [easy to obtain]({{< relref "psilomethoxin" >}}).
 
 #### Serotonin 2A
 
 Daime or Ayahuasca, a serotonin 2A agonist, does not spotlight any particular emotion but affectively amplifies in a pure or unbiased way.
-Initial use of 5-HT1A psychedelics or cannabis can be seen as preparatory, akin to training wheels.
+Initial use of 5-HT1A psychedelics can be seen as preparatory, akin to training wheels.
 If 5-HT1A is likened to vanilla ice cream, 5-HT2A offers a vast array of flavors.
 
 Unaided, [effortless meditation]({{< relref "effortlessness" >}}) is precarious in the sense that we can not entertain targets that prompt much Part involvement.
@@ -283,10 +283,6 @@ This is where Daime can pick up the slack.
 Daime can facilitate Self energy in environments that require effortful participation.
 For example, in [Santo Daime]({{< relref "santo-daime" >}}) ceremonies, everybody is expected to sing 🎶 and dance.
 It seems unlikely to me that members would often enjoy much Self energy without the help of the psychedelic sacrament.
-
-{{% hint info %}}
-Daime is the holy ghost. 👻😇
-{{% /hint %}}
 
 ### On Alan W. Watts 🔬
 
