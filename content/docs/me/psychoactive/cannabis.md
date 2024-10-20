@@ -149,18 +149,27 @@ Also, tolerance can be different for different components of a blend. So energy 
 
 ## Blends
 
+### Favorites
+
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
 | Δ8-THC:CBD:CBN 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. Underwelming in a good way. |
-| Δ10-THC:CBG 1:1 | So far, the best work blend. Super clear-headed stimulating head-high. Just a touch scatterbrained. WIP explore ratio |
+| Δ10-THC:CBG 1:1 | Super clear-headed stimulating head-high. Just a touch scatterbrained. WIP explore ratio |
 | Δ8-THC:H4CBD 1:1 | Very beautiful meditative experience. There is a duration mismatch as the H4CBD lasts too long. WIP |
 
 ### Experimentation Log
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ8-THC:H4CBD:CBC 46:46:8 | CBC seems to block the unique effects of H4CBD. |
-| Δ8-THC:Δ10-THC:H4CBD 1:1:2 | Δ10-THC seems to dominate Δ8-THC. H4CBD feels like CBD.  |
+| Δ8-THC:H4CBD:CBC 46:46:8 | CBC seems to block the unique effects of H4CBD. 👎🏼 |
+| Δ8-THC:Δ10-THC:H4CBD 1:1:2 | Δ10-THC seems to dominate Δ8-THC. H4CBD feels like CBD. 👎🏼 |
+| Δ8-THC:H4CBD 1:2 | Less spacious compared to 1:1 ratio. Sleepy. Feels fairly sober when walking around, but easy to get absorbed in meditation. Remarkably similar to 1g psilomethoxin. 🤔 |
+
+### Experimentation Agenda
+
+| Cannabinoids, ratio | Description, comments |
+| ----------------- | ------------------------ |
+| Δ8-THC:H4CBD 3:2 | TBD |
 | Δ8-THC:THCV:CBDV 4:1:1 | TBD: Compare with Δ10-THC:CBG |
 | HHC:H4CBD 1:1 | TBD |
 
