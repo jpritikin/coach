@@ -153,9 +153,10 @@ Also, tolerance can be different for different components of a blend. So energy 
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ8-THC:CBD:CBN 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. Underwelming in a good way. |
-| Δ10-THC:CBG 1:1 | Super clear-headed stimulating head-high. Just a touch scatterbrained. WIP explore ratio |
+| Δ8-THC:H4CBD 2:1 | Holy mole! **Very very beautiful** ♥️ |
 | Δ8-THC:H4CBD 1:1 | Very beautiful meditative experience. There is a duration mismatch as the H4CBD lasts too long. WIP |
+| Δ8-THC:CBD:CBN 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. Underwelming in a good way. 🤙🏼 |
+| Δ10-THC:CBG 1:1 | Super clear-headed stimulating head-high. Just a touch scatterbrained. WIP explore ratio |
 
 ### Experimentation Log
 
@@ -169,9 +170,8 @@ Also, tolerance can be different for different components of a blend. So energy 
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ8-THC:H4CBD 3:2 | TBD |
 | Δ8-THC:THCV:CBDV 4:1:1 | TBD: Compare with Δ10-THC:CBG |
-| HHC:H4CBD 1:1 | TBD |
+| HHC:H4CBD 2:1 | TBD |
 
 ## Cannabinol (CBN) / Acetylated cannabinol (CBN-O)
 
