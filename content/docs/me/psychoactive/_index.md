@@ -236,7 +236,7 @@ Best of all, Δ8-THC can be produced legally from hemp.
 You might start with 20 mg each of Δ8-THC and CBD.
 
 The euphoria induced by cannabis is both a benefit and a potential limitation.
-While euphoria may be appealing to beginners, the greater art is in exploring a fuller spectrum 🌈 of emotion.
+While euphoria may be appealing to beginners, the greater art is in taking more of an active role in shaping the experience.
 Once comfortable with cannabis, I suggest exploring serotonergic psychedelics.
 
 ### Serotonin
@@ -283,6 +283,14 @@ This is where Daime can pick up the slack.
 Daime can facilitate Self energy in environments that require effortful participation.
 For example, in [Santo Daime]({{< relref "santo-daime" >}}) ceremonies, everybody is expected to sing 🎶 and dance.
 It seems unlikely to me that members would often enjoy much Self energy without the help of the psychedelic sacrament.
+
+### Volition
+
+I talk about cannabinoids and serotonergics in this order to respect the degree of volition required to enjoy them.
+Cannabis demands minimal active engagement - it is comparable to riding [It's a Small World](https://en.wikipedia.org/wiki/It%27s_a_Small_World) at Disneyland, where one simply straps in and allows the experience to unfold.
+Psilomethoxin requires some facility with meditation or inner focus, though once in the groove, the experience largely guides itself.
+Daime, however, demands substantial volition.
+Daime prompts you to both control the environment and navigate simultaneously - akin to surfing but where it is your responsibility to shape the wave as well as ride it.
 
 ### On Alan W. Watts 🔬
 
