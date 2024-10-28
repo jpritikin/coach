@@ -142,10 +142,15 @@ Also, tolerance can be different for different components of a blend. So energy 
 ### Potentiators (CBD-like)
 
 - CBD is the classic potentiator. CBD opens the emotional spigot around the chest.
-- [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. CBD is largely obsolete. However, consider that H4CBD has a longer duration than CBD which might be good or bad depending on your application.
-- CBN (cannabinol) is more grounding and less psychoactive than CBD. CBN offers a head high.
+- [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. CBD is largely obsolete. However, consider that H4CBD has a longer duration than CBD which might be good or bad depending on your application. H4CBD causes the muchies mostly when it is wearing off during which it feels like regular CBD.
+- CBN (cannabinol) is more grounding than CBD. CBN offers a relaxing head high. Does not cause the munchies.
 - CBG (cannabigerol) is a great potentiator for energy blends. However, taken alone, I don't notice any effect from it.
 - CBC (cannabichromene) seems to provide too much emotional stability. It's not unpleasant, but blocks the more subtle effects of H4CBD. Maybe it has something to offer in other blends?
+
+#### Head-Heart Axis
+
+CBN (head) and CBD (heart) are at opposite ends of the relaxing head-heart axis.
+If you combine them 50/50 then they mostly cancel out and you get a remarkably ordinary sensation.
 
 ## Blends
 
@@ -165,13 +170,16 @@ Also, tolerance can be different for different components of a blend. So energy 
 | Δ8-THC:H4CBD:CBC 46:46:8 | CBC seems to block the unique effects of H4CBD. 👎🏼 |
 | Δ8-THC:Δ10-THC:H4CBD 1:1:2 | Δ10-THC seems to dominate Δ8-THC. H4CBD feels like CBD. 👎🏼 |
 | Δ8-THC:H4CBD 1:2 | Less spacious compared to 1:1 ratio. Sleepy. Feels fairly sober when walking around, but easy to get absorbed in meditation. Remarkably similar to 1g psilomethoxin. 🤔 |
+| Δ8-THC:CBN-O 38:62 | Beautiful relaxing head-high. Not conducive to sleep. A bit prone to anxiety. 🤔 |
 
 ### Experimentation Agenda
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ8-THC:THCV:CBDV 4:1:1 | TBD: Compare with Δ10-THC:CBG |
-| HHC:H4CBD 2:1 | TBD |
+| Δ8-THC:THCV:CBDV 4:1:1 | Compare with Δ10-THC:CBG |
+| HHC:H4CBD 2:1 | Does H4CBD shine like with Δ8-THC? |
+| Δ10-THC:CBN-O 1:3 | Less anxiety prone than Δ8-THC? |
+| Δ8-THC:CBD:CBN | Maybe explore CBD/CBN ratios |
 
 ## Cannabinol (CBN) / Acetylated cannabinol (CBN-O)
 
