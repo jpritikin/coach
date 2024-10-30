@@ -8,9 +8,9 @@ bookToc: false
 
 <div class="main-carousel"
     data-flickity='{ "cellAlign": "center", "contain": true, "wrapAround": true, "autoPlay": 15000, "setGallerySize": false }' >
+<div class="carousel-cell"><img class="carousel-cell-image" src="self-portrait.webp" alt="Self portrait" /></div>
 <div class="carousel-cell"><img class="carousel-cell-image" src="animal_couple.webp" alt="Couples counseling" /></div>
 <div class="carousel-cell"><img class="carousel-cell-image" src="multitude_of_stories_within_the_head2.webp" alt="Multitude of stories within the head" /></div>
-<div class="carousel-cell"><img class="carousel-cell-image" src="multitude_of_stories_within_the_head1.webp" alt="Multitude of stories within the head" /></div>
 </div>
 
 Credit: Midjourney
