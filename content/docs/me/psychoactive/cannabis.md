@@ -169,8 +169,9 @@ If you combine them 50/50 then they mostly cancel out and you get a remarkably o
 | ----------------- | ------------------------ |
 | Δ8-THC:H4CBD:CBC 46:46:8 | CBC seems to block the unique effects of H4CBD. 👎🏼 |
 | Δ8-THC:Δ10-THC:H4CBD 1:1:2 | Δ10-THC seems to dominate Δ8-THC. H4CBD feels like CBD. 👎🏼 |
-| Δ8-THC:H4CBD 1:2 | Less spacious compared to 1:1 ratio. Sleepy. Feels fairly sober when walking around, but easy to get absorbed in meditation. Remarkably similar to 1g psilomethoxin. 🤔 |
-| Δ8-THC:CBN-O 38:62 | Beautiful relaxing head-high. Not conducive to sleep. A bit prone to anxiety. 🤔 |
+| Δ8-THC:H4CBD 1:2 | Less spacious compared to 1:1 ratio. Sleepy. Feels fairly sober when walking around, but easy to get absorbed in meditation. Remarkably similar to 0.5g-1g psilomethoxin. 🤔 |
+| Δ8-THC:CBN-O 38:62 | Beautiful relaxing, sparkling head-high. Not conducive to sleep. A bit prone to anxiety. 🤔 |
+| HHC:CBN-O 1:2 | Not as relaxing, light, and sparkly as Δ8-THC:CBN-O. Not a headache, but some tension in the head and chest. Not great for sleep. 👎🏼 |
 
 ### Experimentation Agenda
 
