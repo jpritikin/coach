@@ -219,18 +219,9 @@ Congregants can meditate as much as they want at home without daime.
 
 When I attend a work, I expect to transcend the turmoil and reach the serene heights, at least for one serving. So, I urge leaders: don't be stingy. 
 
-### Co-signers 🖋️
-
-{{% columns %}}
+### Status
 
 ![Waiting](wait.webp)
-
-<--->
-
-Want to see these changes happen?
-Let me know if you would like to add your name here.
-
-{{% /columns %}}
 
 ## Notes
 
