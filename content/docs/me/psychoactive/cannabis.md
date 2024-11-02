@@ -108,9 +108,12 @@ In general, the experience of one or more THC-like substances are improved by pa
 
 ### Euphoriants (THC-like)
 
-- THC (Δ8-THC or Δ9-THC) offers a relaxing body high.
-- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers an energizing head high. (More clear, less fuzzy, more present than THCV?).
+- THC (Δ8-THC or Δ9-THC) offers a relaxing high.
+- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers an energizing head high.
 - HHC (hexahydrocannabinol) feels similar to Δ8-THC, but distributed unevenly across the body. Most of the effect is from the neck up, with some sensation from the waist up. The high is roughly balanced between energizing and relaxing. Weird. 👎
+
+My tentative take is that there are not that many real choices for euphoriants.
+There are substances with different potency and duration, but most of the variety in subjective effect is obtained through pairing with potentiators.
 
 #### Closest Cousins: Δ8-THC vs Δ9-THC
 
@@ -160,7 +163,7 @@ If you combine them 50/50 then they mostly cancel out and you get a remarkably o
 | ----------------- | ------------------------ |
 | Δ8-THC:H4CBD 2:1 | Holy mole! **Very very beautiful** ♥️ |
 | Δ8-THC:H4CBD 1:1 | Very beautiful meditative experience. There is a duration mismatch as the H4CBD lasts too long. WIP |
-| Δ8-THC:CBD:CBN 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. Underwelming in a good way. 🤙🏼 |
+| Δ8-THC:CBD:CBN 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. Underwelming in a good way. Good for sleep. 🤙🏼 |
 | Δ10-THC:CBG 1:1 | Super clear-headed stimulating head-high. Just a touch scatterbrained. WIP explore ratio |
 
 ### Experimentation Log
@@ -172,14 +175,14 @@ If you combine them 50/50 then they mostly cancel out and you get a remarkably o
 | Δ8-THC:H4CBD 1:2 | Less spacious compared to 1:1 ratio. Sleepy. Feels fairly sober when walking around, but easy to get absorbed in meditation. Remarkably similar to 0.5g-1g psilomethoxin. 🤔 |
 | Δ8-THC:CBN-O 38:62 | Beautiful relaxing, sparkling head-high. Not conducive to sleep. A bit prone to anxiety. 🤔 |
 | HHC:CBN-O 1:2 | Not as relaxing, light, and sparkly as Δ8-THC:CBN-O. Not a headache, but some tension in the head and chest. Not great for sleep. 👎🏼 |
+| Δ10-THC:CBN 1:1 | Not as shit as HHC:CBN-O, but nothing special. 👎🏼 |
+| Δ8-THC:CBN-O 25:30 | Beautiful relaxing head-high. Works even if CBN was used on the prior evening. CBN is sensitive to time-of-day effects (night good, day bad). 🤔 |
 
 ### Experimentation Agenda
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
 | Δ8-THC:THCV:CBDV 4:1:1 | Compare with Δ10-THC:CBG |
-| HHC:H4CBD 2:1 | Does H4CBD shine like with Δ8-THC? |
-| Δ10-THC:CBN-O 1:3 | Less anxiety prone than Δ8-THC? |
 | Δ8-THC:CBD:CBN | Maybe explore CBD/CBN ratios |
 
 ## Cannabinol (CBN) / Acetylated cannabinol (CBN-O)
