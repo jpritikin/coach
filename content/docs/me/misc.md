@@ -35,13 +35,20 @@ H. L. Mencken defined Puritanism as "the haunting fear that someone, somewhere, 
 - https://www.prisonpolicy.org/
 - https://solitarywatch.org/
 
-## Environment
+## Nuclear
 
+Nuclear power is a great idea if you believe we can avoid [Murphy's law](https://en.wikipedia.org/wiki/Murphy%27s_law) for about 100,000 years.
+
+- [Dirty Secrets of Nuclear Power in an Era of Climate Change](https://link.springer.com/book/10.1007/978-3-031-59595-0)
+- [The Big Secret in the Academy Is That Most Research Is Secret](https://www.aaup.org/article/big-secret-academy-most-research-secret#.ZFOvAC1h0Rb)
 - https://beyondnuclear.org/
-- https://www.beyondpesticides.org/
-- https://chej.org/
 - https://www.nirs.org/
 - https://nuclearhotseat.com/
+
+## Environment
+
+- https://www.beyondpesticides.org/
+- https://chej.org/
 
 ## Aligned Goals
 
