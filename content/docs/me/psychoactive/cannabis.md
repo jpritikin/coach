@@ -146,9 +146,10 @@ Also, tolerance can be different for different components of a blend. So energy 
 
 - CBD is the classic potentiator. CBD opens the emotional spigot around the chest.
 - [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. CBD is largely obsolete. However, consider that H4CBD has a longer duration than CBD which might be good or bad depending on your application. H4CBD causes the muchies mostly when it is wearing off during which it feels like regular CBD.
-- CBN (cannabinol) is more grounding than CBD. CBN offers a relaxing head high. Does not cause the munchies.
+- CBN (cannabinol) offers a relaxing head high. Does not cause the munchies.
 - CBG (cannabigerol) is a great potentiator for energy blends. However, taken alone, I don't notice any effect from it.
 - CBC (cannabichromene) seems to provide too much emotional stability. It's not unpleasant, but blocks the more subtle effects of H4CBD. Maybe it has something to offer in other blends?
+- CBDV (cannabidivarin) holds the heart steady while allowing a head high. A bit stimulating, but not incompatible with relaxation.
 
 #### Head-Heart Axis
 
@@ -161,8 +162,8 @@ If you combine them 50/50 then they mostly cancel out and you get a remarkably o
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
+| Δ8-THC:CBN-O:CBDV 37:12:6 | **Very beautiful** ♥️ No munchies. No uncomfortable CBD feeling as it wears off. |
 | Δ8-THC:H4CBD 2:1 | Holy mole! **Very very beautiful** ♥️ |
-| Δ8-THC:H4CBD 1:1 | Very beautiful meditative experience. There is a duration mismatch as the H4CBD lasts too long. WIP |
 | Δ8-THC:CBD:CBN 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. Underwelming in a good way. Good for sleep. 🤙🏼 |
 | Δ10-THC:CBG 1:1 | Super clear-headed stimulating head-high. Just a touch scatterbrained. WIP explore ratio |
 
@@ -177,13 +178,15 @@ If you combine them 50/50 then they mostly cancel out and you get a remarkably o
 | HHC:CBN-O 1:2 | Not as relaxing, light, and sparkly as Δ8-THC:CBN-O. Not a headache, but some tension in the head and chest. Not great for sleep. 👎🏼 |
 | Δ10-THC:CBN 1:1 | Not as shit as HHC:CBN-O, but nothing special. 👎🏼 |
 | Δ8-THC:CBN-O 25:30 | Beautiful relaxing head-high. Works even if CBN was used on the prior evening. CBN is sensitive to time-of-day effects (night good, day bad). 🤔 |
+| Δ8-THC:H4CBD 1:1 | Beautiful meditative experience. However, there is a duration mismatch as the H4CBD lasts too long. 🤔 |
 
 ### Experimentation Agenda
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
+| Δ8-THC:CBN-O:? | How best to anchor the Δ8-THC:CBN-O experience? |
+| Δ8-THC:H4CBD:CBN-O 4:1:1 | Compare with Δ8-THC:CBD:CBN 4:1:1 |
 | Δ8-THC:THCV:CBDV 4:1:1 | Compare with Δ10-THC:CBG |
-| Δ8-THC:CBD:CBN | Maybe explore CBD/CBN ratios |
 
 ## Cannabinol (CBN) / Acetylated cannabinol (CBN-O)
 
