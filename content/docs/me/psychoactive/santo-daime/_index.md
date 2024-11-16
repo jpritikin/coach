@@ -48,10 +48,11 @@ On one hand, recommendations largely align with a [whole food plant-based diet](
 It's a good idea to eat healthy food.
 On the other hand, tyramine should be avoided due to potentially dangerous interactions.[^weiss2018]
 However, the issue is not limited to tyramine.
-Vegans need to know that the pharmacodynamics of Daime are vividly affected by protein consumption.
-Instead of experiencing a pleasantly strong subjective effect for about two hours, protein buffers the force of the Daime.
+Vegans need to know that the pharmacodynamics of Daime are vividly affected by insoluable [fiber](/posts/fiber-is-not-fibrous/).
+Fruits high in insoluable fiber include pineapple, banana, and avocado.
+Instead of experiencing a pleasantly strong subjective effect for about two hours, insoluable fiber buffers the force of the Daime.
 Consequently, participants may feel little (mostly sober) for much of the time, followed by an unpleasantly strong, brief burst of Daime after 1-2 hours.
-To mitigate this effect, it's only necessary to minimize protein intake about 8-12 hours prior to the ceremony.
+To mitigate this effect, it's only necessary to minimize insoluable fiber intake about 8-12 hours prior to the ceremony.
 
 ### Lyrics
 
