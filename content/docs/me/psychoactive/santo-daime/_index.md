@@ -91,10 +91,41 @@ So why don't we do it (more) in Santo Daime?
 
 ### Rosary 👎🏼
 
-Abolish the rosary. 📿
-It's so boring that the leader sometimes loses track of which prayer to say next.
-In general, minimize prayer repetition.
-Specifically, the mass could benefit from judicious pruning.
+Abolish the rosary 📿. In general, minimize prayer repetition.
+
+Similarly, the mass could benefit from judicious pruning.
+
+To try to even understand why people continue to recite the rosary, I asked ChatGPT to [steelman](https://en.wikipedia.org/wiki/Straw_man#Steelmanning) the argument for group recitation of the rosary (for a skeptic). Here's the list from ChatGPT and my comments:
+
+- Personal Growth
+
+  - **Time for Personal Reflection**: Yes, it's a time for the mind to wander. People can become so habituated to the prayer that they can recite it on automatic and think about something else entirely. Not great.[^stone1998]
+
+  - **Teaches Discipline Through Repetition**: I suppose the rosary could help cultivate patience and discipline, unless your mind is wandering the whole time.
+
+  - **Form of Mindfulness**: The repetitive prayers can serve as an anchor, much like a mantra, helping participants maintain a sense of presence. Does the rosary really provide any unique benefit in this capacity beyond what the Daime already offers?
+
+  - **Growth Through Discomfort**: An unfamiliar or unappealing activity can challenge personal comfort zones and encourage growth. However, the rosary is such an insipid challenge compared to drinking Daime.
+
+- Group Dynamic
+
+  - **Shared Sacrifice**: Participating in a group activity that does not align with one’s preferences shows solidarity and respect for others’ values. However, the Santo Daime already has a heavy emphasis on conformity. I think we can do conformity without the [grima](https://en.wikipedia.org/wiki/Chalkboard_scraping) of the rosary.
+
+- Compare to Hymns
+
+  - **Reflection on Core Life Themes**: Sure, but so do the hymns. Not clear what benefit the rosary offers beyond what the hymns offer.
+
+  - **Spiritual and Emotional Workout**: The act of participating, even when it feels monotonous, cultivates inner strength and perseverance. Granted, but it is not clear what benefit the rosary offers beyond what the hymns offer.
+
+  - **Sense of Solidarity Strengthens Community Through Shared Effort**: Not clear what benefit the rosary offers beyond what the hymns offer.
+
+- Obsolete
+
+  - **Tradition as a Link to Culture and History**: Maybe the rosary was important historically to lend credibility to the Santo Daime and protect its use of Daime from condemnation by the Christian church.[^muraresku2020] Given that the Brazilian government formally recognised the Santo Daime as a religion in 1986, I think we are well beyond the point where the rosary is justified for this reason.
+
+  - **Accessible to All, Regardless of Background**: Granted, but we already require everybody to learn Portuguese. Accessibility does not seem to be a high priority for the Santo Daime.
+
+  - **Fosters Calm and Focus**: Granted, but the whole setting of the work is designed to create a meditative atmosphere. To do something mildly irritating like rosary recitation seems more antagonistic to calm than supportive.
 
 ### Prayers
 
@@ -256,3 +287,4 @@ When I attend a work, I expect to transcend the turmoil and reach the serene hei
 
 [^leary1977]: (Probably) Leary, T. (1977) *Exo-Psychology: A Manual on The Use of the Nervous System According to the Instructions of the Manufacturers.* Los Angeles: Starseed/Peace Press.
 
+[^stone1998]: [Continuous Partial Attention](https://en.wikipedia.org/wiki/Continuous_partial_attention)
