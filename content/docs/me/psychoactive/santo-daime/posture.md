@@ -140,13 +140,15 @@ poses that miss opportunities to improve the conductivity of reverence.
 - Palm facing ceiling
 
 Variations:
-- Both arms ("double umbrella"?)
+- Both arms ("double umbrella"?). This is a great complement to The Lord's Prayer.
 - Different angle (shoulder joint can rotate about 90 degrees so play with that)
 
 Of course, it is challenging to keep an arm (or arms) elevated for a long duration,
 but five minutes is feasible.
 
 ### Pose: Feather ruffle 🪶
+
+Of course this is only feasible if you aren't holding anything in your hands.
 
 | sitting | evaluation |
 |---|---|
@@ -161,6 +163,9 @@ The wrist extension prevents my hands from touching my arms or the shirt.
 Variation: Straighten the elbow joint and face the palms toward the floor with the wrists crossed.
 
 ### Pose: Classical worship
+
+This is not really feasible to do in practice.
+I include it here mainly to connect with tradition.
 
 | sitting | standing | evaluation |
 |---|---|---|
@@ -227,6 +232,7 @@ In the concept image, there is a flower superimposed over my arm/hand.
 Moving the fingers is like wiggling the petals.
 
 Variation: By relaxing the humerus to a more neutral position, this gesture becomes a one-armed version of the [Añjali Mudrā](https://en.wikipedia.org/wiki/A%C3%B1jali_Mudr%C4%81).
+It would look super cool if the whole congregation could coordinate on this gesture.
 
 {{% hint info %}}
 Wide acceptance of the two-handed Añjali Mudrā is based on a misinterpretation.
@@ -246,7 +252,14 @@ Two people together assembling the Añjali Mudrā with one hand each is the gest
 - Wrist and pinky extension
 - Palm facing perpendicular to the center of the salão
 
+Variation: This posture is great for dancing works, but it can also be used when standing in non-dancing works.
+If you face the center while your body is turned 90 degrees off center then you can also incorporate spine extension and hold the book in such a way as to obtain wrist extension (c.f., Holding a Flower).
+It would look super cool if the whole congregation could coordinate on this stance, including the direction of the 90 degree turn.
+We could flip orientations (chest facing left or right) between verses or hymns!
+
 ### Pose: Hands with opposite twist
+
+Not sure where to incorporate this into a work...
 
 | Closed | Open | evaluation |
 |---|---|---|
@@ -261,7 +274,7 @@ The `open` and `closed` variations just indicate whether the palms are facing or
 ## Status
 
 Even without group consensus,
-I use variations of umbrella, feather ruffle, holding a flower, and shark fin in almost every work.
+I use variations of umbrella, holding a flower, and shark fin in almost every work.
 These gestures are innocuous and do not prompt correction from the guardians.
 
 ## Parody?
