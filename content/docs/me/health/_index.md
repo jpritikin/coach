@@ -38,6 +38,9 @@ An easy way to learn more about nutrition is to watch some outstanding feature d
 {{% details "You Are What You Eat: A Twin Experiment (2024)" %}}
 [![Twin Experiment](twin-experiment.webp)](https://www.imdb.com/title/tt30386970/)
 {{< /details >}}
+{{% details "Christspiracy (2024)" %}}
+[![Christspiracy](christspiracy.webp)](https://christspiracy.com/)
+{{< /details >}}
 
 🎥
 
