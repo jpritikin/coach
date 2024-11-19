@@ -54,14 +54,14 @@ Drink more daime. 🍵
 
 The analogy that I am trying to invoke is with electrical current
 or water flowing through a pipe. 🌊 Here, the substance that is
-flowing is *reverence*, and with enough daime,
+flowing is *reverence*, and with enough Daime,
 it feels almost tangible. Just as with electricity or water,
 there is a direction of flow. You receive reverence,
 it flows through you, and then you can direct it away from you.
 An arbitrary careless posture does not necessarily obstruct the current of reverence,
 but specific intentional postures can increase the conductance and encourage the flow. 🚰
 
-### Key
+### Key 🗝️
 
 {{% columns %}}
 
@@ -274,7 +274,7 @@ The `open` and `closed` variations just indicate whether the palms are facing or
 ## Status
 
 Even without group consensus,
-I use variations of umbrella, holding a flower, and shark fin in almost every work.
+I use variations of umbrella ☂️, holding a flower 🥀, and shark fin 🦈 in almost every work.
 These gestures are innocuous and do not prompt correction from the guardians.
 
 ## Parody?

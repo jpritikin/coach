@@ -21,11 +21,11 @@ While traditional use of ayahuasca often emphasizes individual exploration, Sant
 I've attended Santo Daime works since Dec 2021.
 There are a number of areas that I think could be improved.
 
-### What is special about the group experience?
+### Group Experience
 
 Before suggesting improvements, I want to underline what is revolutionary about Santo Daime: the group experience.
 
-The force of the daime draws one's attention to the present and opens up more opportunity for choice.
+The force of the Daime draws one's attention to the present and opens up more opportunity for choice.
 When group behavior is the reference point,
 your conscious choice to harmonize with the group can help relieve varieties of self-centeredness including feeling entitled, lack of connection, and internal conflict.
 In contrast, entitlement and arrogance are a risk when intention is limited to individual exploration.[^haridy2024]
@@ -64,7 +64,7 @@ It would be nice if the hymns included more diversity in religious heritage.
 - [Divine Rose Store](https://divinerosestore.com)
 - [Luz da Rainha Publications](http://daimebooks.org)
 
-### Harmonies?
+### Harmony 🎜
 
 Sung harmonies weaves two or more vocal lines together to create a richer, fuller sound than could be achieved with a single voice.
 Here's a breakdown of what goes into singing harmonies:
@@ -88,44 +88,6 @@ Benefits of singing harmonies:
 * **Showcases vocal skill and musicianship:** Demonstrates a singer's understanding of music and ability to blend their voice with others.
 
 So why don't we do it (more) in Santo Daime?
-
-### Rosary 👎🏼
-
-Abolish the rosary 📿. In general, minimize prayer repetition.
-
-Similarly, the mass could benefit from judicious pruning.
-
-To try to even understand why people continue to recite the rosary, I asked ChatGPT to [steelman](https://en.wikipedia.org/wiki/Straw_man#Steelmanning) the argument for group recitation of the rosary (for a skeptic). Here's the list from ChatGPT and my comments:
-
-- Personal Growth
-
-  - **Time for Personal Reflection**: Yes, it's a time for the mind to wander. People can become so habituated to the prayer that they can recite it on automatic and think about something else entirely. Not great.[^stone1998]
-
-  - **Teaches Discipline Through Repetition**: I suppose the rosary could help cultivate patience and discipline, unless your mind is wandering the whole time.
-
-  - **Form of Mindfulness**: The repetitive prayers can serve as an anchor, much like a mantra, helping participants maintain a sense of presence. Does the rosary really provide any unique benefit in this capacity beyond what the Daime already offers?
-
-  - **Growth Through Discomfort**: An unfamiliar or unappealing activity can challenge personal comfort zones and encourage growth. However, the rosary is such an insipid challenge compared to drinking Daime.
-
-- Group Dynamic
-
-  - **Shared Sacrifice**: Participating in a group activity that does not align with one’s preferences shows solidarity and respect for others’ values. However, the Santo Daime already has a heavy emphasis on conformity. I think we can do conformity without the [grima](https://en.wikipedia.org/wiki/Chalkboard_scraping) of the rosary.
-
-- Compare to Hymns
-
-  - **Reflection on Core Life Themes**: Sure, but so do the hymns. Not clear what benefit the rosary offers beyond what the hymns offer.
-
-  - **Spiritual and Emotional Workout**: The act of participating, even when it feels monotonous, cultivates inner strength and perseverance. Granted, but it is not clear what benefit the rosary offers beyond what the hymns offer.
-
-  - **Sense of Solidarity Strengthens Community Through Shared Effort**: Not clear what benefit the rosary offers beyond what the hymns offer.
-
-- Obsolete
-
-  - **Tradition as a Link to Culture and History**: Maybe the rosary was important historically to lend credibility to the Santo Daime and protect its use of Daime from condemnation by the Christian church.[^muraresku2020] Given that the Brazilian government formally recognised the Santo Daime as a religion in 1986, I think we are well beyond the point where the rosary is justified for this reason.
-
-  - **Accessible to All, Regardless of Background**: Granted, but we already require everybody to learn Portuguese. Accessibility does not seem to be a high priority for the Santo Daime.
-
-  - **Fosters Calm and Focus**: Granted, but the whole setting of the work is designed to create a meditative atmosphere. To do something mildly irritating like rosary recitation seems more antagonistic to calm than supportive.
 
 ### Prayers
 
@@ -157,11 +119,45 @@ Pages | Prayer  | Hall of Shame 💩
 I met Padrinho Alfredo face-to-face in Portland on 2024 Apr 07.
 Having met him, I am confident that he can receive this message as constructive criticism.
 
-### Posture and Gesture 🪽
+### Rosary 📿
 
-There is too much to say! [Visit here]({{< relref "posture" >}})
+Abolish the rosary. In general, minimize prayer repetition ➿.
 
-### Smudging
+Similarly, the mass could benefit from judicious pruning ✂️.
+
+To try to even understand 🤔 why people continue to recite the rosary, I asked ChatGPT to [steelman](https://en.wikipedia.org/wiki/Straw_man#Steelmanning) the argument for group recitation (for a skeptic). Here's the list from ChatGPT and my comments:
+
+- Personal Growth
+
+  - **Time for Personal Reflection**: Yes, it's a time for the mind to wander. People can become so habituated to the prayer that they can recite it on automatic and think about something else entirely. Not great.[^stone1998]
+
+  - **Teaches Discipline Through Repetition**: I suppose the rosary could help cultivate patience and discipline, unless your mind is wandering the whole time.
+
+  - **Form of Mindfulness**: The repetitive prayers can serve as an anchor, much like a mantra, helping participants maintain a sense of presence. Does the rosary really provide any unique benefit in this capacity beyond what the Daime already offers?
+
+  - **Growth Through Discomfort**: An unfamiliar or unappealing activity can challenge personal comfort zones and encourage growth. However, the rosary is such an insipid challenge compared to drinking Daime.
+
+- Group Dynamic
+
+  - **Shared Sacrifice**: Participating in a group activity that does not align with one’s preferences shows solidarity and respect for others’ values. However, the Santo Daime already has a heavy emphasis on conformity. I think we can do conformity without the [grima](https://en.wikipedia.org/wiki/Chalkboard_scraping) of the rosary.
+
+- Compare to Hymns
+
+  - **Reflection on Core Life Themes**: Sure, but so do the hymns. Not clear what benefit the rosary offers beyond what the hymns offer.
+
+  - **Spiritual and Emotional Workout**: The act of participating, even when it feels monotonous, cultivates inner strength and perseverance. Granted, but it is not clear what benefit the rosary offers beyond what the hymns offer.
+
+  - **Sense of Solidarity Strengthens Community Through Shared Effort**: Not clear what benefit the rosary offers beyond what the hymns offer.
+
+- Obsolete
+
+  - **Tradition as a Link to Culture and History**: Maybe the rosary was important historically to lend credibility to the Santo Daime and protect its use of Daime from condemnation by the Christian church.[^muraresku2020] Given that the Brazilian government formally recognised the Santo Daime as a religion in 1986, I think we are well beyond the point where the rosary is justified for this reason.
+
+  - **Accessible to All, Regardless of Background**: Granted, but we already require everybody to learn Portuguese. Accessibility does not seem to be a high priority for the Santo Daime.
+
+  - **Fosters Calm and Focus**: Granted, but the whole setting of the work is designed to create a meditative atmosphere. To do something mildly irritating like rosary recitation seems more antagonistic to calm than supportive.
+
+### Smudging 🚬
 
 Smudging is a ceremonial practice used in various Indigenous cultures (primarily North American) for spiritual cleansing and purification.
 The purpose is to cleanse people, places, or objects of negative energy, promote healing, and create sacred space.
@@ -172,6 +168,10 @@ Unfortunately [burning incense has been found to generate about four times the p
 Worse, the incomplete combustion results in carbon monoxide, nitric oxides, sulfur dioxide, carcinogenic polycyclic aromatic hydrocarbons, and volatile organic compounds like benzene and formaldehyde.
 Feeling purified? Really?
 Just say "no" to smudging. 🧯 🚭
+
+### Posture & Gesture 🪽
+
+There is too much to say! [Visit here]({{< relref "posture" >}})
 
 ### Ginger 🫚
 
@@ -190,8 +190,6 @@ Or ondansetron (if not pregnant[^picot2020])?
 
 ### Cannabis
 
-#### Coadministration
-
 There is some precedent for the use of cannabis in the Santo Daime tradition.[^macrae1998]
 If desired, I suggest ingesting 20mg of Δ8-THC about two hours before the work commences.
 This low dose may help ease the experience during the first serving of Daime.
@@ -200,13 +198,6 @@ As a bonus, cannabis is also an antiemetic.
 On the other hand, cannabis interferes with the profound impartiality of Daime.
 Perhaps cannabis is best regarded like training wheels for Daime novices.
 Daime is best when not combined with other psychoactive substances.
-
-#### Aftercare
-
-Some report that Daime interferes with sleep.
-Kava is often not strong enough.
-Cannabinol (CBN) may help address this challenge.
-For a nice soft recovery, try 50mg CBN immediately after a work and 20mg Δ8-THC upon waking in the morning.
 
 ### Baptism 🌊
 
@@ -229,7 +220,7 @@ Daime is sufficient to consummate baptism.
 Daime is a trickster.
 If people want water baptism, why not?
 
-### Dose Adequately
+### Dose Adequately ⏻
 
 When exploring altered states, a fitting analogy comes to mind, shared by fellow psychonauts.[^leary1977] Imagine an airplane on the runway, poised for takeoff. As it soars, it rapidly gains altitude, banks sharply to change course, and encounters turbulence. Heavy rain pounds against the plane, lightning flashes, and winds shift unpredictably. But then, it breaks through the cloud ceiling. Suddenly, the airspeed increases smoothly, and sunlight illuminates the calm.
 
@@ -251,9 +242,19 @@ Congregants can meditate as much as they want at home without daime.
 
 When I attend a work, I expect to transcend the turmoil and reach the serene heights, at least for one serving. So, I urge leaders: don't be stingy. 
 
+### Sleep 😴
+
+Some report that Daime interferes with sleep.
+Neither Kava nor CBN (cannabinol) are strong enough.
+The only thing that I've found that can consistently override the residual wakefulness of Daime is muscimol.
+
 ### Status
 
 ![Waiting](wait.webp)
+{.center}
+
+Guess what this gesture means.
+{.center}
 
 ## Notes
 
