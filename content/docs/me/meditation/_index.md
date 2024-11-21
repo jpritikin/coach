@@ -103,6 +103,7 @@ This is just a sample schedule. Customize as per your preference.
 ### Don't forget fun
 
 - [Kūmāré 2011](https://en.wikipedia.org/wiki/Kumar%C3%A9)
+- [Derren Brown: Fear and Faith (2012)](https://youtu.be/6_xHXp1q8pU?list=PLAZ27CqbEinYIjCH-pbpkdvXG4fh-I7hA)
 - [JP Sears](https://en.wikipedia.org/wiki/JP_Sears) offers lots of parodies like [Ultra Spiritual Life](https://www.youtube.com/playlist?list=PLVqOKx7e2qhefIG5IEGOKQ4pCzFf8IScX)
 - [Mob Psycho 100](https://en.wikipedia.org/wiki/Mob_Psycho_100)
 - [Cult of the Lamb](https://en.wikipedia.org/wiki/Cult_of_the_Lamb)
