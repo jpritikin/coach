@@ -107,6 +107,7 @@ This is just a sample schedule. Customize as per your preference.
 - [JP Sears](https://en.wikipedia.org/wiki/JP_Sears) offers lots of parodies like [Ultra Spiritual Life](https://www.youtube.com/playlist?list=PLVqOKx7e2qhefIG5IEGOKQ4pCzFf8IScX)
 - [Mob Psycho 100](https://en.wikipedia.org/wiki/Mob_Psycho_100)
 - [Cult of the Lamb](https://en.wikipedia.org/wiki/Cult_of_the_Lamb)
+- [Flatliners (1990)](https://en.wikipedia.org/wiki/Flatliners)
 
 ## References
 
