@@ -14,7 +14,9 @@ Kanna contains many alkaloids including mesembrine, mesembrenone, mesembrenol, m
 | subjective effect | energy/focus | calming/relaxation |
 
 In 2012, the first commercial kanna extract, *Zembrin*, was made available in North America.[^zembrin] Zembrin is optimized for relaxation (i.e., less than 20% mesembrine) and is typically sold in 25mg tablets. Zembrin only contains 0.35–0.45% total alkaloids.[^murbach2014]
-Other vendors sell much more potent extracts. You can find products with more than 5% total alkaloids (i.e., ≈10x more concentrated than Zembrin). I use an extract optimized for relaxation. As long as mesembrine is less than 50% of the total alkaloids, the subjective effect is going to be pretty relaxing.
+Other vendors sell much more potent extracts.
+You can find products with more than 5% total alkaloids (i.e., ≈10x more concentrated than Zembrin).
+I use an extract with more energy than Zembrin, but still on the relaxing side (≈ 50% mesembrine).
 
 [More information here, including safety and drug interactions](https://selfhacked.com/blog/sceletium-tortuosum/)
 
