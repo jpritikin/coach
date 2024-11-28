@@ -108,6 +108,7 @@ This is just a sample schedule. Customize as per your preference.
 - [Mob Psycho 100](https://en.wikipedia.org/wiki/Mob_Psycho_100)
 - [Cult of the Lamb](https://en.wikipedia.org/wiki/Cult_of_the_Lamb)
 - [Flatliners (1990)](https://en.wikipedia.org/wiki/Flatliners)
+- [I, Pastafari: A Flying Spaghetti Monster Story (2019)](https://en.wikipedia.org/wiki/I,_Pastafari)
 
 ## References
 
