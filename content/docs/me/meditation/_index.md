@@ -109,6 +109,7 @@ This is just a sample schedule. Customize as per your preference.
 - [Cult of the Lamb](https://en.wikipedia.org/wiki/Cult_of_the_Lamb)
 - [Flatliners (1990)](https://en.wikipedia.org/wiki/Flatliners)
 - [I, Pastafari: A Flying Spaghetti Monster Story (2019)](https://en.wikipedia.org/wiki/I,_Pastafari)
+- [Brainstorm (1983)](https://en.wikipedia.org/wiki/Brainstorm_(1983_film))
 
 ## References
 
