@@ -149,8 +149,9 @@ Also, tolerance can be different for different components of a blend. So energy 
 - CBN (cannabinol) offers a relaxing head high. Does not cause the munchies.
 - CBG (cannabigerol) is a great potentiator for energy blends. However, taken alone, I don't notice any effect from it.
 - CBC (cannabichromene) seems to provide too much emotional stability? It's not unpleasant, but blocks the more subtle effects of H4CBD. Maybe it has something to offer in other blends?
-- CBDV (cannabidivarin) holds the heart steady in a neutral shape while allowing a relaxing head high. A bit stimulating, but not incompatible with relaxation. Does not cause the munchies.
-- CBT (cannabicitran) holds the heart steady in a concave shape while allowing a relaxing head high. Does not cause the munchies. Possibly more potentiating and gentler come-down than CBDV.
+- CBDV (cannabidivarin) holds the heart steady in a neutral shape while allowing a head high. A bit stimulating, but not incompatible with relaxation. Does not cause the munchies.
+- CBT (cannabicitran) holds the heart steady in a hollow shape while allowing a relaxing head high. Does not cause the munchies. Possibly more potentiating and gentler come-down than CBDV.
+- THCV (tetrahydrocannabivarin) simulating head high. Just a touch of scatterbrain. (Despite starting with the letter T, this is a potentiator because it doesn't do much without a euphoriant.)
 
 #### Head-Heart Axis
 
@@ -163,10 +164,9 @@ If you combine them 50/50 then they mostly cancel out and you get a remarkably o
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ8-THC:CBN-O:CBDV 37:12:6 | **Very beautiful** ♥️ No munchies. No uncomfortable CBD feeling as it wears off. |
+| Δ8-THC:CBN-O:CBDV 37:12:6 | **Very beautiful** ♥️ No munchies. No uncomfortable CBD feeling during come down. |
 | Δ8-THC:H4CBD 2:1 | Holy mole! **Very very beautiful** ♥️ |
 | Δ8-THC:CBD:CBN 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. Underwelming in a good way. Good for sleep. 🤙🏼 |
-| Δ10-THC:CBG 1:1 | Super clear-headed stimulating head-high. Just a touch scatterbrained. WIP explore ratio |
 
 ### Experimentation Log
 
@@ -174,14 +174,15 @@ If you combine them 50/50 then they mostly cancel out and you get a remarkably o
 | ----------------- | ------------------------ |
 | Δ8-THC:H4CBD:CBC 46:46:8 | CBC seems to block the unique effects of H4CBD. 👎🏼 |
 | Δ8-THC:Δ10-THC:H4CBD 1:1:2 | Δ10-THC seems to dominate Δ8-THC. H4CBD feels like CBD. 👎🏼 |
+| Δ10-THC:CBG 1:1 | Super clear-headed stimulating head-high. Just a touch scatterbrained. 🤙🏼 |
 | Δ8-THC:H4CBD 1:2 | Less spacious compared to 1:1 ratio. Sleepy. Feels fairly sober when walking around, but easy to get absorbed in meditation. Remarkably similar to 0.5g-1g psilomethoxin. 🤔 |
 | Δ8-THC:CBN-O 38:62 | Beautiful relaxing, sparkling head-high. Not conducive to sleep. A bit prone to anxiety. 🤔 |
 | HHC:CBN-O 1:2 | Not as relaxing, light, and sparkly as Δ8-THC:CBN-O. Not a headache, but some tension in the head and chest. Not great for sleep. 👎🏼 |
 | Δ10-THC:CBN 1:1 | Not as shit as HHC:CBN-O, but nothing special. 👎🏼 |
 | Δ8-THC:CBN-O 25:30 | Beautiful relaxing head-high. Works even if CBN was used on the prior evening. CBN is sensitive to time-of-day effects (night good, day bad). 🤔 |
-| Δ8-THC:H4CBD 1:1 | Beautiful meditative experience. However, there is a duration mismatch as the H4CB
-D lasts too long. 🤔 |
+| Δ8-THC:H4CBD 1:1 | Beautiful meditative experience. However, there is a duration mismatch as the H4CBD lasts too long. 🤔 |
 | Δ8-THC:CBT:CBN-O 25:16.6:5 | Very beautiful. Probably would be better with ratio tilted toward CBN. 🤔 |
+| Δ8-THC:THCV:CBDV 4:1:1 | Clear simulating head high. 🤙🏼 |
 
 ### Experimentation Agenda
 
@@ -189,8 +190,8 @@ D lasts too long. 🤔 |
 | ----------------- | ------------------------ |
 | Δ8-THC:CBN-O:? | How best to anchor the Δ8-THC:CBN-O experience? |
 | Δ8-THC:H4CBD:CBN-O 4:1:1 | Compare with Δ8-THC:CBD:CBN 4:1:1 |
-| Δ8-THC:THCV:CBDV 4:1:1 | Compare with Δ10-THC:CBG |
-| Δ8-THC:CBC:CBN-O 25:16.6:5 | Give CBC another chance. |
+| Δ8-THC:CBN-O:CBC 25:16.6:5 | Give CBC another chance. |
+| Δ8-THC:CBG:CBT 25:10:5 | Scrutinize CBG further |
 
 ## Cannabinol (CBN) / Acetylated cannabinol (CBN-O)
 
