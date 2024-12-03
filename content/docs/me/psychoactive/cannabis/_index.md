@@ -182,7 +182,7 @@ If you combine them 50/50 then they mostly cancel out and you get a remarkably o
 | Δ8-THC:CBN-O 25:30 | Beautiful relaxing head-high. Works even if CBN was used on the prior evening. CBN is sensitive to time-of-day effects (night good, day bad). 🤔 |
 | Δ8-THC:H4CBD 1:1 | Beautiful meditative experience. However, there is a duration mismatch as the H4CBD lasts too long. 🤔 |
 | Δ8-THC:CBT:CBN-O 25:16.6:5 | Very beautiful. Probably would be better with ratio tilted toward CBN. 🤔 |
-| Δ8-THC:THCV:CBDV 4:1:1 | Clear simulating head high. 🤙🏼 |
+| Δ8-THC:THCV:CBDV 4:1:1 | Clear simulating head high. Alert, but not superhuman focus. 🤙🏼 |
 
 ### Experimentation Agenda
 
