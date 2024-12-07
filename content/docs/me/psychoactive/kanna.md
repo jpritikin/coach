@@ -17,6 +17,8 @@ In 2012, the first commercial kanna extract, *Zembrin*, was made available in No
 Other vendors sell much more potent extracts.
 You can find products with more than 5% total alkaloids (i.e., ≈10x more concentrated than Zembrin).
 I use an extract with more energy than Zembrin, but still on the relaxing side (≈ 50% mesembrine).
+It may take some trial and error to find the optimal balance for you.
+You want enough energy to lift your attention to your head, but too much energy prevents sleep.
 
 [More information here, including safety and drug interactions](https://selfhacked.com/blog/sceletium-tortuosum/)
 
