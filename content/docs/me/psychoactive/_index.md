@@ -153,7 +153,7 @@ By washing your hands thoroughly and keeping meat-borne bacteria away from raw f
 
 Another way to look at it is to compare the distress of a bad trip to the potential harms from law enforcement. Here are some potential harms ordered from least disruptive to most severe:
 
-Almost always,[^krebs2013][^berger2024] a bad trip is no worse than *arrest without prosecution*.🔒
+Almost always,[^sabe2024][^berger2024] a bad trip is no worse than *arrest without prosecution*.🔒
 
 <--->
 
@@ -173,7 +173,7 @@ Almost always,[^krebs2013][^berger2024] a bad trip is no worse than *arrest with
 {{% hint info %}}
 In many cases, there exists a legal drug comparable in effect to a desired illegal drug.
 Or an illegal drug might be legal in particular contexts.
-Law enforcement is almost always[^krebs2013] the most dangerous aspect of drug use.
+Law enforcement is almost always[^sabe2024] the most dangerous aspect of drug use.
 For you own safety, **don't break the law.** 🚫
 {{% /hint %}}
 
@@ -350,9 +350,8 @@ Share your results with a friend.
 
 [^healy2021]: Healy, C. J. (2021). The acute effects of classic psychedelics on memory in humans. *Psychopharmacology, 238*, 639-653.
 
-[^krebs2013]: Anecdotal reports suggest a possible link between drug use and serious mental health problems, but it is not clear the degree to which the drug was causal. Said people might have been mentally ill prior to the drug exposure. Correlational studies find no link (Krebs, 2013).  
-    - Krebs, T. S., & Johansen, P. Ø. (2013). Psychedelics and mental health: a population study. PloS one, 8(8), e63972.
-
 [^bigwood2024]: Hamilton Morris has a great interview with Jeremy Bigwood released on 2024 Sep 30.
 
 [^berger2024]: An exception or all's well, ends well? [Penile Replantation after Self-Amputation Following Psilocybin-Induced Drug Psychosis](https://megajournalofsurgery.com/wp-content/uploads/2024/09/MJS-79-2016.pdf?utm_source=substack&utm_medium=email)
+
+[^sabe2024] Sabé, M., Sulstarova, A., Glangetas, A., De Pieri, M., Mallet, L., Curtis, L., ... & Kirschner, M. (2024). Reconsidering evidence for psychedelic-induced psychosis: an overview of reviews, a systematic review, and meta-analysis of human studies. *Molecular Psychiatry*, 1-33.
