@@ -44,7 +44,7 @@ While others discerned no noticeable subjective effect at all.
 
 **Questions**: If you have any questions, complaints, or concerns about your participation in this research, contact:
 
-Joshua Pritikin \<[bro@joshuapritikin.com](mailto:bro@joshuapritikin.com)\>  
+Joshua Pritikin \<[bro@estrelacounseling.com](mailto:bro@estrelacounseling.com)\>  
 Mobile#: 458-272-3537
 
 The researcher/study staff named above is the best person(s) to contact for questions about your participation in this study. If you have any general questions about your rights as a participant in this research, you may contact:
