@@ -14,8 +14,9 @@ In light of this knowledge deficit, personal exploration becomes a valuable, alb
 
 ### Fellow Travelers
 
-[Cannabinoids with Turkey](https://www.cannabinoidswithturkey.com/) 🦃 -- This guy has an ahead start of 10 year on me.
-
+[Cannabinoids with Turkey](https://www.cannabinoidswithturkey.com/) 🦃 -- This guy has an ahead start of 10 year on me. Page numbers given below reference:
+- Turkey. (2024). *The Classical Cannabinoid Consumers Guide (2024 Edition): Everything you need to know about cannabinoids in terms you can understand.* Independently published.
+    
 ## Background
 
 {{% columns %}}
@@ -110,7 +111,7 @@ In general, the experience of one or more THC-like substances are improved by pa
 
 - THC (Δ8-THC or Δ9-THC) offers a relaxing high.
 - Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers an energizing head high.
-- HHC (hexahydrocannabinol) feels similar to Δ8-THC, but distributed unevenly across the body. Most of the effect is from the neck up, with some sensation from the waist up. The high is roughly balanced between energizing and relaxing. Weird. 👎
+- HHC (hexahydrocannabinol) feels similar to Δ8-THC, but distributed unevenly across the body. Most of the effect is from the neck up, with some sensation from the waist up. The high is roughly balanced between energizing and relaxing. Weird.[^turkey-hhc] 👎
 
 My tentative take is that there are not that many real choices for euphoriants.
 There are substances with different potency and duration, but most of the variety in subjective effect is obtained through pairing with potentiators.
@@ -148,7 +149,7 @@ Also, tolerance can be different for different components of a blend. So energy 
 - [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. CBD is largely obsolete. However, consider that H4CBD has a longer duration than CBD which might be good or bad depending on your application. H4CBD causes the muchies mostly when it is wearing off during which it feels like regular CBD.
 - CBN (cannabinol) offers a relaxing head high. Does not cause the munchies.
 - CBG (cannabigerol) is a great potentiator for energy blends. However, taken alone, I don't notice any effect from it.
-- CBC (cannabichromene) seems to provide too much emotional stability? It's not unpleasant, but blocks the more subtle effects of H4CBD. Maybe it has something to offer in other blends?
+- CBC (cannabichromene) holds the heart steady in a propeller shape. The propeller is about two inches long and near the sternum. Hilariously beautiful, but not better than CBDV or CBT.[^turkey-cbc]
 - CBDV (cannabidivarin) holds the heart steady in a neutral shape while allowing a head high. A bit stimulating, but not incompatible with relaxation. Does not cause the munchies.
 - CBT (cannabicitran) holds the heart steady in a hollow shape while allowing a relaxing head high. Does not cause the munchies. Possibly more potentiating and gentler come-down than CBDV.
 - THCV (tetrahydrocannabivarin) simulating head high. Just a touch of scatterbrain. (Despite starting with the letter T, this is a potentiator because it doesn't do much without a euphoriant.)
@@ -164,7 +165,7 @@ If you combine them 50/50 then they mostly cancel out and you get a remarkably o
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ8-THC:CBN-O:CBDV 37:12:6 | **Very beautiful** ♥️ No munchies. No uncomfortable CBD feeling during come down. |
+| Δ8-THC:CBN-O:XxX 37:12:6 | **Very beautiful** ♥️ No munchies. No uncomfortable CBD feeling during come down. XxX is one of CBC, CBDV, CBT. |
 | Δ8-THC:H4CBD 2:1 | Holy mole! **Very very beautiful** ♥️ |
 | Δ8-THC:CBD:CBN 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. Underwelming in a good way. Good for sleep. 🤙🏼 |
 
@@ -172,7 +173,7 @@ If you combine them 50/50 then they mostly cancel out and you get a remarkably o
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ8-THC:H4CBD:CBC 46:46:8 | CBC seems to block the unique effects of H4CBD. 👎🏼 |
+| Δ8-THC:H4CBD:CBC 46:46:8 | CBC seems to clash with H4CBD. 👎🏼 |
 | Δ8-THC:Δ10-THC:H4CBD 1:1:2 | Δ10-THC seems to dominate Δ8-THC. H4CBD feels like CBD. 👎🏼 |
 | Δ10-THC:CBG 1:1 | Super clear-headed stimulating head-high. Just a touch scatterbrained. 🤙🏼 |
 | Δ8-THC:H4CBD 1:2 | Less spacious compared to 1:1 ratio. Sleepy. Feels fairly sober when walking around, but easy to get absorbed in meditation. Remarkably similar to 0.5g-1g psilomethoxin. 🤔 |
@@ -183,6 +184,7 @@ If you combine them 50/50 then they mostly cancel out and you get a remarkably o
 | Δ8-THC:H4CBD 1:1 | Beautiful meditative experience. However, there is a duration mismatch as the H4CBD lasts too long. 🤔 |
 | Δ8-THC:CBT:CBN-O 25:16.6:5 | Very beautiful. Probably would be better with ratio tilted toward CBN. 🤔 |
 | Δ8-THC:THCV:CBDV 4:1:1 | Clear simulating head high. Alert, but not superhuman focus. 🤙🏼 |
+| Δ8-THC:CBN-O:CBC 25:16.6:8 | Pretty great! |
 
 ### Experimentation Agenda
 
@@ -190,8 +192,8 @@ If you combine them 50/50 then they mostly cancel out and you get a remarkably o
 | ----------------- | ------------------------ |
 | Δ8-THC:CBN-O:? | How best to anchor the Δ8-THC:CBN-O experience? |
 | Δ8-THC:H4CBD:CBN-O 4:1:1 | Compare with Δ8-THC:CBD:CBN 4:1:1 |
-| Δ8-THC:CBN-O:CBC 25:16.6:5 | Give CBC another chance. |
 | Δ8-THC:CBG:CBT 25:10:5 | Scrutinize CBG further |
+| Δ10-THC:THCV:CBDV 4:1:1 | Maybe better than Δ8-THC for this combo? |
 
 ## Cannabinol (CBN) / Acetylated cannabinol (CBN-O)
 
@@ -237,3 +239,7 @@ Other cannabinoids will probably be happier in the refridgerator too.
 [^klein2011]: Klein, C., Karanges, E., Spiro, A., Wong, A., Spencer, J., Huynh, T., ... & McGregor, I. S. (2011). Cannabidiol potentiates Δ9-tetrahydrocannabinol (THC) behavioural effects and alters THC pharmacokinetics during acute and chronic treatment in adolescent rats. *Psychopharmacology, 218,* 443-457.
 
 [^rubin2023]: Rubin, J. S. (2023). *Bizarro: The surreal sage of America's secret war on synthetic drugs and the Florida kingpins it captured.* University of California Press.
+
+[^turkey-hhc]: Turkey wrote, "HHC is considered by many to be the closest alt cannabinoid we have to traditional D9 THC." (p. 104) 🤦
+
+[^turkey-cbc]: Turkey wrote, "CBC is currently my favorite cnoid." (p. 195) 🤦
