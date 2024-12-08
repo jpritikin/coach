@@ -5,6 +5,19 @@ bookToc: true
 
 # Cannabinoid Potentiator Map
 
+## Introduction
+
+Tragically, hardly anybody (i.e., not you) theorize about how different cannabinoids affect subjective experience.
+Of course, you can only describe your personal feelings, and individual reactions often vary or even contradict one another.
+Maybe the barrier is translating these experiences into clear language?
+You shouldn't shy away from vivid metaphors.
+Your unique perspective, however difficult to convey, enriches our understanding.
+Speak up!
+Share your journey through the haze of altered consciousness.
+Every account adds a brushstroke to our collective canvas of cannabis comprehension.
+
+## The Map
+
 {{% hint danger %}}
 *This is my opinion based on anedotal evidence.*
 {{% /hint %}}
