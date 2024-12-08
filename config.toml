@@ -1,6 +1,6 @@
-baseURL = 'https://joshuapritikin.com/'
+baseURL = 'https://estrelacounseling.com/'
 languageCode = 'en-us'
-title = 'Joshua Pritikin Counseling'
+title = 'Estrela Counseling'
 theme = "hugo-book"
 
 disablePathToLower = true
@@ -23,4 +23,4 @@ languageCode = "en-us"
 
 [Author]
     name = "Joshua N. Pritikin"
-    email = "bro@joshuapritikin.com"
+    email = "bro@estrelacounseling.com"
