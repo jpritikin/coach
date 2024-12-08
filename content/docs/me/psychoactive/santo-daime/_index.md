@@ -46,13 +46,19 @@ What I find confusing is the lack of specificity in both recommendations and jus
 I think there are at least two things going on here.
 On one hand, recommendations largely align with a [whole food plant-based diet]({{< relref "health" >}}).
 It's a good idea to eat healthy food.
-On the other hand, tyramine should be avoided due to potentially dangerous interactions.[^weiss2018]
-However, the issue is not limited to tyramine.
+Also, tyramine should be avoided due to potentially dangerous interactions.[^weiss2018]
+However, healthy eating and tyramine are not the only considerations.
 Vegans need to know that the pharmacodynamics of Daime are vividly affected by insoluable [fiber](/posts/fiber-is-not-fibrous/).
-Fruits high in insoluable fiber include pineapple, banana, and avocado.
-Instead of experiencing a pleasantly strong subjective effect for about two hours, insoluable fiber buffers the force of the Daime.
-Consequently, participants may feel little (mostly sober) for much of the time, followed by an unpleasantly strong, brief burst of Daime after 1-2 hours.
-To mitigate this effect, it's only necessary to minimize insoluable fiber intake about 8-12 hours prior to the ceremony.
+Insoluable fiber buffers the force of the Daime.
+Consequently, participants may feel little (mostly sober) for much of the time, followed by an overwhelmingly strong, brief burst of Daime after 1-2 hours.
+
+Foods high in insoluable fiber include pineapple, banana, and avocado.[^fiber]
+To set yourself up for success, here is a specific dietary recommendation.
+Take 1-2 tablespoon ground cayenne pepper with dinner on the evening prior to the event.
+This should take care of any insoluable fiber lingering in your intestines.
+On the day of, [cook a sweet potato]({{< relref "sweet-potato" >}}) and blend it with a small slice of fresh ginger.
+Don't eat anything else.
+The sweet potato is almost 100% soluable fiber and does not monkey with the pharmacodynamics of Daime.
 
 ### Lyrics
 
@@ -288,3 +294,6 @@ Guess what this gesture means.
 [^leary1977]: (Probably) Leary, T. (1977) *Exo-Psychology: A Manual on The Use of the Nervous System According to the Instructions of the Manufacturers.* Los Angeles: Starseed/Peace Press.
 
 [^stone1998]: [Continuous Partial Attention](https://en.wikipedia.org/wiki/Continuous_partial_attention)
+
+[^fiber]: You can access a 2018 fiber database [here](1-s2.0-S0889157518301182-mmc1.xlsx). I received this file from Eleanor Beck on 20 Nov 2024. She said that I could share it.
+    - Fuller, S., Tapsell, L. C., & Beck, E. J. (2018). Creation of a fibre categories database to quantify different dietary fibres. *Journal of Food Composition and Analysis, 71*, 36-43.
