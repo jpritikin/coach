@@ -274,7 +274,7 @@ Guess what this gesture means.
 
 [^belief]: I think it is important to be slightly sophisticated about what it means to be religious. For example:
     - Carse, J. P. (2009). *The Religious Case Against Belief.* Penguin Publishing Group.
-    - Luhrmann, T. M. (2020). *How God Becomes Real: Kindling the Presence of Invisible Others.* Princeton University Press.
+    - Luhrmann, T. M., & Weisman, K. (2022). Porosity Is the Heart of Religion. *Current Directions in Psychological Science, 31*(3), 247-253.
 
 [^guimarães-dos-santos2013]: Guimarães dos Santos, R. (2013). Safety and side effects of ayahuasca in humans—an overview focusing on developmental toxicology. *Journal of Psychoactive Drugs, 45*(1), 68-78.
 
