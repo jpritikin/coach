@@ -146,7 +146,7 @@ Also, tolerance can be different for different components of a blend. So energy 
 ### Potentiators (CBD-like)
 
 - CBD is the classic potentiator. CBD opens the emotional spigot around the heart.
-- [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. CBD is largely obsolete. However, consider that H4CBD has a longer duration than CBD which might be good or bad depending on your application. H4CBD causes the muchies mostly when it is wearing off during which it feels like regular CBD.
+- [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way.[^turkey-h4cbd] CBD is largely obsolete. However, consider that H4CBD has a longer duration than CBD which might be good or bad depending on your application. H4CBD causes the muchies mostly when it is wearing off during which it feels like regular CBD.
 - CBN (cannabinol) offers a relaxing head high. Does not cause the munchies.
 - CBG (cannabigerol) is a great potentiator for energy blends. However, taken alone, I don't notice any effect from it.
 - CBC (cannabichromene) holds the heart steady in a propeller shape. The propeller is about two inches long and near the sternum. Hilariously beautiful, but not better than CBDV or CBT.[^turkey-cbc]
@@ -240,6 +240,10 @@ Other cannabinoids will probably be happier in the refridgerator too.
 
 [^rubin2023]: Rubin, J. S. (2023). *Bizarro: The surreal sage of America's secret war on synthetic drugs and the Florida kingpins it captured.* University of California Press.
 
-[^turkey-hhc]: Turkey wrote, "HHC is considered by many to be the closest alt cannabinoid we have to traditional D9 THC." (p. 104) 🤦
+[^turkey-hhc]: Turkey wrote, "HHC is considered by many to be the closest alt cannabinoid we have to traditional D9 THC" (p. 104). 🤦
 
-[^turkey-cbc]: Turkey wrote, "CBC is currently my favorite cnoid." (p. 195) 🤦
+[^turkey-cbc]: Turkey wrote, "CBC is currently my favorite cnoid" (p. 195). 🤦
+
+[^turkey-h4cbd]: Turkey wrote, "H4CBD is very mildly psychoactive to some." (p. 212). 🤦 
+A substance is psychoactive if it affects the mind.
+All cannabinoids psychoactive, except maybe CBG administered without a euphoriant.
