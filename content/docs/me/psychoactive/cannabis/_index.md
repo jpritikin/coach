@@ -151,7 +151,7 @@ Also, tolerance can be different for different components of a blend. So energy 
 - CBG (cannabigerol) is a great potentiator for energy blends. However, taken alone, I don't notice any effect from it.
 - CBC (cannabichromene) holds the heart steady in a propeller shape. The propeller is about two inches long and near the sternum. Hilariously beautiful, but not better than CBDV or CBT.[^turkey-cbc]
 - CBDV (cannabidivarin) holds the heart steady in a neutral shape while allowing a head high. A bit stimulating, but not incompatible with relaxation. Does not cause the munchies.
-- CBT (cannabicitran) holds the heart steady in a hollow shape while allowing a relaxing head high. Does not cause the munchies. Possibly more potentiating and gentler come-down than CBDV.
+- CBT (cannabicitran) holds the heart steady in a hollow shape while allowing a relaxing head high. Does not cause the munchies. Possibly more potentiating and gentler come-down than CBDV.[^turkey-cbt]
 - THCV (tetrahydrocannabivarin) simulating head high. Just a touch of scatterbrain. (Despite starting with the letter T, this is a potentiator because it doesn't do much without a euphoriant.)
 
 #### Head-Heart Axis
@@ -184,7 +184,8 @@ If you combine them 50/50 then they mostly cancel out and you get a remarkably o
 | Δ8-THC:H4CBD 1:1 | Beautiful meditative experience. However, there is a duration mismatch as the H4CBD lasts too long. 🤔 |
 | Δ8-THC:CBT:CBN-O 25:16.6:5 | Very beautiful. Probably would be better with ratio tilted toward CBN. 🤔 |
 | Δ8-THC:THCV:CBDV 4:1:1 | Clear simulating head high. Alert, but not superhuman focus. 🤙🏼 |
-| Δ8-THC:CBN-O:CBC 25:16.6:8 | Pretty great! |
+| Δ8-THC:CBN-O:CBC 25:16.6:8 | Pretty great! 🤙🏼 |
+| Δ10-THC:THCV:CBDV 4:1:1 | Not unpleasant. Pretty functional. Too low dose (33mg Δ10-THC) to make a confident judgment. Not clear whether CBDV makes a contribution. Or THCV. 🤔 |
 
 ### Experimentation Agenda
 
@@ -243,3 +244,5 @@ Other cannabinoids will probably be happier in the refridgerator too.
 [^turkey-hhc]: Turkey wrote, "HHC is considered by many to be the closest alt cannabinoid we have to traditional D9 THC" (p. 104). 🤦
 
 [^turkey-cbc]: Turkey wrote, "CBC is currently my favorite cnoid" (p. 195). 🤦
+
+[^turkey-cbt]: Turkey wrote, "CBT feels like CBC's more weird and wild cousin. Same potentiating effects but with a much less calm and focused feeling" (p. 223). I agree that CBT is CBC's cousin. But much less calm and focused feeling? I don't notice that. 🤔
