@@ -9,31 +9,15 @@ bookToc: false
 
 # Contact
 
-## Free Consultation
+Who do you wish to contact? [Joshua]({{< relref "joshua" >}}) or [Heera]({{< relref "heera" >}})?
 
-<center><form><input class="glowing" type="button" onclick="window.open('https://joshua-pritikin.clientsecure.me/request/service', '_blank')" value="Schedule an Appointment" /></form></center>
-
-## Online Booking
-
-[>>Go here<<](https://joshua-pritikin.clientsecure.me/sign-in)
-{{% hint info %}}
-{{% details "Reveal hints" %}}
-  - Enter your email address to *Sign in*. There is no password. If you don't receive the email invitation to login within five minutes, check your spam folder for `simplepractice.com`.
-  - Book a month in advance to ensure that you get your preferred time slots before my schedule fills up.
-{{% /details %}}
-{{% /hint %}}
-
-### Zoom link
-
-[![Zoom link](zoom.webp)](https://us06web.zoom.us/j/7756484053)
-
-### For urgent concerns, you can **text** my mobile.
-- I do not use voicemail on my phone.
-- My mobile number is shared in all email communications.
+### For urgent concerns, **text** us.
+- We do not use voicemail.
+- The mobile number is shared in all email communications.
 
 ## Currently Experiencing a Crisis?
 
-My office is **not** set up for real-time crisis intervention.
+Our office is **not** set up for real-time crisis intervention.
 
 Please connect with the resources below if you or someone you know is currently experiencing a crisis.
 
@@ -44,7 +28,7 @@ chat https://988lifeline.org/
 
 ## Mailing Address
 
-I do not rent office space on an ongoing basis. My corporate entity can receive mail at:
+We do not rent office space on an ongoing basis. The corporate entity can receive mail at:
 
 Jpritikin Industries, Inc  
 C/O 15872088 - Corporation Service Company  

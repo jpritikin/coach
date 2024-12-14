@@ -1,5 +1,5 @@
 ---
-title: My opinion ⚠
+title: Opinion ⚠
 type: docs
 weight: 8
 bookToc: true
@@ -9,12 +9,12 @@ bookCollapseSection: true
 ![danger](danger.webp)
 {.center}
 
-# My opinion
+# Opinion
 
 In real life, I am highly opinionated about diverse content areas.
 
 {{% hint info %}}
-This area of my website is the safe space for me to broadcast my opinions. 🤓
+This area of my website is the safe space for me (mostly Joshua) to broadcast my opinions. 🤓
 {{% /hint %}}
 
 Maybe you trust me. I can help you navigate the age of hyperspecialization.[^millgram2015]
@@ -27,7 +27,7 @@ I continue to carry some of the same ethical principles forward as a counselor.
 Specifically, I reject secrecy in the sense that I have
 no paywall or subscription for my website content. 📬
 
-## Counseling ≠ Telling My Opinions
+## Counseling ≠ Telling Opinions
 
 As an IFS Practitioner, I attend to structure and process while holding content lightly.
 I believe that a good counselor is extremely impartial ⚖️, thereby inviting the client's inner system to lead. 🗽
