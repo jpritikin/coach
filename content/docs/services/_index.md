@@ -1,14 +1,14 @@
 ---
 title: Services
 type: docs
-weight: 3
+weight: 5
 bookToc: false
 bookCollapseSection: false
 ---
 
 # Services
 
-I gently help people turn toward their experience rather than away from it.
+We gently help people turn toward their experience rather than away from it.
 
 ## [1-on-1]({{< relref "one-on-one" >}})
 
