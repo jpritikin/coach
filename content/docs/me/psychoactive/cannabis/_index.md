@@ -110,7 +110,7 @@ In general, the experience of one or more THC-like substances are improved by pa
 ### Euphoriants (THC-like)
 
 - THC (Δ8-THC or Δ9-THC) offers a relaxing high.
-- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers an energizing head high.
+- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers an energizing head high. Compatible: THCV, CBG, CBT, CBC, CDBV. CDBV is not bad, but I prefer the softness of CBC or CBT. Incompatible: CBN, CBD, H4CBD.
 - HHC (hexahydrocannabinol) feels similar to Δ8-THC, but distributed unevenly across the body. Most of the effect is from the neck up, with some sensation from the waist up. The high is roughly balanced between energizing and relaxing. Weird.[^turkey-hhc] 👎
 
 My tentative take is that there are not that many real choices for euphoriants.
@@ -148,11 +148,11 @@ Also, tolerance can be different for different components of a blend. So energy 
 - CBD is the classic potentiator. CBD opens the emotional spigot around the heart.
 - [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. CBD is largely obsolete. However, consider that H4CBD has a longer duration than CBD which might be good or bad depending on your application. H4CBD causes the muchies mostly when it is wearing off during which it feels like regular CBD.
 - CBN (cannabinol) offers a relaxing head high. Does not cause the munchies.
-- CBG (cannabigerol) is a great potentiator for energy blends. However, taken alone, I don't notice any effect from it.
+- CBG (cannabigerol) taken alone, I don't notice any effect from it. Maybe that's because I'm typically in a work mindset so CBG just feels like how I already feel.
 - CBC (cannabichromene) holds the heart steady in a propeller shape. The propeller is about two inches long and near the sternum. Hilariously beautiful, but not better than CBDV or CBT.[^turkey-cbc]
 - CBDV (cannabidivarin) holds the heart steady in a neutral shape while allowing a head high. A bit stimulating, but not incompatible with relaxation. Does not cause the munchies.
 - CBT (cannabicitran) holds the heart steady in a hollow shape while allowing a relaxing head high. Does not cause the munchies. Possibly more potentiating and gentler come-down than CBDV.[^turkey-cbt]
-- THCV (tetrahydrocannabivarin) simulating head high. Just a touch of scatterbrain. (Despite starting with the letter T, this is a potentiator because it doesn't do much without a euphoriant.)
+- THCV (tetrahydrocannabivarin) simulating head high. Just a touch of scatterbrain. More alert than CBG. Maybe too alert. Harsh alertness? (Despite starting with the letter T, this is a potentiator because it doesn't do much without a euphoriant.)
 
 #### Head-Heart Axis
 
@@ -185,7 +185,8 @@ If you combine them 50/50 then they mostly cancel out and you get a remarkably o
 | Δ8-THC:CBT:CBN-O 25:16.6:5 | Very beautiful. Probably would be better with ratio tilted toward CBN. 🤔 |
 | Δ8-THC:THCV:CBDV 4:1:1 | Clear simulating head high. Alert, but not superhuman focus. 🤙🏼 |
 | Δ8-THC:CBN-O:CBC 25:16.6:8 | Pretty great! 🤙🏼 |
-| Δ10-THC:THCV:CBDV 4:1:1 | Not unpleasant. Pretty functional. Too low dose (33mg Δ10-THC) to make a confident judgment. Not clear whether CBDV makes a contribution. Or THCV. 🤔 |
+| Δ10-THC:THCV:CBDV 4:1:1 | Not unpleasant. Pretty functional. Too low dose (33mg Δ10-THC) to make a confident judgment. Not clear how THCV contributes. 🤔 |
+| Δ10-THC:CBG:CBT 46:46:8 | CBG feels functional. CBT was a great choice, clearly evident. Dose was 50mg Δ10-THC, strong but okay for working. Just a touch scatterbrained. 🤙🏼 |
 
 ### Experimentation Agenda
 
@@ -195,6 +196,8 @@ If you combine them 50/50 then they mostly cancel out and you get a remarkably o
 | Δ8-THC:H4CBD:CBN-O 4:1:1 | Compare with Δ8-THC:CBD:CBN 4:1:1 |
 | Δ8-THC:CBG:CBT 25:10:5 | Scrutinize CBG further |
 | Δ10-THC:THCV:CBDV 4:1:1 | Maybe better than Δ8-THC for this combo? |
+| Both CBC and CBT? | Constructive or destructive interference? |
+| Δ10-THC:CBG:CBT 46:23:8 | Is that CBG covering up something? |
 
 ## Cannabinol (CBN) / Acetylated cannabinol (CBN-O)
 
