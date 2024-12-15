@@ -16,7 +16,7 @@ At the end of 2022, a new psychedelic became available. Psilomethoxin (Pm) offer
 
 In 1965, Marc Julia’s group at the Pasteur Institute synthesized psilomethoxin (Pm) from ortho-vanillin extracted from the Mexican vanilla orchid. The molecule was never bioassayed nor preserved as a reference sample, and that is how things stood for decades. The synthesis of Pm is an intricate and time-consuming process, with some chemists claiming that it would take a month. In approximately 2005, Alexander Shulgin published an article on his website Cognitive Liberty wherein he theorized that Pm might be produced by feeding 5-MeO-DMT to Psilocybe mushroom substrates. In late 2021, Ian Benouis discovered the Shulgin article, tried it, and found that it worked. Pm is chemically similar to 5-MeO-DMT, with the mere addition of a 4-hydroxyl group. The psychedelic 5-MeO-DMT is not orally active and is typically vaporized for inhalation. When inhaled, the experience lasts for 10-20 minutes. Pm is thought to be an orally active version of 5-MeO-DMT.[^benouis-20221228]
 
-Pm might be the most important psychotherapeutic drug discovery of our time. Systematic research has not been done yet, but case reports from people who have experienced both MDMA and Pm are tantalizing. Both drugs produce euphoria and emotional clarity. In contrast to 5-MeO-DMT, Pm time course is similar to MDMA with a one-hour onset, two-hour plateau, and one to three-hour come down.[^mdma-effects] MDMA is a social drug; the love and empathy you can feel is mostly directed at other people. In contrast, Pm guides focus to the Self and is less about other people. On MDMA, some report an urge to hug and kiss people. Pm is much less sensual and person-focused.
+Pm might be the most important psychotherapeutic drug discovery of our time. Systematic research has not been done yet, but case reports from people who have experienced both MDMA and Pm are tantalizing. Both drugs produce euphoria and emotional clarity. In contrast to 5-MeO-DMT, Pm time course is similar to MDMA with a one-hour onset, two-hour plateau, and one to three-hour come down. MDMA is a social drug; the love and empathy you can feel is mostly directed at other people. In contrast, Pm guides focus to the Self and is less about other people. On MDMA, some report an urge to hug and kiss people. Pm is much less sensual and person-focused.
 
 Another major difference is that MDMA is an amphetamine while Pm is a tryptamine. Amphetamines are typically stimulants; that is part of what makes MDMA a marvelous drug for dancing. In contrast, there is a case report of falling asleep at the peak of a Pm journey. This would be impossible on MDMA. One person reported, “Yes I can fall asleep with no issues at the peak. Highest dose has been 600mg [of dried mushroom powder or 15mg of Pm]. I’ve taken it two hours before bed every night for the last two weeks.”
 
@@ -43,8 +43,6 @@ Mental health professionals such as psychiatrists have often held a patronizing 
 ## Notes
 
 [^benouis-20221228]: [Psilomethoxin: Ingestible 5-MeO-DMT-Ian Benouis, 5-MeO-DMT Information & Vital Education](https://www.youtube.com/watch?v=SeROOGFnwek)
-
-[^mdma-effects]: [MDMA at Erowid](https://erowid.org/chemicals/mdma/mdma_effects.shtml)
 
 [^uk-mdma-review]: [MDMA (‘ecstasy’): A REVIEW OF ITS HARMS AND CLASSIFICATION UNDER THE MISUSE OF DRUGS ACT 1971](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/119088/mdma-report.pdf)
 
