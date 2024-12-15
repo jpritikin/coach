@@ -58,6 +58,12 @@ People with low income 🎱, or veterans or active military 🎖️ may request 
 
 {{% /columns %}}
 
+**Long-lost clients program**:
+If we haven't had an appointment for more than 6 months then you get a free hour.
+
+1. Make the booking as usual.
+2. Let me know that you wish to avail this offer during the session.
+
 ## Zoom link
 
 [![Zoom link](zoom.webp)](https://us06web.zoom.us/j/7756484053)
