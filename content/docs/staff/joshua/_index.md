@@ -49,7 +49,8 @@ My rate is **$100 per hour**. Reserve time in 15 min increments. I do not accept
 
 {{% details "Too inexpensive? 💰" %}}
 I have no educational debt. I own a home. My daughter's college education is mostly paid for.
-I don't need to charge $250/hr. Don't assume I lack expertise just because I'm not charging market rate.
+Don't assume I lack expertise just because I'm not charging market rate.
+If you insist on paying me $250/hr, I will accept it.
 {{% /details %}}
 
 {{% details "Too pricy? 💰" %}}
