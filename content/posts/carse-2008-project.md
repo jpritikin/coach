@@ -16,6 +16,7 @@ My tentative plan:
 
 I have no timeline on this work. It might take a long time.
 
-Penguin Press holds the copywrite on the original text so I can't make this project public until the original text is largely replaced. Contact me if you want to collaborate.
+The copyright holder of the 2008 work is Penguin Press.
+To publish my revision, I will need to convince Penguin Press to permit a derivative work.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qdIP6HilbWE?si=FTALSSvBYSJdGysq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
