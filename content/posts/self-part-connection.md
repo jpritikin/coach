@@ -166,4 +166,4 @@ Sweezy, M. (2023). *Internal Family Systems Therapy for Shame and Guilt.* The Gu
 
 ## Notes
 
-[^the-horse-whisperer-1998]: [The Horse Whisperer 1998](https://en.wikipedia.org/wiki/The_Horse_Whisperer_(film))
+[^the-horse-whisperer-1998]: [The Horse Whisperer 1998](https://en.wikipedia.org/wiki/The_Horse_Whisperer_(film)), particularly 0:57:00 to 1:02:30.
