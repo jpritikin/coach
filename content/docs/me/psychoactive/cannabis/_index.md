@@ -109,8 +109,8 @@ In general, the experience of one or more THC-like substances are improved by pa
 
 ### Euphoriants (THC-like)
 
-- THC (Δ8-THC or Δ9-THC) offers a relaxing high.
-- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers an energizing head high. Compatible: THCV, CBG, CBT. CDBV is not bad, but I prefer the softness of CBT. CBC is pleasant but too blissful for work blends. Incompatible: CBN, CBD, H4CBD.
+- THC (Δ8-THC or Δ9-THC) offers a relaxing high. Trip time is about 6-7 hours from ingestion.
+- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers an energizing head high. Trip time is about 8-9 hours from ingestion. Compatible: THCV, CBG, CBT. CDBV is not bad, but I prefer the softness of CBT. CBC is pleasant but too blissful for work blends. Incompatible: CBD, H4CBD.
 - HHC (hexahydrocannabinol) feels similar to Δ8-THC, but distributed unevenly across the body. Most of the effect is from the neck up, with some sensation from the waist up. The high is roughly balanced between energizing and relaxing. Weird.[^turkey-hhc] 👎
 
 My tentative take is that there are not that many real choices for euphoriants.
@@ -165,9 +165,11 @@ If you combine them 50/50 then they mostly cancel out and you get a remarkably o
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ8-THC:CBN-O:XxX 37:12:6 | **Very beautiful** ♥️ No uncomfortable CBD feeling during come down. XxX is one of CBC, CBDV, CBT. |
-| Δ8-THC:H4CBD 2:1 | Holy mole! **Very beautiful** ♥️ Probably would be better with Δ9-THC because the durations would match more closely. |
+| Δ8-THC:CBN-O:XxX 37:12:6 | **Very beautiful** ♥️ No uncomfortable CBD feeling during come down. XxX is one of CBC, CBDV, CBT. Reference dose is 25mg Δ8-THC. |
 | Δ8-THC:CBD:CBN 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. Underwelming in a good way. Good for sleep. 🤙🏼 |
+| Δ8-THC:H4CBD 2:1 | Holy mole! **Very beautiful** ♥️ Probably would be better with Δ9-THC because the durations would match more closely. Reference dose is 37mg Δ8-THC. |
+
+My reference dose is strong. You might start with half of my reference dose.
 
 ### Experimentation Log
 
@@ -188,18 +190,18 @@ If you combine them 50/50 then they mostly cancel out and you get a remarkably o
 | Δ10-THC:THCV:CBDV 4:1:1 | Not unpleasant. Pretty functional. Too low dose (33mg Δ10-THC) to make a confident judgment. Not clear how THCV contributes. 🤔 |
 | Δ10-THC:CBG:CBT 46:46:8 | CBG feels functional. CBT was a great choice, clearly evident. Dose was 50mg Δ10-THC, strong but okay for working. Just a touch scatterbrained. 🤙🏼 |
 | Δ10-THC:CBG:CBC 50:25:8 | Less CBG feels less scatterbrained? Interesting! CBC is not unpleasant but too relaxing. CBC makes me want to lie down and stop working. CBT was better. 🤔 |
+| Δ10-THC:CBG:CBT 50:12:8 | Less scatterbrained, but ultimately not enough CBG to stay focused. Gets too blissful and chill after 4-5 hours. |
 
 ### Experimentation Agenda
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ8-THC:CBN-O:? | How best to anchor the Δ8-THC:CBN-O experience? |
 | Δ8-THC:H4CBD:CBN-O 4:1:1 | Compare with Δ8-THC:CBD:CBN 4:1:1 |
 | Δ8-THC:CBG:CBT 25:10:5 | Scrutinize CBG further |
 | Δ10-THC:THCV:CBDV 4:1:1 | Maybe better than Δ8-THC for this combo? |
-| Δ8-THC with both CBC and CBT? | Constructive or destructive interference? |
-| Δ10-THC:CBG:CBT 50:12:8 | Is that CBG covering up something? |
+| Δ8-THC:CBN-O with both CBC and CBT? | Constructive or destructive interference? |
 | CBN:CBN-O 100:33 | Does CBN have shorter duration than CBN-O? |
+| Δ10-THC:CBN-O:CBG:CBT 50:20:12:8 | What happens when CBG and CBN are combined? |
 
 ## Cannabinol (CBN) / Acetylated cannabinol (CBN-O)
 
