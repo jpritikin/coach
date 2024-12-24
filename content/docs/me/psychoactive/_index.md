@@ -142,7 +142,7 @@ A *bad trip* refers to a distressing and challenging experience that can occur w
 The likelihood of a bad trip is increased by many factors such as the use of too high a dosage, prior health conditions, lack of preparation, and taking psychedelics in an unsafe or unpredictable environment.
 By taking basic precautions and avoiding these known pitfalls, a bad trip becomes much less likely.
 Sensationalized accounts of the rare bad trip have made them seem far more common than they actually are.
-With a little care, you can be confident of avoiding a bad trip.
+With a little care, you can be confident of avoiding a bad trip.[^tart2001-trip]
 
 A good analogy is food poisoning.
 Consuming contaminated food can lead to an unpleasant experience with nausea, indigestion, and diarrhea.
@@ -354,4 +354,6 @@ Share your results with a friend.
 
 [^berger2024]: An exception or all's well, ends well? [Penile Replantation after Self-Amputation Following Psilocybin-Induced Drug Psychosis](https://megajournalofsurgery.com/wp-content/uploads/2024/09/MJS-79-2016.pdf?utm_source=substack&utm_medium=email)
 
-[^sabe2024] Sabé, M., Sulstarova, A., Glangetas, A., De Pieri, M., Mallet, L., Curtis, L., ... & Kirschner, M. (2024). Reconsidering evidence for psychedelic-induced psychosis: an overview of reviews, a systematic review, and meta-analysis of human studies. *Molecular Psychiatry*, 1-33.
+[^sabe2024]: Sabé, M., Sulstarova, A., Glangetas, A., De Pieri, M., Mallet, L., Curtis, L., ... & Kirschner, M. (2024). Reconsidering evidence for psychedelic-induced psychosis: an overview of reviews, a systematic review, and meta-analysis of human studies. *Molecular Psychiatry*, 1-33.
+
+[^tart2001-trip]: See pp. 150-151: Tart, C. T. (2001). *States of Consciousness.* iUniverse.
