@@ -62,7 +62,7 @@ sequenceDiagram
     Note over a: I'm dead, but at least<br/>I'm not in pain.
 {{< /mermaid >}}
 
-This is not a good outcome. Alice committed suicide ⚰️.
+Alice committed suicide ⚰️. This is not a good outcome.
 Movements like Health At Every Size[^asdah] and Intuitive Eating[^tribole2012] want to avoid this outcome at any cost.
 Let's try this again with Alice's friend Bob who subscribes to [body positivity](https://en.wikipedia.org/wiki/Body_positivity).
 
@@ -114,7 +114,7 @@ If you're on a wide screen, you may like to make the page full width by clicking
 {{% hint danger %}}
 This example is offered to suggest a therapeutic direction, not as an instruction manual.
 Alice is in a vulnerable place.
-A safe IFS intervention prompts enlistment of a trained professional 🦺.
+Such a precarious situation prompts enlistment of a trained professional 🦺.
 Alice should approach a [Certified IFS Practitioner]({{< relref "certification"  >}}) 💐 to discuss her situation.
 {{% /hint %}}
 
