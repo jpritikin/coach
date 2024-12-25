@@ -113,7 +113,7 @@ This is just a sample schedule. Customize as per your preference.
 
 ## References
 
-[^lenz]: Among others, I was a student of [Rama a.k.a. Frederick Lenz](https://fredericklenz.com/) for a few years. For a retrospective, check out the associated [Smoke Screen Podcast](https://www.neonhum.com/show-pages/i-am-rama.html).
+[^lenz]: Among others, I was a student of [Rama a.k.a. Frederick Lenz](https://fredericklenz.com/) for a few years. For a retrospective, check out the associated [Smoke Screen Podcast](https://www.neonhum.com/show-pages/i-am-rama).
 
 [^turner2012]: Turner, E. (2012). *Communitas: The anthropology of collective joy.* Springer.
 
