@@ -59,11 +59,12 @@ People with low income 🎱, or veterans or active military 🎖️ may request 
 
 {{% /columns %}}
 
-**Long-lost clients program**:
-If we haven't had an appointment for more than 6 months then you get a free hour.
+{{% details "Long-lost clients program" %}}
+If we haven't had an appointment for more than 6 months then you can receive a free hour.
 
 1. Make the booking as usual.
 2. Let me know that you wish to avail this offer during the session.
+{{% /details %}}
 
 ## Zoom link
 
@@ -90,6 +91,12 @@ If we haven't had an appointment for more than 6 months then you get a free hour
 {{% details "Ph.D. Quantitative Psychology in 2016 from University of Virginia 🎓" %}}
 - See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bibliography/56367505/public/?sort=date&direction=ascending) for publications.
 {{% /details %}}
+
+## Endorsements
+
+I cannot solicit endorsements or testimonials from current clients, as it is considered a violation of ethical codes due to the potential for undue influence on vulnerable individuals. I hereby declare that I have not solicited the following reviews:
+
+- 2024 Dec 30: "I would recommend Joshua Pritikin" [Link](https://www.facebook.com/groups/381892294305724/posts/505489025279383/?comment_id=505680095260276)
 
 ## Silly Photos
 
