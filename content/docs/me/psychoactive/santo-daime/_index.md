@@ -251,8 +251,8 @@ When I attend a work, I expect to transcend the turmoil and reach the serene hei
 ### Sleep 😴
 
 Some report that Daime interferes with sleep.
-Neither Kava nor CBN (cannabinol) are strong enough.
-The only thing that I've found that can consistently override the residual wakefulness of Daime is muscimol.
+I use some combination of CBN (cannabinol), Kava, and muscimol.
+Let me know if you figure out a better solution.
 
 ### Status
 
