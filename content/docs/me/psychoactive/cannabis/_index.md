@@ -145,8 +145,8 @@ Also, tolerance can be different for different components of a blend. So energy 
 
 ### Potentiators (CBD-like)
 
-- CBD is the classic potentiator. CBD opens the emotional spigot around the heart. CBD causes the famous (or infamous) munchies.
-- [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. CBD is largely obsolete. However, consider that H4CBD has a longer duration than CBD which might be good or bad depending on your application. H4CBD causes the muchies mostly when it is wearing off during which it feels like regular CBD.
+- CBD is the classic potentiator. CBD opens the emotional spigot around the heart.
+- [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. CBD is largely obsolete. However, consider that H4CBD has a longer duration than CBD which might be good or bad depending on your application.
 - CBN (cannabinol) offers a relaxing head high. CBN is the most underrated cannabinoid.
 - CBG (cannabigerol) taken alone, I don't notice any effect from it. Maybe that's because I'm typically in a work mindset so CBG just feels like how I already feel. With THC, CBG narrows focus. This results in a scatterbrain feeling where it takes more effort to hold onto a single coherent train of thought. It also stokes impatience.
 - CBC (cannabichromene) holds the heart steady in a propeller shape. The propeller is about two inches long and near the sternum. The stationary propeller blades extend left and right. The blades start spinning above some threshold of THC activation. Hilariously beautiful, but not better than CBDV or CBT.[^turkey-cbc]
@@ -158,6 +158,12 @@ Also, tolerance can be different for different components of a blend. So energy 
 
 CBN (head) and CBD (heart) are at opposite ends of the relaxing head-heart axis.
 If you combine them 50/50 then they mostly cancel out and you get a remarkably ordinary sensation.
+
+#### Munchies
+
+The *munchies* refer to a sharp increase in appetite that can make food seem irresistibly delicious. CBD causes this food-craving phenomenon. For H4CBD, the effect is most pronounced during the comedown period, when its effects resemble those of standard CBD. For the appetite-stimulating effect to occur, CBD must comprise more than 50% of a given blend's total CBD-like potentiators. For example, a blend containing Δ8-THC, CBD, and CBN in a 4:1:1 ratio does not increase appetite because the CBD concentration is too low (only 50%).
+
+Some users report an appetite-suppressing effect with certain cannabis blends. My experience differs. Blends are either appetite-neutral or cause food cravings. None of the blends I've tried noticeably suppress appetite.
 
 ## Blends
 
