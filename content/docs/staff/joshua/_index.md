@@ -28,18 +28,16 @@ bookToc: false
 
 ## Booking
 
-<center><form><input class="glowing" type="button" onclick="window.open('https://joshua-pritikin.clientsecure.me/request/service', '_blank')" value="Free Consultation" /></form>
-
-</br>
-
-<form><input class="glowing" type="button" onclick="window.open('https://joshua-pritikin.clientsecure.me/sign-in', '_blank')" value="Book Appointment" /></form></center>
+<center><form><input class="glowing" type="button" onclick="window.open('https://joshua-pritikin.clientsecure.me/request/service', '_blank')" value="Free Consultation" /></form></center>
 
 {{% hint info %}}
-{{% details "Reveal hints" %}}
+{{% details "Reveal booking hints" %}}
   - Enter your email address to *Sign in*. There is no password. If you don't receive the email invitation to login within five minutes, check your spam folder for `simplepractice.com`.
   - Book a month in advance to ensure that you get your preferred time slots before my schedule fills up.
 {{% /details %}}
 {{% /hint %}}
+
+<center><form><input class="glowing" type="button" onclick="window.open('https://joshua-pritikin.clientsecure.me/sign-in', '_blank')" value="Book Appointment" /></form></center>
 
 <--->
 
@@ -59,12 +57,14 @@ People with low income 🎱, or veterans or active military 🎖️ may request 
 
 {{% /columns %}}
 
+{{% hint info %}}
 {{% details "Long-lost clients program" %}}
 If we haven't had an appointment for more than 6 months then you can receive a free hour.
 
 1. Make the booking as usual.
 2. Let me know that you wish to avail this offer during the session.
 {{% /details %}}
+{{% /hint %}}
 
 ## Zoom link
 
