@@ -146,8 +146,8 @@ Also, tolerance can be different for different components of a blend. So energy 
 ### Potentiators (CBD-like)
 
 - CBD is the classic potentiator. CBD opens the emotional spigot around the heart.
-- [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. CBD is largely obsolete. However, consider that H4CBD has a longer duration than CBD which might be good or bad depending on your application.
-- CBN (cannabinol) offers a relaxing head high. CBN is the most underrated cannabinoid.
+- [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. More cognitive and longer duration than CBD.
+- C🧠N (cannabinol) offers a relaxing head high. **C🧠N is the most underrated cannabinoid.**
 - CBG (cannabigerol) taken alone, I don't notice any effect from it. Maybe that's because I'm typically in a work mindset so CBG just feels like how I already feel. With THC, CBG narrows focus. This results in a scatterbrain feeling where it takes more effort to hold onto a single coherent train of thought. It also stokes impatience.
 - CBC (cannabichromene) holds the heart steady in a propeller shape. The propeller is about two inches long and near the sternum. The stationary propeller blades extend left and right. The blades start spinning above some threshold of THC activation. Hilariously beautiful, but not better than CBDV or CBT.[^turkey-cbc]
 - CBDV (cannabidivarin) holds the heart steady in a neutral shape while allowing a head high. A bit stimulating, but not incompatible with relaxation.
@@ -156,12 +156,12 @@ Also, tolerance can be different for different components of a blend. So energy 
 
 #### Head-Heart Axis
 
-CBN (head) and CBD (heart) are at opposite ends of the relaxing head-heart axis.
+C🧠N (head) and CBD (heart) are at opposite ends of the relaxing head-heart axis.
 If you combine them 50/50 then they mostly cancel out and you get a remarkably ordinary sensation.
 
 #### Munchies
 
-The *munchies* refer to a sharp increase in appetite that can make food seem irresistibly delicious. CBD causes this food-craving phenomenon. For H4CBD, the effect is most pronounced during the comedown period, when its effects resemble those of standard CBD. For the appetite-stimulating effect to occur, CBD must comprise more than 50% of a given blend's total CBD-like potentiators. For example, a blend containing Δ8-THC, CBD, and CBN in a 4:1:1 ratio does not increase appetite because the CBD concentration is too low (only 50%).
+The *munchies* refer to a sharp increase in appetite that can make food seem irresistibly delicious. CBD causes this food-craving phenomenon. For H4CBD, the effect is most pronounced during the comedown period, when its effects resemble those of standard CBD. For the appetite-stimulating effect to occur, CBD must comprise more than 50% of a given blend's total CBD-like potentiators. For example, a blend containing Δ8-THC, CBD, and C🧠N in a 4:1:1 ratio does not increase appetite because the CBD concentration is too low (only 50%).
 
 Some users report an appetite-suppressing effect with certain cannabis blends. My experience differs. Blends are either appetite-neutral or cause food cravings. None of the blends I've tried noticeably suppress appetite.
 
@@ -171,63 +171,66 @@ Some users report an appetite-suppressing effect with certain cannabis blends. M
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ8-THC:CBN-O:XxX 37:12:6 | **Very beautiful** ♥️ No uncomfortable CBD feeling during come down. XxX is one of CBC, CBDV, CBT. Reference dose is 25mg Δ8-THC. |
-| Δ8-THC:CBD:CBN 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. Underwelming in a good way. Good for sleep. 🤙🏼 |
+| Δ8-THC:C🧠N-O:XxX 37:12:6 | **Very beautiful** ♥️ No uncomfortable CBD feeling during come down. XxX is one of CBC, CBDV, CBT. Reference dose is 25mg Δ8-THC. |
+| Δ8-THC:C🧠N:CBD 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. Underwelming in a good way. **Good for sleep.** 🤙🏼 |
+| Δ8-THC:C🧠N-O:H4CBD:CBD 24:6:2:1 | Tug toward meditation. Reference dose is 37mg Δ8-THC. 🤙🏼 |
 | Δ8-THC:H4CBD 2:1 | Holy mole! **Very beautiful** ♥️ Probably would be better with Δ9-THC because the durations would match more closely. Reference dose is 37mg Δ8-THC. |
 
 My reference dose is strong. You might start with half of my reference dose.
 
-### Experimentation Log
+### Experimentation
+
+#### Log
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
 | Δ8-THC:H4CBD:CBC 46:46:8 | CBC seems to clash with H4CBD. 👎🏼 |
 | Δ8-THC:Δ10-THC:H4CBD 1:1:2 | Δ10-THC seems to dominate Δ8-THC. H4CBD feels like CBD. 👎🏼 |
 | Δ10-THC:CBG 1:1 | Super clear-headed stimulating head-high. Just a touch scatterbrained. 🤙🏼 |
-| Δ8-THC:H4CBD 1:2 | Less spacious compared to 1:1 ratio. Sleepy. Feels fairly sober when walking around, but easy to get absorbed in meditation. Remarkably similar to 0.5g-1g psilomethoxin. 🤔 |
-| Δ8-THC:CBN-O 38:62 | Beautiful relaxing, sparkling head-high. Not conducive to sleep. A bit prone to anxiety. 🤔 |
-| HHC:CBN-O 1:2 | Not as relaxing, light, and sparkly as Δ8-THC:CBN-O. Not a headache, but some tension in the head and chest. Not great for sleep. 👎🏼 |
-| Δ10-THC:CBN 1:1 | Not as shit as HHC:CBN-O, but nothing special. 👎🏼 |
-| Δ8-THC:CBN-O 25:30 | Beautiful relaxing head-high. Works even if CBN was used on the prior evening. CBN is sensitive to time-of-day effects (night good, day bad). 🤔 |
+| Δ8-THC:H4CBD 1:2 | Less spacious compared to 1:1 ratio. Sleepy. Feels fairly sober when walking around, but easy to get absorbed in meditation. Extreme muchies. 🤔 |
+| Δ8-THC:C🧠N-O 38:62 | Beautiful relaxing, sparkling head-high. Not conducive to sleep. A bit prone to anxiety. 🤔 |
+| HHC:C🧠N-O 1:2 | Not as relaxing, light, and sparkly as Δ8-THC:C🧠N-O. Not a headache, but some tension in the head and chest. Not great for sleep. 👎🏼 |
+| Δ10-THC:C🧠N 1:1 | Not as shit as HHC:C🧠N-O, but nothing special. 🤔 |
+| Δ8-THC:C🧠N-O 25:30 | Beautiful relaxing head-high. Works even if C🧠N was used on the prior evening. C🧠N is sensitive to time-of-day effects (night good, day bad). 🤔 |
 | Δ8-THC:H4CBD 1:1 | Beautiful meditative experience. However, there is a duration mismatch as the H4CBD lasts too long. 🤔 |
-| Δ8-THC:CBT:CBN-O 25:16.6:5 | Very beautiful. Probably would be better with ratio tilted toward CBN. 🤔 |
+| Δ8-THC:CBT:C🧠N-O 25:16.6:5 | Very beautiful. Probably would be better with ratio tilted toward C🧠N. 🤔 |
 | Δ8-THC:THCV:CBDV 4:1:1 | Clear simulating head high. Alert, but not superhuman focus. 🤙🏼 |
-| Δ8-THC:CBN-O:CBC 25:16.6:8 | Pretty great! 🤙🏼 |
+| Δ8-THC:C🧠N-O:CBC 25:16.6:8 | Pretty great! 🤙🏼 |
 | Δ10-THC:THCV:CBDV 4:1:1 | Not unpleasant. Pretty functional. Too low dose (33mg Δ10-THC) to make a confident judgment. Not clear how THCV contributes. 🤔 |
 | Δ10-THC:CBG:CBT 46:46:8 | CBG feels functional. CBT was a great choice, clearly evident. Dose was 50mg Δ10-THC, strong but okay for working. Just a touch scatterbrained. 🤙🏼 |
 | Δ10-THC:CBG:CBC 50:25:8 | Less CBG feels less scatterbrained? Interesting! CBC is not unpleasant but too relaxing. CBC makes me want to lie down and stop working. CBT was better. 🤔 |
 | Δ10-THC:CBG:CBT 50:12:8 | Less scatterbrained, but ultimately not enough CBG to stay focused. Gets too blissful and chill after 4-5 hours. |
-| Δ8-THC:CBN-O:H4CBD 62.5:16:12.5 | TBD |
+| Δ8-THC:C🧠N-O:H4CBD 62.5:16:12.5 | Tug toward meditation, in stark contrast with CBD's more somatic relaxation. C🧠N-O:H4CBD ratio could probably be tipped more toward C🧠N-O, like C🧠N-O:H4CBD 2:1. 🤙🏼 |
 
-### Experimentation Agenda
+#### Agenda
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ8-THC:H4CBD:CBN-O 4:1:1 | Compare with Δ8-THC:CBD:CBN 4:1:1 |
+| Δ8-THC:C🧠N-O:CBD:H4CBD:CBT 12:3:1:1:1 | Gonna be epic! |
 | Δ8-THC:CBG:CBT 25:10:5 | Scrutinize CBG further |
 | Δ10-THC:THCV:CBDV 4:1:1 | Maybe better than Δ8-THC for this combo? |
-| Δ8-THC:CBN-O with both CBC and CBT? | Constructive or destructive interference? |
-| CBN:CBN-O 100:33 | Does CBN have shorter duration than CBN-O? |
-| Δ10-THC:CBN-O:CBG:CBT 50:20:12:8 | What happens when CBG and CBN are combined? |
+| Δ8-THC:C🧠N-O with both CBC and CBT? | Constructive or destructive interference? |
+| C🧠N:C🧠N-O 100:33 | Does C🧠N have shorter duration than C🧠N-O? |
+| Δ10-THC:C🧠N-O:CBG:CBT 50:20:12:8 | What happens when CBG and C🧠N are combined? |
 
-## Cannabinol (CBN) / Acetylated cannabinol (CBN-O)
+## Cannabinol (C🧠N) / Acetylated cannabinol (C🧠N-O)
 
 [![CBN](cannabinol.webp)](https://en.wikipedia.org/wiki/Cannabinol)
 
-CBN (without other cannabinoids) is recommmended for sleep.[^bonn-miller2024][^kolobaric2024]
-For sedation and analgesia, CBN can be used daily (seemingly there is no tolerance).
-CBN-O is 2-3 times as potent as CBN, but they are otherwise very similar.
+C🧠N (without other cannabinoids) is recommmended for sleep.[^bonn-miller2024][^kolobaric2024]
+For sedation and analgesia, C🧠N can be used daily (seemingly there is no tolerance).
+C🧠N-O is 2-3 times as potent as C🧠N, but they are otherwise very similar.
 
-CBN used alone has little cross-tolerance with THC.
+C🧠N used alone has little cross-tolerance with THC.
 
 ### Troubleshooting
 
-CBN isn't a panacea.
-If you are in heart-space then the CBN effect is too weak.
-To really enjoy CBN, you need to get to head-space and out of heart-space.
+C🧠N isn't a panacea.
+If you are in heart-space then the C🧠N effect is too weak.
+To really enjoy C🧠N, you need to get to head-space and out of heart-space.
 Kanna is a promising solution.
-Co-administer kanna and CBN.
-Kanna peaks in an hour, just when CBN is coming online.
+Co-administer kanna and C🧠N.
+Kanna peaks in an hour, just when C🧠N is coming online.
 
 ## Storage
 
