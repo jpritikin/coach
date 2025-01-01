@@ -163,6 +163,8 @@ To try to even understand 🤔 why people continue to recite the rosary, I asked
 
   - **Fosters Calm and Focus**: Granted, but the whole setting of the work is designed to create a meditative atmosphere. To do something mildly irritating like rosary recitation seems more antagonistic to calm than supportive.
 
+A similar argument could be made against the [Chaplet of Mercy](https://www.thedivinemercy.org/message/devotions/pray-the-chaplet).
+
 ### Smudging 🚬
 
 Smudging is a ceremonial practice used in various Indigenous cultures (primarily North American) for spiritual cleansing and purification.
