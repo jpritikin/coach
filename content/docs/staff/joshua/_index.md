@@ -94,9 +94,9 @@ If we haven't had an appointment for more than 6 months then you can receive a f
 
 ## Endorsements
 
-I cannot solicit endorsements or testimonials from current clients, as it is considered a violation of ethical codes due to the potential for undue influence on vulnerable individuals. I hereby declare that I have not solicited the following reviews:
+I cannot solicit endorsements or testimonials from current clients, as it is considered a violation of ethical codes due to the potential for undue influence on vulnerable individuals. I hereby declare that I have not solicited the following endorsements:
 
-- 2024 Dec 30: "I would recommend Joshua Pritikin" [Link](https://www.facebook.com/groups/381892294305724/posts/505489025279383/?comment_id=505680095260276)
+- [Lyndsay MacPherson](https://www.facebook.com/groups/381892294305724/posts/505489025279383/?comment_id=505680095260276)
 
 ## Silly Photos
 
