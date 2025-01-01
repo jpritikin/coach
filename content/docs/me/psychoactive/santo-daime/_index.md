@@ -252,6 +252,8 @@ When I attend a work, I expect to transcend the turmoil and reach the serene hei
 
 Some report that Daime interferes with sleep.
 I use some combination of CBN (cannabinol), Kava, and muscimol.
+Take 1.5x or 2x your daily dose of CBN.
+If that's not enough, try layering on Kava and muscimol.
 Let me know if you figure out a better solution.
 
 ### Status
