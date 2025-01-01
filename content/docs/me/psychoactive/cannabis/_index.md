@@ -197,6 +197,7 @@ My reference dose is strong. You might start with half of my reference dose.
 | Δ10-THC:CBG:CBT 46:46:8 | CBG feels functional. CBT was a great choice, clearly evident. Dose was 50mg Δ10-THC, strong but okay for working. Just a touch scatterbrained. 🤙🏼 |
 | Δ10-THC:CBG:CBC 50:25:8 | Less CBG feels less scatterbrained? Interesting! CBC is not unpleasant but too relaxing. CBC makes me want to lie down and stop working. CBT was better. 🤔 |
 | Δ10-THC:CBG:CBT 50:12:8 | Less scatterbrained, but ultimately not enough CBG to stay focused. Gets too blissful and chill after 4-5 hours. |
+| Δ8-THC:CBN-O:H4CBD 62.5:16:12.5 | TBD |
 
 ### Experimentation Agenda
 
