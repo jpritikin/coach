@@ -1,5 +1,5 @@
 +++
-title = "Oregon's regulation of synthetically derived cannabinoids"
+title = "Delta-8 THC illegal in Oregon"
 tags = ["politics","law"]
 date = "2024-12-21"
 categories = ["opinion"]
