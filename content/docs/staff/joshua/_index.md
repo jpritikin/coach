@@ -9,7 +9,7 @@ bookToc: false
 ## Areas of Expertise
 
 {{% details "Individual emotional & relationship issues (couple or dyad) ❤️" %}}
-- I partner with [Hand in Hand Parenting](https://www.handinhandparenting.org/) for childrearing issues. 🧑‍🧒‍🧒 Is your child obedient, cooperative, and joyful? Learn how to navigate family dynamics with ease. Start with [boredom](https://www.handinhandparenting.org/2023/06/im-bored-how-to-deal-with-your-childs-boredom/)?
+- I partner with [Hand in Hand Parenting](https://www.handinhandparenting.org/) for childrearing issues. 🧑‍🧒‍🧒 Is your child obedient, cooperative, and joyful? Learn how to navigate family dynamics with ease.
 - [IFS is similar to psychotherapy, addressing many of the same conditions.]({{< relref "dsm" >}})
 - I provide *counseling* under [ORS 675.825(4)(a)](https://oregon.public.law/statutes/ors_675.825), which allows alternative counselors to practice legally in Oregon without a 🪪 license. Since I am **not** licensed in Oregon, I cannot describe myself 🤐 as a *psychotherapist*. [ORS 675.020](https://oregon.public.law/statutes/ors_675.020)
 {{% /details %}}
