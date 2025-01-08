@@ -102,7 +102,7 @@ As a result, the cannabis landscape has shifted.
 The insatiable demand for novel cannabinoid blends no longer relies exclusively on careful plant cultivation.
 Instead, isolated cannabinoids can be mixed in precise proportions to produce desired effects, offering a level of customization previously unattainable through traditional growing methods.
 Since 1986, cannabinoids were hindered by legal ambiguity.[^rubin2023]
-After the 2018 Farm Bill, many interesting cannabinoids became legal.
+After the 2018 Farm Bill, many interesting cannabinoids became legal.[^oregon-hb3000]
 
 Cannabinoids can be organized into two categories: THC-like and CBD-like.
 In general, the experience of one or more THC-like substances are improved by pairing with one or more CBD-like substances. However, some single cannabinoids are great in isolation.
@@ -228,6 +228,8 @@ My reference dose is strong. You might start with half of my reference dose.
 CBN (without other cannabinoids) is recommmended for sleep.[^bonn-miller2024][^kolobaric2024]
 For sedation and analgesia, CBN can be used daily (seemingly there is no tolerance).
 CBN-O is 2-3 times as potent as CBN, but they are otherwise very similar.
+For CBN, the maximum dose for me is 0.5-1g.
+Beyond this and the duration of effect is too long (more than 8 hours).
 
 CBN used alone has little cross-tolerance with THC.
 
@@ -270,3 +272,5 @@ Other cannabinoids will probably be happier in the refridgerator too.
 [^turkey-cbc]: Turkey wrote, "CBC is currently my favorite cnoid" (p. 195). 🤦
 
 [^turkey-cbt]: Turkey wrote, "CBT feels like CBC's more weird and wild cousin. Same potentiating effects but with a much less calm and focused feeling" (p. 223). I agree that CBT is CBC's cousin. But much less calm and focused feeling? I don't notice that. 🤔
+
+[^oregon-hb3000]: Since 2021, Oregon prohibits the **sale** of artificially derived cannabinoids. There is no prohibition against possession. You can verify this by visiting [Chapter 845](https://secure.sos.state.or.us/oard/displayDivisionRules.action?selectedDivision=6492) and searching for "penalty."
