@@ -4,7 +4,10 @@ tags = ["politics","law"]
 date = "2024-09-17"
 categories = ["opinion"]
 menu = "main"
+booktoc = false
 +++
+
+*2025 Jan 08 UPDATE: OLCC clarified that Oregon prohibits the **sale** of artificially derived cannabinoids. There is no prohibition against possession. You can verify this by visiting [Chapter 845](https://secure.sos.state.or.us/oard/displayDivisionRules.action?selectedDivision=6492) and searching for "penalty."*
 
 Oregon's approach to regulating synthetically derived cannabinoids has evolved significantly in recent years. Initially, the focus was primarily on controlling their sale and distribution, while possession was treated as a minor infraction under [Measure 110](https://ballotpedia.org/Oregon_Measure_110,_Drug_Decriminalization_and_Addiction_Treatment_Initiative_(2020)), which broadly decriminalized drug possession.
 
