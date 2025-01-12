@@ -25,6 +25,7 @@ H. L. Mencken defined Puritanism as "the haunting fear that someone, somewhere, 
 
 ## Access to Knowledge
 
+- https://annas-archive.org/
 - https://scihub.help/
 - [The Harmful Impact of (Amazon) Audible Exclusive Audiobooks](https://blog.libro.fm/the-harmful-impact-of-audible-exclusive-audiobooks/)
 - https://www.ethswarm.org/

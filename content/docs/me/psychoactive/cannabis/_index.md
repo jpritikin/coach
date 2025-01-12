@@ -137,7 +137,7 @@ There is likely cross-tolerance because both substances are [CB1](https://en.wik
 
 - CBD is the classic potentiator. CBD opens the emotional spigot around the heart.
 - [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. More cognitive and longer duration than CBD. H4CBD is not just stronger than CBD; it has a different character.
-- **CBN (cannabinol), with a relaxing head high, is the most underrated cannabinoid.**  
+- **CBN (cannabinol) offers a head high (without narrowing focus?). This is the most underrated cannabinoid.**  
 <span style="color: brown;">Consider a cup of coffee in the morning. The first few sips often bring the most pleasure--the warmth, the aroma, the initial burst of flavor. By tuning into these sensations, we might find that a single well-brewed cup brings more satisfaction than drinking several cups mindlessly. The same principle applies to many pleasures in life.<br/>This approach isn't about deprivation--it's about discovering that "enough" often contains more joy than excess. When we eat until we're comfortably satisfied rather than stuffed, we feel energized rather than lethargic. The Japanese concept of "hari hachi bu"--eating until you're 80% full--captures this wisdom. It's not about rigid restriction, but rather finding that sweet spot where satisfaction lives.<br/>This principle extends beyond food to many areas of life--entertainment, shopping, work, even social media consumption. In the cannabis world of euphoria and bliss, the most important dimension is finding contentment in sufficiency. That is one of the virtues of cannabinol. Cannabinol bolsters our innate wisdom to be satisfied.</span>
 - CBG (cannabigerol) taken alone, I don't notice any effect from it. Maybe that's because I'm typically in a work mindset so CBG just feels like how I already feel. With THC, CBG narrows focus. This results in a scatterbrain feeling where it takes more effort to hold onto a single coherent train of thought. It also stokes impatience.
 - CBC (cannabichromene) holds the heart steady in a propeller shape. The propeller is about two inches long and near the sternum. The stationary propeller blades extend left and right. The blades start spinning above some threshold of THC activation. Hilariously beautiful, but not better than CBDV or CBT.[^turkey-cbc]
@@ -156,7 +156,7 @@ There is likely cross-tolerance because both substances are [CB1](https://en.wik
 
 The *munchies* refer to a sharp increase in appetite that can make food seem irresistibly delicious. CBD causes this food-craving phenomenon. For H4CBD, the effect is most pronounced during the comedown period, when its effects resemble those of standard CBD. For the appetite-stimulating effect to occur, CBD must comprise more than 50% of a given blend's total CBD-like potentiators. For example, a blend containing Δ8-THC, CBD, and CBN in a 4:1:1 ratio does not increase appetite because the CBD concentration is too low (only 50%).
 
-Some users report an appetite-suppressing effect with certain cannabis blends. My experience differs. Blends are either appetite-neutral or cause food cravings. None of the blends I've tried noticeably suppress appetite.
+Some users report an appetite-suppressing effect with certain cannabis blends. Is this for real? I think blends are either appetite-neutral or cause food cravings. None of the blends I've tried noticeably suppress appetite.
 
 ## Blends
 
@@ -177,10 +177,8 @@ Also, tolerance can be different for different components of a blend. So energy 
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
+| Δ8-THC:CBN:CBD 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. **Underwelming in a good way. Good for sleep.** If you have leftover THC:CBD blend that you want to salvage then you only need to approach a 0.5±.05 ratio. 🤙🏼 |
 | Δ8-THC:CBN-O:XxX 37:12:6 | **Very beautiful** ♥️ No uncomfortable CBD feeling during come down. XxX is one of CBC, CBDV, CBT. Reference dose is 25mg Δ8-THC. |
-| Δ8-THC:CBN:CBD 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. **Underwelming in a good way. Good for sleep.** 🤙🏼 |
-| Δ8-THC:CBN:CBD 4:(1-ζ):ζ for 0<ζ<0.5 | How ✨high✨ do you want with how small a cushion of relaxation? 🤙🏼 |
-| Δ8-THC:CBN-O:H4CBD:CBD 24:6:2:1 | Tug toward meditation. Reference dose is 37mg Δ8-THC. 🤙🏼 |
 | Δ8-THC:H4CBD 2:1 | Holy mole! **Very beautiful** ♥️ Probably would be better with Δ9-THC because the durations would match more closely. Reference dose is 37mg Δ8-THC. |
 
 My reference dose is strong. You might start with half of my reference dose.
@@ -209,17 +207,18 @@ My reference dose is strong. You might start with half of my reference dose.
 | Δ10-THC:CBG:CBT 50:12:8 | Less scatterbrained, but ultimately not enough CBG to stay focused. Gets too blissful and chill after 4-5 hours. |
 | Δ8-THC:CBN-O:H4CBD 62.5:16:12.5 | Tug toward meditation, in stark contrast with CBD's more somatic relaxation. CBN-O:H4CBD ratio could probably be tipped more toward CBN-O, like CBN-O:H4CBD 2:1. 🤙🏼 |
 | Δ8-THC:CBN:CBD:CBDV 62:31:25:6 | CBD is not relaxing enough. And CBDV is not steady. CBD munchies can sneak through? Meh 🤔 |
+| Δ8-THC:CBN:CBD 4:(1-ζ):ζ for 0<ζ<1 and ζ≠0.5 | For ζ<0.5 (more CBN), CBD's relaxation is inadequate. You obtain a high with restlessness. For ζ>0.5 (more CBD), you risk overindulging in CBD. If you want to do that, skip the CBN and use CBD only. If you can't measure precisely, I guess more CBD is better than more CBN. ζ=0.5 is so much better, maybe the best way to enjoy CBD. 👎🏼 |
 
 #### Agenda
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ8-THC:CBN-O:CBD:H4CBD:CBT 12:3:1:1:1 | Gonna be epic! |
+| Δ10-THC:CBN-O:CBG:CBT 50:20:12:8 | What happens when CBG and CBN are combined? |
+| Δ8-THC:CBN-O:H4CBD:CBT 12:3:2:1 | Gonna be epic! |
+| Δ8-THC:CBN-O:H4CBD 12:3:2 | Maybe CBT not needed? |
 | Δ8-THC:CBG:CBT 25:10:5 | Scrutinize CBG further |
 | Δ10-THC:THCV:CBDV 4:1:1 | Maybe better than Δ8-THC for this combo? |
-| Δ8-THC:CBN-O with both CBC and CBT? | Constructive or destructive interference? |
-| CBN:CBN-O 100:33 | Does CBN have shorter duration than CBN-O? |
-| Δ10-THC:CBN-O:CBG:CBT 50:20:12:8 | What happens when CBG and CBN are combined? |
+| Δ8-THC:CBN-O with both CBC and CBT? | How do they interact? |
 
 ## Cannabinol (CBN) / Acetylated cannabinol (CBN-O)
 
@@ -228,8 +227,13 @@ My reference dose is strong. You might start with half of my reference dose.
 CBN (without other cannabinoids) is recommmended for sleep.[^bonn-miller2024][^kolobaric2024]
 For sedation and analgesia, CBN can be used daily (seemingly there is no tolerance).
 CBN-O is 2-3 times as potent as CBN, but they are otherwise very similar.
-For CBN, the maximum dose for me is 0.5-1g.
-Beyond this and the duration of effect is too long (more than 8 hours).
+
+The way I determined a maximum dose is to take some before bed and check whether I still feel it when I wake in the morning.
+
+| Which | Maximum dose |
+| ----- | -----------  |
+| CBN | 0.5-1g |
+| CBN-O | Maybe 112mg |
 
 CBN used alone has little cross-tolerance with THC.
 
@@ -240,6 +244,8 @@ If you are in heart-space then the CBN effect is too weak.
 To really enjoy CBN, you need to get to head-space and out of heart-space.
 Kanna is a promising solution.
 Co-administer kanna and CBN.
+You don't need much kanna.
+About 1mg worth of total primary alkaloids will do if you use the appropriate energy/relaxation balance.
 Kanna peaks in an hour, just when CBN is coming online.
 
 ## Storage
