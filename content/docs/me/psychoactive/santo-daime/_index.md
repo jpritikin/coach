@@ -68,7 +68,7 @@ we might as well recite something religious (i.e., unobjectionable).
 As far as I can tell, the preponderance of Christian and African religious material reflects nothing more than a historical accident.[^muraresku2020]
 It would be nice if the hymns included more diversity in religious heritage.
 - [Divine Rose Store](https://divinerosestore.com)
-- [Luz da Rainha Publications](http://daimebooks.org)
+- [CHLQ Publications](https://www.chlq.org/shop-hinarios)
 
 ### Harmony 🎜
 

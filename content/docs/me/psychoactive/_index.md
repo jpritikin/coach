@@ -352,7 +352,7 @@ Share your results with a friend.
 
 [^bigwood2024]: Hamilton Morris has a great interview with Jeremy Bigwood released on 2024 Sep 30.
 
-[^berger2024]: An exception or all's well, ends well? [Penile Replantation after Self-Amputation Following Psilocybin-Induced Drug Psychosis](https://megajournalofsurgery.com/wp-content/uploads/2024/09/MJS-79-2016.pdf?utm_source=substack&utm_medium=email)
+[^berger2024]: An exception or all's well, ends well? [Penile Replantation after Self-Amputation Following Psilocybin-Induced Drug Psychosis](https://megajournalofsurgery.com/wp-content/uploads/2024/09/MJS-79-2016.pdf)
 
 [^sabe2024]: Sabé, M., Sulstarova, A., Glangetas, A., De Pieri, M., Mallet, L., Curtis, L., ... & Kirschner, M. (2024). Reconsidering evidence for psychedelic-induced psychosis: an overview of reviews, a systematic review, and meta-analysis of human studies. *Molecular Psychiatry*, 1-33.
 
