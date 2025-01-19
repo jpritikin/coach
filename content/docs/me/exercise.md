@@ -9,7 +9,7 @@ bookToc: false
 Exercise is important for physical and mental health.  For people who
 have already settled on favorite activities, such as golf or figure
 skating, keep it up. There is no special reason that you need to
-change.  However, not everybody has already cultivated activity
+change.  However, not everybody already has strong activity
 preferences. The question that we try to answer here is:
 
 {{% hint info %}}
@@ -29,15 +29,24 @@ Our results point to the importance of
 
 In addition, I think it is prudent to require
 - low probability of injury or concussion, and
-- a minimal amount of equipment or built environment.
+- a minimal amount of required equipment or built environment.
 
 Although the research has not been done yet, I would also weigh facets that support group flow.[^sawyer2007]
 
 Game design is a closely related area of study.[^nguyen2020]
 
+## Prereq
+
+{{% details "Weight lifting" %}}
+![Tricep](tricep.webp)
+
+It's not super enjoyable (for me), but it helps set you up for success.
+I got into weights late in life. I'm still trying to grow out of the nerd physique stereotype. 🤣
+{{% /details %}}
+
 ## Recommendations
 
-Based on the above criteria, I have identified two activities that seem particularly promising:
+Based on the above criteria, I have identified some activities that seem promising:
 
 {{% details "Reveal my current favorites" %}}
 - [AcroYoga](https://en.wikipedia.org/wiki/Acroyoga)  
@@ -46,6 +55,7 @@ Me at NW AcroYoga Camp-Out 2023 in Bellingham, WA
 - Brazilian Jiu-Jitsu  
 ![blue belt](blue.webp)  
 Me with [Prof Pete Loncarevich](https://en.wikipedia.org/wiki/Pete_Loncarevich#Brazilian_Jiu-Jitsu) in Jan 2023 🥋
+- [Kama Flight](https://kamaflight.com/), but I haven't tried it yet.
 
 Hopefully inverted positions 🙃 do not increase the risk of glaucoma![^jasien2015]
 {{% /details %}}
