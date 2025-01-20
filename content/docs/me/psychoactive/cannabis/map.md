@@ -32,7 +32,7 @@ If you take a head potentiator without doing anything for the heart, then discom
 There is a head/heart balance and a heart open/closed balance.
 For example, if you take equal amounts of CBN (head) and CBD (heart), then the effects mostly cancel out.
 Similarly, if you take equal amounts of H4CBD (open) and CBDV (closed), then the heart will be somewhat open.
-Avoid stimulation in the head paired with relaxation in the heart.
+Avoid stimulation in the head paired with inadequate relaxation in the heart.
 That's the worst combination (e.g., THCV:CBD with ratio 3:2).
 As the heart recovers to normal, there is a band of discomfort.
 The band on the open side is much wider than the band on the closed side.

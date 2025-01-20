@@ -80,6 +80,10 @@ The same ratio applies for both Δ8-THC and Δ9-THC.
 
 [![thc cbd ratio infographic](20210115_-Infographic-CBD-THC-1.jpg)](https://www.cannasouth.co.nz/2021/cbdthc-ratio/)
 
+{{% hint info %}}
+The combination of THC and CBD is obsolete. [Check out my favorite blends.](#favorites)
+{{% /hint %}}
+
 ## New cannabinoids
 
 Cannabis plants were traditionally categorized into two main types: sativa and indica, each known for distinct effects:
@@ -107,10 +111,10 @@ After the 2018 Farm Bill, many interesting cannabinoids became legal.[^oregon-hb
 Cannabinoids can be organized into two categories: THC-like and CBD-like.
 In general, the experience of one or more THC-like substances are improved by pairing with one or more CBD-like substances. However, some single cannabinoids are great in isolation.
 
-### Euphoriants (THC-like)
+### Euphoriants (THC-like buzz)
 
 - THC (Δ8-THC or Δ9-THC) offers a relaxing high. Trip time is about 6-7 hours from ingestion.
-- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers an energizing head high. Trip time is about 8-9 hours from ingestion. Compatible: THCV, CBG, CBT. CDBV is not bad, but I prefer the softness of CBT. CBC is pleasant but too blissful for work blends. Incompatible: CBD, H4CBD.
+- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers an energizing head high. Trip time is about 8-9 hours from ingestion. Δ10-THC feels similar to CBN. When you combine it with CBN then it doesn't feel much different, but CBN affects the head-heart balance. Compatible: CBN, THCV, CBG, CBT, CBC. CDBV is not bad, but I prefer the softness of CBC/CBT. Incompatible: CBD, H4CBD.
 - HHC (hexahydrocannabinol) feels similar to Δ8-THC, but distributed unevenly across the body. Most of the effect is from the neck up, with some sensation from the waist up. The high is roughly balanced between energizing and relaxing. Weird.[^turkey-hhc] 👎
 
 My tentative take is that there are not that many real choices for euphoriants.
@@ -126,8 +130,6 @@ There are substances with different potency and duration, but most of the variet
 {.center}
 {{% /columns %}}
 
-The main difference is that Δ8-THC is emotionally soothing while Δ9-THC is emotionally potentiating.
-I might even draw the analogy that Δ8-THC is to psilomethoxin as Δ9-THC is to psilocybin.
 If you haven't tried THC, start with Δ8-THC before trying Δ9-THC.
 
 For occasional use, tolerance half-life seems to be about two days.
@@ -137,10 +139,10 @@ There is likely cross-tolerance because both substances are [CB1](https://en.wik
 
 - CBD is the classic potentiator. CBD opens the emotional spigot around the heart.
 - [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. More cognitive and longer duration than CBD. H4CBD is not just stronger than CBD; it has a different character.
-- **CBN (cannabinol) offers a head high (without narrowing focus?). This is the most underrated cannabinoid.**  
+- **CBN (cannabinol) offers a head high without narrowing focus. This is the most underrated cannabinoid.**  
 <span style="color: brown;">Consider a cup of coffee in the morning. The first few sips often bring the most pleasure--the warmth, the aroma, the initial burst of flavor. By tuning into these sensations, we might find that a single well-brewed cup brings more satisfaction than drinking several cups mindlessly. The same principle applies to many pleasures in life.<br/>This approach isn't about deprivation--it's about discovering that "enough" often contains more joy than excess. When we eat until we're comfortably satisfied rather than stuffed, we feel energized rather than lethargic. The Japanese concept of "hari hachi bu"--eating until you're 80% full--captures this wisdom. It's not about rigid restriction, but rather finding that sweet spot where satisfaction lives.<br/>This principle extends beyond food to many areas of life--entertainment, shopping, work, even social media consumption. In the cannabis world of euphoria and bliss, the most important dimension is finding contentment in sufficiency. That is one of the virtues of cannabinol. Cannabinol bolsters our innate wisdom to be satisfied.</span>
-- CBG (cannabigerol) taken alone, I don't notice any effect from it. Maybe that's because I'm typically in a work mindset so CBG just feels like how I already feel. With THC, CBG narrows focus. This results in a scatterbrain feeling where it takes more effort to hold onto a single coherent train of thought. It also stokes impatience.
-- CBC (cannabichromene) holds the heart steady in a propeller shape. The propeller is about two inches long and near the sternum. The stationary propeller blades extend left and right. The blades start spinning above some threshold of THC activation. Hilariously beautiful, but not better than CBDV or CBT.[^turkey-cbc]
+- CBG (cannabigerol) taken alone, I don't notice any effect from it. Maybe that's because I'm typically in a work mindset so CBG just feels like how I already feel. With THC activation, CBG narrows focus. This results in a scatterbrain feeling where it takes more effort to hold onto a single coherent train of thought. It also stokes impatience.
+- CBC (cannabichromene) holds the heart steady in a courageous propeller shape. The propeller is about two inches long and near the sternum. The stationary propeller blades extend left and right. The blades start spinning above some threshold of THC activation. Beautiful, but not better than CBDV or CBT.[^turkey-cbc]
 - CBDV (cannabidivarin) holds the heart steady in a neutral shape while allowing a head high. A bit stimulating, but not incompatible with relaxation.
 - CBT (cannabicitran) holds the heart steady in a hollow shape while allowing a head high. Possibly more potentiating and gentler come-down than CBDV.[^turkey-cbt]
 - THCV (tetrahydrocannabivarin) simulating head high. Just a touch of scatterbrain. More alert than CBG. Maybe too alert. Harsh alertness? (Despite starting with the letter T, this is a potentiator because it doesn't do much without a euphoriant.)
@@ -151,6 +153,7 @@ There is likely cross-tolerance because both substances are [CB1](https://en.wik
 | -- | -- | ------------------------ |
 | CBD | CBDV | Clashes: CBD is not relaxing enough. And CBDV is not steady. 👎🏼 |
 | CBN | CBD | CBN (head) and CBD (heart) are at opposite ends of the relaxing head-heart axis. If you combine them 50/50 then they mostly cancel out and you get a remarkably ordinary sensation. 🤙🏼 |
+| CBN | CBG | Both put you in headspace. CBG narrows focus, CBN doesn't. The ratio lets you pick how much you want to narrow your focus. 🤔 |
 
 #### Munchies
 
@@ -177,8 +180,9 @@ Also, tolerance can be different for different components of a blend. So energy 
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ8-THC:CBN:CBD 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. **Underwelming in a good way. Good for sleep.** If you have leftover THC:CBD blend that you want to salvage then you only need to approach a 0.5±.05 ratio. 🤙🏼 |
-| Δ8-THC:CBN-O:XxX 37:12:6 | **Very beautiful** ♥️ No uncomfortable CBD feeling during come down. XxX is one of CBC, CBDV, CBT. Reference dose is 25mg Δ8-THC. |
+| Δ8-THC:CBN:CBD 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. **Underwelming in a good way. Good for sleep.** If you have leftover THC:CBD blend that you want to salvage then you only need to approach a 0.5±.05 CBN:CBD ratio. 🤙🏼 |
+| Δ8-THC:CBN-O:XxX 6:2:1 | **Very beautiful** ♥️ No uncomfortable CBD feeling during come down. XxX is one of CBC, CBDV, CBT. Reference dose is 25mg Δ8-THC. |
+| Δ10-THC:CBN-O:CBG:CBT 50:20:12:8 | Passable work blend. Still somewhat WIP. Stay tuned for improvements. Reference dose is 50mg Δ10-THC. 🤙🏼 |
 | Δ8-THC:H4CBD 2:1 | Holy mole! **Very beautiful** ♥️ Probably would be better with Δ9-THC because the durations would match more closely. Reference dose is 37mg Δ8-THC. |
 
 My reference dose is strong. You might start with half of my reference dose.
@@ -203,22 +207,24 @@ My reference dose is strong. You might start with half of my reference dose.
 | Δ8-THC:CBN-O:CBC 25:16.6:8 | Pretty great! 🤙🏼 |
 | Δ10-THC:THCV:CBDV 4:1:1 | Not unpleasant. Pretty functional. Too low dose (33mg Δ10-THC) to make a confident judgment. Not clear how THCV contributes. 🤔 |
 | Δ10-THC:CBG:CBT 46:46:8 | CBG feels functional. CBT was a great choice, clearly evident. Dose was 50mg Δ10-THC, strong but okay for working. Just a touch scatterbrained. 🤙🏼 |
-| Δ10-THC:CBG:CBC 50:25:8 | Less CBG feels less scatterbrained? Interesting! CBC is not unpleasant but too relaxing. CBC makes me want to lie down and stop working. CBT was better. 🤔 |
+| Δ10-THC:CBG:CBC 50:25:8 | Less CBG feels less scatterbrained? Interesting! CBC is not unpleasant but too relaxing. CBC makes me want to lie down and stop working. CBT was better. Hey wait! Maybe what went wrong here was the head-heart balance. Now I want to re-test CBC. 🤔 |
 | Δ10-THC:CBG:CBT 50:12:8 | Less scatterbrained, but ultimately not enough CBG to stay focused. Gets too blissful and chill after 4-5 hours. |
 | Δ8-THC:CBN-O:H4CBD 62.5:16:12.5 | Tug toward meditation, in stark contrast with CBD's more somatic relaxation. CBN-O:H4CBD ratio could probably be tipped more toward CBN-O, like CBN-O:H4CBD 2:1. 🤙🏼 |
 | Δ8-THC:CBN:CBD:CBDV 62:31:25:6 | CBD is not relaxing enough. And CBDV is not steady. CBD munchies can sneak through? Meh 🤔 |
 | Δ8-THC:CBN:CBD 4:(1-ζ):ζ for 0<ζ<1 and ζ≠0.5 | For ζ<0.5 (more CBN), CBD's relaxation is inadequate. You obtain a high with restlessness. For ζ>0.5 (more CBD), you risk overindulging in CBD. If you want to do that, skip the CBN and use CBD only. If you can't measure precisely, I guess more CBD is better than more CBN. ζ=0.5 is so much better, maybe the best way to enjoy CBD. 👎🏼 |
+| Δ10-THC:CBN-O:CBG:CBT 50:20:12:8 | CBN affects the head-heart balance, but otherwise doesn't contribute much. The head-heart ratio of 32:8 was a bit too tipped toward head (80%). A little more bliss would be nice. CBG narrowed focus, but not too scatterbrained. 🤙🏼 |
 
 #### Agenda
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ10-THC:CBN-O:CBG:CBT 50:20:12:8 | What happens when CBG and CBN are combined? |
+| Δ10-THC:CBN-O:CBG:CBC 50:15:9:8 | (1) Adjust ratio vs previous test. (2) CBC might be equally great vs CBT? |
 | Δ8-THC:CBN-O:H4CBD:CBT 12:3:2:1 | Gonna be epic! |
-| Δ8-THC:CBN-O:H4CBD 12:3:2 | Maybe CBT not needed? |
-| Δ8-THC:CBG:CBT 25:10:5 | Scrutinize CBG further |
-| Δ10-THC:THCV:CBDV 4:1:1 | Maybe better than Δ8-THC for this combo? |
+| Δ8-THC:CBN-O:H4CBD 12:4:2 | Maybe CBT not needed? |
 | Δ8-THC:CBN-O with both CBC and CBT? | How do they interact? |
+| Δ8-THC:CBN-O:CBD 4:1:1 | What ratio of CBD-O feels like Δ8-THC:CBN:CBD 4:1:1 ? |
+| Δ8-THC:CBG:CBT 6:2:1 | Scrutinize CBG further |
+| Δ10-THC:THCV:CBDV ? | Maybe need to test THCV and CBDV separately. TBD |
 
 ## Cannabinol (CBN) / Acetylated cannabinol (CBN-O)
 
