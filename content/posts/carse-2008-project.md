@@ -1,8 +1,8 @@
 +++
 title = "Carse 2008 Project Announcement"
-tags = ["religion","book"]
+tags = ["religion"]
 date = "2024-08-11"
-categories = ["project"]
+categories = ["book"]
 menu = "main"
 +++
 

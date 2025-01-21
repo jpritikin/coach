@@ -1,8 +1,8 @@
 +++
 title = "Why I loath the Southeastern United States"
-tags = ["politics","book"]
+tags = ["politics"]
 date = "2023-09-10"
-categories = ["opinion"]
+categories = ["book"]
 menu = "main"
 bookToc = false
 +++

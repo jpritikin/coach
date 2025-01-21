@@ -1,6 +1,6 @@
 +++
 title = "Determined: A Science of Life Without Free Will (2023)"
-tags = ["science", "physics", "consciousness"]
+tags = ["science", "physics"]
 date = "2023-10-20"
 categories = ["book"]
 menu = "main"

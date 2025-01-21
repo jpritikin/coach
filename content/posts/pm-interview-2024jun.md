@@ -1,6 +1,6 @@
 +++
 title = "Chat about Sacred Synthesis and Psilomethoxin"
-tags = ["psychedelics","consciousness","spirituality"]
+tags = ["psychedelics","religion"]
 date = "2024-06-06"
 categories = ["opinion"]
 menu = "main"

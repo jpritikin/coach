@@ -1,7 +1,7 @@
 +++
 title = "The alphabet versus the goddess (1999)"
 description = "On the invention of the phonetic alphabet"
-tags = ["history", "religion", "spirituality", "meditation"]
+tags = ["history", "religion", "meditation"]
 date = "2020-11-28"
 categories = ["book"]
 menu = "main"
