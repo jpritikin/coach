@@ -1,6 +1,6 @@
 +++
 title = "Navigating Psilomethoxin: Josh’s Research & Practical Advice"
-tags = ["psychedelics","consciousness","spirituality"]
+tags = ["psychedelics","religion"]
 date = "2024-09-18"
 categories = ["opinion"]
 menu = "main"
