@@ -114,7 +114,7 @@ In general, the experience of one or more THC-like substances are improved by pa
 ### Euphoriants (THC-like buzz)
 
 - THC (Δ8-THC or Δ9-THC) offers a relaxing high. Trip time is about 6-7 hours from ingestion.
-- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers an energizing head high. Trip time is about 8-9 hours from ingestion. Δ10-THC feels similar to CBN. When you combine it with CBN then it doesn't feel much different, but CBN affects the head-heart balance. Compatible: CBN, THCV, CBG, CBT, CBC. CDBV is not bad, but I prefer the softness of CBC/CBT. Incompatible: CBD, H4CBD.
+- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers an energizing head high. Trip time is about 8-9 hours from ingestion. When combined with CBN, it doesn't feel much different, but CBN affects the head-heart balance. Compatible: CBN, THCV, CBG, CBT, CBC. CDBV is not bad, but I prefer the softness of CBC/CBT. Incompatible: CBD, H4CBD. For occasional use, tolerance half-life seems to be about 36 hours.
 - HHC (hexahydrocannabinol) feels similar to Δ8-THC, but distributed unevenly across the body. Most of the effect is from the neck up, with some sensation from the waist up. The high is roughly balanced between energizing and relaxing. Weird.[^turkey-hhc] 👎
 
 My tentative take is that there are not that many real choices for euphoriants.
@@ -181,11 +181,11 @@ Also, tolerance can be different for different components of a blend. So energy 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
 | Δ8-THC:CBN:CBD 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. **Underwelming in a good way. Good for sleep.** If you have leftover THC:CBD blend that you want to salvage then you only need to approach a 0.5±.05 CBN:CBD ratio. 🤙🏼 |
-| Δ8-THC:CBN-O:XxX 6:2:1 | **Very beautiful** ♥️ No uncomfortable CBD feeling during come down. XxX is one of CBC, CBDV, CBT. Reference dose is 25mg Δ8-THC. |
-| Δ10-THC:CBN-O:CBG:CBT 50:20:12:8 | Passable work blend. Still somewhat WIP. Stay tuned for improvements. Reference dose is 50mg Δ10-THC. 🤙🏼 |
+| Δ8-THC:CBN-O:CBx 6:2:1 | **Very beautiful** ♥️ No uncomfortable CBD feeling during come down. CBx is one of CBC, CBDV, CBT. Reference dose is 25mg Δ8-THC. |
+| Δ10-THC:CBN-O:CBG:CBx 50:15:9:8 | **Superhuman focus** work blend. CBx is CBC or CBT. Reference dose is 50mg Δ10-THC. 🤙🏼 |
 | Δ8-THC:H4CBD 2:1 | Holy mole! **Very beautiful** ♥️ Probably would be better with Δ9-THC because the durations would match more closely. Reference dose is 37mg Δ8-THC. |
 
-My reference dose is strong. You might start with half of my reference dose.
+My reference dose is strong. You might start with 1/2 or 1/4 of my reference dose.
 
 ### Experimentation
 
@@ -213,12 +213,15 @@ My reference dose is strong. You might start with half of my reference dose.
 | Δ8-THC:CBN:CBD:CBDV 62:31:25:6 | CBD is not relaxing enough. And CBDV is not steady. CBD munchies can sneak through? Meh 🤔 |
 | Δ8-THC:CBN:CBD 4:(1-ζ):ζ for 0<ζ<1 and ζ≠0.5 | For ζ<0.5 (more CBN), CBD's relaxation is inadequate. You obtain a high with restlessness. For ζ>0.5 (more CBD), you risk overindulging in CBD. If you want to do that, skip the CBN and use CBD only. If you can't measure precisely, I guess more CBD is better than more CBN. ζ=0.5 is so much better, maybe the best way to enjoy CBD. 👎🏼 |
 | Δ10-THC:CBN-O:CBG:CBT 50:20:12:8 | CBN affects the head-heart balance, but otherwise doesn't contribute much. The head-heart ratio of 32:8 was a bit too tipped toward head (80%). A little more bliss would be nice. CBG narrowed focus, but not too scatterbrained. 🤙🏼 |
+| Δ10-THC:CBN-O:CBG:CBC 50:15:9:8 | Very beautiful. This seems pretty close to optimal. 🤙🏼 |
 
 #### Agenda
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ10-THC:CBN-O:CBG:CBC 50:15:9:8 | (1) Adjust ratio vs previous test. (2) CBC might be equally great vs CBT? |
+| Δ10-THC:CBN-O:CBG:CBC 50:10:9:8 | A bit more blissful? |
+| Δ10-THC:CBN-O:CBG:CBC 66:15:9:8 | More spacious? |
+| Δ10-THC:CBN-O:CBG:CBC:CBT 50:15:9:4:4 | Both CBC and CBT? |
 | Δ8-THC:CBN-O:H4CBD:CBT 12:3:2:1 | Gonna be epic! |
 | Δ8-THC:CBN-O:H4CBD 12:4:2 | Maybe CBT not needed? |
 | Δ8-THC:CBN-O with both CBC and CBT? | How do they interact? |
@@ -251,7 +254,10 @@ To really enjoy CBN, you need to get to head-space and out of heart-space.
 Kanna is a promising solution.
 Co-administer kanna and CBN.
 You don't need much kanna.
-About 1mg worth of total primary alkaloids will do if you use the appropriate energy/relaxation balance.
+About 1-2 mg worth of total primary alkaloids will do.
+The trick is to find the appropriate energy/relaxation balance.
+Search for a feeling analogous to Δ8-THC:CBN:CBD 4:1:1.
+Kanna isn't as potent as THC, but the big advantage for this application is that it lacks a tolerance effect for daily use.
 Kanna peaks in an hour, just when CBN is coming online.
 
 ## Storage
