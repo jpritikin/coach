@@ -19,7 +19,7 @@ such techniques from Sahaja Yoga.[^tribute]
 
 Although the primary location of the sahasrara is above the head, one
 discovery from Sahaja Yoga is that the chakras are associated with
-regions on the hands (see figure on right). This is fortunate since it
+regions on the hands (see figure). This is fortunate since it
 quickly becomes tiring to keep the right hand lifted above the
 head. Switch back and forth between the saharsara areas on the head
 and left hand whenever you feel fatigued.
@@ -29,6 +29,14 @@ Feel into the fingertips of your right hand and the current
 sahasrara area.  Moreover, try to feel into the gap between these
 two parts of your body.
 
+{{% hint warning %}}
+You know how sometimes a song gets stuck in your head--an *earworm*--playing over and over? The amount of mental discipline needed to break free of a looping song is exactly the level of concentration you need for this technique. It's not a straining focus, but rather a gentle yet deliberate attention that can interrupt the automatic replay in your mind.
+
+{{% details "You might create this situation on purpose!" %}}
+Think of one of your favorite melodies--something simple and familiar. Let it play in your mind. Really let it loop until you can feel that familiar mental stickiness. (Or attend a [Santo Daime]({{< relref "santo-daime" >}}) ceremony 🎶.) Now we'll use this earworm as a tool. This is your chance to practice that perfect level of concentration--just enough to shift your mind away from the melody and fully attend to your focus target.
+{{% /details %}}
+{{% /hint %}}
+
 ![Hands](hands.png)
 
 To prevent your attention from wandering and neural adaptation,[^neural-adaptation] randomly vary
@@ -37,7 +45,7 @@ To prevent your attention from wandering and neural adaptation,[^neural-adaptati
 - radius of the circular motion
 - distance between your right hand and the sahasrara area (1-6 cm)
 
-If you are tracking accurately, how you feel should match how your right hand moves.
+If you are tracking accurately, how you feel should match the motion of your right hand.
 
 ## Timing
 
