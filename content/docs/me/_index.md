@@ -13,6 +13,9 @@ bookCollapseSection: true
 
 In real life, I am highly opinionated about diverse content areas.
 
+![Silly self portrait](self-portrait.webp)
+{.center}
+
 {{% hint info %}}
 This area of my website is the safe space for me (mostly Joshua) to broadcast my opinions. 🤓
 {{% /hint %}}
