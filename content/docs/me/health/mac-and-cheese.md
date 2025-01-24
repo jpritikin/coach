@@ -52,3 +52,9 @@ Whisk well. Either
 Toss with hot cooked macaroni.
 
 Variation: Instead of pasta, cheese-up your favorite vegetables.
+
+### Quesadilla Variation
+
+Mix 1-2 tablespoons of powder in a small bowl, gradually adding water until it reaches a toothpaste-like consistency. Spread this uncooked mixture onto tortillas. As you heat the tortillas in a pan, the filling will cook naturally. And there you have it--delicious quesadillas!
+
+![Quesadilla](quesadilla.webp)
