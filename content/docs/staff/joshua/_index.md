@@ -4,7 +4,17 @@ weight: 10
 bookToc: false
 ---
 
-![Silly self portrait](self-portrait.webp)
+{{% columns %}}
+
+![Self portrait](portrait.webp)
+
+<--->
+
+## Zoom link
+
+[![Zoom link](zoom.webp)](https://us06web.zoom.us/j/7756484053)
+
+{{% /columns %}}
 
 ## Areas of Expertise
 
@@ -65,10 +75,6 @@ I get attached to my clients. If we haven't had an appointment for more than 6 m
 2. Let me know that you wish to avail this offer during the session.
 {{% /details %}}
 {{% /hint %}}
-
-## Zoom link
-
-[![Zoom link](zoom.webp)](https://us06web.zoom.us/j/7756484053)
 
 ## Education
 
