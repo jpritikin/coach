@@ -102,14 +102,15 @@ This is just a sample schedule. Customize as per your preference.
 
 ### Don't forget fun
 
-- [Kūmāré 2011](https://en.wikipedia.org/wiki/Kumar%C3%A9)
+- [Rethinking Death: Exploring What Happens When We Die 2024](https://www.youtube.com/watch?v=_18UdG4STHA)
 - [Derren Brown: Fear and Faith (2012)](https://youtu.be/6_xHXp1q8pU?list=PLAZ27CqbEinYIjCH-pbpkdvXG4fh-I7hA)
-- [JP Sears](https://en.wikipedia.org/wiki/JP_Sears) offers lots of parodies like [Ultra Spiritual Life](https://www.youtube.com/playlist?list=PLVqOKx7e2qhefIG5IEGOKQ4pCzFf8IScX)
+- [Kūmāré 2011](https://en.wikipedia.org/wiki/Kumar%C3%A9)
+- [Flatliners (1990)](https://en.wikipedia.org/wiki/Flatliners)
+- [Brainstorm (1983)](https://en.wikipedia.org/wiki/Brainstorm_(1983_film))
 - [Mob Psycho 100](https://en.wikipedia.org/wiki/Mob_Psycho_100)
 - [Cult of the Lamb](https://en.wikipedia.org/wiki/Cult_of_the_Lamb)
-- [Flatliners (1990)](https://en.wikipedia.org/wiki/Flatliners)
 - [I, Pastafari: A Flying Spaghetti Monster Story (2019)](https://en.wikipedia.org/wiki/I,_Pastafari)
-- [Brainstorm (1983)](https://en.wikipedia.org/wiki/Brainstorm_(1983_film))
+- [JP Sears](https://en.wikipedia.org/wiki/JP_Sears) offers lots of parodies like [Ultra Spiritual Life](https://www.youtube.com/playlist?list=PLVqOKx7e2qhefIG5IEGOKQ4pCzFf8IScX)
 
 ## References
 
