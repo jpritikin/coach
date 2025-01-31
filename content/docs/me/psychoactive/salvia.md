@@ -117,7 +117,7 @@ I have described a particular way to navigate the salvia trip. Those who learn t
 
 Can we understand the parameters of the salvia experience in more detail?
 
-*   Probe the kinds of tasks that are feasible for salvia surfers to perform while intoxicated.[^doss2022] Can we tease out the nuances of the memory impairments already documented by MacLean (2012)?
+*   Probe the kinds of tasks that are feasible for salvia surfers to perform while intoxicated.[^doss2023] Can we tease out the nuances of the memory impairments already documented by MacLean (2012)?
 *   As a sighted person, gravity waves often have a visual component. How do blind people experience the gravity waves? What about people with other disabilities?
 
 ### As a performance enhancing drug
@@ -136,17 +136,13 @@ There is [at least one case report](https://medium.com/an-idea/meeting-the-shepa
 
 [^maqueda2018]: Maqueda, A. E. (2018). The Use of *Salvia divinorum* from a Mazatec Perspective. In B. C. Labate and C. Cavnar (Eds.) *Plant Medicines, Healing and Psychedelic Science* (pp. 55--70). Springer International Publishing.
 
-
-
 [^arthur2010]: Arthur, J. D. (2010). *Salvia divinorum: Doorway to thought-free awareness.* Simon and Schuster.
-
-
 
 [^synesthesia]: Synesthesia juxtapositions the information from one sense into another (e.g., hearing colors). The medium where the gravity waves exist is not a sense per se, but a property of attention.
 
 [^doss2020]: Doss, M. K., May, D. G., Johnson, M. W., Clifton, J. M., Hedrick, S. L., Prisinzano, T. E., ... & Barrett, F. S. (2020). The acute effects of the atypical dissociative hallucinogen salvinorin A on functional connectivity in the human brain. *Scientific Reports, 10*(1), 1--12.
 
-[^doss2022]: Doss, M., de Wit, H., & Gallo, D. A. (2022, June 2). The Acute Effects of Psychoactive Drugs on Emotional Episodic Memory Encoding, Consolidation, and Retrieval. https://psyarxiv.com/tkczm/
+[^doss2023]: Doss, M. K., de Wit, H., & Gallo, D. A. (2023). The acute effects of psychoactive drugs on emotional episodic memory encoding, consolidation, and retrieval: A comprehensive review. *Neuroscience & Biobehavioral Reviews, 150*, 105188.
 
 [^prause2021]: Prause, N., Siegle, G. J., & Coan, J. (2021). Partner intimate touch is associated with increased interpersonal closeness, especially in non-romantic partners. *PLOS ONE, 16*(3), e0246065.
 
