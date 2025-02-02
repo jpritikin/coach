@@ -193,6 +193,7 @@ My reference dose is strong. To judge these blends, I gotta feel 'em vividly. Yo
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
+| Δ8-THC:CBD 2:1 | Clashes with daime. Do not recommend. 👎🏼 |
 | Δ8-THC:H4CBD:CBC 46:46:8 | CBC seems to clash with H4CBD. 👎🏼 |
 | Δ8-THC:Δ10-THC:H4CBD 1:1:2 | Δ10-THC seems to dominate Δ8-THC. H4CBD feels like CBD. 👎🏼 |
 | Δ10-THC:CBG 1:1 | Super clear-headed stimulating head-high. Just a touch scatterbrained. 🤙🏼 |
@@ -215,6 +216,7 @@ My reference dose is strong. To judge these blends, I gotta feel 'em vividly. Yo
 | Δ10-THC:CBN-O:CBG:CBT 50:20:12:8 | CBN affects the head-heart balance, but otherwise doesn't contribute much. The head-heart ratio of 32:8 was a bit too tipped toward head (80%). A little more bliss would be nice. CBG narrowed focus, but not too scatterbrained. 🤙🏼 |
 | Δ10-THC:CBN-O:CBG:CBC 50:15:9:8 | Very beautiful. This seems pretty close to optimal. 🤙🏼 |
 | Δ10-THC:CBN-O:CBG:CBT 50:10:9:8 | Better energy-bliss balance with this ratio. Seems mostly faded after only 4 hours from ingestion--maybe because it's such a smooth landing? Sensational. 🤙🏼 |
+| Δ8-THC:CBN:CBD 4:1:1 | Clashes with daime. Do not recommend. 👎🏼 |
 
 #### Agenda
 
