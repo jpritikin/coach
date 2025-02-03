@@ -180,7 +180,7 @@ Also, tolerance can be different for different components of a blend. So energy 
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ8-THC:CBN:CBD 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. **Underwelming in a good way. Good for sleep.** If you have leftover THC:CBD blend that you want to salvage then you only need to approach a 0.5±.05 CBN:CBD ratio. 🤙🏼 |
+| Δ8-THC:CBN:CBD 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. **Underwelming in a good way. Good for sleep.** If you have leftover THC:CBD blend that you want to salvage then you only need to approach a 0.5±.05 CBN:CBD ratio. If it feels too buzzy then add more CBN+CBD. If it feels too flat, add more THC. 🤙🏼 |
 | Δ8-THC:CBN-O:CBx 6:2:1 | **Very beautiful** ♥️ No uncomfortable CBD feeling during come down. CBx is one of CBC, CBDV, CBT. Reference dose is 25mg Δ8-THC. |
 | Δ10-THC:CBN-O:CBG:CBx 5:1:1:1 | **Superhuman focus** work blend. CBx is CBC or CBT. CBC is confidently blissful (yang). CBT is smooth and receptive (yin). Reference dose is 50mg Δ10-THC. 🤙🏼 |
 | Δ8-THC:H4CBD 2:1 | Holy mole! **Very beautiful** ♥️ H4CBD lasts too long. It probably would be better with Δ9-THC because the durations would match better. Reference dose is 37mg Δ8-THC. |
