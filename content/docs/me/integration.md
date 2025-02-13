@@ -41,7 +41,7 @@ Scholars suspect that psychedelics were at the origins of many religions[^murare
 
 People can become too enthusiastic about meditation. Jamie Wheal did a
 marvelous job of describing the dysfunctional social situations that can
-happen in his 2021 book *Recapture the Rapture* and is worth quoting at length:
+happen in his 2021 book *Recapture the Rapture* and is worth quoting at length (pp. 251-255):
 
 {{% details "Show quote" %}}
 {{% hint info %}}
