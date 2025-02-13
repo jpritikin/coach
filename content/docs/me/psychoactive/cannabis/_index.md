@@ -30,8 +30,8 @@ In light of this knowledge deficit, personal exploration becomes a valuable, alb
 Medicinal use of cannabis dates back at least 5,000 years.
 Delta-9 tetrahydrocannabinol (THC) is the primary psychoactive in cannabis.
 Commonly reported effects of THC include relaxation, euphoria, increased appetite, pain reduction, drowsiness, and occasionally, anxiety.
-CBD (cannabidiol) is another widely known cannabinoid.
-It is non-psychoactive and widely studied for its potential therapeutic benefits, including anti-inflammatory and anxiolytic properties.
+Cannabidiol (CBD) is another widely known cannabinoid.
+It is widely studied for its potential therapeutic benefits, including anti-inflammatory and anxiolytic properties.
 
 ### Terpenes
 
