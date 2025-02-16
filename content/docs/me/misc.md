@@ -7,7 +7,7 @@ weight: 101
 
 # Miscellaneous
 
-H. L. Mencken defined Puritanism as "the haunting fear that someone, somewhere, might be happy." 🤦
+H. L. Mencken defined Puritanism as "the haunting fear that someone, somewhere, might be happy."[^mencken1917] 🤦
 
 ## Journalism
 
@@ -62,4 +62,8 @@ Nuclear power is a great idea if you believe we can avoid [Murphy's law](https:/
 
 - https://pessimistsarchive.org
 
-I want to thank [Free DNS](https://freedns.afraid.org) for DNS registration and [CloudFlare](https://cloudflare.com) for web hosting.
+I want to thank [CloudFlare](https://cloudflare.com) for web hosting.
+
+## Notes
+
+[^mencken1917]: Mencken was writing as a critic of what he saw as excessive moralism and social control in American society during the Progressive Era.
