@@ -217,6 +217,7 @@ My reference dose is strong. To judge these blends, I gotta feel 'em vividly. Yo
 | Δ10-THC:CBN-O:CBG:CBC 50:15:9:8 | Very beautiful. This seems pretty close to optimal. 🤙🏼 |
 | Δ10-THC:CBN-O:CBG:CBT 50:10:9:8 | Better energy-bliss balance with this ratio. Seems mostly faded after only 4 hours from ingestion--maybe because it's such a smooth landing? Sensational. 🤙🏼 |
 | Δ8-THC:CBN:CBD 4:1:1 | Clashes with daime. Do not recommend. 👎🏼 |
+| Δ8-THC:CBN-O:CBD 40:10:10 | Feels like CBN and CBN-O are interchangable in combination with THC. Interesting. Gotta test another recipe too. 🤔 |
 
 #### Agenda
 
@@ -228,7 +229,6 @@ My reference dose is strong. To judge these blends, I gotta feel 'em vividly. Yo
 | Δ8-THC:CBN-O:H4CBD:CBT 12:3:2:1 | Gonna be epic! |
 | Δ8-THC:CBN-O:H4CBD 12:4:2 | Maybe CBT not needed? |
 | Δ8-THC:CBN-O with both CBC and CBT? | How do they interact? |
-| Δ8-THC:CBN-O:CBD 4:1:1 | What ratio of CBD-O feels like Δ8-THC:CBN:CBD 4:1:1 ? |
 | Δ8-THC:CBG:CBT 6:2:1 | Scrutinize CBG further |
 | Δ10-THC:THCV:CBDV ? | Need to test THCV and CBDV separately. TBD |
 
