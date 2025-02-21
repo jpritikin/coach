@@ -181,8 +181,8 @@ Also, tolerance can be different for different components of a blend. So energy 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
 | Δ8-THC:CBN:CBD 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. **Underwelming in a good way. Good for sleep.** If you have leftover THC:CBD blend that you want to salvage then you need to hit a 0.5±0.5% CBN:CBD ratio. If it feels too buzzy then add more CBN+CBD. If it feels too flat, add more THC. 🤙🏼 |
-| Δ8-THC:CBN-O:CBx 6:2:1 | **Very beautiful** ♥️ No uncomfortable CBD feeling during come down. CBx is one of CBC, CBDV, CBT. Reference dose is 25mg Δ8-THC. |
-| Δ10-THC:CBN-O:CBG:CBx 5:1:1:1 | **Superhuman focus** work blend. CBx is CBC or CBT. CBC is confidently blissful (yang). CBT is smooth and receptive (yin). Reference dose is 50mg Δ10-THC. 🤙🏼 |
+| Δ8-THC:CBN:CBx 6:2:1 | **Very beautiful** ♥️ No uncomfortable CBD feeling during come down. CBx is one of CBC, CBDV, CBT. Reference dose is 25mg Δ8-THC. |
+| Δ10-THC:CBN:CBG:CBx 5:1:1:1 | **Superhuman focus** work blend. CBx is CBC or CBT. CBC is confidently blissful (yang). CBT is smooth and receptive (yin). Reference dose is 50mg Δ10-THC. 🤙🏼 |
 | Δ8-THC:H4CBD 2:1 | Holy mole! **Very beautiful** ♥️ H4CBD lasts too long. It probably would be better with Δ9-THC because the durations would match better. Reference dose is 37mg Δ8-THC. |
 
 My reference dose is strong. To judge these blends, I gotta feel 'em vividly. You might start with 1/2 or 1/4 of my reference dose.
@@ -218,17 +218,18 @@ My reference dose is strong. To judge these blends, I gotta feel 'em vividly. Yo
 | Δ10-THC:CBN-O:CBG:CBT 50:10:9:8 | Better energy-bliss balance with this ratio. Seems mostly faded after only 4 hours from ingestion--maybe because it's such a smooth landing? Sensational. 🤙🏼 |
 | Δ8-THC:CBN:CBD 4:1:1 | Clashes with daime. Do not recommend. 👎🏼 |
 | Δ8-THC:CBN-O:CBD 40:10:10 | Feels like CBN and CBN-O are interchangable in combination with THC. Interesting. Gotta test another recipe too. 🤔 |
+| Δ10-THC:CBN:CBD:CBG:CBT 50:10:9:8 | Here too, it feels like CBN and CBN-O are interchangable in combination with THC. 🤔 It seemed a bit too blissful. Maybe try 15mg CBN again. |
 
 #### Agenda
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ10-THC:CBN-O:CBG:CBC 66:10:9:8 | More spacious? |
-| Δ10-THC:CBN-O:CBG:CBC:CBT 50:10:9:4:4 | Both CBC and CBT? |
-| Δ10-THC:CBN-O:CBD 50:12:12 | Who knows? It might be awesome. |
-| Δ8-THC:CBN-O:H4CBD:CBT 12:3:2:1 | Gonna be epic! |
-| Δ8-THC:CBN-O:H4CBD 12:4:2 | Maybe CBT not needed? |
-| Δ8-THC:CBN-O with both CBC and CBT? | How do they interact? |
+| Δ10-THC:CBN:CBG:CBC 66:10:9:8 | More spacious? |
+| Δ10-THC:CBN:CBG:CBC:CBT 50:10:9:4:4 | Both CBC and CBT? |
+| Δ10-THC:CBN:CBD 50:12:12 | Who knows? It might be awesome. |
+| Δ8-THC:CBN:H4CBD:CBT 12:3:2:1 | Gonna be epic! |
+| Δ8-THC:CBN:H4CBD 12:4:2 | Maybe CBT not needed? |
+| Δ8-THC:CBN with both CBC and CBT? | How do they interact? |
 | Δ8-THC:CBG:CBT 6:2:1 | Scrutinize CBG further |
 | Δ10-THC:THCV:CBDV ? | Need to test THCV and CBDV separately. TBD |
 
@@ -239,13 +240,15 @@ My reference dose is strong. To judge these blends, I gotta feel 'em vividly. Yo
 CBN (without other cannabinoids) is recommmended for sleep.[^bonn-miller2024][^kolobaric2024]
 For sedation and analgesia, CBN can be used daily (seemingly there is no tolerance).
 CBN-O is 2-3 times as potent as CBN, but they are otherwise very similar.
+When paired with THC, CBN and CBN-O are interchangable.
+The difference in potency only applies when CBN-O is used without THC.
 
 The way I determined a maximum dose is to take some before bed and check whether I still feel it when I wake in the morning.
 
 | Which | Maximum dose |
 | ----- | -----------  |
 | CBN | 0.5-1g |
-| CBN-O | Maybe 112mg |
+| CBN-O | 125-200mg |
 
 CBN used alone has little cross-tolerance with THC.
 
