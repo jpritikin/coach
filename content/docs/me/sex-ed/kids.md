@@ -89,14 +89,7 @@ In IFS, this kind of push-pull in a relationship is regarded as a *polarity*;
 the focus isn't on the parent and child as individuals, but on the roles dictated by the power dynamic between them.
 True intimacy flourishes when we move beyond this power dynamic.
 
-IFS teaches clients to nurture their inner children.
-A similar approach also translates to parenting outer children.
-In fact, therapists trained in IFS may have an advantage in parenting, having honed their skills by guiding clients.
-However, the most comprehensive model comes from "Intimacy from the Inside Out," the IFS framework for couples.[^herbine-blank2021]
-These proven techniques foster deep connection between partners in a couple;
-they are equally effective in the parent-child relationship.
-The aim?
-Communion via play,[^cohen2002][^cohen2013] available when parent and child each voluntarily step back from Parts-driven behavior.
+IFS was developed by and for adults. Even teenagers can lack the emotional maturity and self-awareness to benefit from it. For young people, Hand in Hand Parenting offers a more appropriate alternative.[^wipfler2016] In this approach, IFS isn't used directly with children. But it helps caregivers process their emotional reactions to the Hand in Hand techniques.
 
 ### Navigation
 
@@ -126,16 +119,12 @@ The argument for having children is hard to understand ... until we focus on the
 
 [^bretherton2013]: Bretherton, I. (2013). The origins of attachment theory: John Bowlby and Mary Ainsworth. In *Attachment theory* (pp. 45-84). Routledge.
 
-[^herbine-blank2021]: Herbine-Blank, T. & Sweezy, M. (2021). *Internal Family Systems Couple Therapy Skills Manual: Healing Relationships with Intimacy From the Inside Out* PESI Publishing, Inc.
-
 [^anderson2021]: [Parenting through the Lens of IFS Therapy: From Tears to Transformation](https://catalog.psychotherapynetworker.org/item/parenting-lens-ifs-therapy-tears-transformation-77106#outline)
 
 [^sapolsky2023]: Sapolsky, R. M. (2023). *Determined: A Science of Life without Free Will.* Penguin Press.
 
 [^kim2021]: Kim, S. H., Baek, M., & Park, S. (2021). Association of parent–child experiences with insecure attachment in adulthood: A systematic review and meta‐analysis. *Journal of Family Theory & Review, 13*(1), 58-76.
 
-[^cohen2002]: Cohen, L. J. (2002). *Playful Parenting.* Ballantine Books.
-
-[^cohen2013]: Cohen, L. J. (2013). *The Opposite of Worry: The Playful Parenting Approach to Childhood Anxieties and Fears.* Ballantine Books.
-
 [^hill2019]: Hill, S. (2019). *This is your brain on birth control: The surprising science of women, hormones, and the law of unintended consequences.* Penguin.  
+
+[^wipfler2016]: Wipfler, P. & Schore, T. (2016). *Listen: Five Simple Tools to Meet Your Everyday Parenting Challenges.* Hand in Hand Parenting.
