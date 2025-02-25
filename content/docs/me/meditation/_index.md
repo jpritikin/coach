@@ -33,7 +33,7 @@ IFS terms:
 {{% hint info %}}
 Meditation becomes possible when you are not identified with your
 parts. Meditation occurs when some proportion of your being is
-free to radiate Self energy.[^grand-unified]
+free to radiate Self energy.
 {{% /hint %}}
 
 In some traditions, there is a notion of *enlightenment* or
@@ -127,10 +127,5 @@ This is just a sample schedule. Customize as per your preference.
 [^mawe2013]: Mawe, G. M., & Hoffman, J. M. (2013). Serotonin signalling in the gut--functions, dysfunctions and therapeutic targets. *Nature Reviews Gastroenterology & Hepatology, 10*(8), 473–486.
 
 [^serotonin2017]: Carhart-Harris, R. L., & Nutt, D. J. (2017). Serotonin and brain function: a tale of two receptors. *Journal of Psychopharmacology (Oxford, England), 31*(9), 1091-1120.
-
-[^grand-unified]: IFS is the grand unified theory of religion. ☀️🌜⭐ I admit my claim is a bit bombastic, but check out:
-    - Carse, J. P. (2009). *The Religious Case Against Belief.* Penguin Publishing Group.
-    - Luhrmann, T. M., & Weisman, K. (2022). Porosity Is the Heart of Religion. *Current Directions in Psychological Science, 31*(3), 247-253.
-    - Schwartz, R. C., & Falconer, R. (2017). *Many minds, one self: Evidence for a radical shift in paradigm.* Oak Park: Trailheads.
 
 [^bodhisattva]: For example, there is the concept of [*bodhisattvas*](https://depts.washington.edu/chinaciv/bud/5imgbodd.htm), enlightened beings who have put off entering paradise in order to help others attain enlightenment. This notion is ludicrous, implicitly giving far too much credence to individuality.
