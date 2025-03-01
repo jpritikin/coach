@@ -1,6 +1,6 @@
 +++
 title = "Compassionate Resolution of Dishonesty"
-tags = ["internal family systems","therapy"]
+tags = ["internal family systems","psychology","parenting"]
 date = "2023-11-11"
 categories = ["opinion"]
 menu = "main"

@@ -1,6 +1,6 @@
 +++
 title = "Establishing Self/Part Connection, Beyond the Basics"
-tags = ["therapy", "internal family systems"]
+tags = ["internal family systems"]
 date = "2024-05-10"
 categories = ["opinion"]
 menu = "main"

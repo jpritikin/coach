@@ -1,6 +1,6 @@
 +++
 title = "History of non-Euclidean geometry / Veritasium"
-tags = ["mathematics", "geometry", "physics", "history"]
+tags = ["mathematics", "physics", "history"]
 date = "2023-10-22"
 categories = ["news"]
 menu = "main"

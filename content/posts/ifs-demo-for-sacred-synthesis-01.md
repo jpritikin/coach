@@ -1,6 +1,6 @@
 +++
 title = "IFS Demo for the Church of Sacred Synthesis"
-tags = ["therapy", "internal family systems"]
+tags = ["internal family systems"]
 date = "2023-10-23"
 categories = ["news"]
 menu = "main"

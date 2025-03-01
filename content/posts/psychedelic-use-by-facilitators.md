@@ -1,7 +1,7 @@
 +++
 title = "Psychedelic use by facilitators"
 description = "What is the appropriate and best use of psychedelics by psychedelic facilitators?"
-tags = ["psychedelics", "therapy"]
+tags = ["psychedelics", "psychology"]
 date = "2023-05-03"
 categories = ["opinion"]
 menu = "main"
