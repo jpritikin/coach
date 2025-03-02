@@ -113,7 +113,7 @@ In general, the experience of one or more THC-like substances are improved by pa
 
 ### Euphoriants (THC-like buzz)
 
-- THC (Δ8-THC or Δ9-THC) offers a relaxing high. Trip time is about 6-7 hours from ingestion.
+- THC (Δ8-THC or Δ9-THC) offers a relaxing high. Trip time is about 6-7 hours from ingestion. Δ9 is a touch more beautiful than Δ8, but they are both marvelous. 💡
 - Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers an energizing head high. Trip time is about 8-9 hours from ingestion. When combined with CBN, it doesn't feel much different, but CBN affects the head-heart balance. Compatible: CBN, THCV, CBG, CBT, CBC. CDBV is not bad, but I prefer the softness of CBC/CBT. Incompatible: CBD, H4CBD. For occasional use, tolerance half-life seems to be about 36 hours.
 - HHC (hexahydrocannabinol) feels similar to Δ8-THC, but distributed unevenly across the body. Most of the effect is from the neck up, with some sensation from the waist up. The high is roughly balanced between energizing and relaxing. Weird.[^turkey-hhc] 👎
 
@@ -152,7 +152,7 @@ There is likely cross-tolerance because both substances are [CB1](https://en.wik
 | X | Y | Comments |
 | -- | -- | ------------------------ |
 | CBD | CBDV | Clashes: CBD is not relaxing enough. And CBDV is not steady. 👎🏼 |
-| CBN | CBD | CBN (head) and CBD (heart) are at opposite ends of the relaxing head-heart axis. If you combine them 50/50 then they mostly cancel out and you get a remarkably ordinary sensation. 🤙🏼 |
+| CBN | CBD | CBN (head) and CBD (heart) are at opposite ends of the relaxing head-heart axis. If you combine them 50/50 then they mostly cancel out and you get a remarkably ordinary sensation. 🤙🏼 Take care to avoid 49/51 kind of ratios. These can be bumpy. Even 49.5/50.5 is not precise enough. You need to hit a 0.5±0.25% CBN:CBD ratio. For example, given 1g each of CBN & CBD, the absolute difference in weight should be \|CBN-CBD\| < 5mg. |
 | CBN | CBG | Both put you in headspace. CBG narrows focus, CBN doesn't. The ratio lets you pick how much you want to narrow your focus. 🤔 |
 
 #### Munchies
@@ -180,7 +180,7 @@ Also, tolerance can be different for different components of a blend. So energy 
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ8-THC:CBN:CBD 4:1:1 | Mildly psychoactive, mostly just ordinary relaxation. **Underwelming in a good way. Good for sleep.** If you have leftover THC:CBD blend that you want to salvage then you need to hit a 0.5±0.5% CBN:CBD ratio. If it feels too buzzy then add more CBN+CBD. If it feels too flat, add more THC. 🤙🏼 |
+| ΔX-THC:CBN:CBD Y:1:1 | Mildly psychoactive, mostly just ordinary relaxation. **Underwelming in a good way. Good for sleep.** For Δ8-THC, use 4:1:1. For Δ9-THC, use 1:1:1. If it feels too buzzy then add more CBN+CBD. If it feels too flat, add more THC. 🤙🏼 |
 | Δ8-THC:CBN:CBx 6:2:1 | **Very beautiful** ♥️ No uncomfortable CBD feeling during come down. CBx is one of CBC, CBDV, CBT. Reference dose is 25mg Δ8-THC. |
 | Δ10-THC:CBN:CBG:CBx 5:1:1:1 | **Superhuman focus** work blend. CBx is CBC or CBT. CBC is confidently blissful (yang). CBT is smooth and receptive (yin). Reference dose is 50mg Δ10-THC. 🤙🏼 |
 | Δ8-THC:H4CBD 2:1 | Holy mole! **Very beautiful** ♥️ H4CBD lasts too long. It probably would be better with Δ9-THC because the durations would match better. Reference dose is 37mg Δ8-THC. |
