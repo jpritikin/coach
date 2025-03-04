@@ -20,7 +20,7 @@ weight: 21
 
 ![Cognitive Biases](BiasesPoster_LowRes.jpg)
 
-[Download](https://yourbias.is/)
+[Download](https://yourlogicalfallacyis.com/)
 
 {{% /columns %}}
 
