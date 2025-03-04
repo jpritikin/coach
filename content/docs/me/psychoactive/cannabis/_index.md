@@ -64,8 +64,7 @@ Users must carefully consider their dose and timing, as the extended duration ca
 ## The THC:CBD Ratio
 
 THC is often taken in concert with CBD.
-When I talk about THC, I implicitly mean both THC and CBD at 1:1 ratio.
-However, the intensity of the experience is mostly a function of the amount of THC.
+But the intensity of the experience is mostly a function of the amount of THC.
 I'm not sure exactly how much CBD is required to complement the THC.
 You definitely want enough CBD and extra isn't a problem.
 Unless you are already an expert user:
