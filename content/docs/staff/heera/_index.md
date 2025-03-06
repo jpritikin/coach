@@ -14,7 +14,7 @@ I provide *counseling* under [ORS 675.825(4)(a)](https://oregon.public.law/statu
 
 ## Booking
 
-*COMING SOON*
+[Message me on Facebook](https://www.facebook.com/profile.php?id=100070331018313)
 
 <--->
 
@@ -28,6 +28,6 @@ My rate is **$70 per hour**. Reserve time in 15 min increments. I do not accept 
 
 - IFS Informed (IFSCA Stepping Stone, completion Mar 2025)
 - 1-on-1 and small group meditation instructor based on Patanjali yoga (30 yrs)
-- Peer support specialist -- substance abuse (THW #107634)
+- Peer support specialist -- substance abuse ([THW](https://traditionalhealthworkerregistry.oregon.gov/Search) #107634)
 - Peer support specialist -- mental health (pending)
 - B.S. Foundations of Elementary Education in 2011 from University of Oregon 🎓
