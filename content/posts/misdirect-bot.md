@@ -1,6 +1,6 @@
 +++
 title = "MisDirect AI Toy for Child Development -- A Science Fiction Story"
-tags = ["art","parenting"]
+tags = ["parenting"]
 date = "2025-02-28"
 categories = ["opinion"]
 menu = "main"
