@@ -110,6 +110,20 @@ I get attached to my clients. If we haven't had an appointment for more than 6 m
 
 - [Lyndsay MacPherson](https://www.facebook.com/groups/381892294305724/posts/505489025279383/?comment_id=505680095260276)
 
+## Books
+
+{{% columns %}}
+
+This transformative book reveals the crucial distinction between religion and belief systems. While rigid beliefs often lead to division, true religion thrives on mystery and openness to the unknown. Drawing from historical examples and world traditions, it shows how embracing "higher ignorance"—knowing the limits of what we can know—creates space for genuine spiritual exploration. For anyone seeking wisdom beyond dogma in our polarized world, this book offers a refreshing path forward.
+
+Carse, J. P. (2025). [*The religious case against belief*](https://carse-2025.pritikin.eth.limo/docs/intro/) (J. N. Pritikin, Trans.; 2nd ed.). Ethswarm.org (Original work published 2008)
+
+<--->
+
+[![Carse 2008](carse-2008.webp)](https://carse-2025.pritikin.eth.limo/docs/intro/)
+
+{{% /columns %}}
+
 ## Silly Photos
 
 <table>
