@@ -1,6 +1,7 @@
 ---
 title: Map
 bookToc: true
+weight: 10
 ---
 
 # Cannabinoid Potentiator Map
