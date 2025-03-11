@@ -25,7 +25,7 @@ weight: 20
 The sine wave pattern reflects the challenging oscillation effects when CBD:CBN ratios aren't precisely balanced.[^formula] For a pleasant, smooth experience:
 - Avoid unequal ratios like 49/51 as these can cause uncomfortable oscillation.
 - Even 49.5/50.5 lacks sufficient precision.
-- Aim for a CBN:CBD ratio within 0.5±0.25%. For a 1g mixture of each, the absolute weight difference should be \|CBN-CBD\| < 5mg.
+- Aim for a CBN:CBD ratio within ±0.25%. For a 1g mixture of each, the absolute weight difference should be \|CBN-CBD\| < 5mg.
 
 ### Recipe Correction
 - At perfect 50/50 balance (x=0), the CBD and CBN effects largely cancel out. This feels remarkably ordinary.
