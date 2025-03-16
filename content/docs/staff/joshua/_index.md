@@ -114,6 +114,18 @@ I get attached to my clients. If we haven't had an appointment for more than 6 m
 
 {{% columns %}}
 
+Offers a radical new understanding of religion stripped of dogma and intermediaries. Drawing from archaeology, neuroscience, and psychotherapy, it traces humanity's religious impulses back 40,000 years to the first cave paintings, revealing sophisticated early methods for exploring consciousness that remain relevant today. Through the lens of Internal Family Systems therapy, it demonstrates how ancient shamanic practices and modern therapeutic approaches converge to offer practical tools for direct religious experience. Rather than asking readers to adopt new beliefs, it shows how to systematically shed limiting beliefs that obscure religious mystery. This groundbreaking work provides a clear path for readers to explore the heart of religion while avoiding common pitfalls like guru worship and spiritual bypassing.
+
+Pritikin, J. N. (202X). *Unburdened: Religion Beyond Belief.* In preparation.
+
+<--->
+
+![Pritikin 202X](unburdened.webp)
+
+{{% /columns %}}
+
+{{% columns %}}
+
 This transformative book reveals the crucial distinction between religion and belief systems. While rigid beliefs often lead to division, true religion thrives on mystery and openness to the unknown. Drawing from historical examples and world traditions, it shows how embracing "higher ignorance"—knowing the limits of what we can know—creates space for genuine spiritual exploration. For anyone seeking wisdom beyond dogma in our polarized world, this book offers a refreshing path forward.
 
 Carse, J. P. (2025). [*The religious case against belief*](https://carse-2025.pritikin.eth.limo/docs/intro/) (J. N. Pritikin, Trans.; 2nd ed.). Ethswarm.org (Original work published 2008)
