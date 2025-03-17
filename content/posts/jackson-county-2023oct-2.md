@@ -1,6 +1,6 @@
 +++
 title = "Jackson County Commissioners: Does Measure 110 have any benefits?"
-tags = ["criminal justice"]
+tags = ["law"]
 date = "2023-10-11"
 categories = ["opinion"]
 menu = "main"

@@ -1,6 +1,6 @@
 +++
 title = "Jennifer Murphey"
-tags = ["law","psychedelics","psychology","criminal justice"]
+tags = ["law","psychedelics","psychology"]
 date = "2024-11-10"
 categories = ["news"]
 menu = "main"

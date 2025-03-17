@@ -1,6 +1,6 @@
 +++
 title = "The frosty methods of the multi-million dollar company behind Wim Hof"
-tags = ["criminal justice", "meditation", "law"]
+tags = ["meditation", "law"]
 date = "2023-10-24"
 categories = ["news"]
 menu = "main"

@@ -1,6 +1,6 @@
 +++
 title = "Response to Jackson County Commissioners Call for the Repeal of Measure 110"
-tags = ["criminal justice"]
+tags = ["law"]
 date = "2023-08-13"
 categories = ["opinion"]
 menu = "main"
