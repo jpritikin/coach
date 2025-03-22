@@ -6,9 +6,11 @@ bookToc: false
 
 ![Self portrait](portrait.webp)
 
-I am currently a trainee under Joshua's supervision. I work with adult individuals.
+I work with adult individuals.
 
 I provide *counseling* under [ORS 675.825(4)(a)](https://oregon.public.law/statutes/ors_675.825), which allows alternative counselors to practice legally in Oregon without a 🪪 license. Since I am **not** licensed in Oregon, I cannot describe myself 🤐 as a *psychotherapist*. [ORS 675.020](https://oregon.public.law/statutes/ors_675.020)
+
+I am currently a trainee under Joshua's supervision. 
 
 {{% columns %}}
 
