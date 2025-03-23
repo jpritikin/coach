@@ -269,7 +269,8 @@ Kanna peaks in an hour, just when CBN is coming online.
 
 ## Storage
 
-Store acetylated cannabinoids in the refridgerator.
+Acetylated cannabinoids are particularly vulnerable to thermal degradation.
+Store them in the refridgerator.
 Other cannabinoids will probably be happier in the refridgerator too.
 
 ## Hepatotoxicity
