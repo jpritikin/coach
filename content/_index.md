@@ -21,7 +21,7 @@ Our goal is to help you reprocess your psychological pain and suffering in a way
 
 We use **Internal Family Systems** (IFS). IFS is an [evidence-based](https://www.foundationifs.org/research/empirical-evidence) and [trauma-informed](https://www.verywellmind.com/trauma-informed-therapy-definition-and-techniques-5209445) model. ![IFS](/images/ifs-logo.webp)
 
-Traditional talk therapy puts therapists in an expert role. They diagnose problems, suggest solutions, teach coping skills, and interpret clients' dreams and behaviors. But IFS therapists serve as guides who help clients access their own inner healer.
+Traditional talk therapy puts therapists in an expert role. They diagnose problems, suggest solutions, teach coping skills, and interpret clients' dreams and behaviors. But IFS therapists serve as guides who help clients access their own inner healer. Clients learn to access their *Self* rather than relying on the therapist to fix problems. They build relationships with different parts of their personality by turning inward.
 
 <br/>
 
