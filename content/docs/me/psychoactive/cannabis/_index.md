@@ -137,7 +137,7 @@ There is likely cross-tolerance because both substances are [CB1](https://en.wik
 ### Potentiators (CBD-like)
 
 - CBD is the classic potentiator. CBD opens the emotional spigot around the heart.
-- [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. More cognitive and longer duration than CBD. H4CBD is not just stronger than CBD; it has a different character.
+- [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. More cognitive and longer duration than CBD. H4CBD is not only stronger than CBD; it has a different character. H4CBD is serious, not blissful.
 - **CBN (cannabinol) offers a head high without narrowing focus. This is the most underrated cannabinoid.** 🤙🏼  
 <span style="color: brown;">Consider a cup of coffee in the morning. The first few sips often bring the most pleasure--the warmth, the aroma, the initial burst of flavor. By tuning into these sensations, we might find that a single well-brewed cup brings more satisfaction than drinking several cups mindlessly. The same principle applies to many pleasures in life.<br/>This approach isn't about deprivation--it's about discovering that *enough* often contains more joy than excess. When we eat until we're comfortably satisfied rather than stuffed, we feel energized rather than lethargic. The Japanese concept of *hari hachi bu*--eating until you're 80% full--captures this wisdom. It's not about rigid restriction, but rather finding that sweet spot where satisfaction lives.<br/>This principle extends beyond food to many areas of life--entertainment, shopping, work, even social media consumption. In the cannabis world of euphoria and bliss, arguable the most important dimension is finding contentment in sufficiency. That is one of the virtues of cannabinol. Cannabinol bolsters our innate wisdom to be satisfied.</span>
 - CBG (cannabigerol) taken alone, I don't notice any effect from it. With THC activation, CBG narrows focus. This results in a scatterbrain feeling where it takes more effort to hold onto a single coherent train of thought. It also stokes impatience. Why do people enjoy this? It's cognitively fucked up. It might be okay at moderate dosage if you have a well-defined project to latch onto, but otherwise I'll pass. **Overrated.** 👎🏼
@@ -153,7 +153,6 @@ There is likely cross-tolerance because both substances are [CB1](https://en.wik
 | CBD | CBDV | Clashes: CBD is not relaxing enough. And CBDV is not steady. 👎🏼 |
 | CBN | CBD | See [details here]({{< relref "relax" >}}). |
 | CBN | CBG | Both put you in headspace (but CBN more so than CBG). CBG narrows focus, CBN doesn't. The ratio lets you pick how much you want to narrow your focus. 🤔 |
-| H4CBD | CBC/CBT/CBDV | Clashes. Let H4CBD take the spotlight. Disclosure: I didn't try CBDV, but it sounds like an awful combination. 👎🏼 |
 
 #### Munchies
 
@@ -183,7 +182,7 @@ Also, tolerance can be different for different components of a blend. So energy 
 | ΔX-THC:CBN:CBD Y:1:1 | Mildly psychoactive, mostly just ordinary relaxation. **Underwelming in a good way. Great for sleep.** [See details.]({{< relref "relax" >}}) 🤙🏼 |
 | Δ8-THC:CBN:CBx 6:2:1 | **Very beautiful** ♥️ No uncomfortable CBD feeling during come down. CBx is one of CBC, CBDV, CBT. Reference dose is 25mg Δ8-THC. |
 | Δ10-THC:CBN:CBx 10:3:1 | **Superhuman focus** work blend. CBx is CBC or CBT. CBC is confidently blissful (yang). CBT is smooth and receptive (yin). Reference dose is 50mg Δ10-THC. 🤙🏼 |
-| Δ8-THC:CBN:H4CBD 12:4:2 | I didn't try this yet, but I'm pretty sure it will be **divine**. 🌞 And it would be even more amazing with Δ9-THC. 🤙🏼 |
+| Δ8-THC:CBN:H4CBD:CBT 12:3:2:1 | Pretty great. WIP. 🤔 |
 
 My reference dose is strong. To judge these blends, I gotta feel 'em vividly. You might start with 1/2 or 1/4 of my reference dose.
 
@@ -222,12 +221,13 @@ My reference dose is strong. To judge these blends, I gotta feel 'em vividly. Yo
 | Δ10-THC:CBN:CBD:CBG:CBT 50:10:9:8 | Here too, it feels like CBN and CBN-O are interchangable in combination with THC. 🤔 It seemed a bit too blissful. Maybe try 15mg CBN again. |
 | Δ8-THC:CBN:H4CBD:CBT 12:3:2:1 | Beautiful complement to daime! Seems to reduces nausea! I suspect CBT not a good idea. 🤔 |
 | Δ10-THC:CBN:CBC 50:15:5 | Seems better without CBG brain funk. Not sure about optimal CBN:CBx ratio. Need more trials. |
+| Δ8-THC:CBN:H4CBD 6:2:1 | Ick. H4CBD dominates and casts a shadow over CBN. The CBN fizz is the bad kind that prompts anxiety. 👎🏼 |
 
 #### Agenda
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ8-THC:CBN:H4CBD 12:4:2 | Gonna be divine! |
+| Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | Could be great? |
 | Δ10-THC:CBN:CBC 50:10:10 | Trial different CBN:CBC ratio |
 | Δ10-THC:CBN:CBC:CBT 50:15:4:4 | Both CBC and CBT? |
 | Δ10-THC:CBN:CBD 50:12:12 | Who knows? It might be awesome. |
