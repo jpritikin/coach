@@ -241,8 +241,8 @@ My reference dose is strong. To judge these blends, I gotta feel 'em vividly. Yo
 CBN (without other cannabinoids) is recommmended for sleep.[^bonn-miller2024][^kolobaric2024]
 For sedation and analgesia, CBN can be used daily (seemingly there is no tolerance).
 CBN-O is 2-3 times as potent as CBN, but they are otherwise very similar.
-When paired with THC, CBN and CBN-O are interchangable.
-The difference in potency only applies when CBN-O is used without THC.
+Counterintuitively, when paired with THC, CBN and CBN-O are 1:1 interchangable.
+The difference in potency only applies when CBN/CBN-O is used *without* THC.
 
 The way I determined a maximum dose is to take some before bed and check whether I still feel it when I wake in the morning.
 
@@ -252,6 +252,8 @@ The way I determined a maximum dose is to take some before bed and check whether
 | CBN-O | 125-200mg |
 
 CBN used alone has little cross-tolerance with THC.
+
+I am keen to try CBN-P (cannabinphorol)!
 
 ### Troubleshooting
 
