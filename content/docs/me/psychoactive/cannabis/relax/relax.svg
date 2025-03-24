@@ -4,7 +4,7 @@
    width="1395"
    height="1212"
    id="svg113"
-   sodipodi:docname="desmos-graph.svg"
+   sodipodi:docname="relax.svg"
    inkscape:version="1.4 (1:1.4+202410161351+e7c3feb100)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -20,9 +20,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.425"
-     inkscape:cx="730.58824"
-     inkscape:cy="560"
+     inkscape:zoom="0.42499999"
+     inkscape:cx="731.76472"
+     inkscape:cy="536.4706"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
      inkscape:window-x="0"
@@ -35,9 +35,13 @@
        id="linearGradient132"
        inkscape:collect="always">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         style="stop-color:#333333;stop-opacity:1;"
          offset="0"
          id="stop132" />
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0.5"
+         id="stop1" />
       <stop
          style="stop-color:#fff600;stop-opacity:1;"
          offset="1"
