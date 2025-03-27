@@ -86,12 +86,13 @@ Also check out:
 
 I am a sincere religious practitioner[^chacruna2021] who is a member of
 - [Santo Daime](https://en.wikipedia.org/wiki/Santo_Daime)[^catholic]
-{{< partDetails "I received my star 24 June 2023." >}}  
-![Star](star.webp)  
-Me with [Padrinho Jonathan Goldman](https://casetext.com/case/church-of-holy-light-of-queen-v-mukasey-2)  
-{{< /partDetails >}}
 - [Church of Sacred Synthesis](https://thesacredsynthesis.com/)
 - [Sacred Garden Church](https://sacredgarden.life/); I love the notion of "least dogma!"[^carse2009]
+
+{{% details "I received my star 24 June 2023." %}}  
+![Star](star.webp)  
+Me with [Padrinho Jonathan Goldman](https://casetext.com/case/church-of-holy-light-of-queen-v-mukasey-2)  
+{{% /details %}}
 
 I have first-hand experience with
 

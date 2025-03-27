@@ -273,7 +273,7 @@ Kanna peaks in an hour, just when CBN is coming online.
 
 Acetylated cannabinoids are particularly vulnerable to thermal degradation.
 Store them in the refridgerator.
-Other cannabinoids will probably be happier in the refridgerator too.
+Other cannabinoids will probably be happier in the refridgerator too.[^clarke1998]
 
 ## Hepatotoxicity
 
@@ -302,3 +302,6 @@ Other cannabinoids will probably be happier in the refridgerator too.
 [^turkey-cbt]: Turkey wrote, "CBT feels like CBC's more weird and wild cousin. Same potentiating effects but with a much less calm and focused feeling" (p. 223). I agree that CBT is CBC's cousin. But much less calm and focused feeling? I don't notice that. 🤔
 
 [^oregon-hb3000]: Since 2021, Oregon prohibits the **sale** of artificially derived cannabinoids. There is no prohibition against possession. You can verify this by visiting [Chapter 845](https://secure.sos.state.or.us/oard/displayDivisionRules.action?selectedDivision=6492) and searching for "penalty."
+
+[^clarke1998]: See Clarke (1998, p. 86ff).
+    - Clarke, R. C. (1998). *Hashish!* Red Eye Press, Inc.

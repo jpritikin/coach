@@ -29,15 +29,14 @@ These are the books that I feel are practice focused, actually teach you how to 
     {{< /hint >}}
 - Falconer, R. (2023). *The Others Within Us: Internal Family Systems, Porous Mind, and Spirit Possession.* Great Mystery Press.
 - Burris, C. (2022). *Creating Healing Circles: Using the Internal Family Systems Model in Facilitating Groups.* B. C. Allen Publishing.
-    {{< hint info >}}
-    {{< partDetails "Reveal my selfie with Chris" >}}
-    ![Burris](burris-2023.webp)
-    {{< /partDetails >}}
-    {{< /hint >}}
 - Sweezy, M. (2023). *Internal Family Systems Therapy for Shame and Guilt.* The Guilford Press.
     {{< hint info >}}
     There is coverage of shame and guilt, but that is a tiny portion of the scope of this book. Lots of wisdom here. For example, an ingenious framework for unblending (pp. 134-135).
     {{< /hint >}}
+
+{{% details "Reveal my selfie with Chris" %}}
+![Burris](burris-2023.webp)
+{{% /details %}}
 
 ## Why no books on Intimacy from the Inside Out (IFIO)?
 
