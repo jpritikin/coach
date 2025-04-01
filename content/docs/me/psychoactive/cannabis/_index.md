@@ -180,10 +180,10 @@ Also, tolerance can be different for different components of a blend. So energy 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
 | ΔX-THC:CBN:CBD Y:1:1 | Mildly psychoactive, mostly just ordinary relaxation. **Underwelming in a good way.** [See details.]({{< relref "relax" >}}) 🤙🏼 |
-| Δ8-THC:CBN:CBx 6:2:1 | **Very beautiful** ♥️ No uncomfortable CBD feeling during come down. CBx is one of CBC, CBDV, CBT. Reference dose is 25mg Δ8-THC. |
-| Δ10-THC:CBN:CBx 10:3:1 | **Superhuman focus** work blend. CBx is CBC or CBT. CBC is confidently blissful (yang). CBT is smooth and receptive (yin). Reference dose is 50mg Δ10-THC. 🤙🏼 |
-| Δ8-THC:CBN:H4CBD:CBT 12:3:2:1 | Pretty great. WIP. 🤔 |
+| Δ8-THC:CBN:CBx 6:2:1 | **Super Fucking High** ♥️ CBx is one of CBC, CBDV, CBT. Reference dose is 25mg Δ8-THC. |
+| Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | **Brahman** ♥️ Perfect complement to Daime. Reference dose is 50mg Δ8-THC. 🤙🏼 |
 | CBN-P:CBN-O 4mg:40mg | Can be used **daily** for sleep. [See details.]({{< relref "sleep" >}}) 🤙🏼 |
+| Δ10-THC:CBN:CBx 10:3:1 | **Superhuman focus** work blend. CBx is CBC or CBT. CBC is confidently blissful (yang). CBT is smooth and receptive (yin). Reference dose is 50mg Δ10-THC. 🤙🏼 |
 
 My reference dose is strong. To judge these blends, I gotta feel 'em vividly. You might start with 1/2 or 1/4 of my reference dose.
 
@@ -223,17 +223,17 @@ My reference dose is strong. To judge these blends, I gotta feel 'em vividly. Yo
 | Δ8-THC:CBN:H4CBD:CBT 12:3:2:1 | Beautiful complement to daime! Seems to reduces nausea! I suspect CBT not a good idea. 🤔 |
 | Δ10-THC:CBN:CBC 50:15:5 | Seems better without CBG brain funk. Not sure about optimal CBN:CBx ratio. Need more trials. |
 | Δ8-THC:CBN:H4CBD 6:2:1 | Ick. H4CBD dominates and casts a shadow over CBN. The CBN fizz is the bad kind that prompts anxiety. 👎🏼 |
+| Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | This one is the cat's meow. CBC is the perfect complement to H4CBD. CBN ratio feels great. Dose was 50mg THC. Cognition mostly unaffected; it's almost functional. Not sure what else to ask for. Nailed it. 🤙🏼 |
 
 #### Agenda
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | Could be great? |
 | Δ10-THC:CBN:CBC 50:10:10 | Trial different CBN:CBC ratio |
 | Δ10-THC:CBN:CBC:CBT 50:15:4:4 | Both CBC and CBT? |
 | Δ10-THC:CBN:CBD 50:12:12 | Who knows? It might be awesome. |
 | Δ8-THC:CBN with both CBC and CBT? | How do they interact? |
-| Δ10-THC:THCV:CBDV ? | Need to test THCV and CBDV separately. TBD |
+| Δ10-THC:THCV:x ? | TBD |
 
 ## Storage
 
