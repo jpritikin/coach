@@ -12,11 +12,6 @@ weight: 10
 
 In light of this knowledge deficit, personal exploration becomes a valuable, albeit limited, source of insight. Here I present my evolving ideas about cannabinoids, primarily based on self-experimentation and a critical analysis of available scientific literature, anecdotal reports, and expert opinions. By combining these sources, I aim to contribute to a more comprehensive understanding of cannabinoids while acknowledging the shortcomings of this approach.
 
-### Fellow Travelers
-
-[Cannabinoids with Turkey](https://www.cannabinoidswithturkey.com/) 🦃 -- This guy has an ahead start of 10 year on me. Page numbers given below reference:
-- Turkey. (2024). *The Classical Cannabinoid Consumers Guide (2024 Edition): Everything you need to know about cannabinoids in terms you can understand.* Independently published.
-    
 ## Background
 
 {{% columns %}}
@@ -38,6 +33,15 @@ It is widely studied for its potential therapeutic benefits, including anti-infl
 Terpenes are aromatic compounds that give different cannabis strains their unique scents and flavors. Found in many plants, cannabis contains over 100 different terpenes. These compounds may work synergistically with cannabinoids in what's called the *entourage effect*. Common terpenes include myrcene, limonene, and pinene.
 
 I know nothing about terpenes.
+
+### Fellow Travelers
+
+[Cannabinoids with Turkey](https://www.cannabinoidswithturkey.com/) 🦃 -- This guy has an ahead start of 10 year on me. Page numbers given below reference:
+- Turkey. (2024). *The Classical Cannabinoid Consumers Guide (2024 Edition): Everything you need to know about cannabinoids in terms you can understand.* Independently published.
+    
+### Social Sommelier Terpene Tastemaker
+
+My approach to cannabis differs starkly from businesses like Philip Wolf's Cultivating Spirits. They focus on traditional cannabis cultivation and whole plant properties. These businesses highlight the sensory experience of different strains. Their model centers on shared experiences and cannabis culture. They often pair strains with foods and wine. They prefer smoking or vaping for quick effects and aroma. These approaches celebrate the plant's natural traits instead of isolating compounds. They create experiences based on traditional growing methods and the natural mix of cannabinoids and terpenes.
 
 ## Routes of administration
 
@@ -137,7 +141,7 @@ There is likely cross-tolerance because both substances are [CB1](https://en.wik
 ### Potentiators (CBD-like)
 
 - CBD is the classic potentiator. CBD opens the emotional spigot around the heart.
-- [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. More cognitive and longer duration than CBD. H4CBD is not only stronger than CBD; it has a different character. H4CBD is serious, not blissful.
+- [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. More cognitive and longer duration than CBD. H4CBD is not only stronger than CBD; it has a different character. H4CBD is serious, not blissful. H4CBD is a powerful antiemetic.
 - **CBN (cannabinol) offers a head high without narrowing focus. This is the most underrated cannabinoid.** 🤙🏼  
 <span style="color: brown;">Consider a cup of coffee in the morning. The first few sips often bring the most pleasure--the warmth, the aroma, the initial burst of flavor. By tuning into these sensations, we might find that a single well-brewed cup brings more satisfaction than drinking several cups mindlessly. The same principle applies to many pleasures in life.<br/>This approach isn't about deprivation--it's about discovering that *enough* often contains more joy than excess. When we eat until we're comfortably satisfied rather than stuffed, we feel energized rather than lethargic. The Japanese concept of *hari hachi bu*--eating until you're 80% full--captures this wisdom. It's not about rigid restriction, but rather finding that sweet spot where satisfaction lives.<br/>This principle extends beyond food to many areas of life--entertainment, shopping, work, even social media consumption. In the cannabis world of euphoria and bliss, arguable the most important dimension is finding contentment in sufficiency. That is one of the virtues of cannabinol. Cannabinol bolsters our innate wisdom to be satisfied.</span>
 - CBG (cannabigerol) taken alone, I don't notice any effect from it. With THC activation, CBG narrows focus. This results in a scatterbrain feeling where it takes more effort to hold onto a single coherent train of thought. It also stokes impatience. Why do people enjoy this? It's cognitively fucked up. It might be okay at moderate dosage if you have a well-defined project to latch onto, but otherwise I'll pass. **Overrated.** 👎🏼
@@ -153,6 +157,7 @@ There is likely cross-tolerance because both substances are [CB1](https://en.wik
 | CBD | CBDV | Clashes: CBD is not relaxing enough. And CBDV is not steady. 👎🏼 |
 | CBN | CBD | See [details here]({{< relref "relax" >}}). |
 | CBN | CBG | Both put you in headspace (but CBN more so than CBG). CBG narrows focus, CBN doesn't. The ratio lets you pick how much you want to narrow your focus. 🤔 |
+| H4CBD | CBC | Marvelous combo. The seriousness of H4CBD is balanced by the levity of CBC. CBT offers levity too, but are both yin. The yang of CBC is a better complement to the yin of H4CBD. |
 
 #### Munchies
 
@@ -162,7 +167,7 @@ Some users report an appetite-suppressing effect with certain cannabis blends. I
 
 ## Blends
 
-### What happens if you combine energizing and relaxing cannabinoids?
+### Energizing Relaxing Combo?
 
 {{% details "Do you get one or the other or both?" %}}
 {{% hint info %}}

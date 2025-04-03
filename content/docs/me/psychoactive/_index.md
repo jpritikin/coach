@@ -236,7 +236,7 @@ While hemp, cannabis, and marijuana are botanically the same species, legal dist
 The recent legalization of hemp-based cannabinoids spurred renewed interest in Delta-9 THC alternatives.
 Delta-8 THC, first isolated in the 1940s by chemist Roger Adams, offers effects similar to traditional Delta-9 THC but with less anxiety.
 Best of all, Δ8-THC can be produced legally from hemp.
-You might start with 20 mg each of Δ8-THC and CBD.
+You might start with 20 mg of [Δ8-THC]({{< relref "cannabis" >}}).
 
 The euphoria induced by cannabis is both a benefit and a potential limitation.
 While euphoria may be appealing to beginners, the greater art is in taking more of an active role in shaping the experience.

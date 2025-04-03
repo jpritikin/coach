@@ -199,13 +199,9 @@ Or ondansetron (if not pregnant[^picot2020])?
 ### Cannabis
 
 There is some precedent for the use of cannabis in the Santo Daime tradition.[^macrae1998]
-If desired, I suggest ingesting 20mg of Δ8-THC about two hours before the work commences.
+If desired, I suggest ingesting 20mg of [Δ8-THC]({{< relref "cannabis" >}}) about two hours before the work commences.
 This low dose may help ease the experience during the first serving of Daime.
 As a bonus, cannabis is also an antiemetic.
-
-On the other hand, cannabis interferes with the profound impartiality of Daime.
-Perhaps cannabis is best regarded like training wheels for Daime novices.
-Daime is best when not combined with other psychoactive substances.
 
 ### Baptism 🌊
 
@@ -253,9 +249,8 @@ When I attend a work, I expect to transcend the turmoil and reach the serene hei
 ### Sleep 😴
 
 Some report that Daime interferes with sleep.
-I use some combination of CBN (cannabinol), Kava, and muscimol.
-Take 1.5x or 2x your daily dose of CBN.
-If that's not enough, try layering on Kava and muscimol.
+[Cannabinphorol (CBN-P)]({{< relref "sleep" >}}) works pretty well.
+If that's not enough, try layering on Kava.
 Let me know if you figure out a better solution.
 
 ### Status
