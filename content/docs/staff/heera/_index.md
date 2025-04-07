@@ -22,7 +22,7 @@ I am currently a trainee under Joshua's supervision.
 
 ## Fees
 
-My rate is **$70 per hour**. Reserve time in 15 min increments. I do not accept insurance. 🎟️
+I work pro bono to gain experience. Reserve time in 15 min increments.
 
 {{% /columns %}}
 
