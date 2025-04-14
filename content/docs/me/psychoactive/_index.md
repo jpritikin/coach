@@ -91,7 +91,7 @@ I am a sincere religious practitioner[^chacruna2021] who is a member of
 
 {{% details "I received my star 24 June 2023." %}}  
 ![Star](star.webp)  
-Me with [Padrinho Jonathan Goldman](https://casetext.com/case/church-of-holy-light-of-queen-v-mukasey-2)  
+Me with [Padrinho Jonathan Goldman](https://www.courtlistener.com/opinion/2482682/church-of-the-holy-light-of-the-queen-v-mukasey/)  
 {{% /details %}}
 
 I have first-hand experience with
