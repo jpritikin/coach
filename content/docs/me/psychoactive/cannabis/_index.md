@@ -116,8 +116,8 @@ In general, the experience of one or more THC-like substances are improved by pa
 
 ### Euphoriants (THC-like buzz)
 
-- THC (Δ8-THC or Δ9-THC) offers a relaxing high. Trip time is about 6-7 hours from ingestion. Δ9 is a touch more beautiful than Δ8, but they are both marvelous. 💡
-- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers an energizing head high. Trip time is about 8-9 hours from ingestion. When combined with CBN, it doesn't feel much different, but CBN affects the head-heart balance. Compatible: CBN, THCV, CBT, CBC. CDBV is not bad, but I prefer the softness of CBC/CBT. Incompatible: CBD, H4CBD. For occasional use, tolerance half-life seems to be about 36 hours.
+- THC (Δ8-THC or Δ9-THC) offers a malleable high. THC stays in the background. Its phenomenology is largely shaped by potentiators. Trip time is about 6-7 hours from ingestion. Δ9 is a touch more beautiful than Δ8, but they are both marvelous. 💡
+- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers a serene head high. The phenomenology is less shaped by potentiators than THC. Δ10-THC itself takes center stage. Compatible: CBN, THCV, CBT, CBC. CDBV is not bad, but I prefer the softness of CBC/CBT. Incompatible: CBD, H4CBD. Trip time is about 8-9 hours from ingestion.  For occasional use, tolerance half-life seems to be about 36 hours.
 - HHC (hexahydrocannabinol) feels similar to Δ8-THC, but distributed unevenly across the body. Most of the effect is from the neck up, with some sensation from the waist up. The high is roughly balanced between energizing and relaxing. Weird.[^turkey-hhc] 👎
 
 My tentative take is that there are not that many real choices for euphoriants.
@@ -188,7 +188,7 @@ Also, tolerance can be different for different components of a blend. So energy 
 | Δ8-THC:CBN:CBx 6:2:1 | **Super Fucking High** ♥️ CBx is one of CBC, CBDV, CBT. 🚀 Reference dose is 25mg Δ8-THC. |
 | Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | **Brahman** ♥️ Perfect complement to Daime. Reference dose is 50mg Δ8-THC, but I'd only use about half that when pairing with Daime. 🤙🏼 |
 | CBN-P:CBN-O 4mg:40mg | Can be used **daily** for sleep. 😴 🌛 [See details.]({{< relref "sleep" >}}) 🤙🏼 |
-| Δ10-THC:CBN:CBx 10:3:1 | **Superhuman focus** work blend. CBx is CBC or CBT. CBC is confidently blissful (yang). CBT is smooth and receptive (yin). Reference dose is 50mg Δ10-THC. 🤙🏼 |
+| Δ10-THC:CBN:CBx 8:1:1 | **Superhuman focus** work blend. CBx is CBC or CBT. CBC is confidently blissful (yang). CBT is smooth and receptive (yin). Reference dose is 67mg Δ10-THC. 🤙🏼 |
 
 My reference dose is strong. To judge these blends, I gotta feel 'em vividly. You might start with 1/2 or 1/4 of my reference dose.
 
@@ -596,6 +596,8 @@ Here's how I think about designing recipes. This recipe is intermediate between 
 | Δ10-THC:CBN:CBC 50:15:5 | Seems better without CBG brain funk. Not sure about optimal CBN:CBx ratio. Need more trials. |
 | Δ8-THC:CBN:H4CBD 6:2:1 | Ick. H4CBD dominates and casts a shadow over CBN. The CBN fizz is the bad kind that prompts anxiety. 👎🏼 |
 | Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | This one is the cat's meow. CBC is the perfect complement to H4CBD. CBN ratio feels great. Dose was 50mg THC. Cognition mostly unaffected; it's almost functional. Not sure what else to ask for. Nailed it. 🤙🏼 |
+| Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | Tried 30mg THC w/ Daime. It was pretty great, but maybe the dose could be a little higher, like 35mg. |
+| Δ10-THC:CBN:CBT 67:10:9 | This ratio feels even better. Bliss is there, but not excessive. 🤙🏼 |
 
 #### Agenda
 
