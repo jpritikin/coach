@@ -131,6 +131,8 @@ Abolish the rosary. In general, minimize prayer repetition ➿.
 
 Similarly, the mass could benefit from judicious pruning ✂️.
 
+> The daimista Mass is scheduled for the first Monday of each month. Though regarded as an important ritual by older communities, its indebtedness to the Catholic Mass results in its avoidance by some of the younger communities uncomfortable with explicit expressions of Christianity within the ritual repertoire of Santo Daime.[^dawson2013]
+
 To try to even understand 🤔 why people continue to recite the rosary, I asked ChatGPT to [steelman](https://en.wikipedia.org/wiki/Straw_man#Steelmanning) the argument for group recitation (for a skeptic). Here's the list from ChatGPT and my comments:
 
 - Personal Growth
@@ -296,3 +298,5 @@ Guess what this gesture means.
 
 [^fiber]: You can access a 2018 fiber database [here](1-s2.0-S0889157518301182-mmc1.xlsx). I received this file from Eleanor Beck on 20 Nov 2024. She said that I could share it.
     - Fuller, S., Tapsell, L. C., & Beck, E. J. (2018). Creation of a fibre categories database to quantify different dietary fibres. *Journal of Food Composition and Analysis, 71*, 36-43.
+
+[^dawson2013]: Dawson, A. (2013). *Santo Daime: A New World Religion.*  Bloomsbury Academic.
