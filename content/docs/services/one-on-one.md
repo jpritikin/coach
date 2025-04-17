@@ -16,7 +16,7 @@ bookCollapseSection: false
 As a default, I recommend 75-minute sessions every week.
 
 {{% details "When will I see results?" %}}
-It depends on your individual situation and goals. Some clients get complete relief in three hours or less. Other clients may need tens of hours of work to begin to approach goals.
+I have a part that is impatient to see you healed too. It's my job to balance impatience with the time that is required to heal injury.
 {{% /details %}}
 
 
@@ -27,7 +27,7 @@ It depends on your individual situation and goals. Some clients get complete rel
 As a default, I recommend 90-minute sessions every week.
 
 {{% details "When will I see results?" %}}
-Quick results are unlikely. Couples counseling typically takes more time compared to work with individuals.
+I have a part that is impatient to see you healed too. It's my job to balance impatience with the time that is required to heal injury.
 {{% /details %}}
 
 {{% /columns %}}
