@@ -251,7 +251,7 @@ When I attend a work, I expect to transcend the turmoil and reach the serene hei
 ### Sleep 😴
 
 Some report that Daime interferes with sleep.
-[Cannabinphorol (CBN-P)]({{< relref "sleep" >}}) works pretty well.
+[Cannabinphorol (CBN-P)]({{< relref "sleep" >}}) works pretty well. Try double your usual dose.
 If that's not enough, try layering on Kava.
 Let me know if you figure out a better solution.
 

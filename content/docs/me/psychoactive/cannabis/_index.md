@@ -598,6 +598,7 @@ Here's how I think about designing recipes. This recipe is intermediate between 
 | Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | This one is the cat's meow. CBC is the perfect complement to H4CBD. CBN ratio feels great. Dose was 50mg THC. Cognition mostly unaffected; it's almost functional. Not sure what else to ask for. Nailed it. 🤙🏼 |
 | Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | Tried 30mg THC w/ Daime. It was pretty great, but maybe the dose could be a little higher, like 35mg. |
 | Δ10-THC:CBN:CBT 67:10:9 | This ratio feels even better. Bliss is there, but not excessive. 🤙🏼 |
+| Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | Tried 35mg THC w/ Daime. It was plenty strong. I'm concerned that it blocks too much sensitivity. Defintely wouldn't increase the dose. This is the ceiling. |
 
 #### Agenda
 

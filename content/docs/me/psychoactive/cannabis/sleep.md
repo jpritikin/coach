@@ -33,6 +33,8 @@ This model elegantly explains the dose threshold phenomenon. Once a shell is ful
 | CBN-O | 50mg | 125-200mg |
 | CBN-P | 4mg | 8mg |
 
+If you expect stubborn insomnia, you can take a high dose (e.g., 8mg CBN-P), but you might want to start 3-4 hours earlier than you would otherwise.
+
 ## In Blends
 
 Counterintuitively, when paired with THC, CBN and CBN-O are 1:1 interchangable with indistinguishable phenomenology.
