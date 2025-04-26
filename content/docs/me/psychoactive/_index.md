@@ -77,6 +77,7 @@ Nutt, D. J., King, L. A., & Phillips, L. D. (2010). Drug harms in the UK: a mult
 {{% /details %}}
 
 Also check out:
+- [A documentary based on Johann Hari's *Chasing The Scream*](https://thefixdocumentary.com/)
 - [Law Enforcement Action Partnership](https://lawenforcementactionpartnership.org/our-issues/drug-policy/)
 - [One sane reform proposal](https://maps.org/news/bulletin/criminal-legal-system-reform-healthier-society/)
 - [Decriminalize Our Minds](https://www.decriminalizeourminds.org/)
