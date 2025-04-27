@@ -188,7 +188,7 @@ Also, tolerance can be different for different components of a blend. So energy 
 | Δ8-THC:CBN:CBx 6:2:1 | **Super Fucking High** ♥️ CBx is one of CBC, CBDV, CBT. 🚀 Reference dose is 25mg Δ8-THC. |
 | Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | **Brahman** ♥️ Perfect complement to Daime. Reference dose is 50mg Δ8-THC, but I'd only use about half that when pairing with Daime. 🤙🏼 |
 | CBN-P:CBN-O 4mg:40mg | Can be used **daily** for sleep. 😴 🌛 [See details.]({{< relref "sleep" >}}) 🤙🏼 |
-| Δ10-THC:CBN:CBx 8:1:1 | **Superhuman focus** work blend. CBx is CBC or CBT. CBC is confidently blissful (yang). CBT is smooth and receptive (yin). Reference dose is 67mg Δ10-THC. 🤙🏼 |
+| Δ10-THC:CBN:CBx 7:1:1 | **Superhuman focus** work blend. CBx is CBC or CBT. CBC is confidently blissful (yang). CBT is smooth and receptive (yin). Reference dose is 67mg Δ10-THC. 🤙🏼 |
 
 My reference dose is strong. To judge these blends, I gotta feel 'em vividly. You might start with 1/2 or 1/4 of my reference dose.
 
@@ -597,8 +597,9 @@ Here's how I think about designing recipes. This recipe is intermediate between 
 | Δ8-THC:CBN:H4CBD 6:2:1 | Ick. H4CBD dominates and casts a shadow over CBN. The CBN fizz is the bad kind that prompts anxiety. 👎🏼 |
 | Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | This one is the cat's meow. CBC is the perfect complement to H4CBD. CBN ratio feels great. Dose was 50mg THC. Cognition mostly unaffected; it's almost functional. Not sure what else to ask for. Nailed it. 🤙🏼 |
 | Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | Tried 30mg THC w/ Daime. It was pretty great, but maybe the dose could be a little higher, like 35mg. |
-| Δ10-THC:CBN:CBT 67:10:9 | This ratio feels even better. Bliss is there, but not excessive. 🤙🏼 |
+| Δ10-THC:CBN:CBT 67:10:9 | This ratio feels even better. Bliss is there, but not excessive. CBx:TOTAL 19/86=22%. 🤙🏼 |
 | Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | Tried 35mg THC w/ Daime. It was plenty strong. I'm concerned that it blocks too much sensitivity. Defintely wouldn't increase the dose. This is the ceiling. |
+| Δ10-THC:CBN:CBD:CBG:CBT 50:6.6:6.6:6.6 | Try to salvage my blend with CBG. At this ratio, the CBG isn't too heavy. I might even like it. CBx:TOTAL 2/7 = 28%. 🤙🏼 |
 
 #### Agenda
 
