@@ -95,36 +95,6 @@ Benefits of singing harmonies:
 
 So why don't we do it (more) in Santo Daime?
 
-### Prayers
-
-Some people seem to enjoy using prayer to communicate with a higher power, petition for help, or express gratitude.
-Perhaps I have been traumatized by placebo sacrament religions (and cults) where these activities feel fake.[^belief]
-Another possible purpose for the prayers is to teach about the inner world.
-However, [IFS]({{< relref "ifs" >}}) conveys the same information with greater precision and finesse.
-
-For example, consider Padrinho Alfredo's Saint Michael Work.
-This work of spiritual cleansing and healing contains beautiful hymns, but some of the prayers are not great. 🚔🚨
-
-**Offense**: Utter lack of or insufficient compassion. 💔 These prayers condemn and exile *evil* instead of encouraging to understand the motivations of surprising behavior. Evil is not to be condemned but interrogated.[^schwartz2021]
-
-**Evidence**:
-
-{{% hint info %}}
-Pages | Prayer  | Hall of Shame 💩
------ | -------------------- | -------
-49-52 | Allan Kardec's *Prayer for the Beginning of the Meeting* | "**Keep away** wicked spirits"
-53-54 | Allan Kardec's *Prayer for the Mediums* | "If I am tempted in any way to abuse, in any form, the gift bestowed on me by Your grace, or if I become proud of it, I ask that You **take it back**" (punitive self-flagellation)
-59-60 | Allan Kardec's *Prayer to Remove Wrong-Doing Spirits* | "clean your soul of its impurities in order to **avoid** bad spirits"
-61-62 | Prayer | "I **repel** you with all the strength in my soul"
-{{% /hint %}}
-
-**Punishment**: Are you paying attention? 🤣 Evil should not be exiled or punished but interrogated. 👮🏼‍♂️
-
-**Demand**: Rescind these prayers and apologize. 🚫
-
-I met Padrinho Alfredo face-to-face in Portland on 2024 Apr 07.
-Having met him, I am confident that he can receive this message as constructive criticism.
-
 ### Rosary 📿
 
 Abolish the rosary. In general, minimize prayer repetition ➿.
