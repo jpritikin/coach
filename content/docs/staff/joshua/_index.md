@@ -2,6 +2,7 @@
 title: Joshua
 weight: 10
 bookToc: false
+bookCollapseSection: false
 ---
 
 {{% columns %}}
@@ -115,13 +116,13 @@ I get attached to my clients. If we haven't had an appointment for more than 6 m
 
 {{% columns %}}
 
-Offers a radical new understanding of religion stripped of dogma and intermediaries. Drawing from archaeology, neuroscience, and psychotherapy, it traces humanity's religious impulses back 40,000 years to the first cave paintings, revealing sophisticated early methods for exploring consciousness that remain relevant today. Through the lens of Internal Family Systems therapy, it demonstrates how ancient shamanic practices and modern therapeutic approaches converge to offer practical tools for direct religious experience. Rather than asking readers to adopt new beliefs, it shows how to systematically shed limiting beliefs that obscure religious mystery. This groundbreaking work provides a clear path for readers to explore the heart of religion while avoiding common pitfalls like guru worship and spiritual bypassing.
+In his groundbreaking new book, Joshua Pritikin explores the provocative idea that belief systems obstruct authentic religious experience. Building on James Carse's foundational work, "Unburdened" takes this premise to its logical conclusion, offering a methodical investigation into what religion might look like when freed from the constraints of belief.
 
-Pritikin, J. N. (202X). *Unburdened: Religion Beyond Belief.* In preparation.
+[Get notified]({{< relref "urbb" >}})
 
 <--->
 
-![Pritikin 202X](unburdened.webp)
+[![Pritikin 202X](unburdened.webp)]({{< relref "urbb" >}})
 
 {{% /columns %}}
 
