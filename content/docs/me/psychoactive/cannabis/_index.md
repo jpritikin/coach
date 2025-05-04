@@ -145,7 +145,7 @@ There is likely cross-tolerance because both substances are [CB1](https://en.wik
 - **CBN (cannabinol) offers a head high without narrowing focus. This is the most underrated cannabinoid.** 🤙🏼  
 <span style="color: brown;">Consider a cup of coffee in the morning. The first few sips often bring the most pleasure--the warmth, the aroma, the initial burst of flavor. By tuning into these sensations, we might find that a single well-brewed cup brings more satisfaction than drinking several cups mindlessly. The same principle applies to many pleasures in life.<br/>This approach isn't about deprivation--it's about discovering that *enough* often contains more joy than excess. When we eat until we're comfortably satisfied rather than stuffed, we feel energized rather than lethargic. The Japanese concept of *hari hachi bu*--eating until you're 80% full--captures this wisdom. It's not about rigid restriction, but rather finding that sweet spot where satisfaction lives.<br/>This principle extends beyond food to many areas of life--entertainment, shopping, work, even social media consumption. In the cannabis world of euphoria and bliss, arguable the most important dimension is finding contentment in sufficiency. That is one of the virtues of cannabinol. Cannabinol bolsters our innate wisdom to be satisfied.</span>
 - CBG (cannabigerol) taken alone, I don't notice any effect from it. With THC activation, CBG narrows focus. This results in a scatterbrain feeling where it takes more effort to hold onto a single coherent train of thought. It also stokes impatience. Why do people enjoy this? It's cognitively fucked up. It might be okay at moderate dosage if you have a well-defined project to latch onto, but otherwise I'll pass. **Overrated.** 👎🏼
-- THCV (tetrahydrocannabivarin) simulating head high. Just a touch of scatterbrain. More alert than CBG. Maybe too alert. Harsh alertness? (Despite starting with the letter T, this is a potentiator because it doesn't do much without a euphoriant.)
+- THCV (tetrahydrocannabivarin) harsh alertness with scatterbrain. I probably don't recommend it. (Despite starting with the letter T, this is a potentiator because it doesn't do much without a euphoriant.)
 - CBC (cannabichromene) holds the heart steady in a courageous propeller shape. The propeller blades are about two inches in diameter and centered near the sternum. The stationary propeller blades extend left and right. The blades start spinning above some threshold of THC activation. Beautiful, but not better than CBDV or CBT.[^turkey-cbc]
 - CBT (cannabicitran) holds the heart steady in a hollow, receptive shape while allowing a head high. Possibly more potentiating and gentler come-down than CBDV.[^turkey-cbt]
 - CBDV (cannabidivarin) holds the heart steady in a neutral shape while allowing a head high. A bit stimulating, but not incompatible with relaxation.
@@ -600,7 +600,7 @@ Here's how I think about designing recipes. This recipe is intermediate between 
 | Δ10-THC:CBN:CBT 67:10:9 | This ratio feels even better. Bliss is there, but not excessive. CBx:TOTAL 19/86=22%. 🤙🏼 |
 | Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | Tried 35mg THC w/ Daime. It was plenty strong. I'm concerned that it blocks too much sensitivity. Defintely wouldn't increase the dose. This is the ceiling. |
 | Δ10-THC:CBN:CBD:CBG:CBT 50:6.6:6.6:6.6 | Try to salvage my blend with CBG. At this ratio, the CBG isn't too heavy. I might even like it. CBx:TOTAL 2/7 = 28%. 🤙🏼 |
-| Δ10-THC:D9-THCV:CBT 50:8:8 | CBx:TOTAL 16/66 = 24% |
+| Δ10-THC:D9-THCV:CBT 50:8:8 | D9-THCV felt alert but scatterbrained. It was difficult to stay focused on task. CBx:TOTAL 16/66 = 24% |
 
 #### Agenda
 
@@ -610,6 +610,7 @@ Here's how I think about designing recipes. This recipe is intermediate between 
 | Δ10-THC:CBN:CBC:CBT 50:15:4:4 | Both CBC and CBT? |
 | Δ10-THC:CBN:CBD 50:12:12 | Who knows? It might be awesome. |
 | Δ8-THC:CBN with both CBC and CBT? | How do they interact? |
+| Δ8-THC:D9-THCV:CBT 25:6:6 | I doubt I'm going to like it, but I'm curious to see THCV from other vantage point. |
 
 ## Storage
 
