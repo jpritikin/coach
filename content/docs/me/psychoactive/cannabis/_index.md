@@ -600,6 +600,7 @@ Here's how I think about designing recipes. This recipe is intermediate between 
 | Δ10-THC:CBN:CBT 67:10:9 | This ratio feels even better. Bliss is there, but not excessive. CBx:TOTAL 19/86=22%. 🤙🏼 |
 | Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | Tried 35mg THC w/ Daime. It was plenty strong. I'm concerned that it blocks too much sensitivity. Defintely wouldn't increase the dose. This is the ceiling. |
 | Δ10-THC:CBN:CBD:CBG:CBT 50:6.6:6.6:6.6 | Try to salvage my blend with CBG. At this ratio, the CBG isn't too heavy. I might even like it. CBx:TOTAL 2/7 = 28%. 🤙🏼 |
+| Δ10-THC:D9-THCV:CBT 50:8:8 | CBx:TOTAL 16/66 = 24% |
 
 #### Agenda
 
@@ -609,7 +610,6 @@ Here's how I think about designing recipes. This recipe is intermediate between 
 | Δ10-THC:CBN:CBC:CBT 50:15:4:4 | Both CBC and CBT? |
 | Δ10-THC:CBN:CBD 50:12:12 | Who knows? It might be awesome. |
 | Δ8-THC:CBN with both CBC and CBT? | How do they interact? |
-| Δ10-THC:THCV:x ? | TBD |
 
 ## Storage
 
@@ -639,7 +639,7 @@ Other cannabinoids will probably be happier in the refridgerator too.[^clarke199
 
 [^turkey-cbt]: Turkey wrote, "CBT feels like CBC's more weird and wild cousin. Same potentiating effects but with a much less calm and focused feeling" (p. 223). I agree that CBT is CBC's cousin. But much less calm and focused feeling? I don't notice that. 🤔
 
-[^oregon-hb3000]: Since 2021, Oregon prohibits the **sale** of artificially derived cannabinoids. There is no prohibition against possession. You can verify this by visiting [Chapter 845](https://secure.sos.state.or.us/oard/displayDivisionRules.action?selectedDivision=6492) and searching for "penalty."
+[^oregon-hb3000]: Since 2021, Oregon prohibits the **sale** of artificially derived cannabinoids. There is no prohibition against possession. You can verify this by visiting Chapter 845 and searching for "penalty."
 
 [^clarke1998]: See Clarke (1998, p. 86ff).
     - Clarke, R. C. (1998). *Hashish!* Red Eye Press, Inc.
