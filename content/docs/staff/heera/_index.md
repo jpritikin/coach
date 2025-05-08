@@ -22,13 +22,17 @@ I am currently a trainee under Joshua's supervision.
 
 ## Fees
 
-I work pro bono to gain experience. Reserve time in 15 min increments.
+I am working pro bono to gain experience. Reserve time in 15 min increments.
 
 {{% /columns %}}
 
+{{% details "Stepping Stone Completion" %}}
+![Stepping Stone](stepping-stones.webp)  
+{{% /details %}}
+
 ## Education
 
-- IFS Informed (IFSCA Stepping Stone, completion Mar 2025)
+- IFS Informed (IFSCA Stepping Stone, completion Apr 2025)
 - 1-on-1 and small group meditation instructor based on Patanjali yoga (30 yrs)
 - Peer support specialist -- substance abuse ([THW](https://traditionalhealthworkerregistry.oregon.gov/Search) #107634)
 - Peer support specialist -- mental health (pending)
