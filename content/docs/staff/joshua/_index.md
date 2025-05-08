@@ -116,13 +116,13 @@ I get attached to my clients. If we haven't had an appointment for more than 6 m
 
 {{% columns %}}
 
-In his groundbreaking new book, Joshua Pritikin explores the provocative idea that belief systems obstruct authentic religious experience. Building on James Carse's foundational work, "Unburdened" takes this premise to its logical conclusion, offering a methodical investigation into what religion might look like when freed from the constraints of belief.
+In his groundbreaking new book, Joshua Pritikin explores the provocative idea that belief systems obstruct authentic religious experience. Building on James Carse's foundational work, "The Way" takes this premise to its logical conclusion, offering a methodical investigation into what religion might look like when freed from the constraints of belief.
 
 [Get notified]({{< relref "urbb" >}})
 
 <--->
 
-[![Pritikin 202X](unburdened.webp)]({{< relref "urbb" >}})
+[![Pritikin 202X](the-way-small.webp)]({{< relref "urbb" >}})
 
 {{% /columns %}}
 
