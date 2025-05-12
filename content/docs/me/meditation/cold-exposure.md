@@ -6,6 +6,10 @@ bookToc: false
 
 # Cold exposure
 
+{{% hint info %}}
+I no longer use this technique because [cannabinphorol is so effective]({{< relref "sleep" >}}).
+{{% /hint %}}
+
 Do [foot soaking]({{< relref "foot-soak" >}}) but with ice-cold water.
 
 Don't combine this with [withdrawal of the senses]({{< relref "senses" >}})

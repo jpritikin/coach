@@ -6,6 +6,10 @@ bookToc: false
 
 # Ice on the liver
 
+{{% hint info %}}
+I no longer use this technique because [cannabinphorol is so effective]({{< relref "sleep" >}}).
+{{% /hint %}}
+
 Don't overdo it. Keep an undershirt between the cold pack and your
 body.
 
