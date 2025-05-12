@@ -6,6 +6,10 @@ bookToc: false
 
 # Introduction
 
+{{% hint info %}}
+This is an excerpt from *Religion Unburdened by Belief: The Way of Open Inquiry*.
+{{% /hint %}}
+
 What if everything we thought we knew about religion was backward? We often assume that religions are built on beliefs--beliefs about gods, afterlife, morality, and the nature of reality. But what if belief actually blocks us from genuine religious experience? This book pursues a radical idea: the less we believe, the closer we get to religion.
 
 This may seem counterintuitive. After all, religions are usually defined by their belief systems. Christianity has its creeds, Buddhism its doctrines, Islam its articles of faith. Yet a careful look at religion reveals something surprising. Direct religious experience often involves setting beliefs aside rather than adopting new ones. Mystics across traditions speak of emptying the mind, surrendering certainty, and embracing mystery.

@@ -6,6 +6,10 @@ bookToc: false
 
 # Mental Injury
 
+{{% hint info %}}
+This is an excerpt from *Religion Unburdened by Belief: The Way of Open Inquiry*.
+{{% /hint %}}
+
 A defensive response to stress is to split off parts of ourselves. This psychological splitting happens when experiences become too painful to integrate. A child whose anger triggers punishment learns to exile that angry part. A teen whose grief is met with "be strong" messages learns to lock away sadness. Over time, these exiled aspects don't disappear—they become separate, isolated fragments within us.
 
 When we exile parts of ourselves, we create an inner system of division. The mind's natural wholeness fractures. A bright student who's bullied for showing intelligence might exile her academic passion. She creates a protective part that downplays her abilities to avoid social rejection. Meanwhile, the exiled whiz kid continues to exist, disconnected from the whole. This inner fragmentation requires enormous psychological energy to maintain.
