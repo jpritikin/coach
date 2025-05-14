@@ -80,6 +80,10 @@ I get attached to my clients. If we haven't had an appointment for more than 6 m
 ## Education
 
 {{% details "Internal Family Systems (Certified, Level 2)" %}}
+{{% hint info %}}
+Visit my [IFS Directory Entry](https://ifs-institute.com/practitioners/all/110287)
+{{% /hint %}}
+
 | Date | Description |
 |------|-------------|
 | 2025 Apr | Program Assistant Development Workshop |
