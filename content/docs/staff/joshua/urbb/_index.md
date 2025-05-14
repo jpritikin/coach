@@ -18,14 +18,17 @@ In his groundbreaking new book, Joshua Pritikin explores the provocative idea th
 Pritikin masterfully integrates diverse traditions—from ancient shamanic practices to contemporary psychological frameworks like Internal Family Systems therapy—to create a practical roadmap for direct religious experience. The book guides readers through meditation techniques, community ceremonies, and altered states of consciousness while maintaining a critical stance toward intermediaries who claim special access to religious truth. "The Way" invites readers to step beyond dogma into a more authentic engagement with life's profound mysteries.
 
 <div class="toc-container">
- <div class="toc-chapters-list" id="toc-chapters">
-  <h2 class="toc-heading">Chapters</h2>
-  <!-- Chapters will be loaded here -->
-   </div>
- <div class="toc-sections-list" id="toc-sections">
-  <h2 class="toc-heading" id="toc-current-chapter">Select a chapter</h2>
-  <!-- Sections will be loaded here -->
- </div>
+  <div class="toc-mobile-toggle">
+    <button id="toc-toggle-btn" class="toc-toggle-button">Show Chapters</button>
+  </div>
+  <div class="toc-chapters-list" id="toc-chapters">
+    <h2 class="toc-heading">Chapters</h2>
+    <!-- Chapters will be loaded here -->
+  </div>
+  <div class="toc-sections-list" id="toc-sections">
+    <h2 class="toc-heading" id="toc-current-chapter">Select a chapter</h2>
+    <!-- Sections will be loaded here -->
+  </div>
 </div>
 
 <div class="signup-section">
@@ -405,4 +408,41 @@ renderChapters();
 if (organizedToc.length > 0) {
     selectChapter(0); // Select first chapter by default
 }
+
+</script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+const toggleBtn = document.getElementById('toc-toggle-btn');
+const chaptersDiv = document.getElementById('toc-chapters');
+const sectionsDiv = document.getElementById('toc-sections');
+
+if (toggleBtn) {
+toggleBtn.addEventListener('click', function() {
+chaptersDiv.classList.toggle('toc-mobile-visible');
+
+if (chaptersDiv.classList.contains('toc-mobile-visible')) {
+toggleBtn.textContent = 'Hide Chapters';
+sectionsDiv.style.display = 'none';
+} else {
+toggleBtn.textContent = 'Show Chapters';
+sectionsDiv.style.display = 'block';
+}
+});
+}
+
+// Add click handler for chapter selection
+// This would be part of your existing code that handles chapter selection
+// When a chapter is selected on mobile, hide the chapters list and show the sections
+const chapterItems = document.querySelectorAll('.toc-chapter-item');
+chapterItems.forEach(item => {
+item.addEventListener('click', function() {
+if (window.innerWidth <= 768) {
+chaptersDiv.classList.remove('toc-mobile-visible');
+sectionsDiv.style.display = 'block';
+toggleBtn.textContent = 'Show Chapters';
+}
+});
+});
+});
 </script>
