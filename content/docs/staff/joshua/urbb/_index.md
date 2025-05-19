@@ -302,7 +302,13 @@ const tocData = [
  { level: 3, title: "A Unified Framework", hasExcerpt: "" },
  { level: 3, title: "Implications", hasExcerpt: "" },
  { level: 3, title: "Self-Critique", hasExcerpt: "" },
- { level: 2, title: "Terrified", hasExcerpt: "" }
+ { level: 2, title: "Terrified", hasExcerpt: "" },
+ { level: 2, title: "Holy Smoke and Mirrors", hasExcerpt: "" },
+ { level: 3, title: "Mystical Malarkey", hasExcerpt: "" },
+ { level: 3, title: "Roast", hasExcerpt: "" },
+ { level: 1, title: "Technology in Writing", hasExcerpt: "" },
+ { level: 2, title: "Attitudes", hasExcerpt: "" },
+ { level: 2, title: "My Digital Writing Partners", hasExcerpt: "" }
 ];
 
 // Group the data by chapters
