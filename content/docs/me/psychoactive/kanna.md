@@ -8,17 +8,26 @@ weight: 10
 
 Kanna contains many alkaloids including mesembrine, mesembrenone, mesembrenol, mesembranol, epimesembranol, and tortuosamine. Of these, mesembrine and mesembrenone are thought to be the main contributors to the psychoactive effects:
 
-|  | mesembrine | mesembrenone |
-|--|------------|--------------|
-| molecule | [![mesembrine](mesembrine.svg.png)](https://en.wikipedia.org/wiki/Mesembrine) | [![mesembrenone](mesembrenone2DACS.svg.png)](https://en.wikipedia.org/wiki/Mesembrenone) |
-| subjective effect | energy/focus | calming/relaxation |
+|  | mesembrine | mesembrenone | Δ7-mesembrenone |
+|--|------------|--------------| --------------- |
+| molecule | [![mesembrine](mesembrine.svg.png)](https://en.wikipedia.org/wiki/Mesembrine) | [![mesembrenone](mesembrenone2DACS.svg.png)](https://en.wikipedia.org/wiki/Mesembrenone) | ![Δ7-mesembrenone](d7mesembrenone.png) |
+| subjective effect | energy/focus | calming/relaxation | synergistic |
+
+A useful way to characterize an extract is the proportion of mesembrine,
+
+    mesembrine/TotalAlkaloids
+
+where
+
+    TotalAlkaloids ≈ (mesembrine + mesembrenone + Δ7-mesembrenone)
 
 In 2012, the first commercial kanna extract, *Zembrin*, was made available in North America.[^zembrin] Zembrin is optimized for relaxation (i.e., less than 20% mesembrine) and is typically sold in 25mg tablets. Zembrin only contains 0.35–0.45% total alkaloids.[^murbach2014]
 Other vendors sell much more potent extracts.
 You can find products with more than 5% total alkaloids (i.e., ≈10x more concentrated than Zembrin).
-I use an extract with more energy than Zembrin, but still on the relaxing side (≈ 50% mesembrine).
-It may take some trial and error to find the optimal balance for you.
-You want enough energy to lift your attention to your head, but too much energy prevents sleep.
+
+![mesembrine subjective experience](mesembrine.svg)
+
+Finding the ideal kanna experience requires precision, with the sweet spot falling between 50-54% mesembrine content (yellow region in the figure). This range provides enough energy to elevate mood without crossing into jittery overstimulation that prevents sleep. What makes kanna interesting is how the subjective effects closely resemble those of low-dose psilocybin or DMT. I avoid the stimulant type extracts with higher mesembrine concentrations (>80%).
 
 [More information here, including safety and drug interactions](https://selfhacked.com/blog/sceletium-tortuosum/)
 
