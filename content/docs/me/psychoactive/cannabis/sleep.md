@@ -33,30 +33,18 @@ This model elegantly explains the dose threshold phenomenon. Once a shell is ful
 | CBN-O | 50mg | 125-200mg |
 | CBN-P | 4mg | 8mg |
 
-If you expect stubborn insomnia, you can take a high dose (e.g., 8mg CBN-P), but you might want to start 3-4 hours earlier than you would otherwise.
+If you expect stubborn insomnia, take double your usual dose 3-4 hours earlier than you would otherwise.
 
 ## In Blends
 
 Counterintuitively, when paired with THC, CBN and CBN-O are 1:1 interchangable with indistinguishable phenomenology.
 The difference in potency only applies when CBN/CBN-O is used *without* THC.
 
-## Troubleshooting
+## Intensifying the Effect
 
-{{% hint info %}}
-I wrote this before I got a hold of CBN-P. CBN-P is pretty good at grabbing the attention without the help of kanna.
-{{% /hint %}}
+The effect of CBN-P can be attenuated by a big dinner. That's where [kanna]({{< relref "kanna" >}}) can help. Kanna and CBN-P can work synergistically. A good analogy is archery. CBN-P aims and kanna releases the arrow.
 
-CBN isn't a panacea.
-If you are in heart-space then the CBN effect is too weak.
-To really enjoy CBN, you need to get to head-space and out of heart-space.
-Kanna is a promising solution.
-Co-administer kanna and CBN.
-You don't need much kanna.
-About 1-2 mg worth of total primary alkaloids will do.
-The trick is to find the appropriate energy/relaxation balance.
-Search for a feeling analogous to Δ8-THC:CBN:CBD 4:1:1.
-Kanna isn't as potent as THC, but the big advantage for this application is that it lacks a tolerance effect for daily use.
-Kanna peaks in an hour, just when CBN is coming online.
+Administer kanna 1-3 hours after taking CBN-P. You don't need much kanna. About 1-2 mg worth of total primary alkaloids will do. Kanna isn't as potent as THC or psilocybin, but the big advantage is that it lacks a tolerance effect for daily use.
 
 ## Notes
 
