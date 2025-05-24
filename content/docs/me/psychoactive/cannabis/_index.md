@@ -604,12 +604,14 @@ Here's how I think about designing recipes. You look at each pie chart separatel
 | Δ10-THC:Δ9-THCV:CBT 50:8:8 | Δ9-THCV felt alert but scatterbrained. It was difficult to stay focused on task. CBx:TOTAL 16/66 = 24% |
 | Δ9-THC-B:CBC:CBN 8:4:4 | Pleasant, but the dose was too low to form a strong opinion. Could try 16mg Δ9-THC-B next time. |
 | Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | Tried 25mg THC w/ Daime. Maybe this is the best dose. |
+| Δ9-THC-B:CBN-P 16:4 | Δ9-THC-B seems similar to Δ10-THC in that it doesn't synergize much with potentiators. This particular combo was not great because Δ9-THC-B covered up the CBN-P effect. I guess Δ9-THC-B is slightly stimulating (not in a bad way) so it overrides CBN-P. |
 
 #### Agenda
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ9-THC-B:CBN:CBx | Try 16mg Δ9-THC-B |
+| Δ9-THC-B         | Try 16mg alone |
+| Δ9-THC-B + ?? | Try 16mg Δ9-THC-B with some Δ10-THC or Δ8-THC blend. |
 | Δ10-THC:CBN:CBC 50:10:10 | Trial different CBN:CBC ratio |
 | Δ10-THC:CBN:CBC:CBT 50:15:4:4 | Both CBC and CBT? |
 | Δ10-THC:CBN:CBD 50:12:12 | Who knows? It might be awesome. |
