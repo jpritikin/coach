@@ -117,7 +117,7 @@ In general, the experience of one or more THC-like substances are improved by pa
 ### Euphoriants (THC-like buzz)
 
 - THC (Δ8-THC or Δ9-THC) offers a malleable high. THC stays in the background. Its phenomenology is largely shaped by potentiators. Trip time is about 6-7 hours from ingestion. Δ9 is a touch more beautiful than Δ8, but they are both marvelous. 💡
-- Δ9-THC-B has potential. I need to try it a few more times before forming an opinion. Trip time is about 4-5 hours from ingestion.
+- Δ9-THC-B (Δ9-tetrahydrocannabutol) doesn't synergize much with potentiators. It feels like THC+CBN, but a little more calm and no need for CBC/CBT/CBDV. You could describe it as mildly euphoric. It's no problem to use alone. It's a touch stimulating, similar to Δ10-THC. Unlike Δ10-THC, it doesn't overwhelm in combination with blends. It's effects seem roughly additive (with ratio Δ9-THC-B:Δ8-THC 1:7 ? TBD). Trip time is about 4-5 hours from ingestion. 🤙🏼
 - Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers a serene head high. The phenomenology is less shaped by potentiators than THC. Δ10-THC itself takes center stage. Compatible: CBN, THCV, CBT, CBC. CDBV is not bad, but I prefer the softness of CBC/CBT. Incompatible: CBD, H4CBD. Trip time is about 8-9 hours from ingestion.  For occasional use, tolerance half-life seems to be about 36 hours.
 - HHC (hexahydrocannabinol) feels similar to Δ8-THC, but distributed unevenly across the body. Most of the effect is from the neck up, with some sensation from the waist up. The high is roughly balanced between energizing and relaxing. Weird.[^turkey-hhc] 👎
 
@@ -601,17 +601,17 @@ Here's how I think about designing recipes. You look at each pie chart separatel
 | Δ10-THC:CBN:CBT 67:10:9 | This ratio feels even better. Bliss is there, but not excessive. CBx:TOTAL 19/86=22%. 🤙🏼 |
 | Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | Tried 35mg THC w/ Daime. It was plenty strong. I'm concerned that it blocks too much sensitivity. Defintely wouldn't increase the dose. This is the ceiling. |
 | Δ10-THC:CBN:CBD:CBG:CBT 50:6.6:6.6:6.6 | Try to salvage my blend with CBG. At this ratio, the CBG isn't too heavy. I might even like it. CBx:TOTAL 2/7 = 28%. 🤙🏼 |
-| Δ10-THC:Δ9-THCV:CBT 50:8:8 | Δ9-THCV felt alert but scatterbrained. It was difficult to stay focused on task. CBx:TOTAL 16/66 = 24% |
-| Δ9-THC-B:CBC:CBN 8:4:4 | Pleasant, but the dose was too low to form a strong opinion. Could try 16mg Δ9-THC-B next time. |
-| Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | Tried 25mg THC w/ Daime. Maybe this is the best dose. |
-| Δ9-THC-B:CBN-P 16:4 | Δ9-THC-B seems similar to Δ10-THC in that it doesn't synergize much with potentiators. This particular combo was not great because Δ9-THC-B covered up the CBN-P effect. I guess Δ9-THC-B is slightly stimulating (not in a bad way) so it overrides CBN-P. |
+| Δ10-THC:Δ9-THCV:CBT 50:8:8 | Δ9-THCV felt alert but scatterbrained. It was difficult to stay focused on task. CBx:TOTAL 16/66 = 24% 👎🏼 |
+| Δ9-THC-B:CBC:CBN 8:4:4 | Pleasant, but the dose was too low to form a strong opinion. Could try 16mg Δ9-THC-B next time. 🤔 |
+| Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | Tried 25mg THC w/ Daime. Maybe this is the best dose. 🤙🏼 |
+| Δ9-THC-B:CBN-P 16:4 | Δ9-THC-B seems similar to Δ10-THC in that it doesn't synergize much with potentiators. This particular combo was not great because Δ9-THC-B covered up the CBN-P effect. I guess Δ9-THC-B is slightly stimulating (not in a bad way) so it overrides CBN-P. 👎🏼 |
+| Δ9-THC-B + Δ8-THC:CBN:CBD 12 + 4:1:1 | The combo feels like a linear combination. No entourage effect here.  🤙🏼 |
 
 #### Agenda
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
 | Δ9-THC-B         | Try 16mg alone |
-| Δ9-THC-B + ?? | Try 16mg Δ9-THC-B with some Δ10-THC or Δ8-THC blend. |
 | Δ10-THC:CBN:CBC 50:10:10 | Trial different CBN:CBC ratio |
 | Δ10-THC:CBN:CBC:CBT 50:15:4:4 | Both CBC and CBT? |
 | Δ10-THC:CBN:CBD 50:12:12 | Who knows? It might be awesome. |
