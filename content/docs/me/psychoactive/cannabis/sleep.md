@@ -15,17 +15,11 @@ The cannabinol family (without other cannabinoids) is recommmended for sleep.[^b
 For sedation and analgesia, cannabinol can be used **daily** (seemingly there is no tolerance).
 There is little cross-tolerance with THC.
 
-## Atomic Model Analogy
+## Flavors
 
-The cannabinol family can be conceptualized as an atomic structure with electron shells surrounding a sleep-promoting nucleus. At the core lies the sedation, relaxation, pain relief, and difficulty thinking shared by all cannabinol variants. Surrounding this nucleus are two distinct electron shells that correspond to different aspects of the experience.
+The subjective experience is sedation, relaxation, pain relief, and reduced thinking. CBN-P offers a tranquil, stable anchor of activation. It grabs and holds the attention. CBN or CBN-O offer a faint fizzy cloud of activation. They do not the grab the attention firmly. CBN-O is more 2-3 times more potent than CBN.
 
-The inner shell, activated by CBN-P, contributes a tranquil, stable anchor of activation. It grabs and holds the attention.
-
-The outer shell, activated by CBN or CBN-O, contributes a pleasant fizzy cloud of activation. It does not the grab the attention firmly. CBN-O activates this outer shell more 2-3 times more efficiently than CBN.
-
-For optimal therapeutic benefits, activate both shells simultaneously. That is, combine CBN-P with either CBN or CBN-O to create a complete electron shell configuration that maximizes the sleep-promoting potential.
-
-This model elegantly explains the dose threshold phenomenon. Once a shell is fully "populated" with electrons (reaching maximum intensity), additional dosing only extends the duration rather than intensifying effects. This is similar to how electron shells have specific capacities. The compound's effects persist into waking only when doses exceed certain thresholds.
+There is a dose threshold phenomenon. Once you reach the threshold dose of maximum intensity, additional substance only extends the duration rather than intensifying effects. The compound's effects persist into waking only when doses exceed certain thresholds.
 
 | Which | Full Intensity | Persists Past Waking |
 | ----- | -------------- | ----------------  |
