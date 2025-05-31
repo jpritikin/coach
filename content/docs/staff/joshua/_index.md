@@ -80,10 +80,6 @@ I get attached to my clients. If we haven't had an appointment for more than 6 m
 ## Education
 
 {{% details "Internal Family Systems (Certified, Level 2)" %}}
-{{% hint info %}}
-Visit my [IFS Directory Entry](https://ifs-institute.com/practitioners/all/110287)
-{{% /hint %}}
-
 | Date | Description |
 |------|-------------|
 | 2025 Apr | Program Assistant Development Workshop |
@@ -102,6 +98,13 @@ Visit my [IFS Directory Entry](https://ifs-institute.com/practitioners/all/11028
 {{% /details %}}
 {{% details "Ph.D. Quantitative Psychology in 2016 from University of Virginia 🎓" %}}
 - See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bibliography/56367505/public/?sort=date&direction=ascending) for publications.
+{{% /details %}}
+{{% details "Directory Listings" %}}
+- [IFS Institute](https://ifs-institute.com/practitioners/all/110287)
+- [Intimacy From the Inside Out (IFIO) Directory](https://www.toniherbineblank.com/therapist-directory.html)
+- [Parts Work Directory](https://partsworkdirectory.com/listing/joshua-pritikin-counseling.html)
+- [The Third Wave](https://directory.thethirdwave.co/therapists/internal-family-systems-therapy-ifs/oregon/joshua-pritikin/)
+- [Psychable](https://psychable.com/practitioners/internal-family-system-practitioner)
 {{% /details %}}
 
 ## Endorsements
