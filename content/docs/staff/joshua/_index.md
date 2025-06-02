@@ -82,6 +82,7 @@ I get attached to my clients. If we haven't had an appointment for more than 6 m
 {{% details "Internal Family Systems (Certified, Level 2)" %}}
 | Date | Description |
 |------|-------------|
+| ? | [IFS Approved Clinical Counsultant](https://ifs-institute.com/trainings/ifs-certification/approved-clinical-consultants) -- Not yet! |
 | 2025 Apr | Program Assistant Development Workshop |
 | 2024 Jul | [IFS Certified Practitioner]({{< relref "certification" >}}) |
 | 2024 Feb | IFS and Past Lives with Bob Falconer |
