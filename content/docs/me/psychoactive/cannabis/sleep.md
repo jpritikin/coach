@@ -15,6 +15,8 @@ The cannabinol family (without other cannabinoids) is recommmended for sleep.[^b
 For sedation and analgesia, cannabinol can be used **daily** (seemingly there is no tolerance).
 There is little cross-tolerance with THC.
 
+It's probably safer than hypnotics?[^kripke2012]
+
 ## Flavors
 
 The subjective experience is sedation, relaxation, pain relief, and reduced thinking. CBN-P offers a tranquil, stable anchor of activation. It grabs and holds the attention. CBN or CBN-O offer a faint fizzy cloud of activation. They do not the grab the attention firmly. CBN-O is more 2-3 times more potent than CBN.
@@ -46,3 +48,4 @@ Administer kanna 1-3 hours after taking CBN-P. You don't need much kanna. About 
 
 [^kolobaric2024]: Kolobaric, A., Saleska, J., Hewlings, S. J., Bryant, C., Colwell, C. S., D'Adamo, C. R., Chen, J., & Pauli, E. K. (2024). A Randomized, Double-Blind, Placebo-Controlled Trial to Assess the Effectiveness and Safety of Melatonin and Three Formulations of Floraworks Proprietary TruCBN™ for Improving Sleep. *Pharmaceuticals (Basel, Switzerland), 17*(8), 977.
 
+[^kripke2012]: Kripke, D. F., Langer, R. D., & Kline, L. E. (2012). Hypnotics' association with mortality or cancer: a matched cohort study. *BMJ Open, 2*(1), e000850.
