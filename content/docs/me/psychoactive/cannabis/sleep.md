@@ -40,7 +40,11 @@ The difference in potency only applies when CBN/CBN-O is used *without* THC.
 
 The effect of CBN-P can be attenuated by a big dinner. That's where [kanna]({{< relref "kanna" >}}) can help. Kanna and CBN-P can work synergistically. A good analogy is archery. CBN-P aims and kanna releases the arrow.
 
-Administer kanna 1-3 hours after taking CBN-P. You don't need much kanna. About 1-2 mg worth of total primary alkaloids will do. Kanna isn't as potent as THC or psilocybin, but the big advantage is that it lacks a tolerance effect for daily use.
+Administer kanna 1-3 hours after taking CBN-P. Kanna isn't as potent as THC or psilocybin, but the big advantage is that it lacks a tolerance effect for daily use.
+
+{{% hint danger %}}
+Dose kanna cautiously! If you take too much, even a relaxing, low mesembrine blend is going to feel uncomfortably stimulating. 🤦
+{{% /hint %}}
 
 ## Notes
 

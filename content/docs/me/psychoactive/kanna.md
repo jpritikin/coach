@@ -29,6 +29,10 @@ You can find products with more than 5% total alkaloids (i.e., ≈10x more conce
 
 Finding the ideal kanna experience requires precision, with the sweet spot falling between 50-54% mesembrine content (yellow region in the figure). This range provides enough energy to elevate mood without crossing into jittery overstimulation that prevents sleep. What makes kanna interesting is how the subjective effects closely resemble those of low-dose psilocybin or DMT. I avoid the stimulant type extracts with higher mesembrine concentrations (>80%).
 
+{{% hint danger %}}
+Dose kanna cautiously! If you take too much, even a relaxing, low mesembrine blend is going to feel uncomfortably stimulating. 🤦
+{{% /hint %}}
+
 [More information here, including safety and drug interactions](https://selfhacked.com/blog/sceletium-tortuosum/)
 
 ## Applications
