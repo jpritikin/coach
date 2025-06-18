@@ -104,6 +104,7 @@ I get attached to my clients. If we haven't had an appointment for more than 6 m
 - [IFS Institute](https://ifs-institute.com/practitioners/all/110287)
 - [Intimacy From the Inside Out (IFIO) Directory](https://www.toniherbineblank.com/therapist-directory.html)
 - [Parts Work Directory](https://partsworkdirectory.com/listing/joshua-pritikin-counseling.html)
+- [psychedelic.support](https://psychedelic.support/network/joshua-pritikin-phd/)
 - [The Third Wave](https://directory.thethirdwave.co/therapists/internal-family-systems-therapy-ifs/oregon/joshua-pritikin/)
 - [Psychable](https://psychable.com/practitioners/internal-family-system-practitioner)
 {{% /details %}}
