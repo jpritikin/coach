@@ -18,6 +18,11 @@ more detailed exploration.
 
 ## Annotated bibliography
 
+### Meeting Potential Partners
+
+Edwards, V. V. (2008). *Captivate: The Science of Succeeding with People.* Penguin Publishing Group.  
+[Mar 20, 2025 Interview](https://www.youtube.com/watch?v=ITxbwgyGh6w)
+
 ### History
 
 British primatologist Richard Wrangham [argues](https://en.wikipedia.org/wiki/The_Goodness_Paradox) that humans have domesticated themselves by a process of self-selection similar to the selective breeding of foxes described by Dmitry Belyayev. Perhaps this theory sheds light on the origin of patriarchy.  
