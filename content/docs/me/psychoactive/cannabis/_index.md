@@ -116,10 +116,10 @@ In general, the experience of one or more THC-like substances are improved by pa
 
 ### Euphoriants (THC-like buzz)
 
-- THC (Δ8-THC or Δ9-THC) offers a malleable high. THC stays in the background. Its phenomenology is largely shaped by potentiators. Trip time is about 6-7 hours from ingestion. Δ9 is a touch more beautiful than Δ8, but they are both marvelous. 💡
-- Δ9-THC-B (Δ9-tetrahydrocannabutol) doesn't synergize much with potentiators. It feels like THC+CBN, but a little more kinetic and no need for CBC/CBT/CBDV. You could describe it as mildly euphoric. It's not a problem to use alone. It's stimulating in a way suitable for dancing more than studying. Unlike Δ10-THC, it doesn't override blends. It's effects seem roughly additive (25mg Δ8-THC ≈ 5mg Δ9-THC-B TBD). Trip time is about 4-5 hours from ingestion. 🤙🏼
-- Δ9-THC-H (tetrahydrocannabihexol) doesn't synergize much with potentiators. If resembles THC+CBT+CBG but with a different flavor. It offers much stronger cognitive impairment than CBG. It's definitely not good for a work blend. The subjective experience resembles salvia divinorum, but with more emotional comfort. Anxiety does not feel like a big risk. Trip time is about 7-8 hours from ingestion. 🤷
-- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers a serene head high (good for studying). The phenomenology is less shaped by potentiators than THC. Δ10-THC itself takes center stage. Compatible: CBN, THCV, CBT, CBC. CDBV is not bad, but I prefer the softness of CBC/CBT. Incompatible: CBD, H4CBD. Trip time is about 8-9 hours from ingestion.  For occasional use, tolerance half-life seems to be about 36 hours.
+- THC (Δ8-THC or Δ9-THC) offers a malleable high. THC stays in the background. Its phenomenology is largely shaped by potentiators. Trip time is about 6-7 hours from ingestion. Δ9 is a touch more beautiful than Δ8, but they are both marvelous. 💡🌞
+- Δ9-THC-B (Δ9-tetrahydrocannabutol) doesn't synergize much with potentiators. It feels like THC+CBN+CBT but with intimate vulnerability. You could describe it as mildly euphoric. It's stimulating in a way suitable for dancing more than studying. There is some mild cognitive impairment, mostly short-term memory. Unlike Δ10-THC, it doesn't override blends. It's effects seem roughly additive (12mg Δ8-THC ≈ 4mg Δ9-THC-B TBD). Trip time is about 4-5 hours from ingestion. 🤙🏼
+- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers a serene head high (good for studying). The phenomenology is less shaped by potentiators than THC. Δ10-THC itself takes center stage. Compatible: CBN, THCV, CBT, CBC. CDBV is not bad, but I prefer the softness of CBC/CBT. Incompatible: CBD, H4CBD. Trip time is about 8-9 hours from ingestion.  For occasional use, tolerance half-life seems to be about 36 hours. 🤙🏼
+- Δ9-THC-H (tetrahydrocannabihexol) doesn't synergize much with potentiators. If resembles THC+CBT+CBG but with super heavy cognitive impairment. The feebleminded concentration resembles [salvia divinorum]({{< relref "salvia" >}}), but with more emotional comfort. I imagine the phenomenology resembles Alzheimer's disease. It's definitely not suitable for a work blend. Anxiety does not feel like a big risk. Trip time is about 7-8 hours from ingestion. 🤷
 - HHC (hexahydrocannabinol) feels similar to Δ8-THC, but distributed unevenly across the body. Most of the effect is from the neck up, with some sensation from the waist up. The high is roughly balanced between energizing and relaxing. Weird.[^turkey-hhc] 👎
 
 My tentative take is that there are not that many real choices for euphoriants.
@@ -143,14 +143,14 @@ There is likely cross-tolerance because both substances are [CB1](https://en.wik
 ### Potentiators (CBD-like)
 
 - CBD is the classic potentiator. CBD opens the emotional spigot around the heart.
-- [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) offers the reassurance of CBD, but in an even more delightfully exquisite way. More cognitive and longer duration than CBD. H4CBD is not only stronger than CBD; it has a different character. H4CBD is serious, not blissful. H4CBD is a powerful antiemetic.
+- [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) resembles CBD, particularly in the latter part of the trip. More cognitive and longer duration than CBD. H4CBD is not only stronger than CBD; it has a different character. H4CBD is serious, not blissful. H4CBD is a powerful antiemetic.
 - **CBN (cannabinol) offers a head high without narrowing focus. This is the most underrated cannabinoid.** 🤙🏼  
 <span style="color: brown;">Consider a cup of coffee in the morning. The first few sips often bring the most pleasure--the warmth, the aroma, the initial burst of flavor. By tuning into these sensations, we might find that a single well-brewed cup brings more satisfaction than drinking several cups mindlessly. The same principle applies to many pleasures in life.<br/>This approach isn't about deprivation--it's about discovering that *enough* often contains more joy than excess. When we eat until we're comfortably satisfied rather than stuffed, we feel energized rather than lethargic. The Japanese concept of *hari hachi bu*--eating until you're 80% full--captures this wisdom. It's not about rigid restriction, but rather finding that sweet spot where satisfaction lives.<br/>This principle extends beyond food to many areas of life--entertainment, shopping, work, even social media consumption. In the cannabis world of euphoria and bliss, arguable the most important dimension is finding contentment in sufficiency. That is one of the virtues of cannabinol. Cannabinol bolsters our innate wisdom to be satisfied.</span>
-- CBG (cannabigerol) taken alone, I don't notice any effect from it. With THC activation, CBG narrows focus. This results in a scatterbrain feeling where it takes more effort to hold onto a single coherent train of thought. It also stokes impatience. Why do people enjoy this? It's cognitively fucked up. It might be okay at moderate dosage if you have a well-defined project to latch onto, but otherwise I'll pass. **Overrated.** 👎🏼
-- THCV (tetrahydrocannabivarin) harsh alertness with scatterbrain. Is this a state of dissociation? I probably don't recommend it. (Despite starting with the letter T, this is a potentiator because it doesn't do much without a euphoriant.)
 - CBC (cannabichromene) holds the heart steady in a courageous propeller shape. The propeller blades are about two inches in diameter and centered near the sternum. The stationary propeller blades extend left and right. The blades start spinning above some threshold of THC activation. Beautiful, but not better than CBDV or CBT.[^turkey-cbc]
 - CBT (cannabicitran) holds the heart steady in a hollow, receptive shape while allowing a head high. Possibly more potentiating and gentler come-down than CBDV.[^turkey-cbt]
 - CBDV (cannabidivarin) holds the heart steady in a neutral shape while allowing a head high. A bit stimulating, but not incompatible with relaxation.
+- CBG (cannabigerol) taken alone, I don't notice any effect from it. With THC activation, CBG narrows focus. This results in a scatterbrain feeling where it takes more effort to hold onto a single coherent train of thought. It also stokes impatience. Why do people enjoy this? It's cognitively fucked up. It might be okay at moderate dosage if you have a well-defined project to latch onto, but otherwise I'll pass. **Overrated.** 👎🏼❌
+- THCV (tetrahydrocannabivarin) harsh alertness with scatterbrain. Is this a state of dissociation? I probably don't recommend it. (Despite starting with the letter T, this is a potentiator because it doesn't do much without a euphoriant.)
 
 #### Two-way Interactions
 
@@ -190,6 +190,7 @@ Also, tolerance can be different for different components of a blend. So energy 
 | ΔX-THC:CBN:CBD Y:1:1 | Mildly psychoactive, mostly just ordinary relaxation. **Underwelming in a good way.** [See details.]({{< relref "relax" >}}) 🤙🏼 |
 | Δ8-THC:CBN:CBx 6:2:1 | **Super Fucking High** ♥️ CBx is one of CBC, CBDV, CBT. 🚀 Reference dose is 25mg Δ8-THC. |
 | Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | **Brahman** ♥️ Perfect complement to Daime. Reference dose is 50mg Δ8-THC, but I'd only use about half that when pairing with Daime. 🤙🏼 |
+| Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 + Δ9-THC-B ? | **Intimate vulnerability resembling pre-orgasm** ♥️ Beautiful complement to Daime. Gotta figure out the best ratio. TBD 🤙🏼 |
 | CBN-P 4mg + kanna | Can be used **daily** for sleep. 😴 🌛 [See details.]({{< relref "sleep" >}}) 🤙🏼 |
 | Δ10-THC:CBN:CBx 7:1:1 | **Superhuman focus** work blend. CBx is CBC or CBT. CBC is confidently blissful (yang). CBT is smooth and receptive (yin). Reference dose is 67mg Δ10-THC. 🤙🏼 |
 
@@ -608,21 +609,22 @@ Here's how I think about designing recipes. You look at each pie chart separatel
 | Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | Tried 25mg THC w/ Daime. Maybe this is the best dose. 🤙🏼 |
 | Δ9-THC-B:CBN-P 16:4 | Δ9-THC-B seems similar to Δ10-THC in that it doesn't synergize much with potentiators. This particular combo was not great because Δ9-THC-B covered up the CBN-P effect. I guess Δ9-THC-B is slightly stimulating (not in a bad way) so it overrides CBN-P. 👎🏼 |
 | Δ9-THC-B + Δ8-THC:CBN:CBD 12 + 4:1:1 | The combo feels like a linear combination. No entourage effect here. 🤙🏼 |
-| Δ9-THC-B 12mg + psilomethoxin 0.5g | The combo was a bit clashing. Δ9-THC-B is not serene like psilomethoxin. Its high is suitable for dancing. Anxiety okay, but could be a problem at a high dose. 🤔 |
+| Δ9-THC-B 12mg + psilomethoxin 0.5g | The combo was a bit clashing. Δ9-THC-B is not serene like psilomethoxin. Its high is suitable for dancing. Anxiety okay, but could be a problem at a higher dose. 🤔 |
 | Δ8-THC:CBN:CBx + Δ9-THC-H 8mg | Δ9-THC-H was much stronger than expected. It dominated the 25mg THC. 👎🏼 |
 | Δ8-THC:CBN:H4CBD:CBC + Δ8-THC:CBN:CBDV 1:1 | Good combo, but CBDV not a great choice. Probably better to use CBC for both blends. 🤔 |
+| Δ8-THC:CBN:H4CBD:CBC + Δ9-THC-B | Dosage 12.5mg THC + 4.1mg THC-B. OMG, this is a marvelous combo. It resembles the moment before an orgasm. Good complement for Daime. Maybe less THC-B would balance the blend better? 🤙🏼🤙🏼🤙🏼 |
 
 #### Agenda
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ8-THC:CBN:H4CBD:CBC + Δ9-THC-B | Better for Daime? |
+| Δ8-THC:CBN:H4CBD:CBC + Δ9-THC-B | Explore ratio |
 | Δ8-THC:CBN:CBx + Δ9-THC-B | Could be interesting |
 | Δ10-THC:CBN:CBC 50:10:10 | Trial different CBN:CBC ratio |
 | Δ10-THC:CBN:CBC:CBT 50:15:4:4 | Both CBC and CBT? |
 | Δ10-THC:CBN:CBD 50:12:12 | Who knows? It might be awesome. |
 | Δ8-THC:CBN with both CBC and CBT? | How do they interact? |
-| Δ8-THC:Δ9-THCV:CBT 25:6:6 | I doubt I'm going to like it, but I'm curious to see THCV from other vantage point. |
+| Δ8-THC:Δ9-THCV:CBT 25:6:6 | I doubt I'm going to like it, but I'm curious to feel THCV from another vantage point. |
 
 ## Storage
 
