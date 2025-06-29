@@ -26,9 +26,20 @@ Every account adds a brushstroke to our collective canvas of cannabis comprehens
 ![Cannabinoid Map](cannabinoid.svg)
 {.center}
 
-If you take THC without potentiators, then euphoria is mostly bottled up but will leak out uncomfortably.
-There is a head/heart balance and a heart open/closed balance.
-Avoid stimulation in the head paired with inadequate relaxation in the heart.
-That's the worst combination (e.g., THCV:CBD with ratio 3:2).
-As the heart recovers to normal, there is a band of discomfort.
-The band on the open side is much wider than the band on the closed side.
+### THC
+
+THC alone produces a muffled experience of anxiety and cognitive fog without the nuanced effects people seek. It provides raw psychoactive energy but lacks direction or refinement. The potentiators don't amplify THC but transform its expression. Stained glass doesn't only filter light but creates entirely new visual experiences. Similarly, these compounds reshape THC's effects into distinct phenomenological territories.
+
+### Heart Model
+
+There are three directions that the heart-centered emotional experience can take:
+
+* The Closed Direction (Self-Contained Bliss): Moving toward the *closed* direction generates an inward-turning euphoria that becomes independent of external circumstances. The emotional experience becomes self-sustaining and insulated. This represents a kind of emotional autonomy where mood and affect are divorced from environmental inputs. The experience feels complete and self-contained, requiring no external validation or stimulation to maintain its positive quality.
+
+* The Open Direction (Heightened Sensitivity): The *open* direction amplifies emotional permeability and responsiveness to external conditions. Music becomes more moving, social interactions more intense, environmental beauty more profound. This heightened sensitivity creates richer experiential textures but also greater vulnerability. The emotional system becomes like a more sensitive instrument—capable of detecting subtler frequencies but also more easily overwhelmed.
+
+* The Up Direction (Formless Comfort): Movement toward the head represents a dissolution of emotional form into something more abstract and comfortable. This isn't the specific joy of the closed direction or the reactive pleasure of the open direction, but rather a spacious, undefined sense of wellbeing. The experience becomes less localized in the heart and more distributed or formless.
+
+#### Debris Patterns and Recovery
+
+Each direction creates distinct residual effects in the comedown phase. The formless comfort of *up* dissolves cleanly with minimal emotional residue. The heightened sensitivity of *open* leaves the most debris—emotional rawness, overstimulation, or a sense of depleted receptivity that requires significant recovery time. The self-contained bliss of *closed* falls somewhere between these extremes.
