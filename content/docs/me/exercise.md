@@ -62,7 +62,7 @@ Hopefully inverted positions 🙃 do not increase the risk of glaucoma![^jasien2
 
 ## References
 
-[^pritikin2022]: Pritikin, J.N., Schmidt, K.M. (2022). Physical Activity Flow Propensity. *Int J Appl Posit Psychol* doi:10.1007/s41042-022-00071-5
+[^pritikin2022]: Pritikin, J. N., & Schmidt, K. M. (2022). Physical Activity Flow Propensity: Scale Development using Exploratory Factor Analysis with Paired Comparison Indicators. *International Journal of Applied Positive Psychology, 7*(3), 327--354.
 
 [^sawyer2007]: Sawyer, K. (2007). *Group genius: The creative power of collaboration.* Basic Books.
 
