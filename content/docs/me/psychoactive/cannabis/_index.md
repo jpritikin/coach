@@ -614,12 +614,12 @@ Here's how I think about designing recipes. You look at each pie chart separatel
 | Δ8-THC:CBN:H4CBD:CBC + Δ9-THC-B | Dosage 12.5mg THC + 4.1mg THC-B. OMG, this is a marvelous combo. It resembles the moment before an orgasm. Maybe less THC-B would balance the blend better? 🤙🏼🤙🏼🤙🏼 |
 | Δ8-THC:CBN:H4CBD:CBC + Δ9-THC-B | Dosage 19mg THC + 2mg THC-B. This was subthreshold for Δ9-THC-B. 🤔 It is likely that 12mg THC is balanced by 2-3mg Δ9-THC-B. |
 | Δ9-THC-B:H4CBD 4:1 | Dosage 8mg Δ9-THC-B. Pleasant, but not as ebullient as the more complex recipe. Probably needs CBC. At least H4CBD completely eliminated Δ9-THC-B's mild anxiety. This dosage was pretty mild. Maybe there is a synergistic effect between Δ8-THC and Δ9-THC-B? |
+| Δ9-THC-B:CBC:H4CBD 4:1:1 | Dosage 12.5mg Δ9-THC-B. Much better than without CBC. Pleasant, but not as ebullient as the more complex recipe. |
 
 ### Agenda
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ9-THC-B:CBC:H4CBD 4:1:1 | Try simpler recipe |
 | Δ8-THC:CBN:H4CBD:CBC + Δ9-THC-B | Explore ratio |
 | Δ8-THC:CBN:CBx + Δ9-THC-B | Could be interesting |
 | Δ10-THC:CBN:CBC 50:10:10 | Trial different CBN:CBC ratio |
