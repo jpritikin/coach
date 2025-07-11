@@ -77,6 +77,10 @@ I get attached to my clients. If we haven't had an appointment for more than 6 m
 {{% /details %}}
 {{% /hint %}}
 
+{{% details "Are you a highly motivated client?" %}}
+Make rapid progress with an intensive. Reach out to schedule eight or more hours per week.
+{{% /details %}}
+
 ## Education
 
 {{% details "Internal Family Systems (Certified, Level 2)" %}}
