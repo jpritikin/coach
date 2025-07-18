@@ -162,6 +162,7 @@ There is likely cross-tolerance because both substances are [CB1](https://en.wik
 | H4CBD | CBC | Marvelous combo. The seriousness of H4CBD is balanced by the levity of CBC. CBT offers levity too, but are both yin. The yang of CBC is a better complement to the yin of H4CBD. |
 | CBDV | Daime | Clashes. CBDV is too stabilizing. |
 | H4CBD | Δ9-THC-B | Nice combo, but Δ9-THC-B cancels H4CBD's antiemetic effect. |
+| CBN-P | THC | Resembles CBN:THC but much stronger. Not good for sleep. It's not clear whether this is a useful combination for blends. Maybe tiny amounts like 0.1mg CBN-P could be interesting? |
 
 #### Munchies
 
@@ -615,6 +616,7 @@ Here's how I think about designing recipes. You look at each pie chart separatel
 | Δ8-THC:CBN:H4CBD:CBC + Δ9-THC-B | Dosage 19mg THC + 2mg THC-B. This was subthreshold for Δ9-THC-B. 🤔 It is likely that 12mg THC is balanced by 2-3mg Δ9-THC-B. |
 | Δ9-THC-B:H4CBD 4:1 | Dosage 8mg Δ9-THC-B. Pleasant, but not as ebullient as the more complex recipe. Probably needs CBC. At least H4CBD completely eliminated Δ9-THC-B's mild anxiety. This dosage was pretty mild. Maybe there is a synergistic effect between Δ8-THC and Δ9-THC-B? |
 | Δ9-THC-B:CBC:H4CBD 4:1:1 | Dosage 12.5mg Δ9-THC-B. Much better than without CBC. Pleasant, but not as ebullient as the more complex recipe. |
+| Δ8-THC:CBN:CBD 4:1:1 + CBN-P | Dosage 25mg THC. Wait 4 hours and then 8mg CBN-P. THC:CBN-P dominated the relax blend. Not good for sleep. |
 
 ### Agenda
 
