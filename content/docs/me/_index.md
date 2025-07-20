@@ -16,6 +16,8 @@ In real life, I am highly opinionated about diverse content areas.
 ![Silly self portrait](self-portrait.webp)
 {.center}
 
+*The author remains stubbornly human despite extensive fieldwork, ceremonial participation, and rigorous belief minimization. No chimps were harmed in the preparation of this image.*
+
 {{% hint info %}}
 This area of my website is the safe space for me (mostly Joshua) to broadcast my opinions. 🤓
 {{% /hint %}}
