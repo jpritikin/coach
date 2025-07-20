@@ -158,15 +158,27 @@ There is too much to say! [Visit here]({{< relref "posture" >}})
 Some ayahuasca traditions regard purging as necessary and even powerful part of the healing process.
 Some even add emetic agents to the brew![^beyer2008]
 
-- **Physical Cleansing**: Many traditions view purging as a crucial element of physical cleansing, eliminating negative energies, toxins, and blockages from the body, allowing for deeper spiritual and emotional healing.
-- **Psychological Release**: Purging is often seen as a form of emotional catharsis, releasing pent-up emotions, traumas, and negativity, leading to deeper self-awareness and personal growth.
-- **Spiritual Transformation**: In some traditions, purging is considered a symbolic death and rebirth experience, purging the "old self" to make way for spiritual transformation and renewal.
+**Physical Cleansing**: Many traditions view purging as a crucial element of physical cleansing, eliminating negative energies, toxins, and blockages from the body, allowing for deeper spiritual and emotional healing.
+
+**Psychological Release**: Purging is often seen as a form of emotional catharsis, releasing pent-up emotions, traumas, and negativity, leading to deeper self-awareness and personal growth.
+
+**Spiritual Transformation**: In some traditions, purging is considered a symbolic death and rebirth experience, purging the "old self" to make way for spiritual transformation and renewal.
 
 While Santo Daime acknowledges the potential cleansing and cathartic effects of purging, it's not considered a central focus of the experience.
 If some traditions use an emetic, why not offer an optional antiemetic in Santo Daime?
-Why not make ginger capsules[^marx2015] available?
+Why not make fresh ginger available?[^marx2015]
 Or pharmauasca?[^aicher2024]
 Or ondansetron (if not pregnant[^picot2020])?
+
+{{% details "Here's how I use ginger." %}}
+But before I present my protocol, we need to understand that nausea arises from two distinct sources: the immediate flavor of the tea and the subsequent digestive response. The bitter, often astringent taste of daime can trigger an immediate gag reflex. After swallowing, the alkaloids and other compounds may unsettle the stomach during digestion. Addressing nausea requires tackling both sources.
+
+Fresh ginger offers a natural, accessible solution. Keep a small piece in your pocket before arriving at the ceremony. As you approach the queue for daime service, discreetly take a bite and push the piece into the gap between your upper lip and gum. Keep the ginger there and focus on its spicy flavor as you approach the serving table. This helps soothe your taste receptors and prepares your palate for what's coming.
+
+When served the daime, drink it as you normally would. Mentally reassure your tongue that it only needs to tolerate the challenging flavor for a few brief seconds. The moment you finish swallowing, bite down on the ginger to release more juices and place it on your tongue. This quickly masks any lingering taste of the daime.
+
+Continue chewing the ginger thoroughly and swallow it. Beyond masking the taste, this delivers ginger's natural anti-emetic compounds to your stomach. There, they can help settle digestive upset and reduce the likelihood of purging.
+{{% /details %}}
 
 ### Cannabis
 
