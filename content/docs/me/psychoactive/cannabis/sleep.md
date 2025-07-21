@@ -46,6 +46,12 @@ Administer kanna 1-3 hours after taking CBN-P. Kanna isn't as potent as THC or p
 Dose kanna cautiously! If you take too much, even a relaxing, low mesembrine blend is going to feel uncomfortably stimulating. 🤦
 {{% /hint %}}
 
+If you are trying to sleep after using daime (and it has been at least 24 hours since your last daime use), then you may need to use a higher dose and higher proportion of mesembrine to feel anything due to the lingering effects of daime.
+
+{{% hint danger %}}
+Given potential drug interactions between daime and kanna, consult with someone knowledgeable about these substances before combining them, as the interaction profile and appropriate timing isn't well-established.
+{{% /hint %}}
+
 ## Notes
 
 [^bonn-miller2024]: Bonn-Miller, M. O., Feldner, M. T., Bynion, T. M., Eglit, G. M. L., Brunstetter, M., Kalaba, M., Zvorsky, I., Peters, E. N., & Hennesy, M. (2024). A double-blind, randomized, placebo-controlled study of the safety and effects of CBN with and without CBD on sleep quality. *Experimental and clinical psychopharmacology, 32*(3), 277–284.
