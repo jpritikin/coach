@@ -132,7 +132,7 @@ Kearney, M. S. (2023). *The Two-Parent Privilege: How Americans Stopped Getting 
 [Oct 5, 2023 Interview](https://www.youtube.com/watch?v=JRjMnH-4cYo)
 
 {{% hint warning %}}
-Kids are the ultimate judge of the health of your relationships and sex life. 🚸
+[Kids]({{< relref "../parenting" >}}) are the ultimate judge of the health of your relationships and sex life. 🚸
 {{% /hint %}}
 
 ## Summary
