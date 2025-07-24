@@ -87,4 +87,4 @@ Ferritin is a blood test measure of our backup iron stores. A ferritin test may 
 
 [^rizzo2013]: Rizzo, N. S., Jaceldo-Siegl, K., Sabate, J., & Fraser, G. E. (2013). Nutrient profiles of vegetarian and nonvegetarian dietary patterns. *Journal of the Academy of Nutrition and Dietetics, 113*(12), 1610–1619.
 
-[^pritikin2024]: Nathan Pritikin was finally recognized in 2024 by the American College of Lifestyle Medicine with a [Distinguished Lifetime Achievement Award](https://lifestylemedicine.org/project/award-recipients/).
+[^pritikin2024]: Nathan Pritikin was finally recognized in 2024 by the American College of Lifestyle Medicine with a [Distinguished Lifetime Achievement Award](https://connect.lifestylemedicine.org/aclm-programs/awards/lifetime).

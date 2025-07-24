@@ -19,8 +19,8 @@ Combine all ingredients in a blender (doesn't need to be high-speed–we're not 
 - 1 cup split yellow mung beans/moong dal/yellow lentils, soaked overnight
 - 1 cup unsweetened soy milk (or 2 table cashew + 1 cup water)
 - 3 table nutritional yeast
-- 1 ½ tsp salt
 - 1 ¼ tsp baking powder
+- 1 tsp salt
 - 1 tsp tapioca starch (optional)
 - ½ tsp turmeric
 - ½ tsp garlic powder
