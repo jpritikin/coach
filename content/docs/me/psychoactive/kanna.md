@@ -27,7 +27,11 @@ You can find products with more than 5% total alkaloids (i.e., ≈10x more conce
 
 ![mesembrine subjective experience](mesembrine.svg)
 
-Finding the ideal kanna experience requires precision, with the sweet spot falling between 50-54% mesembrine content (yellow region in the figure). This range provides enough energy to elevate mood without crossing into jittery overstimulation that prevents sleep. What makes kanna interesting is how the subjective effects closely resemble those of low-dose psilocybin or DMT. I avoid the stimulant type extracts with higher mesembrine concentrations (>80%).
+Finding the ideal kanna experience requires precision, with the sweet spot falling between 50-54% mesembrine content (yellow region in the figure). This range provides enough energy to elevate mood without crossing into jittery overstimulation that prevents sleep.
+
+There's an important learning curve when working with kanna. As you become more experienced with the plant, you may find that gradually increasing to higher mesembrine content and doses can create a more profound and rewarding experience. But these more intense doses require familiarity--if you're not ready, it can feel overwhelming and cause panic. Start conservatively and work your way up.
+
+What makes kanna interesting is how the subjective effects closely resemble those of low-dose psilocybin or DMT. I avoid the stimulant type extracts with higher mesembrine concentrations (>80%).
 
 {{% hint danger %}}
 Dose kanna cautiously! If you take too much, even a relaxing, low mesembrine blend is going to feel uncomfortably stimulating. 🤦
