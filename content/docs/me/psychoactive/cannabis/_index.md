@@ -118,7 +118,7 @@ In general, the experience of one or more THC-like substances are improved by pa
 
 - THC (Δ8-THC or Δ9-THC) offers a malleable high. THC stays in the background. Its phenomenology is largely shaped by potentiators. Trip time is about 6-7 hours from ingestion. Δ9 is a touch more beautiful than Δ8, but they are both marvelous. 💡🌞
 - Δ9-THC-B (Δ9-tetrahydrocannabutol) feels like THC+CBN+CBT but with intimate vulnerability. You could describe it as mildly euphoric. It's stimulating in a way suitable for dancing more than studying. There is some mild cognitive impairment, mostly short-term memory. Taken alone, there is a risk of mild anxiety. Unlike Δ10-THC, it doesn't override blends. It's effects seem roughly additive (12mg Δ8-THC ≈ 3mg Δ9-THC-B TBD). Trip time is about 4-5 hours from ingestion. 🤙🏼
-- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers a serene head high (good for studying). The phenomenology is less shaped by potentiators than THC. Δ10-THC itself takes center stage. Compatible: CBN, THCV, CBT, CBC. CDBV is not bad, but I prefer the softness of CBC/CBT. Incompatible: CBD, H4CBD. Trip time is about 8-9 hours from ingestion.  For occasional use, tolerance half-life seems to be about 36 hours. 🤙🏼
+- Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers a serene head high (good for studying). The phenomenology is less shaped by potentiators than THC. Δ10-THC itself takes center stage. Compatible: CBN, THCV, CBT, CBC. CDBV is not bad, but I prefer the softness of CBC/CBT. Incompatible: CBD, H4CBD. Trip time is about 6-7 hours from ingestion.  For occasional use, tolerance half-life seems to be about 36 hours. 🤙🏼
 - Δ9-THC-H (tetrahydrocannabihexol) doesn't synergize much with potentiators. If resembles THC+CBT+CBG but with super heavy cognitive impairment. The feebleminded concentration resembles [salvia divinorum]({{< relref "salvia" >}}), but with more emotional comfort. I imagine the phenomenology resembles Alzheimer's disease. It's definitely not suitable for a work blend. Anxiety does not feel like a big risk. Trip time is about 7-8 hours from ingestion. 🤷
 - HHC (hexahydrocannabinol) feels similar to Δ8-THC, but distributed unevenly across the body. Most of the effect is from the neck up, with some sensation from the waist up. The high is roughly balanced between energizing and relaxing. Weird.[^turkey-hhc] 👎
 
@@ -617,6 +617,7 @@ Here's how I think about designing recipes. You look at each pie chart separatel
 | Δ9-THC-B:H4CBD 4:1 | Dosage 8mg Δ9-THC-B. Pleasant, but not as ebullient as the more complex recipe. Probably needs CBC. At least H4CBD completely eliminated Δ9-THC-B's mild anxiety. This dosage was pretty mild. Maybe there is a synergistic effect between Δ8-THC and Δ9-THC-B? |
 | Δ9-THC-B:CBC:H4CBD 4:1:1 | Dosage 12.5mg Δ9-THC-B. Much better than without CBC. Pleasant, but not as ebullient as the more complex recipe. |
 | Δ8-THC:CBN:CBD 4:1:1 + CBN-P | Dosage 25mg THC. Wait 4 hours and then 8mg CBN-P. (I didn't exactly plan this properly. It was an accidental experiment.) THC:CBN-P dominated the relax blend. Not good for sleep. |
+| Δ10-THC:CBN:CBx 7:1:1 + CBN-P | I took Δ10-THC at 8:30am and CBN-P at 3:30pm. This was long enough (6 hours) that CBN-P wasn't affected by Δ10-THC. |
 
 ### Agenda
 

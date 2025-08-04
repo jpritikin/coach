@@ -29,12 +29,13 @@ There is a dose threshold phenomenon. Once you reach the threshold dose of maxim
 | CBN-O | 50mg | 125-200mg |
 | CBN-P | 4mg | 8mg |
 
-If you expect stubborn insomnia, take double your usual dose 3-4 hours earlier than you would otherwise.
+If you expect stubborn insomnia, take double your usual dose 3-4 hours earlier than you would otherwise. I'd hesitate to take much more than 8mg CBN-P because it can start to feel too alert, not conducive to sleep.
 
 ## In Blends
 
 Counterintuitively, when paired with THC, CBN and CBN-O are 1:1 interchangable with indistinguishable phenomenology.
 The difference in potency only applies when CBN/CBN-O is used *without* THC.
+So what is CBN-O good for?
 
 ## Intensifying the Effect
 

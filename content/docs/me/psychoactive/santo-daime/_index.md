@@ -48,17 +48,17 @@ On one hand, recommendations largely align with a [whole food plant-based diet](
 It's a good idea to eat healthy food.
 Also, tyramine should be avoided due to potentially dangerous interactions.[^weiss2018]
 However, healthy eating and tyramine are not the only considerations.
-Vegans need to know that the pharmacodynamics of Daime are vividly affected by insoluable [fiber](/posts/fiber-is-not-fibrous/).
-Insoluable fiber buffers the force of the Daime.
+Vegans need to know that the pharmacodynamics of Daime are vividly affected by insoluble [fiber](/posts/fiber-is-not-fibrous/).
+Insoluble fiber buffers the force of the Daime.
 Consequently, participants may feel little (mostly sober) for much of the time, followed by an overwhelmingly strong, brief burst of Daime after 1-2 hours.
 
-Foods high in insoluable fiber include pineapple, banana, and avocado.[^fiber]
+Foods high in insoluble fiber include pineapple.[^fiber]
 To set yourself up for success, here is a specific dietary recommendation.
 Take 1-2 tablespoon ground cayenne pepper with dinner on the evening prior to the event.
-This should take care of any insoluable fiber lingering in your intestines.
+This should take care of any insoluble fiber lingering in your intestines.
 On the day of, [cook a sweet potato]({{< relref "sweet-potato" >}}) and blend it with a small slice of fresh ginger.
 Don't eat anything else.
-The sweet potato is almost 100% soluable fiber and does not monkey with the pharmacodynamics of Daime.
+The sweet potato is about 50% soluble fiber and does not monkey with the pharmacodynamics of Daime.
 
 ### Lyrics
 
