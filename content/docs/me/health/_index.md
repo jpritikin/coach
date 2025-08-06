@@ -30,7 +30,7 @@ An easy way to learn more about nutrition is to watch some outstanding feature d
 [![What the Health?](what-the-health.webp)](https://www.whatthehealthfilm.com/)
 {{< /details >}}
 {{% details "The Game Changers (2018)" %}}
-[![The Game Changers](the-game-changers.webp)](https://gamechangersmovie.com/)
+[![The Game Changers](the-game-changers.webp)](https://en.wikipedia.org/wiki/The_Game_Changers)
 {{< /details >}}
 {{% details "They’re Trying to Kill Us (2021)" %}}
 [![They’re Trying to Kill Us](theyre-trying-to-kill-us.webp)](https://www.theyretryingtokillus.com/)
