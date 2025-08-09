@@ -117,9 +117,7 @@ In general, the experience of one or more THC-like substances are improved by pa
 ### Euphoriants (THC-like buzz)
 
 - THC (Δ8-THC or Δ9-THC) offers a malleable high. THC stays in the background. Its phenomenology is largely shaped by potentiators. Trip time is about 6-7 hours from ingestion. Δ9 is a touch more beautiful than Δ8, but they are both marvelous. 💡🌞
-- Δ9-THC-B (Δ9-tetrahydrocannabutol) feels like THC+CBN+CBT but with intimate vulnerability. You could describe it as mildly euphoric. It's stimulating in a way suitable for dancing more than studying. There is some mild cognitive impairment, mostly short-term memory. Taken alone, there is a risk of mild anxiety. Unlike Δ10-THC, it doesn't override blends. It's effects seem roughly additive (12mg Δ8-THC ≈ 3mg Δ9-THC-B TBD). Trip time is about 4-5 hours from ingestion. 🤙🏼
 - Δ10-THC (actually 70% Δ10-THC, 22% Δ8-THC) offers a serene head high (good for studying). The phenomenology is less shaped by potentiators than THC. Δ10-THC itself takes center stage. Compatible: CBN, THCV, CBT, CBC. CDBV is not bad, but I prefer the softness of CBC/CBT. Incompatible: CBD, H4CBD. Trip time is about 6-7 hours from ingestion.  For occasional use, tolerance half-life seems to be about 36 hours. 🤙🏼
-- Δ9-THC-H (tetrahydrocannabihexol) doesn't synergize much with potentiators. If resembles THC+CBT+CBG but with super heavy cognitive impairment. The feebleminded concentration resembles [salvia divinorum]({{< relref "salvia" >}}), but with more emotional comfort. I imagine the phenomenology resembles Alzheimer's disease. It's definitely not suitable for a work blend. Anxiety does not feel like a big risk. Trip time is about 7-8 hours from ingestion. 🤷
 - HHC (hexahydrocannabinol) feels similar to Δ8-THC, but distributed unevenly across the body. Most of the effect is from the neck up, with some sensation from the waist up. The high is roughly balanced between energizing and relaxing. Weird.[^turkey-hhc] 👎
 
 My tentative take is that there are not that many real choices for euphoriants.
@@ -148,7 +146,7 @@ There is likely cross-tolerance because both substances are [CB1](https://en.wik
 <span style="color: brown;">Consider a cup of coffee in the morning. The first few sips often bring the most pleasure--the warmth, the aroma, the initial burst of flavor. By tuning into these sensations, we might find that a single well-brewed cup brings more satisfaction than drinking several cups mindlessly. The same principle applies to many pleasures in life.<br/>This approach isn't about deprivation--it's about discovering that *enough* often contains more joy than excess. When we eat until we're comfortably satisfied rather than stuffed, we feel energized rather than lethargic. The Japanese concept of *hari hachi bu*--eating until you're 80% full--captures this wisdom. It's not about rigid restriction, but rather finding that sweet spot where satisfaction lives.<br/>This principle extends beyond food to many areas of life--entertainment, shopping, work, even social media consumption. In the cannabis world of euphoria and bliss, arguable the most important dimension is finding contentment in sufficiency. That is one of the virtues of cannabinol. Cannabinol bolsters our innate wisdom to be satisfied.</span>
 - CBC (cannabichromene) holds the heart steady in a courageous propeller shape. The propeller blades are about two inches in diameter and centered near the sternum. The stationary propeller blades extend left and right. The blades start spinning above some threshold of THC activation. Beautiful, but not better than CBDV or CBT.[^turkey-cbc]
 - CBT (cannabicitran) holds the heart steady in a hollow, receptive shape while allowing a head high. Possibly more potentiating and gentler come-down than CBDV.[^turkey-cbt]
-- CBDV (cannabidivarin) holds the heart steady in a neutral shape while allowing a head high. A bit stimulating, but not incompatible with relaxation.
+- CBDV (cannabidivarin) holds the heart steady in a neutral shape while allowing a head high. A bit stimulating, but not incompatible with relaxation. 🤷 I usually prefer CBC or CBT.
 - CBG (cannabigerol) taken alone, I don't notice any effect from it. With THC activation, CBG narrows focus. This results in a scatterbrain feeling where it takes more effort to hold onto a single coherent train of thought. It also stokes impatience. Why do people enjoy this? It's cognitively fucked up. It might be okay at moderate dosage if you have a well-defined project to latch onto, but otherwise I'll pass. **Overrated.** 👎🏼❌
 - THCV (tetrahydrocannabivarin) harsh alertness with scatterbrain. Is this a state of dissociation? I probably don't recommend it. (Despite starting with the letter T, this is a potentiator because it doesn't do much without a euphoriant.)
 
@@ -169,6 +167,13 @@ There is likely cross-tolerance because both substances are [CB1](https://en.wik
 The *munchies* refer to a sharp increase in appetite that can make food seem irresistibly delicious. CBD causes this food-craving phenomenon. For H4CBD, the effect is most pronounced during the comedown period, when its effects resemble those of standard CBD. For the appetite-stimulating effect to occur, CBD must comprise more than 50% of a given blend's total CBD-like potentiators. For example, a blend containing Δ8-THC, CBD, and CBN in a 4:1:1 ratio does not increase appetite because the CBD concentration is too low (only 50%).
 
 Some users report an appetite-suppressing effect with certain cannabis blends. Is this for real? I think blends are either appetite-neutral or cause food cravings. None of the blends I've tried noticeably suppress appetite.
+
+### Admixtures
+
+These single compounds work like a combination of euphoriant and potentiators. You could use them alone or in combination a blend.
+
+- Δ9-THC-B (Δ9-tetrahydrocannabutol) feels like THC+CBN+CBT but with intimate vulnerability. You could describe it as mildly euphoric. It's stimulating in a way suitable for dancing more than studying. There is some mild short-term memory impairment. Taken alone, there is a risk of mild anxiety. Unlike Δ10-THC, it doesn't override blends. It's effects seem roughly additive. In terms of potency, 4mg Δ8-THC ≈ 1mg Δ9-THC-B. Trip time is about 4-5 hours from ingestion. 🤙🏼
+- Δ9-THC-H (tetrahydrocannabihexol) resembles THC+CBT+CBG but with super heavy cognitive impairment. The feebleminded concentration resembles [salvia divinorum]({{< relref "salvia" >}}), but with more emotional comfort. I imagine the phenomenology resembles Alzheimer's disease! It's definitely not suitable for a work blend. Anxiety does not feel like a big risk. Trip time is about 7-8 hours from ingestion. 🤷
 
 ## Blends
 
@@ -618,6 +623,7 @@ Here's how I think about designing recipes. You look at each pie chart separatel
 | Δ9-THC-B:CBC:H4CBD 4:1:1 | Dosage 12.5mg Δ9-THC-B. Much better than without CBC. Pleasant, but not as ebullient as the more complex recipe. |
 | Δ8-THC:CBN:CBD 4:1:1 + CBN-P | Dosage 25mg THC. Wait 4 hours and then 8mg CBN-P. (I didn't exactly plan this properly. It was an accidental experiment.) THC:CBN-P dominated the relax blend. Not good for sleep. |
 | Δ10-THC:CBN:CBx 7:1:1 + CBN-P | I took Δ10-THC at 8:30am and CBN-P at 3:30pm. This was long enough (6 hours) that CBN-P wasn't affected by Δ10-THC. |
+| Δ8-THC:CBN:H4CBD:CBC + Δ9-THC-B | Dosage 12.5mg THC + 3mg THC-B. The two seemed pretty evenly matched, but the experience lacked effusive openness. It didn't feel bad, but not amazing either. Maybe there is a threshold effect where THC-B needs to slightly dominate the blend to get the beautiful extreme vulnerability? |
 
 ### Agenda
 

@@ -27,7 +27,7 @@ Combine all ingredients in a blender (doesn't need to be high-speed–we're not 
 - ½ tsp onion powder
 - 1/4 tea black pepper
 
-This batter has more grip than a gecko wearing climbing shoes–it eagerly sticks to pans unless you use enough oil to create your own personal oil slick. But fear not! Avoid the mess by pouring the batter into a covered glass container and letting the microwave work its magic.
+Unfortunately, microwave cooking does not work because the steam gets sealed into the egg as it cooks, leading to uneven heat distribution. WIP
 
 Sprinkle with paprika and black pepper to taste.
 
