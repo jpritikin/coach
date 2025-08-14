@@ -172,7 +172,7 @@ Some users report an appetite-suppressing effect with certain cannabis blends. I
 
 These single compounds work like a combination of euphoriant and potentiators. You could use them alone or in combination a blend.
 
-- Δ9-THC-B (Δ9-tetrahydrocannabutol) feels like THC+CBN+CBT but with intimate vulnerability. You could describe it as mildly euphoric. It's stimulating in a way suitable for dancing more than studying. There is some mild short-term memory impairment. Taken alone, there is a risk of mild anxiety. Unlike Δ10-THC, it doesn't override blends. It's effects seem roughly additive. In terms of potency, 4mg Δ8-THC ≈ 1mg Δ9-THC-B. Trip time is about 4-5 hours from ingestion. 🤙🏼
+- Δ9-THC-B (Δ9-tetrahydrocannabutol) feels like THC+CBN+CBT but with intimate vulnerability. You could describe it as mildly euphoric. It's stimulating in a way suitable for dancing more than studying. There is some mild short-term memory impairment. Taken alone, there is a risk of mild anxiety. Unlike Δ10-THC, it doesn't override blends. It's effects seem roughly additive. In terms of potency, 3mg Δ8-THC ≈ 1mg Δ9-THC-B. Trip time is about 4-5 hours from ingestion. 🤙🏼
 - Δ9-THC-H (tetrahydrocannabihexol) resembles THC+CBT+CBG but with super heavy cognitive impairment. The feebleminded concentration resembles [salvia divinorum]({{< relref "salvia" >}}), but with more emotional comfort. I imagine the phenomenology resembles Alzheimer's disease! It's definitely not suitable for a work blend. Anxiety does not feel like a big risk. Trip time is about 7-8 hours from ingestion. 🤷
 
 ## Blends
@@ -197,7 +197,7 @@ Also, tolerance can be different for different components of a blend. So energy 
 | ΔX-THC:CBN:CBD Y:1:1 | Mildly psychoactive, mostly just ordinary relaxation. **Underwelming in a good way.** [See details.]({{< relref "relax" >}}) 🤙🏼 |
 | Δ8-THC:CBN:CBx 6:2:1 | **Super Fucking High** ♥️ CBx is one of CBC, CBDV, CBT. 🚀 Reference dose is 25mg Δ8-THC. |
 | Δ8-THC:CBN:H4CBD:CBC 10:3:1:1 | **Brahman** ♥️ Perfect complement to Daime. Reference dose is 50mg Δ8-THC, but I'd only use about half that when pairing with Daime. 🤙🏼 |
-| (Δ8-THC:CBN:H4CBD:CBC 10:3:1:1):Δ9-THC-B 4:1 | **Intimate vulnerability resembling pre-orgasm** ♥️ Gotta figure out the best ratio. TBD 🤙🏼 |
+| (Δ8-THC:CBN:H4CBD:CBC 10:3:1:1):Δ9-THC-B 3:1 | **Intimate vulnerability resembling pre-orgasm** ♥️ 🤙🏼 |
 | CBN-P 4mg + kanna | Can be used **daily** for sleep. 😴 🌛 [See details.]({{< relref "sleep" >}}) 🤙🏼 |
 | Δ10-THC:CBN:CBx 7:1:1 | **Superhuman focus** work blend. CBx is CBC or CBT. CBC is confidently blissful (yang). CBT is smooth and receptive (yin). Reference dose is 67mg Δ10-THC. 🤙🏼 |
 
@@ -618,18 +618,19 @@ Here's how I think about designing recipes. You look at each pie chart separatel
 | Δ8-THC:CBN:CBx + Δ9-THC-H 8mg | Δ9-THC-H was much stronger than expected. It dominated the 25mg THC. 👎🏼 |
 | Δ8-THC:CBN:H4CBD:CBC + Δ8-THC:CBN:CBDV 1:1 | Good combo, but CBDV not a great choice. Probably better to use CBC for both blends. 🤔 |
 | Δ8-THC:CBN:H4CBD:CBC + Δ9-THC-B | Dosage 12.5mg THC + 4.1mg THC-B. OMG, this is a marvelous combo. It resembles the moment before an orgasm. Maybe less THC-B would balance the blend better? 🤙🏼🤙🏼🤙🏼 |
-| Δ8-THC:CBN:H4CBD:CBC + Δ9-THC-B | Dosage 19mg THC + 2mg THC-B. This was subthreshold for Δ9-THC-B. 🤔 It is likely that 12mg THC is balanced by 2-3mg Δ9-THC-B. |
+| Δ8-THC:CBN:H4CBD:CBC + Δ9-THC-B | Dosage 19mg THC + 2mg THC-B. This was subthreshold for Δ9-THC-B. 🤔 |
 | Δ9-THC-B:H4CBD 4:1 | Dosage 8mg Δ9-THC-B. Pleasant, but not as ebullient as the more complex recipe. Probably needs CBC. At least H4CBD completely eliminated Δ9-THC-B's mild anxiety. This dosage was pretty mild. Maybe there is a synergistic effect between Δ8-THC and Δ9-THC-B? |
 | Δ9-THC-B:CBC:H4CBD 4:1:1 | Dosage 12.5mg Δ9-THC-B. Much better than without CBC. Pleasant, but not as ebullient as the more complex recipe. |
 | Δ8-THC:CBN:CBD 4:1:1 + CBN-P | Dosage 25mg THC. Wait 4 hours and then 8mg CBN-P. (I didn't exactly plan this properly. It was an accidental experiment.) THC:CBN-P dominated the relax blend. Not good for sleep. |
 | Δ10-THC:CBN:CBx 7:1:1 + CBN-P | I took Δ10-THC at 8:30am and CBN-P at 3:30pm. This was long enough (6 hours) that CBN-P wasn't affected by Δ10-THC. |
 | Δ8-THC:CBN:H4CBD:CBC + Δ9-THC-B | Dosage 12.5mg THC + 3mg THC-B. The two seemed pretty evenly matched, but the experience lacked effusive openness. It didn't feel bad, but not amazing either. Maybe there is a threshold effect where THC-B needs to slightly dominate the blend to get the beautiful extreme vulnerability? |
+| Δ8-THC:CBN:H4CBD:CBC + Δ9-THC-B | Dosage 12.5mg THC + 5mg THC-B. Slightly ebullient, but nowhere near as beautiful as 4mg THC-B. This one is too blissful. Looks like 3:1 is the best ratio. |
+| Δ8-THC:CBN:H4CBD:CBC + Δ9-THC-B | Dosage 12.5mg THC + 4mg THC-B. Wanted to try this again to confirm that it really is extraordinary. Yup, it is. If I hadn't accidentally found it, I probably wouldn't have thought to look given other mediocre Δ9-THC-B experiments. It's probably worth exploring finetunes of the 30:10 ratio. |
 
 ### Agenda
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ8-THC:CBN:H4CBD:CBC + Δ9-THC-B | Explore ratio |
 | Δ8-THC:CBN:CBx + Δ9-THC-B | Could be interesting |
 | Δ10-THC:CBN:CBC 50:10:10 | Trial different CBN:CBC ratio |
 | Δ10-THC:CBN:CBC:CBT 50:15:4:4 | Both CBC and CBT? |
