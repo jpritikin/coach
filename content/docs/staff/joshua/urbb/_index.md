@@ -83,9 +83,8 @@ const tocData = [
     { level: 3, title: "Ethical Stance", hasExcerpt: "" },
     { level: 3, title: "Constraint-Release", hasExcerpt: "" },
     { level: 2, title: "History", hasExcerpt: "" },
-    { level: 2, title: "Methodological Note", hasExcerpt: "" },
     { level: 2, title: "Mental Injury", hasExcerpt: "injury" },
-    { level: 2, title: "How to Use This Reference", hasExcerpt: "" },
+    { level: 2, title: "House Rules", hasExcerpt: "" },
     { level: 2, title: "Parts", hasExcerpt: "" },
     { level: 3, title: "Theory", hasExcerpt: "" },
     { level: 3, title: "Axioms", hasExcerpt: "" },
@@ -338,7 +337,7 @@ const tocData = [
     { level: 4, title: "Compared to Improv", hasExcerpt: "" },
     { level: 3, title: "Conclusion", hasExcerpt: "" },
     { level: 2, title: "Review", hasExcerpt: "" },
-    { level: 1, title: "Epilogue", hasExcerpt: "" },
+    { level: 1, title: "Exit Through the Gift Shop", hasExcerpt: "" },
     { level: 2, title: "An Awkward Ending", hasExcerpt: "" },
     { level: 2, title: "Terrified", hasExcerpt: "" },
     { level: 2, title: "Apology to Carse", hasExcerpt: "" },
@@ -350,7 +349,7 @@ const tocData = [
     { level: 3, title: "The Fire Mysteries", hasExcerpt: "" },
     { level: 3, title: "Communion", hasExcerpt: "" },
     { level: 3, title: "Caught Red-Handed", hasExcerpt: "" },
-    { level: 2, title: "The First Biannual Way of Open Inquiry International Conference", hasExcerpt: "" }
+    { level: 2, title: "The First Biannual Way of Open Inquiry International Conference", hasExcerpt: "" },
 ];
 
 // Group the data by chapters
