@@ -15,7 +15,7 @@ bookHidden: true
 
 In his groundbreaking new book, Joshua Pritikin explores the provocative idea that belief systems obstruct authentic religious experience. Building on James Carse's foundational work, "The Way" takes this premise to its logical conclusion, offering a methodical investigation into what religion might look like when freed from the constraints of belief.
 
-Pritikin masterfully integrates diverse traditions—from ancient shamanic practices to contemporary psychological frameworks like Internal Family Systems therapy—to create a practical roadmap for direct religious experience. The book guides readers through meditation techniques, community ceremonies, and altered states of consciousness while maintaining a critical stance toward intermediaries who claim special access to religious truth. "The Way" invites readers to step beyond dogma into a more authentic engagement with life's profound mysteries.
+Pritikin masterfully integrates diverse traditions—from ancient shamanic practices to contemporary psychological frameworks like Internal Family Systems therapy—to create a practical roadmap for direct religious experience. The book guides readers through meditation techniques, altered states of consciousness, and community ceremonies while maintaining a critical stance toward intermediaries who claim special access to religious truth. "The Way" invites readers to step beyond dogma into a more authentic engagement with life's profound mysteries.
 
 <div class="toc-container">
   <div class="toc-mobile-toggle">
@@ -157,7 +157,6 @@ const tocData = [
     { level: 2, title: "Unwelcome Guests", hasExcerpt: "" },
     { level: 3, title: "Eviction Protocols", hasExcerpt: "" },
     { level: 3, title: "IFS", hasExcerpt: "" },
-    { level: 3, title: "Extended Example", hasExcerpt: "" },
     { level: 2, title: "Alternatives to Death", hasExcerpt: "" },
     { level: 2, title: "Review", hasExcerpt: "" },
     { level: 1, title: "States of Consciousness", hasExcerpt: "" },
@@ -263,6 +262,7 @@ const tocData = [
     { level: 2, title: "Ethical Failings", hasExcerpt: "" },
     { level: 2, title: "Human Sacrifice", hasExcerpt: "" },
     { level: 2, title: "Skeptic's Prayer", hasExcerpt: "" },
+    { level: 3, title: "Finding the Right Words", hasExcerpt: "" },
     { level: 3, title: "Taxonomy", hasExcerpt: "" },
     { level: 4, title: "Form and Content", hasExcerpt: "" },
     { level: 4, title: "Motive", hasExcerpt: "" },
@@ -335,7 +335,7 @@ const tocData = [
     { level: 3, title: "Spirit Guide Channeling", hasExcerpt: "" },
     { level: 4, title: "Séance", hasExcerpt: "" },
     { level: 4, title: "Compared to Improv", hasExcerpt: "" },
-    { level: 3, title: "Conclusion", hasExcerpt: "" },
+    { level: 2, title: "Conclusion", hasExcerpt: "" },
     { level: 2, title: "Review", hasExcerpt: "" },
     { level: 1, title: "Exit Through the Gift Shop", hasExcerpt: "" },
     { level: 2, title: "An Awkward Ending", hasExcerpt: "" },
@@ -350,6 +350,7 @@ const tocData = [
     { level: 3, title: "Communion", hasExcerpt: "" },
     { level: 3, title: "Caught Red-Handed", hasExcerpt: "" },
     { level: 2, title: "The First Biannual Way of Open Inquiry International Conference", hasExcerpt: "" },
+    { level: 2, title: "Review", hasExcerpt: "" },
 ];
 
 // Group the data by chapters
