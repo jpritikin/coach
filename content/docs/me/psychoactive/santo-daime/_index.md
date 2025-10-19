@@ -183,9 +183,10 @@ Continue chewing the ginger thoroughly and swallow it. Beyond masking the taste,
 ### Cannabis
 
 There is some precedent for the use of cannabis in the Santo Daime tradition.[^macrae1998]
-If desired, I suggest ingesting 20mg of [Δ8-THC]({{< relref "cannabis" >}}) about two hours before the work commences.
-This low dose may help ease the experience during the first serving of Daime.
-As a bonus, cannabis is also an antiemetic.
+
+NOTE: Daime is best experienced without cannabis. Cannabis constrains the effects of Daime and may invite more nausea. The guidance below is intended specifically for newcomers to ease their first few experiences.
+
+For those new to Daime who feel they need additional support, ingest 20mg of [Δ8-THC]({{< relref "cannabis" >}}) about two hours before the work commences. This low dose may help ease the experience during the first serving of Daime. After a few works, you can explore working with Daime on its own to experience its full depth and clarity.
 
 ### Baptism 🌊
 
@@ -232,10 +233,9 @@ When I attend a work, I expect to transcend the turmoil and reach the serene hei
 
 ### Sleep 😴
 
-Some report that Daime interferes with sleep.
-[Cannabinphorol (CBN-P)]({{< relref "sleep" >}}) works pretty well. Try double your usual dose.
-If that's not enough, try layering on Kava.
-Let me know if you figure out a better solution.
+Some report that Daime interferes with sleep. Exhibit A right here. 🙋
+
+[Cannabinphorol (CBN-P)]({{< relref "sleep" >}}) works pretty well. If that's not enough, try layering on Kava. Let me know if you figure out a better solution.
 
 ### Status
 

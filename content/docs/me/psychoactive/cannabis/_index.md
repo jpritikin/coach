@@ -626,6 +626,7 @@ Here's how I think about designing recipes. You look at each pie chart separatel
 | Δ8-THC:CBN:H4CBD:CBC + Δ9-THC-B | Dosage 12.5mg THC + 3mg THC-B. The two seemed pretty evenly matched, but the experience lacked effusive openness. It didn't feel bad, but not amazing either. Maybe there is a threshold effect where THC-B needs to slightly dominate the blend to get the beautiful extreme vulnerability? |
 | Δ8-THC:CBN:H4CBD:CBC + Δ9-THC-B | Dosage 12.5mg THC + 5mg THC-B. Slightly ebullient, but nowhere near as beautiful as 4mg THC-B. This one is too blissful. Looks like 3:1 is the best ratio. |
 | Δ8-THC:CBN:H4CBD:CBC + Δ9-THC-B | Dosage 12.5mg THC + 4mg THC-B. Wanted to try this again to confirm that it really is extraordinary. Yup, it is. If I hadn't accidentally found it, I probably wouldn't have thought to look given other mediocre Δ9-THC-B experiments. It's probably worth exploring finetunes of the 30:10 ratio. |
+| CBN-P:H4CBD 4:3 | Interesting! Similar to relax blend, but H4CBD dominates the comedown in an uncomfortable way. |
 
 ### Agenda
 
