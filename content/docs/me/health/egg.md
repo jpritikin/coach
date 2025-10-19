@@ -16,7 +16,7 @@ Pro tip: You can keep this uncooked egg batter covered in the fridge for up to 7
 
 Combine all ingredients in a blender (doesn't need to be high-speed–we're not training for the Blender Olympics here):
 
-- 1 cup split yellow mung beans/moong dal/yellow lentils, soaked overnight
+- 1 cup split yellow mung beans/moong dal/yellow lentils, soaked overnight (if you don't soak, add 1/2 cup water)
 - 1 cup unsweetened soy milk (or 2 table cashew + 1 cup water)
 - 3 table nutritional yeast
 - 1 ¼ tsp baking powder
@@ -28,6 +28,8 @@ Combine all ingredients in a blender (doesn't need to be high-speed–we're not 
 - 1/4 tea black pepper
 
 This batter has more grip than a gecko wearing climbing shoes–it eagerly sticks to pans unless you use enough oil to create your own personal oil slick. But fear not! Avoid the mess by pouring the batter into a covered glass container and letting the microwave work its magic.
+
+Experiment with adding less water. It seems to cook easier and sticks less with less water.
 
 Sprinkle with paprika and black pepper to taste.
 
