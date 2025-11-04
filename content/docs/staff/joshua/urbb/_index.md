@@ -13,9 +13,9 @@ bookHidden: true
 
 <div style="display: inline-block; background-color: #ff9800; color: white; padding: 5px 15px; border-radius: 20px; font-weight: bold; margin-bottom: 20px;">Coming soon!</div>
 
-In his groundbreaking new book, Joshua Pritikin explores the provocative idea that belief systems obstruct authentic religious experience. Building on James Carse's foundational work, "The Way" takes this premise to its logical conclusion, offering a methodical investigation into what religion might look like when freed from the constraints of belief.
+In his groundbreaking new book, Joshua Pritikin explores the provocative idea that belief systems obstruct authentic religious experience. Building on James Carse's foundational work, "Unburdened" takes this premise to its logical conclusion, offering a methodical investigation into what religion might look like when freed from the constraints of belief.
 
-Pritikin masterfully integrates diverse traditions—from ancient shamanic practices to contemporary psychological frameworks like Internal Family Systems therapy—to create a practical roadmap for direct religious experience. The book guides readers through meditation techniques, altered states of consciousness, and community ceremonies while maintaining a critical stance toward intermediaries who claim special access to religious truth. "The Way" invites readers to step beyond dogma into a more authentic engagement with life's profound mysteries.
+Pritikin integrates diverse traditions—from ancient shamanic practices to contemporary psychological frameworks like Internal Family Systems therapy—to create a practical roadmap for direct religious experience. The book guides readers through meditation techniques, altered states of consciousness, and community ceremonies while maintaining a critical stance toward intermediaries who claim special access to religious truth. "Unburdened" invites readers to step beyond dogma into a more authentic engagement with life's profound mysteries.
 
 <div class="toc-container">
   <div class="toc-mobile-toggle">
