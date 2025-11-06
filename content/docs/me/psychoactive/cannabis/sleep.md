@@ -4,44 +4,70 @@ bookToc: true
 weight: 30
 ---
 
-# The Cannabinol Family
+# The Quest for Sleep
 
-## Introduction
+## Holy Grail
+
+An ideal psychoactive sleep aid would have several characteristics:
+
+**Rapid onset with appropriate duration**: It should work quickly (15-30 minutes) to help initiate sleep, but last long enough to maintain sleep through the night without causing next-day drowsiness or "hangover" effects. Ideally, it would have a half-life of 6-8 hours.
+
+**Selective mechanism of action**: The drug should specifically target sleep-wake systems without broadly suppressing brain activity. It would ideally enhance natural sleep architecture rather than simply sedating.
+
+**Preservation of sleep stages**: Unlike many current medications, it shouldn't suppress REM sleep or deep slow-wave sleep, which are crucial for memory consolidation, restoration, and overall sleep quality.
+
+**Minimal side effects**: Low risk of dizziness, cognitive impairment, or other adverse effects during nighttime awakenings or the following day.
+
+**Low dependence potential**: It shouldn't cause physical dependence, tolerance (requiring escalating doses), or withdrawal symptoms, making it safe for regular use when needed.
+
+**Wide therapeutic window**: A large margin between effective and toxic doses, with minimal risk of dangerous interactions with other medications or alcohol.
+
+**No rebound insomnia**: Stopping the medication shouldn't worsen sleep beyond baseline levels.
+
+**Predictable metabolism**: Consistent effects across different individuals without significant variation based on genetics, age, or other factors.
+
+**Doesn't impair memory or complex behaviors**: No risk of parasomnia (sleepwalking, sleep-eating) or anterograde amnesia.
+
+## Cannabinol Family
 
 [![CBN](cannabinol.webp)](https://en.wikipedia.org/wiki/Cannabinol)
 
 Cannabinol is available in three flavors: cannabinol (CBN), acetylated cannabinol (CBN-O), and cannabinphorol (CBN-P).
 The cannabinol family (without other cannabinoids) is recommmended for sleep.[^bonn-miller2024][^kolobaric2024]
-For sedation and analgesia, cannabinol can be used **daily** (seemingly there is no tolerance).
 There is little cross-tolerance with THC.
 
-It's probably safer than hypnotics?[^kripke2012]
+### As a Sleep Aid
 
-## Flavors
+![Phenomenology](phenomenology.svg)
+{.center}
 
-The subjective experience is sedation, relaxation, pain relief, and reduced thinking. CBN-P offers a tranquil, stable anchor of activation. It grabs and holds the attention. CBN or CBN-O offer a faint fizzy cloud of activation. They do not the grab the attention firmly. CBN-O is more 2-3 times more potent than CBN.
+The subjective experience is sedation, relaxation, and reduced thinking. CBN-O is 2-3 times stronger than CBN. CBN/CBN-O feel similar adjusting for potency. CBN-P feels stronger than CBN/CBN-O even after adjusting for potency.
 
-There is a dose threshold phenomenon. Once you reach the threshold dose of maximum intensity, additional substance only extends the duration rather than intensifying effects. The compound's effects persist into waking only when doses exceed certain thresholds.
+**Rapid onset with appropriate duration**: 4mg CBN-P or 50mg CBN-O have an 8 hour duration. 8mg CBN-P or 150mg CBN-O or more have a 12 hour duration. The duration is not a problem because you can take it earlier in the evening (e.g., 3:30pm). You can easily stay awake until bedtime; it is does not force you asleep.
 
-| Which | Full Intensity | Persists Past Waking |
-| ----- | -------------- | ----------------  |
-| CBN | 150mg | 0.5-1g |
-| CBN-O | 50mg | 125-200mg |
-| CBN-P | 4mg | 8mg |
+**Selective mechanism of action**: Largely unstudied.[^arnold2025]
 
-If you expect stubborn insomnia, take double your usual dose 3-4 hours earlier than you would otherwise. I'd hesitate to take much more than 8mg CBN-P because it can start to feel too alert, not conducive to sleep.
+**Preservation of sleep stages**: Largely unstudied.[^arnold2025]
 
-## In Blends
+**Minimal side effects**: I haven't noticed any effects the following day. Even during peak effects, cognitive impairment is mild.
 
-Counterintuitively, when paired with THC, CBN and CBN-O are 1:1 interchangable with indistinguishable phenomenology.
-The difference in potency only applies when CBN/CBN-O is used *without* THC.
-So what is CBN-O good for?
+**Low dependence potential**: I haven't noticed any tolerance or withdrawal symptoms.
 
-## Intensifying the Effect
+**Wide therapeutic window**: No idea. I wouldn't want to take more than 12mg. At 12mg, the effects are similar to the alertness of THCV without the scatterbrain dissociation. This dose can actually keep you awake and alert during an evening drive.
 
-The effect of CBN-P can be attenuated by a big dinner. That's where [kanna]({{< relref "kanna" >}}) can help. Kanna and CBN-P can work synergistically. A good analogy is archery. CBN-P aims and kanna releases the arrow.
+**No rebound insomnia**: Unstudied.
 
-Administer kanna 1-3 hours after taking CBN-P. Kanna isn't as potent as THC or psilocybin, but the big advantage is that it lacks a tolerance effect for daily use.
+**Predictable metabolism**: Unstudied.
+
+**Doesn't impair memory or complex behaviors**: I haven't noticed anything concerning.
+
+It's probably safer than conventional hypnotics?[^kripke2012]
+
+### Intensifying the Effect
+
+The effect of CBN can be attenuated by a big dinner. That's where [kanna]({{< relref "kanna" >}}) can help. Kanna and CBN can work synergistically. A good analogy is archery. CBN aims and kanna releases the arrow.
+
+Administer kanna 1-3 hours after taking CBN. Kanna isn't as potent as THC or psilocybin, but the big advantage is that it lacks a tolerance effect for daily use.
 
 {{% hint danger %}}
 Dose kanna cautiously! If you take too much, even a relaxing, low mesembrine blend is going to feel uncomfortably stimulating. 🤦
@@ -53,6 +79,12 @@ You shouldn't need kanna immediately after using daime since both substances hav
 Given potential drug interactions between daime and kanna, consult with someone knowledgeable about these substances before combining them, as the interaction profile and appropriate timing isn't well-established.
 {{% /hint %}}
 
+### Combining with THC
+
+When paired with THC, CBN and CBN-O are 1:1 interchangable with indistinguishable phenomenology. Counterintuitively, the CBN/CBN-O potency difference only applies when is used *without* THC. So what is CBN-O good for?
+
+I once combined CBN-P with THC by mistake. The combination makes you feel uncomfortably super-alert. It's not good for sleep. I'm not sure if it's good for anything. It's too much.
+
 ## Notes
 
 [^bonn-miller2024]: Bonn-Miller, M. O., Feldner, M. T., Bynion, T. M., Eglit, G. M. L., Brunstetter, M., Kalaba, M., Zvorsky, I., Peters, E. N., & Hennesy, M. (2024). A double-blind, randomized, placebo-controlled study of the safety and effects of CBN with and without CBD on sleep quality. *Experimental and clinical psychopharmacology, 32*(3), 277–284.
@@ -60,3 +92,5 @@ Given potential drug interactions between daime and kanna, consult with someone 
 [^kolobaric2024]: Kolobaric, A., Saleska, J., Hewlings, S. J., Bryant, C., Colwell, C. S., D'Adamo, C. R., Chen, J., & Pauli, E. K. (2024). A Randomized, Double-Blind, Placebo-Controlled Trial to Assess the Effectiveness and Safety of Melatonin and Three Formulations of Floraworks Proprietary TruCBN™ for Improving Sleep. *Pharmaceuticals (Basel, Switzerland), 17*(8), 977.
 
 [^kripke2012]: Kripke, D. F., Langer, R. D., & Kline, L. E. (2012). Hypnotics' association with mortality or cancer: a matched cohort study. *BMJ Open, 2*(1), e000850.
+
+[^arnold2025]: Arnold, J. C., Occelli Hanbury-Brown, C. V., Anderson, L. L., Bedoya-Pérez, M. A., Udoh, M., Sharman, L. A., Raymond, J. S., Doohan, P. T., Ametovski, A., & McGregor, I. S. (2025). A sleepy cannabis constituent: cannabinol and its active metabolite influence sleep architecture in rats. Neuropsychopharmacology, 50(3), 586–595.
