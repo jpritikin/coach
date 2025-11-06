@@ -87,6 +87,7 @@ Make rapid progress with an intensive. Reach out to schedule eight or more hours
 | Date | Description |
 |------|-------------|
 | ? | [IFS Approved Clinical Counsultant](https://ifs-institute.com/trainings/ifs-certification/approved-clinical-consultants) -- Not yet! |
+| 2026 Apr | IFS Level 3 (registration completed) |
 | 2025 Apr | Program Assistant Development Workshop |
 | 2024 Jul | [IFS Certified Practitioner]({{< relref "certification" >}}) |
 | 2024 Feb | IFS and Past Lives with Bob Falconer |
