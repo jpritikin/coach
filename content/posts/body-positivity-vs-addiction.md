@@ -141,7 +141,7 @@ sequenceDiagram
     b->>e: If Alice and I could help the part that is in<br/>pain, would you be interested in that?
     e->>b: Sure, that would be great. If that part felt<br/>better than I wouldn't need to eat so much ice cream.
     b->>a: Can you thank the ice cream eating<br/>part for giving us permission to<br/>help the part holding the pain?
-    a->>e: *Graditude* 💞
+    a->>e: *Gratitude* 💞
     Note over e: You're welcome.
     b->>a: Do you have any other<br/>parts watching the<br/>part holding the pain?
     a->>b: Yeah, I have a suicidal part.

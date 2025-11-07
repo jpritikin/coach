@@ -21,7 +21,7 @@ In IFS we simply see DSM diagnoses as various ways of describing the behaviors o
 
 Here is an IFS perspective on several diagnoses that are often given to traumatized individuals before (or in lieu of, or in addition to) receiving one of the more specifically trauma related diagnoses listed above.
 
-- **Borderline personality discorder**: This diagnosis offers a portrait of the consecutive blending of exiles (desperate young parts, internally shunned, longing for rescue and redemption) and protectors, most notoriously (though not exclusively) the ones who forbid the risks of intimacy and the ones who believe that dying is the only way to end emotional pain.
+- **Borderline personality disorder**: This diagnosis offers a portrait of the consecutive blending of exiles (desperate young parts, internally shunned, longing for rescue and redemption) and protectors, most notoriously (though not exclusively) the ones who forbid the risks of intimacy and the ones who believe that dying is the only way to end emotional pain.
 - **Narcissistic personality disorder**: This diagnosis shows the efforts of a hard-working protector as it holds up a gilded self-portrait as a shield against the arrows of shaming – mostly inner shaming in response to feelings of inadequacy.
 - **Depression**: Mood disorders are heritable but not all post-trauma depression is evidence of a genetically-based mood disorder. Since depression suppresses the body’s emotional signals, deadening physical and emotional experiencing in a paralyzing (if excruciating) way, a protector who amplifies depression generally aims to inhibit while an exile who feels depressed is being inhibited.
   - To assess the client’s situation, we ask: “Is this a part of you who feels depressed (exile) or a protective part who is using or magnifying depression for a reason?” *The only way to discover the function of any part you encounter is to ask.*
@@ -35,7 +35,7 @@ Here is an IFS perspective on several diagnoses that are often given to traumati
 ### Addictive disorders:
 
 - **Drugs or alcohol**: The reactive protector who uses a drug or alcohol to distract from emotional pain can also settle into being a proactive protector who uses them to avoid feeling anything at all. This addict part is not a lone actor but is an actor in an inner dynamic.
-  - Cykes (2016) elucidates the IFS perspective: “Rather than defining addiction as the behavior of one acting-out part, I define it as a systemic, cyclical process that is characterized by a power struggle between two teams of protective parts, each valiantly struggling to maintain a balanced inner system. One team is critical and judging, the other impulsive and compulsive. Their chronic, escalating struggle is intended to block… emotional pain.” (p. 47)
+  - Sykes (2016) elucidates the IFS perspective: "Rather than defining addiction as the behavior of one acting-out part, I define it as a systemic, cyclical process that is characterized by a power struggle between two teams of protective parts, each valiantly struggling to maintain a balanced inner system. One team is critical and judging, the other impulsive and compulsive. Their chronic, escalating struggle is intended to block… emotional pain." (p. 47)
 - **Eating disorders**: ED’s illustrate a protector polarity, with excess on one side and inhibition on the other.
   - **Bulimia** illustrates both sides of this polarity.
   - **Anorexia** illustrates inhibition in the driver’s seat.

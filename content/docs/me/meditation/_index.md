@@ -92,7 +92,7 @@ The best time to practice meditation is 4:30 to 9:00 (am and pm) in your local t
 | before sleep | [ice on the liver]({{< relref "liver"  >}}) | 15 min |
 
 {{% details "Take cayenne pepper 🌶️ capsules 💊 with meals." %}}
-- Use 300-600mg per day. Capsaicin acts as a relaxing analgesic for [TRPV1](https://en.wikipedia.org/wiki/TRPV1) in the colin.[^bortolotti2011]
+- Use 300-600mg per day. Capsaicin acts as a relaxing analgesic for [TRPV1](https://en.wikipedia.org/wiki/TRPV1) in the colon.[^bortolotti2011]
 - Serotonin is one of the main neurotransmitters involved in both meditation and psychedelics.[^serotonin2017] Serotonin receptors are widely expressed within the gastrointestinal tract.[^mawe2013] (This is suggestive of some kind of causal relationships.)
 - You might take cayenne with morning tea.[^morré2003]
 - Avoid cayenne pepper on an empty stomach 🧨🔥.

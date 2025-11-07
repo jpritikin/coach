@@ -8,7 +8,7 @@ menu = "main"
 bookToc = false
 +++
 
-Just when you thought that science and spirituality were hopelessly irreconcilable, cogntive psychologist Donald Hoffman proposes a very interesting perspective.
+Just when you thought that science and spirituality were hopelessly irreconcilable, cognitive psychologist Donald Hoffman proposes a very interesting perspective.
 
 <--->
 

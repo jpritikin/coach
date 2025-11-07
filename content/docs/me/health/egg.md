@@ -29,7 +29,7 @@ Combine all ingredients in a blender (doesn't need to be high-speed–we're not 
 
 This batter has more grip than a gecko wearing climbing shoes–it eagerly sticks to pans unless you use enough oil to create your own personal oil slick. But fear not! Avoid the mess by pouring the batter into a covered glass container and letting the microwave work its magic.
 
-Experiment with adding less water. It seems to cook easier and sticks less with less water.
+Experiment with adding less water. It seems to cook easier and stick less when using less moisture.
 
 Sprinkle with paprika and black pepper to taste.
 

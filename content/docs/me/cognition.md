@@ -1,5 +1,5 @@
 ---
-ntitle: Cognition
+title: Cognition
 bookToc: false
 weight: 23
 ---

@@ -6,10 +6,10 @@ bookToc: false
 
 # Exercise
 
-Exercise is important for physical and mental health.  For people who
+Exercise is important for physical and mental health. For people who
 have already settled on favorite activities, such as golf or figure
 skating, keep it up. There is no special reason that you need to
-change.  However, not everybody already has strong activity
+change. However, not everybody already has strong activity
 preferences. The question that we try to answer here is:
 
 {{% hint info %}}

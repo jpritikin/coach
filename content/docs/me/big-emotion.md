@@ -84,7 +84,7 @@ However, I encourage broader ambition.
 More enjoyment might be available by exploiting synergies between areas than would be possible when limited to fewer areas.
 I challenge you to explore and integrate as many areas as possible.
 
-You may like to track your progress using the [MEQ30](https://docs.google.com/spreadsheets/d/1FgfFzXTX4WuKf9SteO7sJjqNEweErZFeQ_juTUbCcQM/edit#gid=0).[^barrett2015] I don't regard this self-report questionaire as a perfect measure of big emotion, but it's not a bad proxy.
+You may like to track your progress using the [MEQ30](https://docs.google.com/spreadsheets/d/1FgfFzXTX4WuKf9SteO7sJjqNEweErZFeQ_juTUbCcQM/edit#gid=0).[^barrett2015] I don't regard this self-report questionnaire as a perfect measure of big emotion, but it's not a bad proxy.
 
 ## Notes
 

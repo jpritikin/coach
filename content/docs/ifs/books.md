@@ -40,6 +40,6 @@ These are the books that I feel are practice focused, actually teach you how to 
 
 ## Why no books on Intimacy from the Inside Out (IFIO)?
 
-IFIO is amazing, but in my opinion, has not been well systematized.
+IFIO is amazing but, in my opinion, has not been well systematized.
 The best way to learn IFIO is to take trainings and receive consultation from experienced trainers.
 The books are not useless, but are woefully incomplete.

@@ -14,7 +14,7 @@ bookCollapseSection: false
 2. IFS groups offer the collective, felt experience of Self-energy.
 3. IFS groups offer observable correlations and real-time experiences between the identification of Parts and the individual's behavior.
 4. IFS groups offer an opportunity for individuals to see their Parts as universally natural and part of being human.
-5. IFS groups help foster natural accountability by supporting the inherent motivation and of the individual's internal system toward health, wholeness, harmony, and purpose.
+5. IFS groups help foster natural accountability by supporting the inherent motivation of the individual's internal system toward health, wholeness, harmony, and purpose.
 
 Copied from Burris, 2022, p. 13
 

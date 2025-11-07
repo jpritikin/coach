@@ -13,9 +13,9 @@ This one tastes **exactly** like the classic Kraft mac & cheese.
 
 Double recipe (makes about 4 cups dry powder):
 
-- 2 cup Cashews
+- 2 cups Cashews
 - 1 cup Nutritional Yeast
-- 1/2 C. Oat Flour == 2/3 c rolled oats
+- 1/2 C. Oat Flour == 2/3 C. rolled oats
 - 1/2 C. Tapioca Flour
 - 2 table Paprika
 - 2 table + 1 tea Date Sugar
@@ -27,7 +27,7 @@ Single recipe (makes about 2 cups dry powder):
 
 - 1 C. Cashews
 - 1/2 cup Nutritional Yeast
-- ¼ C. Oat Flour == 1/3 c rolled oats
+- ¼ C. Oat Flour == 1/3 C. rolled oats
 - ¼ C. Tapioca Flour
 - 1 table Paprika
 - 1 table + 1/2 tea Date Sugar

@@ -17,7 +17,7 @@ Credit: Midjourney
 
 We offer a serene and confidential environment to talk about matters of the heart. 💖
 
-Our goal is to help you reprocess your psychological pain and suffering in a way that releases any detrimental limits for love, contentment, and positive self-concept (🤪 and 😬 → 😇).
+Our goal is to help you reprocess your psychological pain and suffering in a way that releases any detrimental limits on love, contentment, and positive self-concept (🤪 and 😬 → 😇).
 
 We use **Internal Family Systems** (IFS). IFS is an [evidence-based](https://www.foundationifs.org/research/empirical-evidence) and [trauma-informed](https://www.verywellmind.com/trauma-informed-therapy-definition-and-techniques-5209445) model. ![IFS](/images/ifs-logo.webp)
 

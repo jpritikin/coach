@@ -15,7 +15,7 @@ Do [foot soaking]({{< relref "foot-soak" >}}) but with ice-cold water.
 Don't combine this with [withdrawal of the senses]({{< relref "senses" >}})
 because you should use all of your attention to relax your
 feet. Use ample ice because it's easier to relax when the water is at
-lower a temperature.[^carney2020]
+a lower temperature.[^carney2020]
 
 Effective for Restless Legs Syndrome.
 

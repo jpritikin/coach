@@ -36,7 +36,7 @@ I know nothing about terpenes.
 
 ### Fellow Travelers
 
-[Cannabinoids with Turkey](https://www.cannabinoidswithturkey.com/) 🦃 -- This guy has an ahead start of 10 year on me. Page numbers given below reference:
+[Cannabinoids with Turkey](https://www.cannabinoidswithturkey.com/) 🦃 -- This guy has a head start of 10 years on me. Page numbers given below reference:
 - Turkey. (2024). *The Classical Cannabinoid Consumers Guide (2024 Edition): Everything you need to know about cannabinoids in terms you can understand.* Independently published.
     
 ### Social Sommelier Terpene Tastemaker
