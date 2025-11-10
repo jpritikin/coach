@@ -4,9 +4,9 @@ bookToc: true
 weight: 30
 ---
 
-# The Quest for Sleep
+# Quest for Sleep
 
-## Holy Grail
+## The Holy Grail
 
 An ideal psychoactive sleep aid would have several characteristics:
 
