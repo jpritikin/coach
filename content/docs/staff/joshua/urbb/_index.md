@@ -416,18 +416,7 @@ chapterElements[index].classList.add('toc-active');
     headingElement.id = 'toc-current-chapter';
     headingElement.textContent = chapter.title;
     sectionsContainer.appendChild(headingElement);
-    
-    // Add chapter itself as a link if it has an excerpt
-    if (chapter.hasExcerpt) {
-const chapterTitleElement = document.createElement('div');
-chapterTitleElement.className = 'toc-section-item toc-section-level-0 toc-has-excerpt';
-chapterTitleElement.textContent = chapter.title;
-chapterTitleElement.addEventListener('click', function() {
-    window.location.href = chapter.hasExcerpt;
-});
-sectionsContainer.appendChild(chapterTitleElement);
-    }
-    
+
     // Add all sections
     chapter.sections.forEach(section => {
 const sectionElement = document.createElement('div');
@@ -436,13 +425,6 @@ sectionElement.className = `toc-section-item toc-section-level-${section.level -
 const titleElement = document.createElement('p');
 titleElement.className = 'toc-section-title';
 titleElement.textContent = section.title;
-
-if (section.hasExcerpt) {
-    titleElement.classList.add('toc-has-excerpt');
-    titleElement.addEventListener('click', function() {
-window.location.href = section.hasExcerpt;
-    });
-}
 
 sectionElement.appendChild(titleElement);
 sectionsContainer.appendChild(sectionElement);
