@@ -92,7 +92,7 @@ Carse distinguishes between boundaries (which limit thought) and horizons (which
 
 On complex issues like immigration, international trade, or urban crime, Trump offers certainty rather than nuance. His solutions are presented as straightforward and absolute: imposing tariffs, building defenses, or enforcing harsher penalties. There's little recognition that these issues might contain contradictions or paradoxes that defy simple solutions.
 
-**What horizon-thinking might look like:** A leader embracing horizons might say: "We need diverse voices at the table because the best solutions often come from unexpected places. No single perspective—including my own—captures the full complexity of issues like immigration or crime. Our policies should create space for experimentation and revision as we learn more. This could include supporting journalism through programs like [Seattle's Democracy Vouchers](https://www.seattle.gov/democracyvoucher/about-the-program), where citizens direct public funds to media they value, ensuring a wider range of perspectives shapes our national conversation."
+**What horizon-thinking might look like:** A leader embracing horizons might say: "We need diverse voices at the table because the best solutions often come from unexpected places. No single perspective—including my own—captures the full complexity of issues like immigration or crime. Our policies should create space for experimentation and revision as we learn more. This could include supporting journalism through programs like Seattle's Democracy Vouchers, where citizens direct public funds to media they value, ensuring a wider range of perspectives shapes our national conversation."
 
 ## Civitas Over Communitas
 

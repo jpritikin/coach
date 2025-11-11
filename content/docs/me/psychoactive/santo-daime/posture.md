@@ -180,7 +180,7 @@ Compare with some artistic renditions:
 
 | sitting(-ish) | standing |
 |---|---|
-| [![Lance Brown](LanceBrown1.webp)](https://www.paintedchrist.com/painted-christ-speed-painting-store/jesus-christ-praying-garden-of-gethsemane) | ![Woman](woman-202304.webp) |
+| [![Lance Brown](LanceBrown1.webp)](https://www.artpal.com/lancebrown) | ![Woman](woman-202304.webp) |
 
 The man (left) is a speed painting by Lance Brown. 🤩
 The woman (right) is a photo of artwork from the Ashland OR salão.
