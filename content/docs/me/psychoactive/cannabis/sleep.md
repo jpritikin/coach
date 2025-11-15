@@ -32,7 +32,7 @@ An ideal psychoactive sleep aid would have several characteristics:
 
 [![CBN](cannabinol.webp)](https://en.wikipedia.org/wiki/Cannabinol)
 
-Cannabinol is available in three flavors: cannabinol (CBN), acetylated cannabinol (CBN-O), and cannabinphorol (CBN-P).
+Cannabinol is available in three flavors: cannabinol (CBN), acetylated cannabinol (CBN-O), and cannabiphorol (CBN-P).
 The cannabinol family (without other cannabinoids) is recommmended for sleep.[^bonn-miller2024][^kolobaric2024]
 There is little cross-tolerance with THC.
 
