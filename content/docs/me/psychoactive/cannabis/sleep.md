@@ -32,7 +32,7 @@ An ideal psychoactive sleep aid would have several characteristics:
 
 [![CBN](cannabinol.webp)](https://en.wikipedia.org/wiki/Cannabinol)
 
-Cannabinol is available in three flavors: cannabinol (CBN), acetylated cannabinol (CBN-O), and cannabiphorol (CBN-P).
+Cannabinol is available in three flavors: cannabinol (CBN), acetylated cannabinol (CBN-O), and cannabiphorol (CBN-P).[^cbnp-name]
 The cannabinol family (without other cannabinoids) is recommmended for sleep.[^bonn-miller2024][^kolobaric2024]
 There is little cross-tolerance with THC.
 
@@ -94,3 +94,5 @@ I once combined CBN-P with THC by mistake. The combination makes you feel uncomf
 [^kripke2012]: Kripke, D. F., Langer, R. D., & Kline, L. E. (2012). Hypnotics' association with mortality or cancer: a matched cohort study. *BMJ Open, 2*(1), e000850.
 
 [^arnold2025]: Arnold, J. C., Occelli Hanbury-Brown, C. V., Anderson, L. L., Bedoya-Pérez, M. A., Udoh, M., Sharman, L. A., Raymond, J. S., Doohan, P. T., Ametovski, A., & McGregor, I. S. (2025). A sleepy cannabis constituent: cannabinol and its active metabolite influence sleep architecture in rats. Neuropsychopharmacology, 50(3), 586–595.
+
+[^cbnp-name]: There is some naming confusion around this compound in commercial and online sources. The correct chemical name is **Cannabiphorol** (without the "n"), also known as CBN-C7 or CBN-Heptyl ([CAS: 55824-14-1](https://pubchem.ncbi.nlm.nih.gov/compound/44308781)). Some vendors and articles incorrectly refer to it as "Cannabinphorol" (with an "n" between "cannabi" and "phorol"), but this appears to be a misspelling or marketing variation. Both terms refer to the same molecule: the heptyl homolog of cannabinol (CBN), which has a 7-carbon alkyl side chain instead of [the typical 5-carbon chain](https://pubchem.ncbi.nlm.nih.gov/compound/2543).
