@@ -46,6 +46,7 @@ Nuclear power is a great idea if you believe we can avoid [Murphy's law](https:/
 - https://beyondnuclear.org/
 - https://www.nirs.org/
 - https://nuclearhotseat.com/
+- [My father's brother's wife is a victim.](https://kansaspress.ku.edu/9780700629046/)
 
 ## Environment
 
