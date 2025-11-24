@@ -8,6 +8,19 @@ menu = "main"
 
 # LuaLaTeX Footnote Maze
 
+## UPDATE: Footnote-Aware Page Breaking
+
+After initial publication, I discovered that breakable tcolorbox environments weren't accounting for accumulated footnote height when calculating page breaks. This caused boxes to overflow pages when footnotes were present.
+
+The solution patches tcolorbox's internal page height calculation (`tcb@comp@h@page`) to subtract accumulated footnote height:
+
+- Added `\MFS@notes@height` dimension to track total footnote height
+- Updated after each footnote save to reflect current accumulated height
+- Patched `tcb@comp@h@page` to reduce available page height by footnote height plus skip
+- Reset height tracking when footnotes are output
+
+This ensures breakable boxes reserve appropriate space for footnotes, preventing page overflow.
+
 ## Introduction
 
 The prospect of typesetting my book in LaTeX filled me with dread. Sure, I could have used Microsoft Word or hired a professional. But I wanted exacting typography control that only do-it-yourself LaTeX offers. The problem? Despite decades of programming in C++ and Perl, LaTeX has always been my nemesis.

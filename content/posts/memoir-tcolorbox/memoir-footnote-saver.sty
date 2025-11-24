@@ -24,10 +24,11 @@
 % Storage for saved footnotes
 \newbox\MFS@notes
 \newdimen\MFS@width
+\newdimen\MFS@notes@height % Track accumulated footnote height for tcolorbox
 \newif\ifMFS@savingnotes
 \newif\ifMFS@globalmode % New flag for global save mode
 
-% Track column width  
+% Track column width
 \let\MFS@colwidth\columnwidth
 
 % Storage for footnote counter state
@@ -269,6 +270,9 @@
         \box0
         \penalty0
     }%
+    % Update accumulated height for tcolorbox break calculation
+    \global\MFS@notes@height=\ht\MFS@notes
+    \MFS@debug{Accumulated footnote height: \the\MFS@notes@height}%
 }
 
 % Save notes mode (for tcolorbox)
@@ -278,24 +282,25 @@
         \MFS@debug{Already in save mode}%
     \else
         \global\MFS@savingnotestrue
-        
+
         % Save counter values
         \MFS@footnote@count=\c@footnote
         \MFS@mpfootnote@count=\c@mpfootnote
-        
+
         % Initialize storage
         \MFS@width\columnwidth
         \let\MFS@colwidth\MFS@width
         \global\setbox\MFS@notes\box\voidb@x
-        
+        \global\MFS@notes@height=0pt % Reset accumulated footnote height
+
         % Save minipage state
         \let\MFS@thempfn\thempfn
         \let\MFS@mpfn\@mpfn
-        
+
         % Force main footnote counter
         \def\@mpfn{footnote}%
         \let\thempfn\thefootnote
-        
+
         \MFS@debug{Save mode activated}%
     \fi
 }
@@ -305,18 +310,18 @@
     \MFS@debug{<<< RESTORENOTES called}%
     \ifMFS@savingnotes
         \global\MFS@savingnotesfalse
-        
-        % Restore minipage state  
+
+        % Restore minipage state
         \let\thempfn\MFS@thempfn
         \let\@mpfn\MFS@mpfn
-        
+
         % Restore counters
         \c@footnote=\MFS@footnote@count
         \c@mpfootnote=\MFS@mpfootnote@count
-        
+
         \MFS@debug{Save mode deactivated}%
     \fi
-    
+
     % Output saved notes
     \ifvoid\MFS@notes
         \MFS@debug{No notes to output}%
@@ -324,6 +329,8 @@
         \MFS@debug{Outputting saved notes to footinsv@r}%
         \insert\footinsv@r{\unvbox\MFS@notes}%
     \fi
+    % Reset accumulated height
+    \global\MFS@notes@height=0pt
 }
 
 % ============================================================================
@@ -336,6 +343,20 @@
         \tcbset{%
             before upper={\MFS@savenotes},
             after={\MFS@restorenotes}
+        }%
+        % Patch tcb@comp@h@page to account for accumulated footnote height
+        % This ensures breakable boxes reserve space for footnotes
+        \@ifundefined{tcb@comp@h@page}{}{%
+            \MFS@debug{Patching tcb@comp@h@page for footnote awareness}%
+            \let\MFS@orig@tcb@comp@h@page\tcb@comp@h@page
+            \def\tcb@comp@h@page{%
+                \MFS@orig@tcb@comp@h@page
+                % Subtract accumulated footnote height from available page height
+                \ifdim\MFS@notes@height>0pt\relax
+                    \tcbdimto\tcb@h@page{\tcb@h@page-\MFS@notes@height-\skip\footinsv@r}%
+                    \MFS@debug{Reduced tcb@h@page by \the\MFS@notes@height\space for footnotes}%
+                \fi
+            }%
         }%
         \MFS@debug{tcolorbox configured}%
     }{%
