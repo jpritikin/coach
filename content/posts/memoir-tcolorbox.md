@@ -8,7 +8,21 @@ menu = "main"
 
 # LuaLaTeX Footnote Maze
 
-## UPDATE: Footnote-Aware Page Breaking
+## UPDATE 2025-12-04: Sidebar Footnote Collision Problem
+
+Testing revealed a critical issue: when a sidebar with footnotes barely fits on a page, the footnotes can collide with the sidebar content. The sidebar itself fits, but the combination of sidebar plus footnotes exceeds available space, causing collisions with page content and page numbers.
+
+The problem occurs regardless of sidebar length. Tests with varying sidebar sizes—from compact to extended—all demonstrated collisions when the total height (sidebar + footnotes) was just over the page limit.
+
+The root cause: tcolorbox's page break calculation doesn't properly account for footnote space when deciding whether to break the sidebar across pages. A sidebar that should break to accommodate its footnotes instead remains on a single page, causing overflow.
+
+**Test cases**: See [test-sidebar-footnotes.tex](test-sidebar-footnotes.tex) which systematically tests sidebars of varying lengths, all with approximately 1/3 page of footnotes. Tests 3, 7, and 8 demonstrated clear collisions, confirming the problem occurs across different sidebar lengths when the combined height barely exceeds the page.
+
+**Current mitigation**: The package now defaults to `reserve footnote space=false`. Single-page sidebars that would overflow with their footnotes must be manually marked with `reserve footnote space=true`. This forces proper space reservation but requires manual identification of problematic sidebars.
+
+**Limitations**: Requires manual intervention to identify and mark sidebars that need footnote space reservation. Automatic detection would be preferable but is not currently implemented.
+
+## UPDATE 2025-09-01: Footnote-Aware Page Breaking
 
 After initial publication, I discovered that breakable tcolorbox environments weren't accounting for accumulated footnote height when calculating page breaks. This caused boxes to overflow pages when footnotes were present.
 
@@ -19,7 +33,7 @@ The solution patches tcolorbox's internal page height calculation (`tcb@comp@h@p
 - Patched `tcb@comp@h@page` to reduce available page height by footnote height plus skip
 - Reset height tracking when footnotes are output
 
-This ensures breakable boxes reserve appropriate space for footnotes, preventing page overflow.
+This initial solution worked for the first page but not for all edge cases (see 2025-12-04 update).
 
 ## Introduction
 
@@ -158,7 +172,7 @@ Maintaining correct footnote numbering required careful management of both `foot
 
 ## The Complete Package
 
-The final [memoir-footnote-saver.sty](memoir-footnote-saver.sty) package:
+The final [memoir-tcolorbox.sty](memoir-tcolorbox.sty) package:
 - Processes all footnotes through a unified system for consistent hyperref support
 - Formats all footnotes using memoir's paragraph style
 - Saves and restores footnotes from tcolorbox environments correctly
@@ -184,7 +198,7 @@ For anyone facing the same issue, here's how to use the solution:
 ```latex
 \documentclass[12pt]{memoir}
 \usepackage{hyperref}
-\usepackage{memoir-footnote-saver}  % Our custom package
+\usepackage{memoir-tcolorbox}  % Our custom package
 \usepackage{tcolorbox}
 \paragraphfootnotes
 

@@ -1,9 +1,9 @@
-% memoir-footnote-saver.sty
+% memoir-tcolorbox.sty
 % Forces ALL footnotes to use main footnote numbering and paragraph formatting
 % Complete rewrite based on footnotehyper but adapted for memoir paragraph footnotes
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesPackage{memoir-footnote-saver}[2024/01/01 v3.0 Memoir paragraph footnote fix with full hyperref]
+\ProvidesPackage{memoir-tcolorbox}[2024/01/01 v3.0 Memoir paragraph footnote fix with full hyperref]
 
 % Use etoolbox for robust patching
 \RequirePackage{etoolbox}
@@ -18,7 +18,7 @@
 
 % Only works with memoir
 \@ifclassloaded{memoir}{}{%
-  \PackageError{memoir-footnote-saver}{This package requires the memoir class}{}%
+  \PackageError{memoir-tcolorbox}{This package requires the memoir class}{}%
 }
 
 % Storage for saved footnotes
@@ -38,6 +38,10 @@
 % Track hyperref state
 \newif\ifMFS@hyperref
 \newif\ifMFS@hyperfootnotes
+
+% Flag to control footnote space reservation
+\newif\ifMFS@reserve@space
+\MFS@reserve@spacefalse % default: do not reserve space
 
 \AtBeginDocument{%
     \MFS@debug{=== MFS Setup Starting ===}%
@@ -342,7 +346,8 @@
         \MFS@debug{Configuring tcolorbox integration}%
         \tcbset{%
             before upper={\MFS@savenotes},
-            after={\MFS@restorenotes}
+            after={\MFS@restorenotes},
+            reserve footnote space/.is if=MFS@reserve@space,
         }%
         % Patch tcb@comp@h@page to account for accumulated footnote height
         % This ensures breakable boxes reserve space for footnotes
@@ -351,10 +356,12 @@
             \let\MFS@orig@tcb@comp@h@page\tcb@comp@h@page
             \def\tcb@comp@h@page{%
                 \MFS@orig@tcb@comp@h@page
-                % Subtract accumulated footnote height from available page height
-                \ifdim\MFS@notes@height>0pt\relax
-                    \tcbdimto\tcb@h@page{\tcb@h@page-\MFS@notes@height-\skip\footinsv@r}%
-                    \MFS@debug{Reduced tcb@h@page by \the\MFS@notes@height\space for footnotes}%
+                % Only reserve space if flag is enabled
+                \ifMFS@reserve@space
+                    \ifdim\MFS@notes@height>0pt\relax
+                        \tcbdimto\tcb@h@page{\tcb@h@page-\MFS@notes@height-\skip\footinsv@r}%
+                        \MFS@debug{Reduced tcb@h@page by \the\MFS@notes@height\space for footnotes}%
+                    \fi
                 \fi
             }%
         }%
