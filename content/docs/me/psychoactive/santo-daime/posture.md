@@ -8,28 +8,32 @@ draft: false
 
 ## Introduction
 
-Among many other effects, sensitivity to posture and gesture are
-greatly enhanced by [5-HT2A receptor agonists]({{< relref "psychoactive" >}}#serotonin) such as daime.[^garrison2016]
-I have made some study of static poses that align with
-the current of reverence. 🔬 Before detailing my findings,
+Among many other effects, sensitivity to posture and gesture are greatly enhanced by [5-HT2A receptor agonists]({{< relref "psychoactive" >}}#serotonin) such as daime.[^garrison2016]
+I have made some study of reverent static poses. 🔬 Before detailing my findings,
 I want to emphasize that I have not made an exhaustive search.
-There may be other postures and gestures worth exploring. Furthermore,
-I have not studied dynamic poses
-(e.g., mimicking the flapping and soaring of eagle wings with your arms 🪽).
-The postures listed here are intended as static poses
-to be held steadily for a few minutes at a time.
-The reason that this article is under [*Santo Daime*](https://maps.org/news/bulletin/psychedelic-parenthood-a-new-ancestral-way/) and not a generic *Postures and Gestures* page
-is because these poses have much greater significance when implemented
-by a whole group of people simultaneously in careful coordination.
-Posing solo is a bit self-indulgent.
+There may be other postures and gestures worth exploring. Furthermore, I have not studied dynamic poses (e.g., mimicking the flapping and soaring of eagle wings with your arms 🪽).
+The postures listed here are intended as static poses like the regular two-handed namaskar gesture.
 
-### Precedent
+Santo Daime's central discipline, called "firmness," requires participants to resist Daime's inward pull by maintaining external connection with the group throughout the ceremony. Firmness is assessed through strict physical composure. Crossing arms or legs, swaying to music outside designated dance steps, repetitive hand movements, and unusual facial expressions signal a loss of firmness. The aesthetic emphasizes sober-like behavior and group conformity. Brief reverent gestures already occur during works, though elaborate individual postural expression remains discouraged.
 
-See *How to Stand* from the Saint Michael work, p. 39-40.
-Why this gesture and not some other?
-What is the significance of this gesture?
-Unfortunately no rationale is given.
-About all we can gather from this passage is acknowledgment that posture is important.
+Why not incorporate more diverse postures? The tradition already acknowledges posture's importance. The Saint Michael work prescribes a specific hand shape (p. 39-40) without explaining its rationale. Greater diversity of coordinated expectations can actually strengthen firmness by demanding more vigilant attention to shifting requirements. For example, [Linha Do Tucum](https://nossairmandade.com/hymn/59/LinhaDoTucum) and [Estou Aqui](https://nossairmandade.com/hymn/301/EstouAqui) alternate between march and waltz. These tricky hymns are  a more rigorous test of firmness than hymns with consistent dance steps.
+
+I do not, however, advocate for uniform complexification of ceremonial norms. Adding complexity for its own sake would merely substitute one form of rigidity for another. The postures catalogued below are my artistic proposal. I break down each gesture component-wise, analyzing how wrist rotation, spine extension, and palm direction shape the flow of reverence through the body.
+
+What matters is whether these reverent gestures merit liturgical inclusion. These postures derive their significance entirely from collective implementation. This page does not advocate for individual expression, but rather proposes additions to Santo Daime's shared ceremonial vocabulary. I invite the community to evaluate and potentially adopt these new collective forms together.
+
+## Personal Guidelines
+
+The following observations emerge from my own experimentation with postures during works.
+
+### Current of Reverence
+
+The analogy that I am trying to invoke is with electrical current
+or water flowing through a pipe. 🌊 Here, the substance that is
+flowing is *reverence*, and with enough Daime,
+it feels almost tangible. Just as with electricity or water,
+there is a direction of flow. You receive reverence,
+it flows through you, and then you can direct it away from you.
 
 ### Crossings
 
@@ -39,37 +43,17 @@ Wrist crossings are fine, but not crossed arms.
 Similarly, ankle crossings are fine, but not knee or ankle/knee crossings.
 I do not see any problem with standing on one leg, from a crossing perspective.
 
-### Multitasking
-
-I have tried to do both at the same time, holding a pose while singing hymns.
-It seems like too much to keep track of except for the most trivial cases.
-Probably the best chance for serious posing is when not singing or during a pause in hymns.
-
-### Doubts?
-
-Maybe you read through this page and you're skeptical.
-Drink more daime. 🍵
-
-## Current of Reverence
-
-The analogy that I am trying to invoke is with electrical current
-or water flowing through a pipe. 🌊 Here, the substance that is
-flowing is *reverence*, and with enough Daime,
-it feels almost tangible. Just as with electricity or water,
-there is a direction of flow. You receive reverence,
-it flows through you, and then you can direct it away from you.
-
 ### Key 🗝️
 
 {{% columns %}}
 
 ![yes](yes.webp)
-correct, energetically enlivening
+reverent
 
 <--->
 
 ![no](no.webp)
-incorrect, dull
+profane
 
 {{% /columns %}}
 
@@ -249,11 +233,14 @@ Two people together assembling the Añjali Mudrā with one hand each is the gest
 
 - Wrist and pinky extension
 - Palm facing perpendicular to the center of the salão
+- Spine extension
 
 Variation: This posture is great for dancing works, but it can also be used when standing in non-dancing works.
 If you face the center while your body is turned 90 degrees off center then you can also incorporate spine extension and hold the book in such a way as to obtain wrist extension (c.f., Holding a Flower).
 It would look super cool if the whole congregation could coordinate on this stance, including the direction of the 90 degree turn.
 We could flip orientations (chest facing left or right) between verses or hymns!
+
+Warning: Do not attempt if you have a rotator cuff injury.
 
 ### Pose: Hands with opposite twist
 
