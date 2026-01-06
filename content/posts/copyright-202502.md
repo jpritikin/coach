@@ -14,7 +14,7 @@ The landscape of academic publishing and information access has transformed with
 advent of artificial intelligence. Institutional policies remain rooted in an outdated
 paradigm. Recent developments highlight this disconnect: major AI companies are
 training language models on vast collections of academic literature and books.
-As reported in January 2025, both American and foreign companies are using bulk text collections.[^copyright]
+Since at least January 2025, both American and foreign companies are using bulk text collections.
 This technological revolution in how knowledge is processed and utilized demands a fresh
 examination of our approach to academic access. While I fully support protecting
 intellectual property rights and compensating creators fairly, the current system
@@ -56,5 +56,3 @@ prepare our students for the realities of modern research and academic work.
 The university has an opportunity to be at the forefront of this important discussion
 about how academic institutions can better fulfill their educational mission while
 navigating the challenges of information access in the digital age.
-
-[^copyright]: https://annas-archive.org/blog/ai-copyright.html
