@@ -632,11 +632,13 @@ Here's how I think about designing recipes. You look at each pie chart separatel
 | Δ8-THC:CBN:CBD 4:1:1 + 1g PEA | Dosage 18mg THC. PEA dominated. I didn't feel any trace of the relax blend. |
 | Δ9-THC-O:CBN:CBD 9:5:5 | The combo with CBN:CBD probably wasn't ideal. Δ9-THC-O feels like halfway between Δ8-THC and Δ10-THC. Boosted mental clarity with mild short term memory impairment. |
 | Δ10-THC:CBN:CBx 25mg + Δ9-THC-O 9mg | THC-O seemed like a really great complement to this blend. It seemed to add a soothing trance aspect. Mild cognitive impairment. Gotta try double the dose to know for sure. |
+| Δ10-THC:CBN:CBx 50mg + Δ9-THC-O 18mg | Great combo. I'm wondering if the CBN:CBx is doing anything (maybe not?). Cognitive impairment remains pretty mild. Only 1-2 hours of couchlock. Beautiful emotion feels like being a lightbulb. 🤙🏼 |
 
 ### Agenda
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
+| Δ8-THC:CBN:CBx 6:2:1 + Δ9-THC-O | Δ9-THC-O may smooth out the experience? |
 | Δ10-THC:CBN:CBx + Δ9-THC-O | Interesting |
 | Δ8-THC:CBN:CBx + Δ9-THC-B | Gotta explore ratios |
 | Δ10-THC:CBN:CBC 50:10:10 | Trial different CBN:CBC ratio |
