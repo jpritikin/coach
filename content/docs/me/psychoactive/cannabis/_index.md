@@ -173,7 +173,7 @@ Some users report an appetite-suppressing effect with certain cannabis blends. I
 These single compounds work like a combination of euphoriant and potentiators. You could use them alone or in combination a blend.
 
 - Δ9-THC-B (Δ9-tetrahydrocannabutol) feels like THC+CBN+CBT but with intimate vulnerability. You could describe it as mildly euphoric. It's stimulating in a way suitable for dancing more than studying. There is some mild short-term memory impairment. Taken alone, there is a risk of mild anxiety. Unlike Δ10-THC, it doesn't override blends. It's effects seem roughly additive. In terms of potency, 3mg Δ8-THC ≈ 1mg Δ9-THC-B. Trip time is about 4-5 hours from ingestion. 🤙🏼
-- Δ9-THC-O (Δ9-Tetrahydrocannabinol acetate) seems to offer a clear trance similar to Δ10-THC. Mild cognitive impairment.
+- Δ9-THC-O (Δ9-Tetrahydrocannabinol acetate) seems to add a dreamy trance quality to blends. It's similar to CBDV, but for the head instead of the emotional center. It seems to attenuate the effects of a blend with a dreamy trance overlay that is soothing and calm. Can contribute to couchlock. Seems to complement any blend without taking over. It's effects seem roughly additive. 🤙🏼
 - PEA (palmitoylethanolamide) feels like a gentle hug with no discernable cognitive impairment. It might be useful as a work aid. Trip time is about 5-6 hours from ingestion. Come down is a bit rough. Maybe not as difficult as H4CBD, but it's no fun. 🤔
 - Δ9-THC-H (tetrahydrocannabihexol) resembles THC+CBT+CBG but with super heavy cognitive impairment. The feebleminded concentration resembles [salvia divinorum]({{< relref "salvia" >}}), but with more emotional comfort. I imagine the phenomenology resembles Alzheimer's disease! It's definitely not suitable for a work blend. Anxiety does not feel like a big risk. Trip time is about 7-8 hours from ingestion. 🤷
 
@@ -633,12 +633,12 @@ Here's how I think about designing recipes. You look at each pie chart separatel
 | Δ9-THC-O:CBN:CBD 9:5:5 | The combo with CBN:CBD probably wasn't ideal. Δ9-THC-O feels like halfway between Δ8-THC and Δ10-THC. Boosted mental clarity with mild short term memory impairment. |
 | Δ10-THC:CBN:CBx 25mg + Δ9-THC-O 9mg | THC-O seemed like a really great complement to this blend. It seemed to add a soothing trance aspect. Mild cognitive impairment. Gotta try double the dose to know for sure. |
 | Δ10-THC:CBN:CBx 50mg + Δ9-THC-O 18mg | Great combo. I'm wondering if the CBN:CBx is doing anything (maybe not?). Cognitive impairment remains pretty mild. Only 1-2 hours of couchlock. Beautiful emotion feels like being a lightbulb. 🤙🏼 |
+| Δ8-THC:CBN-O:CBDv 6:2:1 25mg + Δ9-THC-O 9mg | Very beautiful with heavy couchlock. 🤙🏼 |
 
 ### Agenda
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| Δ8-THC:CBN:CBx 6:2:1 + Δ9-THC-O | Δ9-THC-O may smooth out the experience? |
 | Δ10-THC:CBN:CBx + Δ9-THC-O | Interesting |
 | Δ8-THC:CBN:CBx + Δ9-THC-B | Gotta explore ratios |
 | Δ10-THC:CBN:CBC 50:10:10 | Trial different CBN:CBC ratio |
