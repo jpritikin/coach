@@ -13,7 +13,7 @@ bookCollapseSection: false
 
 ## Zoom link
 
-[![Zoom link](zoom.webp)](https://us06web.zoom.us/j/7756484053)
+[![Zoom link](zoom.webp)](https://us06web.zoom.us/j/82620650267)
 
 {{% /columns %}}
 
