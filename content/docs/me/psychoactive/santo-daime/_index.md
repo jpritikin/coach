@@ -49,14 +49,14 @@ It's a good idea to eat healthy food.
 Also, tyramine should be avoided due to potentially dangerous interactions.[^weiss2018]
 However, healthy eating and tyramine are not the only considerations.
 Vegans need to know that the pharmacodynamics of Daime are vividly affected by insoluble [fiber](/posts/fiber-is-not-fibrous/).
-Insoluble fiber buffers the force of the Daime.
+Insoluble fiber buffers the force of the Daime (my conjecture).
 Consequently, participants may feel little (mostly sober) for much of the time, followed by an overwhelmingly strong, brief burst of Daime after 1-2 hours.
 
 Foods high in insoluble fiber include pineapple.[^fiber]
 To set yourself up for success, here is a specific dietary recommendation.
 Take 1-2 tablespoon ground cayenne pepper with dinner on the evening prior to the event.
 This should take care of any insoluble fiber lingering in your intestines.
-On the day of, [cook a sweet potato]({{< relref "sweet-potato" >}}) and blend it with a small slice of fresh ginger.
+If you're not fasting, on the day of, [cook a sweet potato]({{< relref "sweet-potato" >}}) and blend it with a small slice of fresh ginger.
 Don't eat anything else.
 The sweet potato is about 50% soluble fiber and does not monkey with the pharmacodynamics of Daime.
 
@@ -153,33 +153,6 @@ Just say "no" to smudging. 🧯 🚭
 
 There is too much to say! [Visit here]({{< relref "posture" >}})
 
-### Ginger 🫚
-
-Some ayahuasca traditions regard purging as necessary and even powerful part of the healing process.
-Some even add emetic agents to the brew![^beyer2008]
-
-**Physical Cleansing**: Many traditions view purging as a crucial element of physical cleansing, eliminating negative energies, toxins, and blockages from the body, allowing for deeper spiritual and emotional healing.
-
-**Psychological Release**: Purging is often seen as a form of emotional catharsis, releasing pent-up emotions, traumas, and negativity, leading to deeper self-awareness and personal growth.
-
-**Spiritual Transformation**: In some traditions, purging is considered a symbolic death and rebirth experience, purging the "old self" to make way for spiritual transformation and renewal.
-
-While Santo Daime acknowledges the potential cleansing and cathartic effects of purging, it's not considered a central focus of the experience.
-If some traditions use an emetic, why not offer an optional antiemetic in Santo Daime?
-Why not make fresh ginger available?[^marx2015]
-Or pharmauasca?[^aicher2024]
-Or ondansetron (if not pregnant[^picot2020])?
-
-{{% details "Here's how I use ginger." %}}
-But before I present my protocol, we need to understand that nausea arises from two distinct sources: the immediate flavor of the tea and the subsequent digestive response. The bitter, often astringent taste of daime can trigger an immediate gag reflex. After swallowing, the alkaloids and other compounds may unsettle the stomach during digestion. Addressing nausea requires tackling both sources.
-
-Fresh ginger offers a natural, accessible solution. Keep a small piece in your pocket before arriving at the ceremony. As you approach the queue for daime service, discreetly take a bite and push the piece into the gap between your upper lip and gum. Keep the ginger there and focus on its spicy flavor as you approach the serving table. This helps soothe your taste receptors and prepares your palate for what's coming.
-
-When served the daime, drink it as you normally would. Mentally reassure your tongue that it only needs to tolerate the challenging flavor for a few brief seconds. The moment you finish swallowing, bite down on the ginger to release more juices and place it on your tongue. This quickly masks any lingering taste of the daime.
-
-Continue chewing the ginger thoroughly and swallow it. Beyond masking the taste, this delivers ginger's natural anti-emetic compounds to your stomach. There, they can help settle digestive upset and reduce the likelihood of purging.
-{{% /details %}}
-
 ### Cannabis
 
 There is some precedent for the use of cannabis in the Santo Daime tradition.[^macrae1998]
@@ -230,6 +203,29 @@ What's the point of that?
 Congregants can meditate as much as they want at home without daime.
 
 When I attend a work, I expect to transcend the turmoil and reach the serene heights, at least for one serving. So, I urge leaders: don't be stingy. 
+
+### After Ceremony Lentil Salad
+
+Ingredients:
+
+- 1/4 cup dry lentil
+- 2-3 table pecan
+- 1 tea italian spices
+- 1/4 tea black pepper
+- 700 mL of water
+- food-grade rosemary essential oil
+- food-grade peppermint (Mentha piperita) essential oil
+- quarter cup of white vinegar (5% acetic acid)
+
+Steps:
+
+1. Cook lentils in boiling water for 10-15 minutes. Drain.
+
+2. Toss the cooked lentils with 2 tablespoons pecans and 1 tablespoons Italian spices. Set aside.
+
+3. Dressing: Combine water, two drops of peppermint oil, and six drops of rosemary oil. (The batch size is way more than you need. You can sip this during the ceremony.)
+
+4. Dress and serve: Pour a few tablespoons of the dressing onto the lentil mix and toss to combine.
 
 ### Sleep 😴
 
