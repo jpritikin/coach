@@ -130,13 +130,13 @@ Make rapid progress with an intensive. Reach out to schedule eight or more hours
 
 {{% columns %}}
 
-In his groundbreaking new book, Joshua Pritikin explores the provocative idea that belief systems obstruct authentic religious experience. Building on James Carse's foundational work, "The Way" takes this premise to its logical conclusion, offering a methodical investigation into what religion might look like when freed from the constraints of belief.
+In his groundbreaking new book, Joshua Pritikin explores the provocative idea that belief systems obstruct authentic religious experience. Building on James Carse's foundational work, "Religion Unburdened by Belief" takes this premise to its logical conclusion, offering a methodical investigation into what religion might look like when freed from the constraints of belief.
 
-[Get notified]({{< relref "urbb" >}})
+[Available for preorder!](https://unburdened.biz/)
 
 <--->
 
-[![Pritikin 202X](the-way-small.webp)]({{< relref "urbb" >}})
+[![Pritikin 202X](the-way-small.webp)](https://unburdened.biz/)
 
 {{% /columns %}}
 
