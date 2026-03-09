@@ -1,18 +1,18 @@
 ---
-title: IFS Part Conversation
+title: Conversation
 type: docs
 bookToc: false
-weight: 5
+weight: 25
 ---
 
-# IFS Part Conversation
+# Conversation
 
 <details>
 <summary>How it works</summary>
 
 Two parts from the Alcohol Addiction scenario — **Shamer** and **Drinker** — are in an IFIO-style directed dialogue. The simulation runs in real time. Watch how stance, regulation, and trust evolve as the conversation progresses.
 
-The [IFIO](https://ifs-institute.com/trainings/ifio) conversation cycle has four steps per speaker turn:
+The IFIO conversation cycle has four steps per speaker turn:
 
 | Step | Speaker | Listener |
 |------|---------|----------|

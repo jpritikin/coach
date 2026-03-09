@@ -234,6 +234,15 @@ function logTrustChange(state: SimState, rel: InterPartRelation, before: number,
     });
 }
 
+// Returns [newSpeakerPhase, newListenerPhase] or null if no transition applies.
+export function nextPhases(phaseS: IfioPhase, phaseL: IfioPhase): [IfioPhase, IfioPhase] | null {
+    if (phaseS === 'speak'     && phaseL === 'listen')   return ['listen',   'mirror'];
+    if (phaseS === 'listen'    && phaseL === 'mirror')   return ['validate', 'listen'];
+    if (phaseS === 'validate'  && phaseL === 'listen')   return ['listen',   'empathize'];
+    if (phaseS === 'listen'    && phaseL === 'empathize') return ['listen',  'listen'];
+    return null;
+}
+
 function tryAdvancePhase(state: SimState): void {
     const { partA, partB, relAB, relBA, conversation } = state;
     const speakerId = conversation.speakerId;
@@ -243,22 +252,23 @@ function tryAdvancePhase(state: SimState): void {
     const relSL = speakerId === partA.id ? relAB : relBA;
     const relLS = speakerId === partA.id ? relBA : relAB;
 
+    const next = nextPhases(phaseS, phaseL);
+    if (!next) return;
+
     conversation.respondTimer = 0;
+    const [newPhaseS, newPhaseL] = next;
+    conversation.phases.set(speakerId, newPhaseS);
+    conversation.phases.set(listenerId, newPhaseL);
+
     if (phaseS === 'speak' && phaseL === 'listen') {
-        conversation.phases.set(speakerId, 'listen');
-        conversation.phases.set(listenerId, 'mirror');
         const before = relLS.trust;
         addInterPartTrust(relLS, 0.05 * (1 - relLS.trust));
         logTrustChange(state, relLS, before, listenerId, speakerId, 'mirroring');
     } else if (phaseS === 'listen' && phaseL === 'mirror') {
-        conversation.phases.set(speakerId, 'validate');
-        conversation.phases.set(listenerId, 'listen');
         const before = relSL.trust;
         addInterPartTrust(relSL, 0.05 * (1 - relSL.trust));
         logTrustChange(state, relSL, before, speakerId, listenerId, 'validating');
     } else if (phaseS === 'validate' && phaseL === 'listen') {
-        conversation.phases.set(speakerId, 'listen');
-        conversation.phases.set(listenerId, 'empathize');
         const before = relLS.trust;
         addInterPartTrust(relLS, 0.05 * (1 - relLS.trust));
         logTrustChange(state, relLS, before, listenerId, speakerId, 'empathizing');
@@ -270,8 +280,6 @@ function tryAdvancePhase(state: SimState): void {
         addInterPartTrust(relBA, gain);
         logTrustChange(state, relAB, beforeAB, partA.id, partB.id, 'cycle complete');
         logTrustChange(state, relBA, beforeBA, partB.id, partA.id, 'cycle complete');
-        conversation.phases.set(speakerId, 'listen');
-        conversation.phases.set(listenerId, 'listen');
         state.cyclesCompleted++;
     }
 }
@@ -338,11 +346,11 @@ export function lookaheadUtterance(state: SimState, maxLook = 8): [boolean, numb
             const phaseL = isA(ls.speakerId) ? ls.phaseB : ls.phaseA;
 
             // Mirror actual tick: listeningPart is who is passively listening
+            // speak/listen → listener; listen/mirror → speaker; validate/listen → listener; listen/empathize → speaker
+            const listenerIsSpeaker = (phaseS === 'listen' && (phaseL === 'mirror' || phaseL === 'empathize'));
+            const hasListeningPart = nextPhases(phaseS, phaseL) !== null;
             let listeningIsA: boolean | null = null;
-            if (phaseS === 'speak' && phaseL === 'listen') listeningIsA = !isA(ls.speakerId);
-            else if (phaseS === 'listen' && phaseL === 'mirror') listeningIsA = isA(ls.speakerId);
-            else if (phaseS === 'validate' && phaseL === 'listen') listeningIsA = !isA(ls.speakerId);
-            else if (phaseS === 'listen' && phaseL === 'empathize') listeningIsA = isA(ls.speakerId);
+            if (hasListeningPart) listeningIsA = listenerIsSpeaker ? isA(ls.speakerId) : !isA(ls.speakerId);
 
             if (listeningIsA !== null) {
                 const listeningStance = listeningIsA ? ls.stanceA : ls.stanceB;
@@ -555,138 +563,33 @@ export function tick(state: SimState, dt: number): void {
 export interface SetupValues {
     selfTrustA: number;
     selfTrustB: number;
-    stanceA: number;       // initial stance for Shamer (positive = dysregulated)
-    stanceB: number;       // initial stance for Drinker
-    flipOddsA: number;     // probability stance is flipped on init (0–1)
+    stanceA: number;
+    stanceB: number;
+    flipOddsA: number;
     flipOddsB: number;
 }
 
-export function createState(setup: SetupValues): SimState {
-    const partA: Part = { id: 'shamer', name: 'Shamer', selfTrust: setup.selfTrustA };
-    const partB: Part = { id: 'drinker', name: 'Drinker', selfTrust: setup.selfTrustB };
+export interface ScenarioConfig {
+    partA: Omit<Part, 'selfTrust'>;
+    partB: Omit<Part, 'selfTrust'>;
+    relAB: { trust: number; trustFloor: number; dialogues: ConversationDialogues };
+    relBA: { trust: number; trustFloor: number; dialogues: ConversationDialogues };
+}
+
+export function createState(setup: SetupValues, scenario: ScenarioConfig): SimState {
+    const partA: Part = { ...scenario.partA, selfTrust: setup.selfTrustA };
+    const partB: Part = { ...scenario.partB, selfTrust: setup.selfTrustB };
 
     const relAB: InterPartRelation = {
-        trust: 0.2, trustFloor: 0, stance: setup.stanceA, stanceFlipOdds: setup.flipOddsA,
-        dialogues: {
-            hostile: [
-                [
-                    "The Drinker is turning us into our parent.",
-                    "The Shamer thinks the Drinker is becoming our parent.",
-                    "Yes. The Drinker is doing exactly what our parent did.",
-                    "That lands hard. The Drinker doesn't want to hear it — but the Shamer is scared.",
-                ],
-                [
-                    "The Shamer won't let the Drinker have one moment of peace.",
-                    "The Drinker just wants the Shamer to back off.",
-                    "Every time the Drinker tries to rest, the Shamer is there attacking.",
-                    "The Drinker is exhausted by the Shamer. The Shamer hears that.",
-                ],
-            ],
-            guarded: [
-                [
-                    "The Shamer has seen where this road leads.",
-                    "The Shamer is worried about where the drinking is heading.",
-                    "Yes. The Shamer has watched it happen before — with our parent.",
-                    "The Drinker didn't realize the Shamer was carrying that too.",
-                ],
-                [
-                    "The Shamer is trying to protect us, not punish us.",
-                    "The Shamer wants to protect, not attack.",
-                    "Right. The Shamer just doesn't know how to do it without getting loud.",
-                    "The Drinker can see the Shamer is trying. That helps a little.",
-                ],
-            ],
-            opening: [
-                [
-                    "The Shamer is scared — not angry. Scared we'll end up like our parent.",
-                    "The Shamer is frightened, not just critical.",
-                    "Yes. The anger is on top. Underneath it the Shamer is terrified.",
-                    "The Drinker didn't know fear was driving this. That changes something.",
-                ],
-                [
-                    "The Shamer doesn't want to be the enemy. The Shamer wants us to survive.",
-                    "The Shamer wants to be on the Drinker's side.",
-                    "Exactly. The Shamer needs the Drinker to still be here.",
-                    "The Drinker wants that too. Maybe we've both been fighting the wrong battle.",
-                ],
-            ],
-            collaborative: [
-                [
-                    "What if the Shamer and the Drinker looked for another way together?",
-                    "The Shamer wants to find a different path — with the Drinker, not against.",
-                    "Yes. The Shamer is done fighting. The Shamer wants to problem-solve.",
-                    "The Drinker is in. Tell the Shamer what the Shamer needs from the Drinker.",
-                ],
-                [
-                    "The Shamer could warn us without attacking. Just a signal, not a verdict.",
-                    "The Shamer is offering to tone down — just flag the danger instead of condemning.",
-                    "Right. The Shamer can do that if the Drinker agrees to listen.",
-                    "The Drinker can try to listen. That feels like a real agreement.",
-                ],
-            ],
-        },
+        ...scenario.relAB,
+        stance: setup.stanceA,
+        stanceFlipOdds: setup.flipOddsA,
     };
 
     const relBA: InterPartRelation = {
-        trust: 0.2, trustFloor: 0, stance: setup.stanceB, stanceFlipOdds: setup.flipOddsB,
-        dialogues: {
-            hostile: [
-                [
-                    "Leave the Drinker alone.",
-                    "The Drinker wants to be left alone.",
-                    "Yes. The Shamer's constant lectures make everything worse.",
-                    "The Shamer hears that. The Drinker feels hounded.",
-                ],
-                [
-                    "The Shamer sounds just like our parent.",
-                    "The Drinker is saying the Shamer reminds the Drinker of our parent.",
-                    "Exactly. The same tone. The same contempt.",
-                    "That comparison stings. The Shamer doesn't want to be that.",
-                ],
-            ],
-            guarded: [
-                [
-                    "The Drinker is just trying to get through tonight.",
-                    "The Drinker needs to survive tonight — that's what this is about.",
-                    "Right. It's not about our parent. It's about right now.",
-                    "The Shamer can hear that. Tonight is hard.",
-                ],
-                [
-                    "The Shamer doesn't know how loud it gets inside.",
-                    "The Drinker is carrying a lot of noise the Shamer can't see.",
-                    "Yes. When it gets loud, drinking is the only thing that quiets it.",
-                    "The Shamer didn't know it was that loud. The Drinker is heard.",
-                ],
-            ],
-            opening: [
-                [
-                    "The Drinker doesn't actually want to drink.",
-                    "The Drinker is saying the drinking isn't really what the Drinker wants.",
-                    "Right. The Drinker just doesn't know what else to do with all of this.",
-                    "Then the Shamer has been blaming the Drinker for something the Drinker is also struggling with.",
-                ],
-                [
-                    "The Drinker learned this from our parent. The Drinker didn't choose it.",
-                    "The Drinker is saying this pattern was inherited, not chosen.",
-                    "Yes. The Drinker has been carrying what our parent left behind.",
-                    "That took courage to say. The Shamer sees the Drinker differently now.",
-                ],
-            ],
-            collaborative: [
-                [
-                    "The Drinker wants the Shamer as an ally, not a judge.",
-                    "The Drinker needs the Shamer on the same side.",
-                    "Yes. If the Shamer is with the Drinker, the Drinker doesn't need the drinking as much.",
-                    "The Shamer wants that too. The Shamer has always wanted that.",
-                ],
-                [
-                    "What if the Drinker checked in with the Shamer before reaching for the bottle?",
-                    "The Drinker is offering to pause and consult instead of acting alone.",
-                    "Right. Just a moment — enough to ask if there's another way.",
-                    "The Shamer can work with that. That's all the Shamer ever wanted.",
-                ],
-            ],
-        },
+        ...scenario.relBA,
+        stance: setup.stanceB,
+        stanceFlipOdds: setup.flipOddsB,
     };
 
     const conversation: ConversationState = {
