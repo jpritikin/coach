@@ -9,7 +9,7 @@ bookToc: false
 
 # Contact
 
-Who do you wish to contact? [Joshua]({{< relref "joshua" >}}) or [Heera]({{< relref "heera" >}})?
+Who do you wish to contact? [Joshua]({{< relref "joshua" >}})
 
 ### For urgent concerns, **text** us.
 - We do not use voicemail.
