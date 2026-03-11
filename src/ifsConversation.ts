@@ -1,6 +1,6 @@
 import {
     tick, createState, getTrustBand, stanceDescription,
-    clamp, SetupValues, nextShockDist, drawInitialStance,
+    clamp, SetupValues, nextShockDist, drawInitialStance, SimEvent,
 } from './ifsConversationSim.js';
 import { shamedDrinkerScenario } from './ifsConversationData.js';
 
@@ -33,7 +33,7 @@ function pct(v: number): string {
     return (v * 100).toFixed(0) + '%';
 }
 
-// ---- Stance histogram (setup screen only) ----
+// ---- Stance histogram ----
 
 const BINS = 40;
 
@@ -139,7 +139,7 @@ function stanceChartInner(
     if (rawStance !== undefined && Math.abs(rawStance - stance) > 0.01) {
         const rx = toX(rawStance);
         const cy2 = axisY - 10;
-        s += `<circle cx="${rx.toFixed(1)}" cy="${cy2.toFixed(1)}" r="5" fill="none" stroke="${color}" stroke-width="1.5" opacity="0.55"/>`;
+        s += `<line x1="${rx.toFixed(1)}" y1="${(cy2 - 7).toFixed(1)}" x2="${rx.toFixed(1)}" y2="${(cy2 + 7).toFixed(1)}" stroke="${color}" stroke-width="2" opacity="0.55"/>`;
         const ex = toX(stance);
         const dx = rx - ex;
         if (Math.abs(dx) > 3) {
@@ -360,8 +360,19 @@ interface TickRecord {
 
 interface EventRecord {
     t: number;
-    type: 'shock' | 'message' | 'phase';
+    type: 'shock' | 'message' | 'phase' | 'therapist';
     detail: string;
+    // shock extras
+    rawStanceBefore?: number;
+    rawStanceAfter?: number;
+    // phase extras
+    oldPhaseS?: string;
+    oldPhaseL?: string;
+    newPhaseS?: string;
+    newPhaseL?: string;
+    rawStanceA?: number;
+    rawStanceB?: number;
+    // message extras
     ballPos?: number;
 }
 
@@ -398,7 +409,6 @@ function simHTML(): string {
             </div>
             <div class="ifs-sim-controls">
                 <button id="ifs-pause-btn" title="Pause/Resume (R to download recording)">Pause</button>
-                <button id="ifs-reset-btn">Reset</button>
                 <span class="ifs-speed-label">Speed:</span>
                 <button class="ifs-speed-btn ifs-active" data-speed="0.25">¼×</button>
                 <button class="ifs-speed-btn" data-speed="1">1×</button>
@@ -417,7 +427,15 @@ function statusHTML(state: ReturnType<typeof createState>): string {
                 <div class="ifs-phase">Phase: <strong id="ifs-phase-a"></strong></div>
                 <div class="ifs-desc" id="ifs-stance-desc-a"></div>
                 <div class="ifs-stance-bar" id="ifs-sbar-a"></div>
-                <div class="ifs-trust">Self-trust: ${partA.selfTrust.toFixed(2)}</div>
+                <div class="ifs-stance-bar-label">Stance distribution</div>
+                <div id="ifs-sim-dist-a"></div>
+                <div class="ifs-setup-row">
+                    <label for="ifs-sim-trust-a">Self-to-part trust</label>
+                    <div class="ifs-slider-wrap">
+                        <input type="range" id="ifs-sim-trust-a" min="0" max="1" step="0.05" value="${partA.selfTrust.toFixed(2)}">
+                        <span class="ifs-slider-val" id="ifs-sim-trust-a-val">${partA.selfTrust.toFixed(2)}</span>
+                    </div>
+                </div>
                 <div class="ifs-therapist-delta">Therapist Δ: <span id="ifs-delta-a"></span></div>
                 <div class="ifs-controls">
                     <button class="ifs-btn" id="ifs-calm-a">◀ Calm</button>
@@ -426,8 +444,8 @@ function statusHTML(state: ReturnType<typeof createState>): string {
             </div>
             <div class="ifs-middle">
                 <div class="ifs-inter-trust">Inter-part trust</div>
-                <div class="ifs-trust-val" id="ifs-trust-row-ab">${partA.name}→${partB.name}: <strong id="ifs-trust-ab"></strong> <span class="ifs-band" id="ifs-band-ab"></span></div>
-                <div class="ifs-trust-val" id="ifs-trust-row-ba">${partB.name}→${partA.name}: <strong id="ifs-trust-ba"></strong> <span class="ifs-band" id="ifs-band-ba"></span></div>
+                <div class="ifs-trust-val" id="ifs-trust-row-ab">→: <strong id="ifs-trust-ab"></strong> <span class="ifs-band" id="ifs-band-ab"></span></div>
+                <div class="ifs-trust-val" id="ifs-trust-row-ba">←: <strong id="ifs-trust-ba"></strong> <span class="ifs-band" id="ifs-band-ba"></span></div>
                 <div class="ifs-regulation" id="ifs-regulation"></div>
                 <div class="ifs-reg-score">Regulation: <span id="ifs-reg-score"></span></div>
                 <div class="ifs-cycles">Cycles completed: <span id="ifs-cycles"></span></div>
@@ -437,7 +455,15 @@ function statusHTML(state: ReturnType<typeof createState>): string {
                 <div class="ifs-phase">Phase: <strong id="ifs-phase-b"></strong></div>
                 <div class="ifs-desc" id="ifs-stance-desc-b"></div>
                 <div class="ifs-stance-bar" id="ifs-sbar-b"></div>
-                <div class="ifs-trust">Self-trust: ${partB.selfTrust.toFixed(2)}</div>
+                <div class="ifs-stance-bar-label">Stance distribution</div>
+                <div id="ifs-sim-dist-b"></div>
+                <div class="ifs-setup-row">
+                    <label for="ifs-sim-trust-b">Self-to-part trust</label>
+                    <div class="ifs-slider-wrap">
+                        <input type="range" id="ifs-sim-trust-b" min="0" max="1" step="0.05" value="${partB.selfTrust.toFixed(2)}">
+                        <span class="ifs-slider-val" id="ifs-sim-trust-b-val">${partB.selfTrust.toFixed(2)}</span>
+                    </div>
+                </div>
                 <div class="ifs-therapist-delta">Therapist Δ: <span id="ifs-delta-b"></span></div>
                 <div class="ifs-controls">
                     <button class="ifs-btn" id="ifs-activate-b">◀ Activate</button>
@@ -511,9 +537,8 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
 
     const recording: Recording = { setup, ticks: [], events: [] };
     let lastRecordSimTime = -Infinity;
-    const RECORD_INTERVAL = 0.1;
+    const RECORD_INTERVAL = 0.5;
     let lastMessageCount = 0;
-    let lastShockSimTime = -1;
 
     const statusEl = getEl<HTMLElement>(container, '.ifs-status');
     const logEl = getEl<HTMLElement>(container, '.ifs-log');
@@ -522,7 +547,6 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
     const { stop0, stop1, stop2 } = buildBallGradient(arcSvg, arcBall);
 
     const pauseBtn = getEl<HTMLButtonElement>(container, '#ifs-pause-btn');
-    const resetBtn = getEl<HTMLButtonElement>(container, '#ifs-reset-btn');
 
     function onKey(e: KeyboardEvent): void {
         if (e.key === 'r' || e.key === 'R') downloadRecording(recording);
@@ -532,11 +556,6 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
         pauseBtn.addEventListener('click', () => {
             paused = !paused;
             pauseBtn.textContent = paused ? 'Resume' : 'Pause';
-        });
-        resetBtn.addEventListener('click', () => {
-            cancelAnimationFrame(rafId);
-            document.removeEventListener('keydown', onKey);
-            onReset();
         });
         document.addEventListener('keydown', onKey);
         for (const btn of container.querySelectorAll<HTMLButtonElement>('.ifs-speed-btn')) {
@@ -553,6 +572,12 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
 
     const sbarA = getEl<HTMLElement>(statusEl, '#ifs-sbar-a');
     const sbarB = getEl<HTMLElement>(statusEl, '#ifs-sbar-b');
+    const simDistA = getEl<HTMLElement>(statusEl, '#ifs-sim-dist-a');
+    const simDistB = getEl<HTMLElement>(statusEl, '#ifs-sim-dist-b');
+    let binsA = monteCarloStanceHist(setup.stanceA, setup.flipOddsA, setup.selfTrustA);
+    let binsB = monteCarloStanceHist(setup.stanceB, setup.flipOddsB, setup.selfTrustB);
+    let lastSampledA = state.relAB.stance;
+    let lastSampledB = state.relBA.stance;
     const wrapEl = getEl<HTMLElement>(container, '.ifs-status-wrap');
     const historyA: number[] = [];
     const historyB: number[] = [];
@@ -575,9 +600,17 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
             getEl<HTMLButtonElement>(statusEl, `#${id}`).addEventListener('click', () => {
                 const rel = partId === state.partA.id ? state.relAB : state.relBA;
                 const current = state.conversation.therapistDeltas.get(partId) ?? 0;
-                state.conversation.therapistDeltas.set(partId, clamp(current + delta, -1 - rel.stance, 1 - rel.stance));
+                const newDelta = clamp(current + delta, -1 - rel.stance, 1 - rel.stance);
+                state.conversation.therapistDeltas.set(partId, newDelta);
                 flashBtnId = id;
                 flashUntil = performance.now() + 300;
+                const name = partId === state.partA.id ? state.partA.name : state.partB.name;
+                const action = delta < 0 ? 'calm' : 'activate';
+                recording.events.push({
+                    t: +state.simTime.toFixed(3),
+                    type: 'therapist',
+                    detail: `${action} ${name} Δ${delta >= 0 ? '+' : ''}${delta.toFixed(2)} → therapistDelta ${newDelta.toFixed(3)}`,
+                });
             });
         }
         wireBtn('ifs-calm-a',     state.partA.id, -0.2);
@@ -587,26 +620,61 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
     }
     wireTherapistBtns();
 
-    function captureRecordTick(): void {
-        const { partA, partB, conversation, simTime, lastShock } = state;
-        if (simTime - lastRecordSimTime < RECORD_INTERVAL) return;
-        lastRecordSimTime = simTime;
+    function wireTrustSlider(id: string, valId: string, part: typeof state.partA, onBinsUpdate: () => void): void {
+        const slider = getEl<HTMLInputElement>(statusEl, `#${id}`);
+        const valEl = getEl<HTMLElement>(statusEl, `#${valId}`);
+        slider.addEventListener('input', () => {
+            part.selfTrust = parseFloat(slider.value);
+            valEl.textContent = part.selfTrust.toFixed(2);
+            onBinsUpdate();
+        });
+    }
+    wireTrustSlider('ifs-sim-trust-a', 'ifs-sim-trust-a-val', state.partA, () => {
+        binsA = monteCarloStanceHist(setup.stanceA, setup.flipOddsA, state.partA.selfTrust);
+    });
+    wireTrustSlider('ifs-sim-trust-b', 'ifs-sim-trust-b-val', state.partB, () => {
+        binsB = monteCarloStanceHist(setup.stanceB, setup.flipOddsB, state.partB.selfTrust);
+    });
 
-        recording.ticks.push(serializeTick(state));
-
-        if (lastShock && lastShock.simTime !== lastShockSimTime) {
-            lastShockSimTime = lastShock.simTime;
-            const name = lastShock.receiverId === partA.id ? partA.name : partB.name;
-            recording.events.push({ t: +lastShock.simTime.toFixed(3), type: 'shock', detail: `${name} Δ${lastShock.delta >= 0 ? '+' : ''}${lastShock.delta.toFixed(3)}` });
+    function captureRecordTick(simEvents: SimEvent[]): void {
+        const { partA, partB, conversation, simTime } = state;
+        if (simTime - lastRecordSimTime >= RECORD_INTERVAL) {
+            lastRecordSimTime = simTime;
+            recording.ticks.push(serializeTick(state));
         }
+        lastMessageCount = state.messages.length;
 
-        if (state.messages.length > lastMessageCount) {
-            for (let i = lastMessageCount; i < state.messages.length; i++) {
-                const m = state.messages[i];
-                const name = m.senderId === partA.id ? partA.name : partB.name;
-                recording.events.push({ t: +simTime.toFixed(3), type: 'message', detail: `${name} [${m.phase}]`, ballPos: +conversation.ballPos.toFixed(4) });
+        for (const e of simEvents) {
+            const t = +simTime.toFixed(3);
+            if (e.kind === 'shock') {
+                const name = e.data.receiverId === partA.id ? partA.name : partB.name;
+                recording.events.push({
+                    t: +e.data.simTime.toFixed(3),
+                    type: 'shock',
+                    detail: `${name} Δ${e.data.delta >= 0 ? '+' : ''}${e.data.delta.toFixed(3)}`,
+                    rawStanceBefore: +e.data.rawStanceBefore.toFixed(4),
+                    rawStanceAfter: +e.data.rawStanceAfter.toFixed(4),
+                });
+            } else if (e.kind === 'phase') {
+                const d = e.data;
+                const sName = d.speakerId === partA.id ? partA.name : partB.name;
+                const lName = d.listenerId === partA.id ? partA.name : partB.name;
+                recording.events.push({
+                    t: +d.simTime.toFixed(3),
+                    type: 'phase',
+                    detail: `${sName} ${d.oldPhaseS}→${d.newPhaseS}, ${lName} ${d.oldPhaseL}→${d.newPhaseL}`,
+                    oldPhaseS: d.oldPhaseS, oldPhaseL: d.oldPhaseL,
+                    newPhaseS: d.newPhaseS, newPhaseL: d.newPhaseL,
+                    rawStanceA: +d.rawStanceA.toFixed(4),
+                    rawStanceB: +d.rawStanceB.toFixed(4),
+                });
+            } else if (e.kind === 'nominate') {
+                if (e.data.speakerId === partA.id) lastSampledA = e.data.sampledStance;
+                else lastSampledB = e.data.sampledStance;
+            } else if (e.kind === 'message') {
+                const name = e.data.senderId === partA.id ? partA.name : partB.name;
+                recording.events.push({ t, type: 'message', detail: `${name} [${e.data.phase}]`, ballPos: +conversation.ballPos.toFixed(4) });
             }
-            lastMessageCount = state.messages.length;
         }
     }
 
@@ -647,6 +715,7 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
         setClass('ifs-calm-a',    'ifs-btn-hint',  hintCalmA && !(flashBtnId === 'ifs-calm-a' && flashing));
         setClass('ifs-activate-a','ifs-btn-hint',  hintActivateA && !(flashBtnId === 'ifs-activate-a' && flashing));
         stanceChart(sbarA, stanceA, shockMagFor(partA.id), historyA.slice(0, -1), PART_COLORS.a.hex, false, relAB.stance);
+        stanceHistogram(simDistA, binsA, PART_COLORS.a.hex, lastSampledA, false);
 
         setText('ifs-trust-ab', relAB.trust.toFixed(2));
         setText('ifs-band-ab', getTrustBand(relAB.trust));
@@ -672,6 +741,7 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
         setClass('ifs-calm-b',    'ifs-btn-hint',  hintCalmB && !(flashBtnId === 'ifs-calm-b' && flashing));
         setClass('ifs-activate-b','ifs-btn-hint',  hintActivateB && !(flashBtnId === 'ifs-activate-b' && flashing));
         stanceChart(sbarB, stanceB, shockMagFor(partB.id), historyB.slice(0, -1), PART_COLORS.b.hex, true, relBA.stance);
+        stanceHistogram(simDistB, binsB, PART_COLORS.b.hex, lastSampledB, true);
     }
 
     function renderBall(): void {
@@ -739,8 +809,8 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
     function loop(ts: number): void {
         if (lastTime !== null && !paused) {
             const simDt = Math.min((ts - lastTime) / 1000, 0.1) * speed;
-            tick(state, simDt);
-            captureRecordTick();
+            const simEvents = tick(state, simDt);
+            captureRecordTick(simEvents);
         }
         lastTime = ts;
         renderStatus();

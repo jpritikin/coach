@@ -11,7 +11,6 @@ export const NEW_CYCLE_DELAY = 4;
 const LISTENER_VIOLATION_GRACE = 1.0;
 const REGULATION_RECOVER_RATE = 0.5;
 const REGULATION_DECAY_RATE = 0.3;
-const SUSTAINED_TRUST_INTERVAL = 10;
 const SPEAK_BASE_RATE = 0.5;
 
 export interface ConversationDialogues {
@@ -25,9 +24,19 @@ export interface InterPartRelation {
     trust: number;
     trustFloor: number;
     stance: number;
+    stanceMagnitude: number; // original setup magnitude, immutable
     stanceFlipOdds: number;
     dialogues?: ConversationDialogues;
+    flipUtterances?: string[];
 }
+
+const GENERIC_FLIP_UTTERANCES = [
+    "I can't take it anymore.",
+    "That's it — I'm done.",
+    "Everything just broke open.",
+    "I can't hold this.",
+    "Something just gave way.",
+];
 
 export interface Part {
     id: string;
@@ -44,7 +53,6 @@ export interface ConversationState {
     activeTupleIndex: Map<string, number>;
     regulationScore: number;
     respondTimer: number;
-    sustainedRegulationTimer: number;
     newCycleTimer: number;
     listenerViolationTimer: number;
     // Ball: position 0=partA side, 1=partB side
@@ -65,8 +73,33 @@ export interface Message {
 export interface ShockEvent {
     receiverId: string;
     delta: number;      // actual stance change applied
+    rawStanceBefore: number;
+    rawStanceAfter: number;
     simTime: number;
 }
+
+export interface PhaseTransitionEvent {
+    speakerId: string;
+    listenerId: string;
+    oldPhaseS: IfioPhase;
+    oldPhaseL: IfioPhase;
+    newPhaseS: IfioPhase;
+    newPhaseL: IfioPhase;
+    rawStanceA: number;
+    rawStanceB: number;
+    simTime: number;
+}
+
+export interface NominateEvent {
+    speakerId: string;
+    sampledStance: number;
+}
+
+export type SimEvent =
+    | { kind: 'shock'; data: ShockEvent }
+    | { kind: 'phase'; data: PhaseTransitionEvent }
+    | { kind: 'message'; data: Message }
+    | { kind: 'nominate'; data: NominateEvent };
 
 export interface SimState {
     partA: Part;
@@ -78,7 +111,6 @@ export interface SimState {
     messageCounter: number;
     simTime: number;
     cyclesCompleted: number;
-    lastShock: ShockEvent | null;
 }
 
 // Distribution of next shock to receiverId given current state.
@@ -123,6 +155,11 @@ export function getDialogue(rel: InterPartRelation, phase: IfioPhase, speakerId:
 
 export function clamp(v: number, lo = -1, hi = 1): number {
     return Math.max(lo, Math.min(hi, v));
+}
+
+function resampleStance(rel: InterPartRelation, selfTrust: number): void {
+    const sample = drawInitialStance(rel.stanceMagnitude, rel.stanceFlipOdds, selfTrust);
+    rel.stance = clamp(0.25 * rel.stance + 0.75 * sample);
 }
 
 export function addInterPartTrust(rel: InterPartRelation, delta: number): void {
@@ -192,7 +229,7 @@ function updateEffectiveStances(state: SimState): void {
     conversation.effectiveStances.set(partB.id, getEffectiveStance(relBA.stance, dB));
 }
 
-function applyStanceShock(speakerId: string, receiverId: string, speakerStance: number, state: SimState): void {
+function applyStanceShock(speakerId: string, receiverId: string, speakerStance: number, state: SimState, out: SimEvent[]): void {
     const receiverRel = receiverId === state.partA.id ? state.relAB : state.relBA;
     const speakerRel = speakerId === state.partA.id ? state.relAB : state.relBA;
     const selfTrust = receiverId === state.partA.id ? state.partA.selfTrust : state.partB.selfTrust;
@@ -200,24 +237,62 @@ function applyStanceShock(speakerId: string, receiverId: string, speakerStance: 
     const sameDir = Math.random() < speakerRel.stanceFlipOdds;
     const dir = sameDir ? Math.sign(speakerStance) : -Math.sign(speakerStance);
     if (dir === 0) return;
+    const rawStanceBefore = receiverRel.stance;
     const delta = dir * shockMag;
     receiverRel.stance = clamp(receiverRel.stance + delta);
+    const rawStanceAfter = receiverRel.stance;
     const trustBefore = receiverRel.trust;
     addInterPartTrust(receiverRel, -shockMag);
     const trustAfter = receiverRel.trust;
     const receiverName = receiverId === state.partA.id ? state.partA.name : state.partB.name;
     const speakerName = speakerId === state.partA.id ? state.partA.name : state.partB.name;
-    const trustDelta = trustAfter - trustBefore;
-    if (Math.abs(trustDelta) >= 0.001) {
-        state.messages.push({
+    out.push({ kind: 'shock', data: { receiverId, delta, rawStanceBefore, rawStanceAfter, simTime: state.simTime } });
+    if (Math.abs(trustAfter - trustBefore) >= 0.001) {
+        const msg: Message = {
             id: ++state.messageCounter,
             senderId: receiverId,
             text: `${speakerName}→${receiverName} trust ${trustBefore.toFixed(2)} → ${trustAfter.toFixed(2)} (shock)`,
             phase: 'listen',
             type: 'trust',
-        });
+        };
+        state.messages.push(msg);
+        out.push({ kind: 'message', data: msg });
     }
-    state.lastShock = { receiverId, delta, simTime: state.simTime };
+
+    // Flip: if receiver is dysregulated negative, shock may trigger a polarity reversal.
+    const stanceAfterShock = receiverRel.stance;
+    if (stanceAfterShock < -REGULATION_STANCE_LIMIT && Math.random() < receiverRel.stanceFlipOdds) {
+        const receiverSelfTrust = receiverId === state.partA.id ? state.partA.selfTrust : state.partB.selfTrust;
+        const s0 = stanceAfterShock;
+        const s1 = drawInitialStance(-s0, 0, receiverSelfTrust);
+        receiverRel.stance = clamp(s1);
+        const speakerRel2 = speakerId === state.partA.id ? state.relAB : state.relBA;
+        speakerRel2.stance = clamp(speakerRel2.stance - (s1 - s0));
+        updateEffectiveStances(state);
+        const receiverName2 = receiverId === state.partA.id ? state.partA.name : state.partB.name;
+        const speakerName2 = speakerId === state.partA.id ? state.partA.name : state.partB.name;
+        const pool = [...GENERIC_FLIP_UTTERANCES, ...(receiverRel.flipUtterances ?? [])];
+        const utterance = pool[Math.floor(Math.random() * pool.length)];
+        const flipMsg: Message = {
+            id: ++state.messageCounter,
+            senderId: receiverId,
+            text: utterance,
+            phase: 'speak',
+            type: 'dialogue',
+        };
+        state.messages.push(flipMsg);
+        out.push({ kind: 'message', data: flipMsg });
+
+        const msg2: Message = {
+            id: ++state.messageCounter,
+            senderId: receiverId,
+            text: `${receiverName2} flipped: ${s0.toFixed(2)} → ${s1.toFixed(2)}; ${speakerName2} counter-shock ${(-(s0 - s1)).toFixed(2)}`,
+            phase: 'listen',
+            type: 'trust',
+        };
+        state.messages.push(msg2);
+        out.push({ kind: 'message', data: msg2 });
+    }
 }
 
 function logTrustChange(state: SimState, rel: InterPartRelation, before: number, fromId: string, toId: string, reason: string): void {
@@ -243,43 +318,35 @@ export function nextPhases(phaseS: IfioPhase, phaseL: IfioPhase): [IfioPhase, If
     return null;
 }
 
-function tryAdvancePhase(state: SimState): void {
+function tryAdvancePhase(state: SimState, out: SimEvent[]): void {
     const { partA, partB, relAB, relBA, conversation } = state;
     const speakerId = conversation.speakerId;
     const listenerId = speakerId === partA.id ? partB.id : partA.id;
     const phaseS = conversation.phases.get(speakerId)!;
     const phaseL = conversation.phases.get(listenerId)!;
     const relSL = speakerId === partA.id ? relAB : relBA;
-    const relLS = speakerId === partA.id ? relBA : relAB;
 
     const next = nextPhases(phaseS, phaseL);
     if (!next) return;
 
-    conversation.respondTimer = 0;
     const [newPhaseS, newPhaseL] = next;
+    conversation.respondTimer = 0;
     conversation.phases.set(speakerId, newPhaseS);
     conversation.phases.set(listenerId, newPhaseL);
 
-    if (phaseS === 'speak' && phaseL === 'listen') {
-        const before = relLS.trust;
-        addInterPartTrust(relLS, 0.05 * (1 - relLS.trust));
-        logTrustChange(state, relLS, before, listenerId, speakerId, 'mirroring');
-    } else if (phaseS === 'listen' && phaseL === 'mirror') {
+    out.push({ kind: 'phase', data: {
+        speakerId, listenerId,
+        oldPhaseS: phaseS, oldPhaseL: phaseL,
+        newPhaseS, newPhaseL,
+        rawStanceA: relAB.stance, rawStanceB: relBA.stance,
+        simTime: state.simTime,
+    }});
+
+    if (phaseS === 'listen' && phaseL === 'empathize') {
         const before = relSL.trust;
-        addInterPartTrust(relSL, 0.05 * (1 - relSL.trust));
-        logTrustChange(state, relSL, before, speakerId, listenerId, 'validating');
-    } else if (phaseS === 'validate' && phaseL === 'listen') {
-        const before = relLS.trust;
-        addInterPartTrust(relLS, 0.05 * (1 - relLS.trust));
-        logTrustChange(state, relLS, before, listenerId, speakerId, 'empathizing');
-    } else if (phaseS === 'listen' && phaseL === 'empathize') {
-        const gain = 0.5 * (1 - Math.min(relAB.trust, relBA.trust));
-        const beforeAB = relAB.trust;
-        const beforeBA = relBA.trust;
-        addInterPartTrust(relAB, gain);
-        addInterPartTrust(relBA, gain);
-        logTrustChange(state, relAB, beforeAB, partA.id, partB.id, 'cycle complete');
-        logTrustChange(state, relBA, beforeBA, partB.id, partA.id, 'cycle complete');
+        addInterPartTrust(relSL, 0.5 * (1 - relSL.trust));
+        logTrustChange(state, relSL, before, speakerId, listenerId, 'cycle complete');
+        relSL.stance = relSL.stance * 0.5;
         state.cyclesCompleted++;
     }
 }
@@ -427,7 +494,8 @@ function tickBall(state: SimState, dt: number): void {
     conversation.ballBias = Math.max(0, Math.min(1, conversation.ballBias));
 }
 
-export function tick(state: SimState, dt: number): void {
+export function tick(state: SimState, dt: number): SimEvent[] {
+    const out: SimEvent[] = [];
     updateEffectiveStances(state);
 
     const { partA, partB, relAB, relBA, conversation } = state;
@@ -447,11 +515,14 @@ export function tick(state: SimState, dt: number): void {
             conversation.phases.set(newListener, 'listen');
             conversation.respondTimer = 0;
             const newSpeakerRel = newSpeaker === partA.id ? relAB : relBA;
+            const newSpeakerSelfTrust = newSpeaker === partA.id ? partA.selfTrust : partB.selfTrust;
+            resampleStance(newSpeakerRel, newSpeakerSelfTrust);
+            out.push({ kind: 'nominate', data: { speakerId: newSpeaker, sampledStance: newSpeakerRel.stance } });
             rollTupleIndex(newSpeakerRel, newSpeaker, conversation);
         }
         tickBall(state, dt);
         state.simTime += dt;
-        return;
+        return out;
     }
     conversation.newCycleTimer = 0;
 
@@ -491,16 +562,6 @@ export function tick(state: SimState, dt: number): void {
     } else {
         conversation.regulationScore = Math.max(0, conversation.regulationScore - REGULATION_DECAY_RATE * dt);
     }
-    if (conversation.regulationScore > 0.5) {
-        conversation.sustainedRegulationTimer += dt;
-        if (conversation.sustainedRegulationTimer >= SUSTAINED_TRUST_INTERVAL) {
-            conversation.sustainedRegulationTimer -= SUSTAINED_TRUST_INTERVAL;
-            addInterPartTrust(relAB, 0.01 * (1 - relAB.trust));
-            addInterPartTrust(relBA, 0.01 * (1 - relBA.trust));
-        }
-    } else {
-        conversation.sustainedRegulationTimer = 0;
-    }
 
     for (const [id, delta] of conversation.therapistDeltas) {
         const newDelta = delta * Math.exp(-0.08 * dt);
@@ -510,10 +571,6 @@ export function tick(state: SimState, dt: number): void {
 
     const regulated = conversation.regulationScore > 0.5;
 
-    // The active utterer is whoever has a non-listen phase.
-    // In speak/listen: speakerId utters.
-    // In listen/mirror or listen/empathize: listenerId utters.
-    // In validate/listen: speakerId utters.
     const utterer = phaseS !== 'listen' ? speakerId : listenerId;
     const uttererPhase = conversation.phases.get(utterer)!;
     const uttererReceiver = utterer === speakerId ? listenerId : speakerId;
@@ -549,15 +606,18 @@ export function tick(state: SimState, dt: number): void {
         if (shouldSpeak) {
             const text = getDialogue(uttererRel, uttererPhase, utterer, conversation);
             if (text) {
-                state.messages.push({ id: ++state.messageCounter, senderId: utterer, text, phase: uttererPhase, type: 'dialogue' });
-                applyStanceShock(utterer, uttererReceiver, uttererStance, state);
-                if (advanceAfter) tryAdvancePhase(state);
+                const msg: Message = { id: ++state.messageCounter, senderId: utterer, text, phase: uttererPhase, type: 'dialogue' };
+                state.messages.push(msg);
+                out.push({ kind: 'message', data: msg });
+                applyStanceShock(utterer, uttererReceiver, uttererStance, state, out);
+                if (advanceAfter) tryAdvancePhase(state, out);
             }
         }
     }
 
     tickBall(state, dt);
     state.simTime += dt;
+    return out;
 }
 
 export interface SetupValues {
@@ -583,12 +643,14 @@ export function createState(setup: SetupValues, scenario: ScenarioConfig): SimSt
     const relAB: InterPartRelation = {
         ...scenario.relAB,
         stance: setup.stanceA,
+        stanceMagnitude: setup.stanceA,
         stanceFlipOdds: setup.flipOddsA,
     };
 
     const relBA: InterPartRelation = {
         ...scenario.relBA,
         stance: setup.stanceB,
+        stanceMagnitude: setup.stanceB,
         stanceFlipOdds: setup.flipOddsB,
     };
 
@@ -600,7 +662,6 @@ export function createState(setup: SetupValues, scenario: ScenarioConfig): SimSt
         activeTupleIndex: new Map(),
         regulationScore: 0,
         respondTimer: 0,
-        sustainedRegulationTimer: 0,
         newCycleTimer: 0,
         listenerViolationTimer: 0,
         ballPos: 0.5,
@@ -613,7 +674,6 @@ export function createState(setup: SetupValues, scenario: ScenarioConfig): SimSt
         partA, partB, relAB, relBA, conversation,
         messages: [], messageCounter: 0,
         simTime: 0, cyclesCompleted: 0,
-        lastShock: null,
     };
     initConversation(state);
     return state;
