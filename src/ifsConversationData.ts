@@ -1,11 +1,4 @@
-import { ConversationDialogues, Part } from './ifsConversationSim.js';
-
-export interface ScenarioConfig {
-    partA: Omit<Part, 'selfTrust'>;
-    partB: Omit<Part, 'selfTrust'>;
-    relAB: { trust: number; trustFloor: number; dialogues: ConversationDialogues };
-    relBA: { trust: number; trustFloor: number; dialogues: ConversationDialogues };
-}
+import { ScenarioConfig } from './ifsConversationSim.js';
 
 export const shamedDrinkerScenario: ScenarioConfig = {
     partA: { id: 'shamer', name: 'Shamer' },

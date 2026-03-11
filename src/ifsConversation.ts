@@ -343,28 +343,19 @@ function showSetup(container: HTMLElement, onStart: (v: SetupValues) => void): v
 
 // ---- Recording ----
 
-interface TickRecord {
-    t: number;
-    stanceA: number;
-    stanceB: number;
-    phaseA: string;
-    phaseB: string;
-    speakerId: string;
-    regulationScore: number;
-    respondTimer: number;
-    trustAB: number;
-    trustBA: number;
-    deltaA: number;
-    deltaB: number;
-}
-
 interface EventRecord {
     t: number;
-    type: 'shock' | 'message' | 'phase' | 'therapist';
+    type: 'shock' | 'rawStance' | 'message' | 'phase' | 'nominate' | 'therapist';
     detail: string;
     // shock extras
+    shockDelta?: number;
+    effectiveStanceBefore?: number;
+    effectiveStanceAfter?: number;
+    accumulatedShockDelta?: number;
+    // rawStance extras
     rawStanceBefore?: number;
     rawStanceAfter?: number;
+    reason?: string;
     // phase extras
     oldPhaseS?: string;
     oldPhaseL?: string;
@@ -374,11 +365,12 @@ interface EventRecord {
     rawStanceB?: number;
     // message extras
     ballPos?: number;
+    // nominate extras
+    sampledStance?: number;
 }
 
 interface Recording {
     setup: SetupValues;
-    ticks: TickRecord[];
     events: EventRecord[];
 }
 
@@ -506,23 +498,6 @@ function lerpColor(a: [number, number, number], b: [number, number, number], t: 
     ];
 }
 
-function serializeTick(state: ReturnType<typeof createState>): TickRecord {
-    const { partA, partB, relAB, relBA, conversation, simTime } = state;
-    return {
-        t: +simTime.toFixed(3),
-        stanceA: +(conversation.effectiveStances.get(partA.id) ?? relAB.stance).toFixed(4),
-        stanceB: +(conversation.effectiveStances.get(partB.id) ?? relBA.stance).toFixed(4),
-        phaseA: conversation.phases.get(partA.id) ?? 'listen',
-        phaseB: conversation.phases.get(partB.id) ?? 'listen',
-        speakerId: conversation.speakerId,
-        regulationScore: +conversation.regulationScore.toFixed(4),
-        respondTimer: +conversation.respondTimer.toFixed(3),
-        trustAB: +relAB.trust.toFixed(4),
-        trustBA: +relBA.trust.toFixed(4),
-        deltaA: +(conversation.therapistDeltas.get(partA.id) ?? 0).toFixed(4),
-        deltaB: +(conversation.therapistDeltas.get(partB.id) ?? 0).toFixed(4),
-    };
-}
 
 function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void): void {
     container.innerHTML = simHTML();
@@ -535,9 +510,7 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
     let flashBtnId: string | null = null;
     let flashUntil = 0;
 
-    const recording: Recording = { setup, ticks: [], events: [] };
-    let lastRecordSimTime = -Infinity;
-    const RECORD_INTERVAL = 0.5;
+    const recording: Recording = { setup, events: [] };
     let lastMessageCount = 0;
 
     const statusEl = getEl<HTMLElement>(container, '.ifs-status');
@@ -638,22 +611,32 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
 
     function captureRecordTick(simEvents: SimEvent[]): void {
         const { partA, partB, conversation, simTime } = state;
-        if (simTime - lastRecordSimTime >= RECORD_INTERVAL) {
-            lastRecordSimTime = simTime;
-            recording.ticks.push(serializeTick(state));
-        }
         lastMessageCount = state.messages.length;
 
         for (const e of simEvents) {
             const t = +simTime.toFixed(3);
             if (e.kind === 'shock') {
-                const name = e.data.receiverId === partA.id ? partA.name : partB.name;
+                const d = e.data;
+                const name = d.receiverId === partA.id ? partA.name : partB.name;
                 recording.events.push({
-                    t: +e.data.simTime.toFixed(3),
+                    t: +d.simTime.toFixed(3),
                     type: 'shock',
-                    detail: `${name} Δ${e.data.delta >= 0 ? '+' : ''}${e.data.delta.toFixed(3)}`,
-                    rawStanceBefore: +e.data.rawStanceBefore.toFixed(4),
-                    rawStanceAfter: +e.data.rawStanceAfter.toFixed(4),
+                    detail: `${name} shock Δ${d.shockDelta >= 0 ? '+' : ''}${d.shockDelta.toFixed(3)} eff ${d.effectiveStanceBefore.toFixed(3)}→${d.effectiveStanceAfter.toFixed(3)}`,
+                    shockDelta: +d.shockDelta.toFixed(4),
+                    effectiveStanceBefore: +d.effectiveStanceBefore.toFixed(4),
+                    effectiveStanceAfter: +d.effectiveStanceAfter.toFixed(4),
+                    accumulatedShockDelta: +d.accumulatedShockDelta.toFixed(4),
+                });
+            } else if (e.kind === 'rawStance') {
+                const d = e.data;
+                const name = d.partId === partA.id ? partA.name : partB.name;
+                recording.events.push({
+                    t: +d.simTime.toFixed(3),
+                    type: 'rawStance',
+                    detail: `${name} raw ${d.rawStanceBefore.toFixed(3)}→${d.rawStanceAfter.toFixed(3)} (${d.reason})`,
+                    rawStanceBefore: +d.rawStanceBefore.toFixed(4),
+                    rawStanceAfter: +d.rawStanceAfter.toFixed(4),
+                    reason: d.reason,
                 });
             } else if (e.kind === 'phase') {
                 const d = e.data;
@@ -671,6 +654,13 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
             } else if (e.kind === 'nominate') {
                 if (e.data.speakerId === partA.id) lastSampledA = e.data.sampledStance;
                 else lastSampledB = e.data.sampledStance;
+                const name = e.data.speakerId === partA.id ? partA.name : partB.name;
+                recording.events.push({
+                    t,
+                    type: 'nominate',
+                    detail: `${name} nominated, sampledStance ${e.data.sampledStance.toFixed(3)}`,
+                    sampledStance: +e.data.sampledStance.toFixed(4),
+                });
             } else if (e.kind === 'message') {
                 const name = e.data.senderId === partA.id ? partA.name : partB.name;
                 recording.events.push({ t, type: 'message', detail: `${name} [${e.data.phase}]`, ballPos: +conversation.ballPos.toFixed(4) });

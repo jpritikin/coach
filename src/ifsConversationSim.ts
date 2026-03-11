@@ -32,10 +32,11 @@ export interface InterPartRelation {
 
 const GENERIC_FLIP_UTTERANCES = [
     "I can't take it anymore.",
-    "That's it — I'm done.",
-    "Everything just broke open.",
-    "I can't hold this.",
-    "Something just gave way.",
+    "You want to push me? Fine. See what happens.",
+    "I've been swallowing this for too long.",
+    "No more. I'm not holding back.",
+    "You have no idea what's been building in here.",
+    "I'm not disappearing anymore.",
 ];
 
 export interface Part {
@@ -49,6 +50,7 @@ export interface ConversationState {
     phases: Map<string, IfioPhase>;
     effectiveStances: Map<string, number>;
     therapistDeltas: Map<string, number>;
+    shockDeltas: Map<string, number>;
     // Active dialogue tuple index per speakerId, rolled once per cycle
     activeTupleIndex: Map<string, number>;
     regulationScore: number;
@@ -72,9 +74,18 @@ export interface Message {
 
 export interface ShockEvent {
     receiverId: string;
-    delta: number;      // actual stance change applied
+    shockDelta: number;      // delta added to shockDeltas map
+    effectiveStanceBefore: number;
+    effectiveStanceAfter: number;
+    accumulatedShockDelta: number;  // total shockDelta for receiver after this shock
+    simTime: number;
+}
+
+export interface RawStanceEvent {
+    partId: string;
     rawStanceBefore: number;
     rawStanceAfter: number;
+    reason: 'flip' | 'counter-shock';
     simTime: number;
 }
 
@@ -97,6 +108,7 @@ export interface NominateEvent {
 
 export type SimEvent =
     | { kind: 'shock'; data: ShockEvent }
+    | { kind: 'rawStance'; data: RawStanceEvent }
     | { kind: 'phase'; data: PhaseTransitionEvent }
     | { kind: 'message'; data: Message }
     | { kind: 'nominate'; data: NominateEvent };
@@ -113,21 +125,21 @@ export interface SimState {
     cyclesCompleted: number;
 }
 
-// Distribution of next shock to receiverId given current state.
-// Returns [deltaIfSameDir, deltaIfFlip, probSameDir].
+// Returns [deltaIfDefault, deltaIfFlip, probFlip].
+// Default: push away from speaker stance. Flip (prob=receiver flipOdds): pull toward speaker stance.
+function shockParams(speakerStance: number, selfTrust: number, receiverRel: InterPartRelation): [number, number, number] {
+    const shockMag = 0.3 * Math.abs(speakerStance) * 2 / ((1 + selfTrust) * (1 + receiverRel.trust));
+    return [-Math.sign(speakerStance) * shockMag, Math.sign(speakerStance) * shockMag, receiverRel.stanceFlipOdds];
+}
+
 export function nextShockDist(state: SimState, receiverId: string): [number, number, number] {
     const { partA, partB } = state;
     const isReceiverA = receiverId === partA.id;
     const speakerId = isReceiverA ? partB.id : partA.id;
     const receiverRel = isReceiverA ? state.relAB : state.relBA;
-    const speakerRel  = isReceiverA ? state.relBA : state.relAB;
-    const selfTrust   = isReceiverA ? partA.selfTrust : partB.selfTrust;
+    const selfTrust = isReceiverA ? partA.selfTrust : partB.selfTrust;
     const speakerStance = state.conversation.effectiveStances.get(speakerId) ?? 0;
-    const shockMag = 0.3 * Math.abs(speakerStance) * 2 / ((1 + selfTrust) * (1 + receiverRel.trust));
-    const probSameDir = speakerRel.stanceFlipOdds;
-    const sameDir  = Math.sign(speakerStance) * shockMag;
-    const flipDir  = -Math.sign(speakerStance) * shockMag;
-    return [sameDir, flipDir, probSameDir];
+    return shockParams(speakerStance, selfTrust, receiverRel);
 }
 
 export function getTrustBand(trust: number): TrustBand {
@@ -198,9 +210,9 @@ function randNormal(mean: number, stddev: number): number {
 // selfTrust: [0,1] — lower = more variable and more extreme
 export function drawInitialStance(magnitude: number, flipOdds: number, selfTrust: number): number {
     const stddev = (1 - selfTrust) / 4;
-    const shift  = 0.5 * (1 - selfTrust);
+    const shift = 0.5 * (1 - selfTrust);
     const sample = Math.max(0, Math.min(1, randNormal(0.5, stddev)));
-    const drawn  = Math.sign(magnitude) * Math.min(1, Math.abs(magnitude) * (sample + shift));
+    const drawn = Math.sign(magnitude) * Math.min(1, Math.abs(magnitude) * (sample + shift));
     return Math.random() < flipOdds ? -drawn : drawn;
 }
 
@@ -223,54 +235,49 @@ function initConversation(state: SimState): void {
 
 function updateEffectiveStances(state: SimState): void {
     const { partA, partB, relAB, relBA, conversation } = state;
-    const dA = conversation.therapistDeltas.get(partA.id) ?? 0;
-    const dB = conversation.therapistDeltas.get(partB.id) ?? 0;
+    const dA = (conversation.therapistDeltas.get(partA.id) ?? 0) + (conversation.shockDeltas.get(partA.id) ?? 0);
+    const dB = (conversation.therapistDeltas.get(partB.id) ?? 0) + (conversation.shockDeltas.get(partB.id) ?? 0);
     conversation.effectiveStances.set(partA.id, getEffectiveStance(relAB.stance, dA));
     conversation.effectiveStances.set(partB.id, getEffectiveStance(relBA.stance, dB));
 }
 
 function applyStanceShock(speakerId: string, receiverId: string, speakerStance: number, state: SimState, out: SimEvent[]): void {
     const receiverRel = receiverId === state.partA.id ? state.relAB : state.relBA;
-    const speakerRel = speakerId === state.partA.id ? state.relAB : state.relBA;
     const selfTrust = receiverId === state.partA.id ? state.partA.selfTrust : state.partB.selfTrust;
-    const shockMag = 0.3 * Math.abs(speakerStance) * 2 / ((1 + selfTrust) * (1 + receiverRel.trust));
-    const sameDir = Math.random() < speakerRel.stanceFlipOdds;
-    const dir = sameDir ? Math.sign(speakerStance) : -Math.sign(speakerStance);
-    if (dir === 0) return;
-    const rawStanceBefore = receiverRel.stance;
-    const delta = dir * shockMag;
-    receiverRel.stance = clamp(receiverRel.stance + delta);
-    const rawStanceAfter = receiverRel.stance;
-    const trustBefore = receiverRel.trust;
-    addInterPartTrust(receiverRel, -shockMag);
-    const trustAfter = receiverRel.trust;
-    const receiverName = receiverId === state.partA.id ? state.partA.name : state.partB.name;
-    const speakerName = speakerId === state.partA.id ? state.partA.name : state.partB.name;
-    out.push({ kind: 'shock', data: { receiverId, delta, rawStanceBefore, rawStanceAfter, simTime: state.simTime } });
-    if (Math.abs(trustAfter - trustBefore) >= 0.001) {
-        const msg: Message = {
-            id: ++state.messageCounter,
-            senderId: receiverId,
-            text: `${speakerName}→${receiverName} trust ${trustBefore.toFixed(2)} → ${trustAfter.toFixed(2)} (shock)`,
-            phase: 'listen',
-            type: 'trust',
-        };
-        state.messages.push(msg);
-        out.push({ kind: 'message', data: msg });
+    const [deltaDefault, deltaFlip, probFlip] = shockParams(speakerStance, selfTrust, receiverRel);
+    const shockDelta = Math.random() < probFlip ? deltaFlip : deltaDefault;
+    const shockMag = Math.abs(shockDelta);
+    if (shockMag === 0) return;
+    const effectiveStanceBefore = state.conversation.effectiveStances.get(receiverId) ?? receiverRel.stance;
+    const prevShockDelta = state.conversation.shockDeltas.get(receiverId) ?? 0;
+    const rawNext = prevShockDelta + shockDelta;
+    const floorDelta = -1 - receiverRel.stance;
+    const newShockDelta = clamp(rawNext, floorDelta, 1 - receiverRel.stance);
+    const negOverflow = Math.max(0, floorDelta - rawNext);
+    state.conversation.shockDeltas.set(receiverId, newShockDelta);
+    updateEffectiveStances(state);
+    const effectiveStanceAfter = state.conversation.effectiveStances.get(receiverId) ?? receiverRel.stance;
+    if (negOverflow > 0) {
+        const trustBefore = receiverRel.trust;
+        addInterPartTrust(receiverRel, -0.2 * negOverflow);
+        logTrustChange(state, receiverRel, trustBefore, speakerId, receiverId, 'overflow', out);
     }
+    out.push({ kind: 'shock', data: { receiverId, shockDelta, effectiveStanceBefore, effectiveStanceAfter, accumulatedShockDelta: newShockDelta, simTime: state.simTime } });
 
-    // Flip: if receiver is dysregulated negative, shock may trigger a polarity reversal.
-    const stanceAfterShock = receiverRel.stance;
-    if (stanceAfterShock < -REGULATION_STANCE_LIMIT && Math.random() < receiverRel.stanceFlipOdds) {
+    // Flip: if receiver effective stance is dysregulated negative, shock may trigger a polarity reversal.
+    if (effectiveStanceAfter < -REGULATION_STANCE_LIMIT && Math.random() < receiverRel.stanceFlipOdds) {
         const receiverSelfTrust = receiverId === state.partA.id ? state.partA.selfTrust : state.partB.selfTrust;
-        const s0 = stanceAfterShock;
+        const s0 = effectiveStanceAfter;
         const s1 = drawInitialStance(-s0, 0, receiverSelfTrust);
+        const rawBefore = receiverRel.stance;
         receiverRel.stance = clamp(s1);
+        state.conversation.shockDeltas.delete(receiverId);
+        out.push({ kind: 'rawStance', data: { partId: receiverId, rawStanceBefore: rawBefore, rawStanceAfter: receiverRel.stance, reason: 'flip', simTime: state.simTime } });
         const speakerRel2 = speakerId === state.partA.id ? state.relAB : state.relBA;
+        const speakerRawBefore = speakerRel2.stance;
         speakerRel2.stance = clamp(speakerRel2.stance - (s1 - s0));
+        out.push({ kind: 'rawStance', data: { partId: speakerId, rawStanceBefore: speakerRawBefore, rawStanceAfter: speakerRel2.stance, reason: 'counter-shock', simTime: state.simTime } });
         updateEffectiveStances(state);
-        const receiverName2 = receiverId === state.partA.id ? state.partA.name : state.partB.name;
-        const speakerName2 = speakerId === state.partA.id ? state.partA.name : state.partB.name;
         const pool = [...GENERIC_FLIP_UTTERANCES, ...(receiverRel.flipUtterances ?? [])];
         const utterance = pool[Math.floor(Math.random() * pool.length)];
         const flipMsg: Message = {
@@ -283,10 +290,12 @@ function applyStanceShock(speakerId: string, receiverId: string, speakerStance: 
         state.messages.push(flipMsg);
         out.push({ kind: 'message', data: flipMsg });
 
+        const receiverName = receiverId === state.partA.id ? state.partA.name : state.partB.name;
+        const speakerName = speakerId === state.partA.id ? state.partA.name : state.partB.name;
         const msg2: Message = {
             id: ++state.messageCounter,
             senderId: receiverId,
-            text: `${receiverName2} flipped: ${s0.toFixed(2)} → ${s1.toFixed(2)}; ${speakerName2} counter-shock ${(-(s0 - s1)).toFixed(2)}`,
+            text: `${receiverName} flipped: ${s0.toFixed(2)} → ${s1.toFixed(2)}; ${speakerName} counter-shock ${(-(s0 - s1)).toFixed(2)}`,
             phase: 'listen',
             type: 'trust',
         };
@@ -295,26 +304,28 @@ function applyStanceShock(speakerId: string, receiverId: string, speakerStance: 
     }
 }
 
-function logTrustChange(state: SimState, rel: InterPartRelation, before: number, fromId: string, toId: string, reason: string): void {
+function logTrustChange(state: SimState, rel: InterPartRelation, before: number, fromId: string, toId: string, reason: string, out: SimEvent[]): void {
     const after = rel.trust;
     if (Math.abs(after - before) < 0.001) return;
     const fromName = fromId === state.partA.id ? state.partA.name : state.partB.name;
     const toName = toId === state.partA.id ? state.partA.name : state.partB.name;
-    state.messages.push({
+    const msg: Message = {
         id: ++state.messageCounter,
         senderId: toId,
         text: `${fromName}→${toName} trust ${before.toFixed(2)} → ${after.toFixed(2)} (${reason})`,
         phase: 'listen',
         type: 'trust',
-    });
+    };
+    state.messages.push(msg);
+    out.push({ kind: 'message', data: msg });
 }
 
 // Returns [newSpeakerPhase, newListenerPhase] or null if no transition applies.
 export function nextPhases(phaseS: IfioPhase, phaseL: IfioPhase): [IfioPhase, IfioPhase] | null {
-    if (phaseS === 'speak'     && phaseL === 'listen')   return ['listen',   'mirror'];
-    if (phaseS === 'listen'    && phaseL === 'mirror')   return ['validate', 'listen'];
-    if (phaseS === 'validate'  && phaseL === 'listen')   return ['listen',   'empathize'];
-    if (phaseS === 'listen'    && phaseL === 'empathize') return ['listen',  'listen'];
+    if (phaseS === 'speak' && phaseL === 'listen') return ['listen', 'mirror'];
+    if (phaseS === 'listen' && phaseL === 'mirror') return ['validate', 'listen'];
+    if (phaseS === 'validate' && phaseL === 'listen') return ['listen', 'empathize'];
+    if (phaseS === 'listen' && phaseL === 'empathize') return ['listen', 'listen'];
     return null;
 }
 
@@ -334,18 +345,20 @@ function tryAdvancePhase(state: SimState, out: SimEvent[]): void {
     conversation.phases.set(speakerId, newPhaseS);
     conversation.phases.set(listenerId, newPhaseL);
 
-    out.push({ kind: 'phase', data: {
-        speakerId, listenerId,
-        oldPhaseS: phaseS, oldPhaseL: phaseL,
-        newPhaseS, newPhaseL,
-        rawStanceA: relAB.stance, rawStanceB: relBA.stance,
-        simTime: state.simTime,
-    }});
+    out.push({
+        kind: 'phase', data: {
+            speakerId, listenerId,
+            oldPhaseS: phaseS, oldPhaseL: phaseL,
+            newPhaseS, newPhaseL,
+            rawStanceA: relAB.stance, rawStanceB: relBA.stance,
+            simTime: state.simTime,
+        }
+    });
 
     if (phaseS === 'listen' && phaseL === 'empathize') {
         const before = relSL.trust;
         addInterPartTrust(relSL, 0.5 * (1 - relSL.trust));
-        logTrustChange(state, relSL, before, speakerId, listenerId, 'cycle complete');
+        logTrustChange(state, relSL, before, speakerId, listenerId, 'cycle complete', out);
         relSL.stance = relSL.stance * 0.5;
         state.cyclesCompleted++;
     }
@@ -568,6 +581,11 @@ export function tick(state: SimState, dt: number): SimEvent[] {
         if (Math.abs(newDelta) < 0.001) conversation.therapistDeltas.delete(id);
         else conversation.therapistDeltas.set(id, newDelta);
     }
+    for (const [id, delta] of conversation.shockDeltas) {
+        const newDelta = delta * Math.exp(-0.08 * dt);
+        if (Math.abs(newDelta) < 0.001) conversation.shockDeltas.delete(id);
+        else conversation.shockDeltas.set(id, newDelta);
+    }
 
     const regulated = conversation.regulationScore > 0.5;
 
@@ -659,6 +677,7 @@ export function createState(setup: SetupValues, scenario: ScenarioConfig): SimSt
         phases: new Map(),
         effectiveStances: new Map(),
         therapistDeltas: new Map(),
+        shockDeltas: new Map(),
         activeTupleIndex: new Map(),
         regulationScore: 0,
         respondTimer: 0,
