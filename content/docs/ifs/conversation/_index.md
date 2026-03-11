@@ -12,7 +12,9 @@ weight: 25
 
 Two parts from the Alcohol Addiction scenario — **Shamer** and **Drinker** — are in an IFIO-style directed dialogue. The simulation runs in real time. Watch how stance, regulation, and trust evolve as the conversation progresses.
 
-The IFIO conversation cycle has four steps per speaker turn:
+The IFIO conversation cycle is either 4 or 6 steps per speaker turn.
+
+**4-step** (standard):
 
 | Step | Speaker | Listener |
 |------|---------|----------|
@@ -20,6 +22,17 @@ The IFIO conversation cycle has four steps per speaker turn:
 | 2 | Listen | **Mirror** |
 | 3 | **Validate** | Listen |
 | 4 | Listen | **Empathize** |
+
+**6-step** (repair loop — when the first mirror misses):
+
+| Step | Speaker | Listener |
+|------|---------|----------|
+| 1 | **Speak** | Listen |
+| 2 | Listen | **Mirror** |
+| 3 | **Clarify** | Listen |
+| 4 | Listen | **Mirror again** |
+| 5 | **Validate** | Listen |
+| 6 | Listen | **Empathize** |
 
 The cycle advances only when both parts are *regulated* (stance within ±0.3). If the listening part's stance exceeds that limit they become the new speaker (listener violation). Completing the empathize step grants a large trust bonus; sustained regulation grants small periodic gains.
 

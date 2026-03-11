@@ -1,9 +1,12 @@
-export type IfioPhase = 'speak' | 'listen' | 'mirror' | 'validate' | 'empathize';
+export type IfioPhase = 'speak' | 'listen' | 'mirror' | 'clarify' | 'mirror2' | 'validate' | 'empathize';
 export type TrustBand = 'hostile' | 'guarded' | 'opening' | 'collaborative';
 
-export const PHASE_INDEX: Record<Exclude<IfioPhase, 'listen'>, number> = {
-    speak: 0, mirror: 1, validate: 2, empathize: 3
-};
+// 4-step tuple indices: [speak, mirror, validate, empathize]
+// 6-step tuple indices: [speak, mirror, clarify, mirror2, validate, empathize]
+const PHASE_INDEX_4: Record<string, number> = { speak: 0, mirror: 1, validate: 2, empathize: 3 };
+const PHASE_INDEX_6: Record<string, number> = { speak: 0, mirror: 1, clarify: 2, mirror2: 3, validate: 4, empathize: 5 };
+
+export const PHASE_INDEX = PHASE_INDEX_6;
 
 export const REGULATION_STANCE_LIMIT = 0.3;
 export const RESPOND_DELAY = 3;
@@ -162,7 +165,9 @@ export function getDialogue(rel: InterPartRelation, phase: IfioPhase, speakerId:
     const pool = rel.dialogues?.[band];
     if (!pool || pool.length === 0) return null;
     const idx = conv.activeTupleIndex.get(speakerId) ?? 0;
-    return pool[idx % pool.length][PHASE_INDEX[phase]] ?? null;
+    const tuple = pool[idx % pool.length];
+    const indexMap = tuple.length === 6 ? PHASE_INDEX_6 : PHASE_INDEX_4;
+    return tuple[indexMap[phase]] ?? null;
 }
 
 export function clamp(v: number, lo = -1, hi = 1): number {
@@ -321,12 +326,25 @@ function logTrustChange(state: SimState, rel: InterPartRelation, before: number,
 }
 
 // Returns [newSpeakerPhase, newListenerPhase] or null if no transition applies.
-export function nextPhases(phaseS: IfioPhase, phaseL: IfioPhase): [IfioPhase, IfioPhase] | null {
-    if (phaseS === 'speak' && phaseL === 'listen') return ['listen', 'mirror'];
-    if (phaseS === 'listen' && phaseL === 'mirror') return ['validate', 'listen'];
-    if (phaseS === 'validate' && phaseL === 'listen') return ['listen', 'empathize'];
-    if (phaseS === 'listen' && phaseL === 'empathize') return ['listen', 'listen'];
+// sixStep: true when the active tuple has 6 entries (adds clarify + mirror2 between mirror and validate).
+export function nextPhases(phaseS: IfioPhase, phaseL: IfioPhase, sixStep = false): [IfioPhase, IfioPhase] | null {
+    if (phaseS === 'speak'    && phaseL === 'listen')    return ['listen', 'mirror'];
+    if (phaseS === 'listen'   && phaseL === 'mirror')    return sixStep ? ['clarify', 'listen'] : ['validate', 'listen'];
+    if (phaseS === 'clarify'  && phaseL === 'listen')    return ['listen', 'mirror2'];
+    if (phaseS === 'listen'   && phaseL === 'mirror2')   return ['validate', 'listen'];
+    if (phaseS === 'validate' && phaseL === 'listen')    return ['listen', 'empathize'];
+    if (phaseS === 'listen'   && phaseL === 'empathize') return ['listen', 'listen'];
     return null;
+}
+
+function activeTupleLength(state: SimState): number {
+    const speakerId = state.conversation.speakerId;
+    const rel = speakerId === state.partA.id ? state.relAB : state.relBA;
+    const band = getTrustBand(rel.trust);
+    const pool = rel.dialogues?.[band];
+    if (!pool || pool.length === 0) return 4;
+    const idx = state.conversation.activeTupleIndex.get(speakerId) ?? 0;
+    return pool[idx % pool.length].length;
 }
 
 function tryAdvancePhase(state: SimState, out: SimEvent[]): void {
@@ -337,7 +355,8 @@ function tryAdvancePhase(state: SimState, out: SimEvent[]): void {
     const phaseL = conversation.phases.get(listenerId)!;
     const relSL = speakerId === partA.id ? relAB : relBA;
 
-    const next = nextPhases(phaseS, phaseL);
+    const sixStep = activeTupleLength(state) === 6;
+    const next = nextPhases(phaseS, phaseL, sixStep);
     if (!next) return;
 
     const [newPhaseS, newPhaseL] = next;
@@ -426,9 +445,9 @@ export function lookaheadUtterance(state: SimState, maxLook = 8): [boolean, numb
             const phaseL = isA(ls.speakerId) ? ls.phaseB : ls.phaseA;
 
             // Mirror actual tick: listeningPart is who is passively listening
-            // speak/listen → listener; listen/mirror → speaker; validate/listen → listener; listen/empathize → speaker
-            const listenerIsSpeaker = (phaseS === 'listen' && (phaseL === 'mirror' || phaseL === 'empathize'));
-            const hasListeningPart = nextPhases(phaseS, phaseL) !== null;
+            // speak/listen → listener; listen/mirror|mirror2|empathize → speaker; clarify/listen|validate/listen → listener
+            const listenerIsSpeaker = (phaseS === 'listen' && (phaseL === 'mirror' || phaseL === 'mirror2' || phaseL === 'empathize'));
+            const hasListeningPart = nextPhases(phaseS, phaseL, true) !== null;
             let listeningIsA: boolean | null = null;
             if (hasListeningPart) listeningIsA = listenerIsSpeaker ? isA(ls.speakerId) : !isA(ls.speakerId);
 
@@ -545,10 +564,12 @@ export function tick(state: SimState, dt: number): SimEvent[] {
     const phaseL = conversation.phases.get(listenerId)!;
 
     let listeningPart: string | null = null;
-    if (phaseS === 'speak' && phaseL === 'listen') listeningPart = listenerId;
-    else if (phaseS === 'listen' && phaseL === 'mirror') listeningPart = speakerId;
-    else if (phaseS === 'validate' && phaseL === 'listen') listeningPart = listenerId;
-    else if (phaseS === 'listen' && phaseL === 'empathize') listeningPart = speakerId;
+    if (phaseS === 'speak'    && phaseL === 'listen')   listeningPart = listenerId;
+    else if (phaseS === 'listen'   && phaseL === 'mirror')  listeningPart = speakerId;
+    else if (phaseS === 'clarify'  && phaseL === 'listen')  listeningPart = listenerId;
+    else if (phaseS === 'listen'   && phaseL === 'mirror2') listeningPart = speakerId;
+    else if (phaseS === 'validate' && phaseL === 'listen')  listeningPart = listenerId;
+    else if (phaseS === 'listen'   && phaseL === 'empathize') listeningPart = speakerId;
 
     if (listeningPart) {
         const listeningStance = conversation.effectiveStances.get(listeningPart)!;
