@@ -1,190 +1,182 @@
 import { ScenarioConfig } from './ifsConversationSim.js';
 
+// Each tuple is self-contained. Index order:
+// 4-step: [speak, mirror, validate, empathize]
+// 6-step: [speak, mirror, clarify, mirror2, validate, empathize]
+// Speaker lines: speak, clarify, validate
+// Listener lines: mirror, mirror2, empathize
+
 export const shamedDrinkerScenario: ScenarioConfig = {
     partA: { id: 'shamer', name: 'Shamer' },
     partB: { id: 'drinker', name: 'Drinker' },
     relAB: {
+        // Shamer speaks, Drinker listens
         trust: 0.2, trustFloor: 0,
         dialogues: {
             hostile: [
                 [
-                    "The Drinker is turning us into our parent.",
-                    "The Shamer thinks the Drinker is becoming our parent.",
-                    "Yes. The Drinker is doing exactly what our parent did.",
-                    "That lands hard. The Drinker doesn't want to hear it — but the Shamer is scared.",
+                    "Every time you pour a drink, I see our parent's face.", // speak  (Shamer)
+                    "You're saying I drink like our parent did.",   // mirror (Drinker)
+                    "You don't just remind me of them. You've become them.", // validate (Shamer)
+                    "Fine. I hear you. What can I do about it?", // empathize (Drinker)
                 ],
                 [
-                    "The Shamer won't let the Drinker have one moment of peace.",
-                    "The Drinker just wants the Shamer to back off.",
-                    "Every time the Drinker tries to rest, the Shamer is there attacking.",
-                    "The Drinker is exhausted by the Shamer. The Shamer hears that.",
+                    "You keep reaching for the bottle every time things get hard.", // speak  (Shamer)
+                    "You think I use drinking to avoid hard things.", // mirror (Drinker)
+                    "Yes. Every time there's pressure, it's the first place you go.", // validate (Shamer)
+                    "Maybe. Doesn't mean I have to stop.",   // empathize (Drinker)
                 ],
                 [
-                    "The Shamer is going to destroy everything we've built.",
-                    "The Drinker thinks the Shamer is tearing things apart.",
-                    "Not what the Shamer means. The Shamer is trying to stop a worse collapse.",
-                    "The Shamer is scared of a collapse — not trying to cause one.",
-                    "Right. The Shamer sees the collapse coming and doesn't know how to stop it.",
-                    "The Drinker didn't hear fear in it before. The Drinker can hear it now.",
+                    "You're going to destroy everything we've built.", // speak  (Shamer)
+                    "You think we're going to lose our driver's license.",             // mirror (Drinker)
+                    "Yes, but I'm trying to stop a worse collapse.", // clarify (Shamer)
+                    "You're scared of a comprehensive collapse.", // mirror2 (Drinker)
+                    "Right. I see it coming and I don't know how to stop it.", // validate (Shamer)
+                    "I get your fear, but what can I do about it?", // empathize (Drinker)
                 ],
             ],
             guarded: [
                 [
-                    "The Shamer has seen where this road leads.",
-                    "The Shamer is worried about where the drinking is heading.",
-                    "Yes. The Shamer has watched it happen before — with our parent.",
-                    "The Drinker didn't realize the Shamer was carrying that too.",
+                    "I've seen where this road leads.",            // speak  (Shamer)
+                    "You're worried about where this is heading.", // mirror (Drinker)
+                    "Yes. I've watched it happen to our parent.", // validate (Shamer)
+                    "I didn't realize you were carrying that too.", // empathize (Drinker)
                 ],
                 [
-                    "The Shamer is trying to protect us, not punish us.",
-                    "The Shamer wants to protect, not attack.",
-                    "Right. The Shamer just doesn't know how to do it without getting loud.",
-                    "The Drinker can see the Shamer is trying. That helps a little.",
+                    "I'm trying to protect us, not punish you.",   // speak  (Shamer)
+                    "You want to protect us, not attack me.",            // mirror (Drinker)
+                    "Right. I just don't know how to do it without getting loud.", // validate (Shamer)
+                    "I can see you're trying. That helps a little.", // empathize (Drinker)
                 ],
                 [
-                    "The Shamer keeps score of every slip.",
-                    "The Drinker feels judged — like the Shamer is counting failures.",
-                    "That's not quite it. The Shamer remembers because it's afraid of repeating.",
-                    "The Shamer tracks slips because it's afraid, not to punish.",
-                    "Yes. Every slip the Shamer remembers is a moment the Shamer was terrified.",
-                    "Keeping score out of fear — the Drinker didn't see it that way before.",
+                    "I keep track of every slip.",                 // speak  (Shamer)
+                    "You're keeping score — cataloguing everything I do wrong.", // mirror (Drinker)
+                    "No. I track them because each one terrified me.", // clarify (Shamer)
+                    "You're holding onto them out of fear, not to punish.", // mirror2 (Drinker)
+                    "Yes. Every slip I remember is a moment I was terrified.", // validate (Shamer)
+                    "I thought you were building a case. You were just scared.", // empathize (Drinker)
                 ],
             ],
             opening: [
                 [
-                    "The Shamer is scared — not angry. Scared we'll end up like our parent.",
-                    "The Shamer is frightened, not just critical.",
-                    "Yes. The anger is on top. Underneath it the Shamer is terrified.",
-                    "The Drinker didn't know fear was driving this. That changes something.",
+                    "I'm scared we'll end up like our parent.", // speak (Shamer)
+                    "You're frightened, not really critical.",        // mirror (Drinker)
+                    "Yes. The anger is on top. Underneath I'm terrified.", // validate (Shamer)
+                    "I didn't know fear was driving this. That changes something.", // empathize (Drinker)
                 ],
                 [
-                    "The Shamer doesn't want to be the enemy. The Shamer wants us to survive.",
-                    "The Shamer wants to be on the Drinker's side.",
-                    "Exactly. The Shamer needs the Drinker to still be here.",
-                    "The Drinker wants that too. Maybe we've both been fighting the wrong battle.",
+                    "I don't want to be your enemy. I want us to survive.", // speak (Shamer)
+                    "You want to be on my side.",                   // mirror (Drinker)
+                    "Exactly. I need you to still be here.",        // validate (Shamer)
+                    "I want that too. Maybe we've both been fighting the wrong battle.", // empathize (Drinker)
                 ],
                 [
-                    "The Shamer learned to be loud from our parent. The Shamer didn't choose it.",
-                    "The Shamer is saying it inherited this harshness.",
-                    "More than inherited — it was the only way the Shamer knew to care.",
-                    "The Shamer was harsh because caring quietly wasn't safe to learn.",
-                    "Yes. Loud and harsh was the only version of care the Shamer was shown.",
-                    "The Drinker sees the Shamer differently now. They learned from the same place.",
+                    "I learned to be loud from our parent. I didn't choose it.", // speak (Shamer)
+                    "You inherited this harshness?",  // mirror (Drinker)
+                    "More than inherited — it was the only way I knew to care.", // clarify (Shamer)
+                    "You were harsh because you never learned a quiet way.", // mirror2 (Drinker)
+                    "Yes. Loud and harsh was the only version of care I was shown.", // validate (Shamer)
+                    "I see you differently now.", // empathize (Drinker)
                 ],
             ],
             collaborative: [
                 [
-                    "What if the Shamer and the Drinker looked for another way together?",
-                    "The Shamer wants to find a different path — with the Drinker, not against.",
-                    "Yes. The Shamer is done fighting. The Shamer wants to problem-solve.",
-                    "The Drinker is in. Tell the Shamer what the Shamer needs from the Drinker.",
+                    "What if we looked for another way together?", // speak (Shamer)
+                    "You want to work together?", // mirror (Drinker)
+                    "Yes. I'm done fighting. I want to problem-solve.", // validate (Shamer)
+                    "I'm in. Tell me what you need from me.",       // empathize (Drinker)
                 ],
                 [
-                    "The Shamer could warn us without attacking. Just a signal, not a verdict.",
-                    "The Shamer is offering to tone down — just flag the danger instead of condemning.",
-                    "Right. The Shamer can do that if the Drinker agrees to listen.",
-                    "The Drinker can try to listen. That feels like a real agreement.",
-                ],
-                [
-                    "The Shamer wants to hand over some of this watching to the Drinker.",
-                    "The Shamer wants to share the vigilance — not carry it alone.",
-                    "It's less about sharing and more about trusting the Drinker to notice.",
-                    "The Shamer wants to trust the Drinker to catch the warning signs.",
-                    "Yes. If the Drinker can notice, the Shamer doesn't have to stay so loud.",
-                    "The Drinker wants that responsibility. The Drinker can try to hold it.",
+                    "I could warn us without attacking. Just a signal, not a verdict.", // speak (Shamer)
+                    "You're offering flag danger instead of condemning.", // mirror (Drinker)
+                    "Right. I can do that if you agree to listen.", // validate (Shamer)
+                    "I can try to listen. That feels like real progress.", // empathize (Drinker)
                 ],
             ],
         },
     },
     relBA: {
+        // Drinker speaks, Shamer listens
         trust: 0.2, trustFloor: 0,
         dialogues: {
             hostile: [
                 [
-                    "Leave the Drinker alone.",
-                    "The Drinker wants to be left alone.",
-                    "Yes. The Shamer's constant lectures make everything worse.",
-                    "The Shamer hears that. The Drinker feels hounded.",
+                    "Leave me alone.",                             // speak  (Drinker)
+                    "You want to be left alone.",                  // mirror (Shamer)
+                    "Yes. Your constant lectures make everything worse.", // validate (Drinker)
+                    "You feel hounded. Okay.",              // empathize (Shamer)
                 ],
                 [
-                    "The Shamer sounds just like our parent.",
-                    "The Drinker is saying the Shamer reminds the Drinker of our parent.",
-                    "Exactly. The same tone. The same contempt.",
-                    "That comparison stings. The Shamer doesn't want to be that.",
+                    "You sound just like our parent.",             // speak  (Drinker)
+                    "You're saying I remind you of our parent.",   // mirror (Shamer)
+                    "Exactly. Same tone. Same contempt.",          // validate (Drinker)
+                    "Good. Remember that next time you reach for the bottle.", // empathize (Shamer)
                 ],
                 [
-                    "The Drinker didn't ask for any of this.",
-                    "The Drinker feels like this was forced on it.",
-                    "Not just forced — the Drinker never had a choice about how it learned to cope.",
-                    "The Drinker is saying it had no choice — this was survival, not preference.",
-                    "Right. The Drinker was doing the only thing available. There was no better option then.",
-                    "The Shamer never thought about it as survival. That changes how the Shamer sees it.",
+                    "I didn't ask for any of this.",               // speak  (Drinker)
+                    "So you want credit for suffering?",           // mirror (Shamer)
+                    "No. I want you to stop acting like I chose this.", // clarify (Drinker)
+                    "You're saying this wasn't a choice — it was the only way you knew.", // mirror2 (Shamer)
+                    "Yes. I was surviving. There was nothing else available to me then.", // validate (Drinker)
+                    "I didn't see it that way.", // empathize (Shamer)
                 ],
             ],
             guarded: [
                 [
-                    "The Drinker is just trying to get through tonight.",
-                    "The Drinker needs to survive tonight — that's what this is about.",
-                    "Right. It's not about our parent. It's about right now.",
-                    "The Shamer can hear that. Tonight is hard.",
+                    "I'm just trying to get through tonight.",     // speak  (Drinker)
+                    "So you want me to back off?", // mirror (Shamer)
+                    "Right. Back off.", // validate (Drinker)
+                    "I hear that. Tonight is hard.",           // empathize (Shamer)
                 ],
                 [
-                    "The Shamer doesn't know how loud it gets inside.",
-                    "The Drinker is carrying a lot of noise the Shamer can't see.",
-                    "Yes. When it gets loud, drinking is the only thing that quiets it.",
-                    "The Shamer didn't know it was that loud. The Drinker is heard.",
+                    "You don't know how loud it gets inside.",     // speak  (Drinker)
+                    "You're carrying a lot of noise I can't see.", // mirror (Shamer)
+                    "Yes. When it gets loud, drinking is the only thing that quiets it.", // validate (Drinker)
+                    "I didn't know it was that loud.", // empathize (Shamer)
                 ],
                 [
-                    "The Drinker isn't weak. The Drinker is overwhelmed.",
-                    "The Drinker doesn't want to be seen as weak.",
-                    "It's more than that — the Drinker needs the Shamer to understand the difference.",
-                    "The Drinker is saying weak and overwhelmed are not the same thing.",
-                    "Yes. Weak is a choice. Overwhelmed is what happens when too much lands at once.",
-                    "The Shamer has been treating them as the same. The Shamer can stop doing that.",
+                    "I'm not weak. I'm overwhelmed.",              // speak  (Drinker)
+                    "You don't want to be seen as weak.",          // mirror (Shamer)
+                    "Yes, but I need you to understand the difference.", // clarify (Drinker)
+                    "Weak and overwhelmed are not the same?", // mirror2 (Shamer)
+                    "Yes. Weak is a choice. Overwhelmed is what happens when too much lands at once.", // validate (Drinker)
+                    "I've been treating them as the same. I can stop doing that.", // empathize (Shamer)
                 ],
             ],
             opening: [
                 [
-                    "The Drinker doesn't actually want to drink.",
-                    "The Drinker is saying the drinking isn't really what the Drinker wants.",
-                    "Right. The Drinker just doesn't know what else to do with all of this.",
-                    "Then the Shamer has been blaming the Drinker for something the Drinker is also struggling with.",
+                    "I don't actually want to drink.",             // speak  (Drinker)
+                    "So why do you keep hitting the bottle?", // mirror (Shamer)
+                    "I don't know what else to do with all of this.", // validate (Drinker)
+                    "Then I've been blaming you for something you're also struggling with.", // empathize (Shamer)
                 ],
                 [
-                    "The Drinker learned this from our parent. The Drinker didn't choose it.",
-                    "The Drinker is saying this pattern was inherited, not chosen.",
-                    "Yes. The Drinker has been carrying what our parent left behind.",
-                    "That took courage to say. The Shamer sees the Drinker differently now.",
+                    "You got the contempt. I got the bottle. Same parent.", // speak (Drinker)
+                    "You're saying we both inherited something from them.", // mirror (Shamer)
+                    "Yes. Different burdens. Same source.", // validate (Drinker)
+                    "Then we've been fighting each other over wounds we share.", // empathize (Shamer)
                 ],
                 [
-                    "The Drinker has been trying to put this down for a long time.",
-                    "The Drinker has been trying to stop.",
-                    "Not just trying — the Drinker has been exhausted by trying and failing alone.",
-                    "The Drinker has been trying to stop alone, and it's worn the Drinker out.",
-                    "Yes. Every failed attempt costs something. The Drinker is running low.",
-                    "The Shamer didn't know the Drinker was already fighting. The Shamer wants to help now.",
+                    "I've been trying to put this down for a long time.", // speak (Drinker)
+                    "Really?",                 // mirror (Shamer)
+                    "I've been exhausted by trying and failing alone.", // clarify (Drinker)
+                    "You've been trying to stop alone, and it's worn you out.", // mirror2 (Shamer)
+                    "Yes. Every failed attempt costs something. I'm running low.", // validate (Drinker)
+                    "I didn't know you were already fighting. I want to help now.", // empathize (Shamer)
                 ],
             ],
             collaborative: [
                 [
-                    "The Drinker wants the Shamer as an ally, not a judge.",
-                    "The Drinker needs the Shamer on the same side.",
-                    "Yes. If the Shamer is with the Drinker, the Drinker doesn't need the drinking as much.",
-                    "The Shamer wants that too. The Shamer has always wanted that.",
+                    "I want you as an ally, not a judge.",         // speak  (Drinker)
+                    "You need me on the same side.",               // mirror (Shamer)
+                    "Yes. If you're with me, I don't need the drinking as much.", // validate (Drinker)
+                    "I want that too. I've always wanted that.",   // empathize (Shamer)
                 ],
                 [
-                    "What if the Drinker checked in with the Shamer before reaching for the bottle?",
-                    "The Drinker is offering to pause and consult instead of acting alone.",
-                    "Right. Just a moment — enough to ask if there's another way.",
-                    "The Shamer can work with that. That's all the Shamer ever wanted.",
-                ],
-                [
-                    "The Drinker could use a signal — something that isn't an attack.",
-                    "The Drinker wants a way for the Shamer to reach it that doesn't feel like an assault.",
-                    "Something quieter — a nudge rather than a verdict.",
-                    "The Drinker wants the Shamer to find a gentler way to make contact.",
-                    "Yes. The Drinker can respond to a nudge. It's the verdict that shuts the Drinker down.",
-                    "The Shamer can learn to nudge. That's worth trying.",
+                    "What if I checked in with you before reaching for the bottle?", // speak (Drinker)
+                    "You're offering to pause and consult instead of acting alone.", // mirror (Shamer)
+                    "Right. Just a moment, to check whether there's another way.", // validate (Drinker)
+                    "I can work with that. That's all I ever wanted.", // empathize (Shamer)
                 ],
             ],
         },

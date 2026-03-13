@@ -37,19 +37,22 @@ Each relationship has a `dialogues` object with four trust bands:
 Each band holds one or more dialogue tuples. A tuple is either 4 or 6 strings. The length
 determines whether the cycle is 4-step or 6-step — the sim detects this automatically.
 
+Each tuple is self-contained: it holds both the speaker's lines and the listener's responses.
+The sim always reads all lines from the speaker's relationship tuple.
+
 4-step tuple:
-  index 0  speak      — the speaker's utterance
-  index 1  mirror     — the listener reflecting back what was heard
-  index 2  validate   — the speaker confirms or corrects the mirror
-  index 3  empathize  — the listener expresses felt understanding
+  index 0  speak      — speaker's utterance
+  index 1  mirror     — listener reflecting back what was heard
+  index 2  validate   — speaker confirms or corrects the mirror
+  index 3  empathize  — listener expresses felt understanding
 
 6-step tuple (adds a repair loop between mirror and validate):
-  index 0  speak      — the speaker's utterance
-  index 1  mirror     — the listener's first attempt to reflect (misses something)
-  index 2  clarify    — the speaker corrects or adds what was missed
-  index 3  mirror2    — the listener tries again with the new information
-  index 4  validate   — the speaker confirms the second mirror
-  index 5  empathize  — the listener expresses felt understanding
+  index 0  speak      — speaker's utterance
+  index 1  mirror     — listener's first attempt to reflect (misses something)
+  index 2  clarify    — speaker corrects or adds what was missed
+  index 3  mirror2    — listener tries again with the new information
+  index 4  validate   — speaker confirms the second mirror
+  index 5  empathize  — listener expresses felt understanding
 
 The sim picks a random tuple from the current trust band at the start of each cycle and
 uses that same tuple for all phases. Mix 4-step and 6-step tuples within a band to vary
@@ -62,23 +65,27 @@ WRITING DIALOGUE TUPLES
 Phase voice guidelines:
 
   speak      Authentic, present-tense feeling or observation. Charged but not performative.
-             Example: "Shamer is scared — not angry. Scared we'll end up like our parent."
+             Example: "I'm scared — not angry. Scared we'll end up like our parent."
 
-  mirror     Listener's reflection. In a 6-step tuple this first mirror should miss something —
-             it captures the surface but not the deeper meaning.
-             Example (misses): "I get that Shamer is frightened, not just critical."
+  mirror     Listener's reflection. Can be phrased as a statement or a question.
+             In a 6-step tuple this first mirror should substantially miss — misreading
+             intent, projecting a motive, or mistaking scope. A minor paraphrase error is
+             not enough; the speaker must need to correct a real misunderstanding.
+             Example (misses intent): "You're keeping score — cataloguing everything I do wrong."
+             Example (question form): "You're building a case against me?"
+             (The speaker was tracking their own fear, not building a case against the listener.)
 
   clarify    Speaker corrects or extends what the mirror got wrong or incomplete.
-             Example: "More than frightened — the Shamer is terrified we'll repeat the past."
+             Example: "More than frightened — I'm terrified we'll repeat the past."
 
   mirror2    Listener tries again with the new information. Should land closer.
-             Example: "The Shamer is terrified of repeating what happened with our parent."
+             Example: "You're terrified of repeating what happened with our parent."
 
   validate   Speaker confirms the mirror (or mirror2 in 6-step). May add a small detail.
-             Example: "Yes. The anger is on top. Underneath it the Shamer is terrified."
+             Example: "Yes. The anger is on top. Underneath I'm terrified."
 
   empathize  Listener responds with felt understanding — a shift, not just acknowledgment.
-             Example: "Drinker didn't know fear was driving this. That changes something."
+             Example: "I didn't know fear was driving this. That changes something."
 
 Trust band tone guidelines:
 
@@ -86,6 +93,9 @@ Trust band tone guidelines:
   guarded      Slightly more specific. Still self-protective but hints at real need.
   opening      Vulnerability with some residual guardedness. Risk is being taken.
   collaborative Both parts orient toward the relationship rather than defending positions.
+               At this trust level, communication tends to flow without repair loops — 4-step
+               tuples are usually sufficient. Reserve 6-step for cases where even collaborative
+               parts still talk past each other on a specific topic.
 
 Avoid:
 - Therapy-speak ("I feel…", "my inner child…", "boundaries")

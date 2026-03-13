@@ -8,13 +8,13 @@ import { shamedDrinkerScenario } from './ifsConversationData.js';
 
 const PART_COLORS = {
     a: { hex: '#3a6ea5', rgb: [80, 130, 220] as [number, number, number] },
-    b: { hex: '#a53a3a', rgb: [220, 75, 55]  as [number, number, number] },
+    b: { hex: '#a53a3a', rgb: [220, 75, 55] as [number, number, number] },
 } as const;
 
 const BALL_COLORS = {
-    neutralHi:   [255, 215,  80] as [number, number, number],
-    neutralMid:  [ 60, 190, 190] as [number, number, number],
-    neutralEdge: [130,  60, 200] as [number, number, number],
+    neutralHi: [255, 215, 80] as [number, number, number],
+    neutralMid: [60, 190, 190] as [number, number, number],
+    neutralEdge: [130, 60, 200] as [number, number, number],
 };
 
 function getEl<T extends Element>(parent: ParentNode, selector: string): T {
@@ -25,8 +25,18 @@ function getEl<T extends Element>(parent: ParentNode, selector: string): T {
 
 // ---- UI helpers ----
 
-function phaseLabel(phase: string): string {
+const DYSREGULATED_LABELS = ['Nag', 'Jab', 'Snap'];
+
+function phaseLabel(phase: string, subtype?: string): string {
+    if (subtype === 'dysregulated') return DYSREGULATED_LABELS[Math.floor(Math.random() * DYSREGULATED_LABELS.length)];
     return phase.charAt(0).toUpperCase() + phase.slice(1);
+}
+
+function trustEmoji(band: string): string {
+    if (band === 'hostile') return '😤';
+    if (band === 'guarded') return '😟';
+    if (band === 'opening') return '🙂';
+    return '🤝';
 }
 
 function pct(v: number): string {
@@ -63,15 +73,15 @@ function stanceHistogram(el: HTMLElement, bins: Float32Array, color: string, hig
         svg += `<rect x="${x.toFixed(1)}" y="${y.toFixed(1)}" width="${(barW - 0.5).toFixed(1)}" height="${barH.toFixed(1)}" fill="${color}" opacity="0.6"/>`;
     }
 
-    svg += `<line x1="0" y1="${H-12}" x2="${W}" y2="${H-12}" stroke="#bbb" stroke-width="1"/>`;
-    svg += `<line x1="${W/2}" y1="${H-14}" x2="${W/2}" y2="${H-10}" stroke="#aaa" stroke-width="1"/>`;
-    svg += `<text x="1" y="${H-1}" font-size="8" fill="#aaa">${mirror ? '+1' : '−1'}</text>`;
-    svg += `<text x="${W/2}" y="${H-1}" text-anchor="middle" font-size="8" fill="#aaa">0</text>`;
-    svg += `<text x="${W-1}" y="${H-1}" text-anchor="end" font-size="8" fill="#aaa">${mirror ? '−1' : '+1'}</text>`;
+    svg += `<line x1="0" y1="${H - 12}" x2="${W}" y2="${H - 12}" stroke="#bbb" stroke-width="1"/>`;
+    svg += `<line x1="${W / 2}" y1="${H - 14}" x2="${W / 2}" y2="${H - 10}" stroke="#aaa" stroke-width="1"/>`;
+    svg += `<text x="1" y="${H - 1}" font-size="8" fill="#aaa">${mirror ? '+1' : '−1'}</text>`;
+    svg += `<text x="${W / 2}" y="${H - 1}" text-anchor="middle" font-size="8" fill="#aaa">0</text>`;
+    svg += `<text x="${W - 1}" y="${H - 1}" text-anchor="end" font-size="8" fill="#aaa">${mirror ? '−1' : '+1'}</text>`;
 
     if (highlight !== null) {
         const x = toX(highlight);
-        svg += `<line x1="${x.toFixed(1)}" y1="0" x2="${x.toFixed(1)}" y2="${H-12}" stroke="${color}" stroke-width="2" opacity="0.95"/>`;
+        svg += `<line x1="${x.toFixed(1)}" y1="0" x2="${x.toFixed(1)}" y2="${H - 12}" stroke="${color}" stroke-width="2" opacity="0.95"/>`;
         svg += `<text x="${x.toFixed(1)}" y="9" text-anchor="middle" font-size="8" fill="${color}">${highlight >= 0 ? '+' : ''}${highlight.toFixed(2)}</text>`;
     }
 
@@ -107,10 +117,10 @@ function stanceChartInner(
 
     // Axis
     s += `<line x1="0" y1="${axisY}" x2="${W}" y2="${axisY}" stroke="#bbb" stroke-width="1"/>`;
-    s += `<line x1="${(W/2).toFixed(1)}" y1="${axisY-2}" x2="${(W/2).toFixed(1)}" y2="${axisY+2}" stroke="#aaa" stroke-width="1"/>`;
-    s += `<text x="1" y="${H-1}" font-size="8" fill="#aaa">${mirror ? '+1' : '−1'}</text>`;
-    s += `<text x="${(W/2).toFixed(1)}" y="${H-1}" text-anchor="middle" font-size="8" fill="#aaa">0</text>`;
-    s += `<text x="${W-1}" y="${H-1}" text-anchor="end" font-size="8" fill="#aaa">${mirror ? '−1' : '+1'}</text>`;
+    s += `<line x1="${(W / 2).toFixed(1)}" y1="${axisY - 2}" x2="${(W / 2).toFixed(1)}" y2="${axisY + 2}" stroke="#aaa" stroke-width="1"/>`;
+    s += `<text x="1" y="${H - 1}" font-size="8" fill="#aaa">${mirror ? '+1' : '−1'}</text>`;
+    s += `<text x="${(W / 2).toFixed(1)}" y="${H - 1}" text-anchor="middle" font-size="8" fill="#aaa">0</text>`;
+    s += `<text x="${W - 1}" y="${H - 1}" text-anchor="end" font-size="8" fill="#aaa">${mirror ? '−1' : '+1'}</text>`;
 
     // Onion skin: previous positions, oldest → most transparent/smaller
     for (let i = 0; i < history.length; i++) {
@@ -119,7 +129,7 @@ function stanceChartInner(
         const opacity = (Math.sqrt(1 - t) * 0.55).toFixed(2);
         const r = (5 * (1 - t * 0.6)).toFixed(1);
         const x = toX(history[i]);
-        s += `<circle cx="${x.toFixed(1)}" cy="${(axisY - 10).toFixed(1)}" r="${r}" fill="${color}" opacity="${opacity}"/>`;
+        s += `<circle cx="${x.toFixed(1)}" cy="${(axisY - 10).toFixed(1)}" r="${r}" fill="#888" opacity="${opacity}"/>`;
     }
 
     // Shock range bracket
@@ -145,7 +155,7 @@ function stanceChartInner(
         if (Math.abs(dx) > 3) {
             const dir = dx > 0 ? 1 : -1;
             s += `<line x1="${ex.toFixed(1)}" y1="${cy2.toFixed(1)}" x2="${(rx - dir * 6).toFixed(1)}" y2="${cy2.toFixed(1)}" stroke="${color}" stroke-width="1.5" stroke-dasharray="3,2" opacity="0.55"/>`;
-            s += `<polygon points="${rx.toFixed(1)},${cy2.toFixed(1)} ${(rx - dir*5).toFixed(1)},${(cy2-3).toFixed(1)} ${(rx - dir*5).toFixed(1)},${(cy2+3).toFixed(1)}" fill="${color}" opacity="0.55"/>`;
+            s += `<polygon points="${rx.toFixed(1)},${cy2.toFixed(1)} ${(rx - dir * 5).toFixed(1)},${(cy2 - 3).toFixed(1)} ${(rx - dir * 5).toFixed(1)},${(cy2 + 3).toFixed(1)}" fill="${color}" opacity="0.55"/>`;
         }
     }
 
@@ -278,10 +288,10 @@ function showSetup(container: HTMLElement, onStart: (v: SetupValues) => void): v
     }
 
     function updateDist(prefix: string, color: string, mirror = false): void {
-        const mag   = parseFloat(container.querySelector<HTMLInputElement>(`#ifs-stance-${prefix}`)!.value);
-        const flip  = parseFloat(container.querySelector<HTMLInputElement>(`#ifs-flip-${prefix}`)!.value);
+        const mag = parseFloat(container.querySelector<HTMLInputElement>(`#ifs-stance-${prefix}`)!.value);
+        const flip = parseFloat(container.querySelector<HTMLInputElement>(`#ifs-flip-${prefix}`)!.value);
         const trust = parseFloat(container.querySelector<HTMLInputElement>(`#ifs-trust-${prefix}`)!.value);
-        const el    = container.querySelector<HTMLElement>(`#ifs-dist-${prefix}`)!;
+        const el = container.querySelector<HTMLElement>(`#ifs-dist-${prefix}`)!;
         stanceHistogram(el, monteCarloStanceHist(mag, flip, trust), color, null, mirror);
     }
 
@@ -389,22 +399,29 @@ function downloadRecording(rec: Recording): void {
 function simHTML(): string {
     return `
         <div class="ifs-conv-wrap">
+            <div class="ifs-log-wrap">
+                <div class="ifs-log-label">
+                    <div class="ifs-regulation" id="ifs-regulation"></div>
+                    <div class="ifs-reg-score">Regulation: <span id="ifs-reg-score"></span></div>
+                    <div class="ifs-cycles">Cycles completed: <span id="ifs-cycles"></span></div>
+                    <div class="ifs-sim-controls">
+                        <button id="ifs-pause-btn" title="Pause/Resume (R to download recording)">Pause</button>
+                        <span class="ifs-speed-label">Speed:</span>
+                        <button class="ifs-speed-btn ifs-active" data-speed="0.25">¼×</button>
+                        <button class="ifs-speed-btn" data-speed="1">1×</button>
+                        <button class="ifs-speed-btn" data-speed="4">4×</button>
+                    </div>
+                </div>
+                <div class="ifs-log"></div>
+            </div>
             <div class="ifs-status-wrap">
                 <div class="ifs-status"></div>
                 <svg class="ifs-arc-svg" xmlns="http://www.w3.org/2000/svg">
                     <circle class="ifs-arc-ball" r="14" cx="-40" cy="-40"/>
                 </svg>
-            </div>
-            <div class="ifs-log-wrap">
-                <div class="ifs-log-label">Conversation log</div>
-                <div class="ifs-log"></div>
-            </div>
-            <div class="ifs-sim-controls">
-                <button id="ifs-pause-btn" title="Pause/Resume (R to download recording)">Pause</button>
-                <span class="ifs-speed-label">Speed:</span>
-                <button class="ifs-speed-btn ifs-active" data-speed="0.25">¼×</button>
-                <button class="ifs-speed-btn" data-speed="1">1×</button>
-                <button class="ifs-speed-btn" data-speed="4">4×</button>
+                <div id="ifs-nominate-banner" class="ifs-nominate-banner" style="display:none">
+                    Both parts are withdrawn. Use Activate to nominate a speaker.
+                </div>
             </div>
         </div>
     `;
@@ -416,7 +433,10 @@ function statusHTML(state: ReturnType<typeof createState>): string {
         <div class="ifs-status-grid">
             <div class="ifs-part-card" id="ifs-card-a">
                 <div class="ifs-part-name">${partA.name}</div>
-                <div class="ifs-phase">Phase: <strong id="ifs-phase-a"></strong></div>
+                <div class="ifs-card-cols">
+                    <div class="ifs-phase">Phase: <strong id="ifs-phase-a"></strong></div>
+                    <div class="ifs-trust-val ifs-card-col-trust" id="ifs-trust-row-ab"><span id="ifs-trust-ab-emoji"></span> <strong id="ifs-trust-ab"></strong> <span class="ifs-band" id="ifs-band-ab"></span></div>
+                </div>
                 <div class="ifs-desc" id="ifs-stance-desc-a"></div>
                 <div class="ifs-stance-bar" id="ifs-sbar-a"></div>
                 <div class="ifs-stance-bar-label">Stance distribution</div>
@@ -434,17 +454,13 @@ function statusHTML(state: ReturnType<typeof createState>): string {
                     <button class="ifs-btn" id="ifs-activate-a">Activate ▶</button>
                 </div>
             </div>
-            <div class="ifs-middle">
-                <div class="ifs-inter-trust">Inter-part trust</div>
-                <div class="ifs-trust-val" id="ifs-trust-row-ab">→: <strong id="ifs-trust-ab"></strong> <span class="ifs-band" id="ifs-band-ab"></span></div>
-                <div class="ifs-trust-val" id="ifs-trust-row-ba">←: <strong id="ifs-trust-ba"></strong> <span class="ifs-band" id="ifs-band-ba"></span></div>
-                <div class="ifs-regulation" id="ifs-regulation"></div>
-                <div class="ifs-reg-score">Regulation: <span id="ifs-reg-score"></span></div>
-                <div class="ifs-cycles">Cycles completed: <span id="ifs-cycles"></span></div>
-            </div>
+
             <div class="ifs-part-card" id="ifs-card-b">
                 <div class="ifs-part-name">${partB.name}</div>
-                <div class="ifs-phase">Phase: <strong id="ifs-phase-b"></strong></div>
+                <div class="ifs-card-cols">
+                    <div class="ifs-phase">Phase: <strong id="ifs-phase-b"></strong></div>
+                    <div class="ifs-trust-val ifs-card-col-trust" id="ifs-trust-row-ba"><span id="ifs-trust-ba-emoji"></span> <strong id="ifs-trust-ba"></strong> <span class="ifs-band" id="ifs-band-ba"></span></div>
+                </div>
                 <div class="ifs-desc" id="ifs-stance-desc-b"></div>
                 <div class="ifs-stance-bar" id="ifs-sbar-b"></div>
                 <div class="ifs-stance-bar-label">Stance distribution</div>
@@ -509,6 +525,8 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
     let rafId: number;
     let flashBtnId: string | null = null;
     let flashUntil = 0;
+    let waitingStartTime: number | null = null;
+    const BANNER_DELAY = 3000;
 
     const recording: Recording = { setup, events: [] };
     let lastMessageCount = 0;
@@ -522,7 +540,7 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
     const pauseBtn = getEl<HTMLButtonElement>(container, '#ifs-pause-btn');
 
     function onKey(e: KeyboardEvent): void {
-        if (e.key === 'r' || e.key === 'R') downloadRecording(recording);
+        if ((e.key === 'r' || e.key === 'R') && e.target === pauseBtn) downloadRecording(recording);
     }
 
     function wireControls(): void {
@@ -558,11 +576,11 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
     const HISTORY_INTERVAL = 2;
 
     function setText(id: string, text: string): void {
-        const el = statusEl.querySelector(`#${id}`);
+        const el = container.querySelector(`#${id}`);
         if (el && el.textContent !== text) el.textContent = text;
     }
     function setClass(id: string, cls: string, on: boolean): void {
-        statusEl.querySelector(`#${id}`)?.classList.toggle(cls, on);
+        container.querySelector(`#${id}`)?.classList.toggle(cls, on);
     }
     function shockMagFor(receiverId: string): number {
         return Math.abs(nextShockDist(state, receiverId)[0]);
@@ -586,10 +604,10 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
                 });
             });
         }
-        wireBtn('ifs-calm-a',     state.partA.id, -0.2);
-        wireBtn('ifs-activate-a', state.partA.id,  0.2);
-        wireBtn('ifs-calm-b',     state.partB.id, -0.2);
-        wireBtn('ifs-activate-b', state.partB.id,  0.2);
+        wireBtn('ifs-calm-a', state.partA.id, -0.2);
+        wireBtn('ifs-activate-a', state.partA.id, 0.2);
+        wireBtn('ifs-calm-b', state.partB.id, -0.2);
+        wireBtn('ifs-activate-b', state.partB.id, 0.2);
     }
     wireTherapistBtns();
 
@@ -691,30 +709,42 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
         updateHistory(stanceA, stanceB);
 
         // Calm = nudge toward 0 when stance > +0.3; Activate when stance < -0.3
-        const hintCalmA     = stanceA >  0.3;
+        const hintCalmA = stanceA > 0.3;
         const hintActivateA = stanceA < -0.3;
-        const hintCalmB     = stanceB >  0.3;
+        const hintCalmB = stanceB > 0.3;
         const hintActivateB = stanceB < -0.3;
 
-        setClass('ifs-card-a', 'ifs-speaker', conversation.speakerId === partA.id);
+        const bothWaiting = phaseA === 'waiting' && phaseB === 'waiting';
+        const bannerEl = container.querySelector<HTMLElement>('#ifs-nominate-banner');
+        if (bothWaiting) {
+            if (waitingStartTime === null) waitingStartTime = performance.now();
+            if (bannerEl) bannerEl.style.display = performance.now() - waitingStartTime >= BANNER_DELAY ? '' : 'none';
+        } else {
+            waitingStartTime = null;
+            if (bannerEl) bannerEl.style.display = 'none';
+        }
+
+        setClass('ifs-card-a', 'ifs-speaker', !bothWaiting && conversation.speakerId === partA.id);
         setText('ifs-phase-a', phaseLabel(phaseA));
         setText('ifs-stance-desc-a', stanceDescription(stanceA));
         setText('ifs-delta-a', (dA >= 0 ? '+' : '') + dA.toFixed(2));
-        setClass('ifs-calm-a',    'ifs-btn-flash', flashBtnId === 'ifs-calm-a' && flashing);
-        setClass('ifs-activate-a','ifs-btn-flash', flashBtnId === 'ifs-activate-a' && flashing);
-        setClass('ifs-calm-a',    'ifs-btn-hint',  hintCalmA && !(flashBtnId === 'ifs-calm-a' && flashing));
-        setClass('ifs-activate-a','ifs-btn-hint',  hintActivateA && !(flashBtnId === 'ifs-activate-a' && flashing));
+        setClass('ifs-calm-a', 'ifs-btn-flash', flashBtnId === 'ifs-calm-a' && flashing);
+        setClass('ifs-activate-a', 'ifs-btn-flash', flashBtnId === 'ifs-activate-a' && flashing);
+        setClass('ifs-calm-a', 'ifs-btn-hint', hintCalmA && !(flashBtnId === 'ifs-calm-a' && flashing));
+        setClass('ifs-activate-a', 'ifs-btn-hint', hintActivateA && !(flashBtnId === 'ifs-activate-a' && flashing));
         stanceChart(sbarA, stanceA, shockMagFor(partA.id), historyA.slice(0, -1), PART_COLORS.a.hex, false, relAB.stance);
         stanceHistogram(simDistA, binsA, PART_COLORS.a.hex, lastSampledA, false);
 
         setText('ifs-trust-ab', relAB.trust.toFixed(2));
         setText('ifs-band-ab', getTrustBand(relAB.trust));
+        setText('ifs-trust-ab-emoji', trustEmoji(getTrustBand(relAB.trust)));
         setText('ifs-trust-ba', relBA.trust.toFixed(2));
         setText('ifs-band-ba', getTrustBand(relBA.trust));
+        setText('ifs-trust-ba-emoji', trustEmoji(getTrustBand(relBA.trust)));
         setClass('ifs-trust-row-ab', 'ifs-trust-row-speaker', conversation.speakerId === partA.id);
         setClass('ifs-trust-row-ba', 'ifs-trust-row-speaker', conversation.speakerId === partB.id);
 
-        const regEl = statusEl.querySelector('#ifs-regulation');
+        const regEl = container.querySelector('#ifs-regulation');
         if (regEl) {
             regEl.textContent = regulated ? 'Regulated' : 'Dysregulated';
             regEl.className = `ifs-regulation ${regulated ? 'ifs-regulated' : 'ifs-dysregulated'}`;
@@ -722,14 +752,14 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
         setText('ifs-reg-score', pct(conversation.regulationScore));
         setText('ifs-cycles', String(state.cyclesCompleted));
 
-        setClass('ifs-card-b', 'ifs-speaker', conversation.speakerId === partB.id);
+        setClass('ifs-card-b', 'ifs-speaker', !bothWaiting && conversation.speakerId === partB.id);
         setText('ifs-phase-b', phaseLabel(phaseB));
         setText('ifs-stance-desc-b', stanceDescription(stanceB));
         setText('ifs-delta-b', (dB >= 0 ? '+' : '') + dB.toFixed(2));
-        setClass('ifs-calm-b',    'ifs-btn-flash', flashBtnId === 'ifs-calm-b' && flashing);
-        setClass('ifs-activate-b','ifs-btn-flash', flashBtnId === 'ifs-activate-b' && flashing);
-        setClass('ifs-calm-b',    'ifs-btn-hint',  hintCalmB && !(flashBtnId === 'ifs-calm-b' && flashing));
-        setClass('ifs-activate-b','ifs-btn-hint',  hintActivateB && !(flashBtnId === 'ifs-activate-b' && flashing));
+        setClass('ifs-calm-b', 'ifs-btn-flash', flashBtnId === 'ifs-calm-b' && flashing);
+        setClass('ifs-activate-b', 'ifs-btn-flash', flashBtnId === 'ifs-activate-b' && flashing);
+        setClass('ifs-calm-b', 'ifs-btn-hint', hintCalmB && !(flashBtnId === 'ifs-calm-b' && flashing));
+        setClass('ifs-activate-b', 'ifs-btn-hint', hintActivateB && !(flashBtnId === 'ifs-activate-b' && flashing));
         stanceChart(sbarB, stanceB, shockMagFor(partB.id), historyB.slice(0, -1), PART_COLORS.b.hex, true, relBA.stance);
         stanceHistogram(simDistB, binsB, PART_COLORS.b.hex, lastSampledB, true);
     }
@@ -759,8 +789,8 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
         const strength = Math.max(0, (Math.abs(bias - 0.5) - 0.05) / 0.45);
         const sideColor = bias < 0.5 ? colorA : colorB;
 
-        const hi   = lerpColor(neutralHi,   sideColor, strength);
-        const mid  = lerpColor(neutralMid,  sideColor, strength * 0.7);
+        const hi = lerpColor(neutralHi, sideColor, strength);
+        const mid = lerpColor(neutralMid, sideColor, strength * 0.7);
         const edge = lerpColor(neutralEdge, sideColor, strength * 0.5);
 
         stop0.setAttribute('stop-color', `rgb(${hi[0]},${hi[1]},${hi[2]})`);
@@ -780,14 +810,15 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
             const m = state.messages[i];
             const div = document.createElement('div');
             if (m.type === 'trust') {
-                div.className = 'ifs-msg ifs-msg-trust';
+                const sub = m.subtype ? ` ifs-msg-trust-${m.subtype}` : '';
+                div.className = `ifs-msg ifs-msg-trust${sub}`;
                 div.innerHTML = `<span class="ifs-msg-trust-text">${m.text}</span>`;
             } else {
                 const isA = m.senderId === state.partA.id;
                 const name = isA ? state.partA.name : state.partB.name;
                 div.className = `ifs-msg ${isA ? 'ifs-msg-left' : 'ifs-msg-right'}`;
                 div.innerHTML = `<span class="ifs-msg-sender">${name}</span>` +
-                    `<span class="ifs-msg-phase">[${phaseLabel(m.phase)}]</span>` +
+                    `<span class="ifs-msg-phase">[${phaseLabel(m.phase, m.subtype)}]</span>` +
                     `<span class="ifs-msg-text">${m.text}</span>`;
             }
             logEl.appendChild(div);

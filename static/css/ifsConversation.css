@@ -28,7 +28,7 @@
 
 .ifs-status-grid {
     display: grid;
-    grid-template-columns: 1fr auto 1fr;
+    grid-template-columns: 1fr 1fr;
     gap: 1rem;
     align-items: start;
 }
@@ -94,20 +94,18 @@
     color: #7a5500 !important;
 }
 
-.ifs-middle {
-    text-align: center;
-    padding: 0.5rem;
+
+.ifs-card-cols {
     display: flex;
-    flex-direction: column;
-    gap: 0.3rem;
-    align-items: center;
-    justify-content: center;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 0.5rem;
+    margin-bottom: 0.2rem;
 }
 
-.ifs-inter-trust {
-    font-weight: bold;
-    font-size: 0.85rem;
-    color: #555;
+.ifs-card-col-trust {
+    white-space: nowrap;
+    text-align: right;
 }
 
 .ifs-trust-val {
@@ -115,11 +113,8 @@
 }
 
 .ifs-trust-row-speaker {
-    background: #eef3fa;
     border-radius: 4px;
     padding: 0.1rem 0.3rem;
-    outline: 2px solid #3a6ea5;
-    outline-offset: 1px;
 }
 
 .ifs-band {
@@ -169,11 +164,16 @@
 
 .ifs-log-label {
     background: #f0f0f0;
-    padding: 0.4rem 0.75rem;
-    font-weight: bold;
-    font-size: 0.85rem;
-    color: #555;
+    padding: 0.3rem 0.75rem;
     border-bottom: 1px solid #ddd;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+}
+
+.ifs-log-label .ifs-regulation {
+    margin-top: 0;
 }
 
 .ifs-log {
@@ -227,8 +227,41 @@
 
 .ifs-msg-trust-text {
     font-size: 0.75em;
-    color: #999;
+    color: #777;
     font-style: italic;
+}
+
+.ifs-msg-trust-cycle-complete .ifs-msg-trust-text {
+    color: #444;
+    font-weight: 600;
+}
+
+.ifs-msg-trust-cycle-complete .ifs-msg-trust-text::before { content: '— '; }
+.ifs-msg-trust-cycle-complete .ifs-msg-trust-text::after  { content: ' —'; }
+
+.ifs-msg-trust-overflow .ifs-msg-trust-text {
+    color: #b04a00;
+}
+
+.ifs-msg-trust-counter-shock .ifs-msg-trust-text {
+    color: #7a3a8c;
+}
+
+.ifs-nominate-banner {
+    position: absolute;
+    top: 0.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 3;
+    text-align: center;
+    padding: 0.4rem 1.2rem;
+    background: #fff3cd;
+    border: 1px solid #d4a017;
+    border-radius: 6px;
+    color: #7a5500;
+    font-size: 0.9rem;
+    white-space: nowrap;
+    pointer-events: none;
 }
 
 .ifs-sim-controls {
@@ -236,6 +269,7 @@
     gap: 0.5rem;
     align-items: center;
     flex-wrap: wrap;
+    margin-left: auto;
 }
 
 .ifs-sim-controls button {
@@ -358,9 +392,5 @@
     .ifs-status-grid {
         grid-template-columns: 1fr;
     }
-    .ifs-middle {
-        flex-direction: row;
-        flex-wrap: wrap;
-        justify-content: center;
-    }
+
 }

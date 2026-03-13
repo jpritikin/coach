@@ -1,4 +1,4 @@
-export type IfioPhase = 'speak' | 'listen' | 'mirror' | 'clarify' | 'mirror2' | 'validate' | 'empathize';
+export type IfioPhase = 'speak' | 'listen' | 'mirror' | 'clarify' | 'mirror2' | 'validate' | 'empathize' | 'waiting';
 export type TrustBand = 'hostile' | 'guarded' | 'opening' | 'collaborative';
 
 // 4-step tuple indices: [speak, mirror, validate, empathize]
@@ -54,8 +54,8 @@ export interface ConversationState {
     effectiveStances: Map<string, number>;
     therapistDeltas: Map<string, number>;
     shockDeltas: Map<string, number>;
-    // Active dialogue tuple index per speakerId, rolled once per cycle
-    activeTupleIndex: Map<string, number>;
+    // Active dialogue tuple index, rolled once per cycle for the speaker
+    activeTupleIndex: number;
     regulationScore: number;
     respondTimer: number;
     newCycleTimer: number;
@@ -65,6 +65,7 @@ export interface ConversationState {
     ballVel: number;
     ballUttererIsA: boolean;
     ballBias: number; // 0=all-A, 0.5=balanced, 1=all-B
+    dysregulatedSpokePending: boolean;
 }
 
 export interface Message {
@@ -73,6 +74,7 @@ export interface Message {
     text: string;
     phase: IfioPhase;
     type: 'dialogue' | 'trust';
+    subtype?: 'cycle-complete' | 'overflow' | 'counter-shock' | 'dysregulated';
 }
 
 export interface ShockEvent {
@@ -152,20 +154,18 @@ export function getTrustBand(trust: number): TrustBand {
     return 'collaborative';
 }
 
-export function rollTupleIndex(rel: InterPartRelation, speakerId: string, conv: ConversationState): void {
+export function rollTupleIndex(rel: InterPartRelation, conv: ConversationState): void {
     const band = getTrustBand(rel.trust);
     const pool = rel.dialogues?.[band];
-    const idx = pool && pool.length > 0 ? Math.floor(Math.random() * pool.length) : 0;
-    conv.activeTupleIndex.set(speakerId, idx);
+    conv.activeTupleIndex = pool && pool.length > 0 ? Math.floor(Math.random() * pool.length) : 0;
 }
 
-export function getDialogue(rel: InterPartRelation, phase: IfioPhase, speakerId: string, conv: ConversationState): string | null {
+export function getDialogue(rel: InterPartRelation, phase: IfioPhase, conv: ConversationState): string | null {
     if (phase === 'listen') return null;
     const band = getTrustBand(rel.trust);
     const pool = rel.dialogues?.[band];
     if (!pool || pool.length === 0) return null;
-    const idx = conv.activeTupleIndex.get(speakerId) ?? 0;
-    const tuple = pool[idx % pool.length];
+    const tuple = pool[conv.activeTupleIndex % pool.length];
     const indexMap = tuple.length === 6 ? PHASE_INDEX_6 : PHASE_INDEX_4;
     return tuple[indexMap[phase]] ?? null;
 }
@@ -227,15 +227,20 @@ function initConversation(state: SimState): void {
     relBA.stance = drawInitialStance(relBA.stance, relBA.stanceFlipOdds, partB.selfTrust);
     const stanceA = getEffectiveStance(relAB.stance, 0);
     const stanceB = getEffectiveStance(relBA.stance, 0);
-    const speakerId = stanceA >= stanceB ? partA.id : partB.id;
-    const listenerId = speakerId === partA.id ? partB.id : partA.id;
-    conversation.speakerId = speakerId;
-    conversation.phases.set(speakerId, 'speak');
-    conversation.phases.set(listenerId, 'listen');
     conversation.effectiveStances.set(partA.id, stanceA);
     conversation.effectiveStances.set(partB.id, stanceB);
-    const initRel = speakerId === partA.id ? relAB : relBA;
-    rollTupleIndex(initRel, speakerId, conversation);
+    if (stanceA < 0 && stanceB < 0) {
+        conversation.phases.set(partA.id, 'waiting');
+        conversation.phases.set(partB.id, 'waiting');
+    } else {
+        const speakerId = stanceA >= stanceB ? partA.id : partB.id;
+        const listenerId = speakerId === partA.id ? partB.id : partA.id;
+        conversation.speakerId = speakerId;
+        conversation.phases.set(speakerId, 'speak');
+        conversation.phases.set(listenerId, 'listen');
+        const initRel = speakerId === partA.id ? relAB : relBA;
+        rollTupleIndex(initRel, conversation);
+    }
 }
 
 function updateEffectiveStances(state: SimState): void {
@@ -295,6 +300,15 @@ function applyStanceShock(speakerId: string, receiverId: string, speakerStance: 
         state.messages.push(flipMsg);
         out.push({ kind: 'message', data: flipMsg });
 
+        // Reset phase: whoever flipped becomes speaker
+        const newListenerId = receiverId === state.partA.id ? state.partB.id : state.partA.id;
+        state.conversation.speakerId = receiverId;
+        state.conversation.phases.set(receiverId, 'speak');
+        state.conversation.phases.set(newListenerId, 'listen');
+        state.conversation.respondTimer = 0;
+        const flipperRel = receiverId === state.partA.id ? state.relAB : state.relBA;
+        rollTupleIndex(flipperRel, state.conversation);
+
         const receiverName = receiverId === state.partA.id ? state.partA.name : state.partB.name;
         const speakerName = speakerId === state.partA.id ? state.partA.name : state.partB.name;
         const msg2: Message = {
@@ -303,6 +317,7 @@ function applyStanceShock(speakerId: string, receiverId: string, speakerStance: 
             text: `${receiverName} flipped: ${s0.toFixed(2)} → ${s1.toFixed(2)}; ${speakerName} counter-shock ${(-(s0 - s1)).toFixed(2)}`,
             phase: 'listen',
             type: 'trust',
+            subtype: 'counter-shock',
         };
         state.messages.push(msg2);
         out.push({ kind: 'message', data: msg2 });
@@ -320,6 +335,7 @@ function logTrustChange(state: SimState, rel: InterPartRelation, before: number,
         text: `${fromName}→${toName} trust ${before.toFixed(2)} → ${after.toFixed(2)} (${reason})`,
         phase: 'listen',
         type: 'trust',
+        subtype: reason === 'cycle complete' ? 'cycle-complete' : reason === 'overflow' ? 'overflow' : undefined,
     };
     state.messages.push(msg);
     out.push({ kind: 'message', data: msg });
@@ -343,8 +359,7 @@ function activeTupleLength(state: SimState): number {
     const band = getTrustBand(rel.trust);
     const pool = rel.dialogues?.[band];
     if (!pool || pool.length === 0) return 4;
-    const idx = state.conversation.activeTupleIndex.get(speakerId) ?? 0;
-    return pool[idx % pool.length].length;
+    return pool[state.conversation.activeTupleIndex % pool.length].length;
 }
 
 function tryAdvancePhase(state: SimState, out: SimEvent[]): void {
@@ -479,8 +494,8 @@ export function lookaheadUtterance(state: SimState, maxLook = 8): [boolean, numb
                     ls.respondTimer += dt;
                     if (ls.respondTimer >= RESPOND_DELAY) fires = true;
                 } else if (uttererPhase === 'speak' && uttererStance >= REGULATION_STANCE_LIMIT) {
-                    const s = uttererStance + 0.3;
-                    fires = Math.random() < Math.max(0, s) ** 2 * SPEAK_BASE_RATE * dt;
+                    const s = Math.min(1, Math.max(0, uttererStance + 0.3));
+                    fires = Math.random() < s * SPEAK_BASE_RATE * dt;
                 }
                 if (fires) return [uttererIsA, t + dt];
             }
@@ -536,21 +551,53 @@ export function tick(state: SimState, dt: number): SimEvent[] {
     const phaseA = conversation.phases.get(partA.id)!;
     const phaseB = conversation.phases.get(partB.id)!;
 
+    if (phaseA === 'waiting' && phaseB === 'waiting') {
+        // Decay therapist deltas so Activate nudges work normally
+        for (const [id, delta] of conversation.therapistDeltas) {
+            const newDelta = delta * Math.exp(-0.08 * dt);
+            if (Math.abs(newDelta) < 0.001) conversation.therapistDeltas.delete(id);
+            else conversation.therapistDeltas.set(id, newDelta);
+        }
+        updateEffectiveStances(state);
+        const effA = conversation.effectiveStances.get(partA.id)!;
+        const effB = conversation.effectiveStances.get(partB.id)!;
+        if (effA >= 0 || effB >= 0) {
+            const speakerId = effA >= effB ? partA.id : partB.id;
+            const listenerId = speakerId === partA.id ? partB.id : partA.id;
+            conversation.speakerId = speakerId;
+            conversation.phases.set(speakerId, 'speak');
+            conversation.phases.set(listenerId, 'listen');
+            conversation.respondTimer = 0;
+            const speakerRel = speakerId === partA.id ? relAB : relBA;
+            const speakerSelfTrust = speakerId === partA.id ? partA.selfTrust : partB.selfTrust;
+            resampleStance(speakerRel, speakerSelfTrust);
+            out.push({ kind: 'nominate', data: { speakerId, sampledStance: speakerRel.stance } });
+            rollTupleIndex(speakerRel, conversation);
+        }
+        state.simTime += dt;
+        return out;
+    }
+
     if (phaseA === 'listen' && phaseB === 'listen') {
         conversation.newCycleTimer += dt;
         if (conversation.newCycleTimer >= NEW_CYCLE_DELAY) {
             conversation.newCycleTimer = 0;
-            const newSpeaker = stanceA >= stanceB ? partA.id : partB.id;
-            const newListener = newSpeaker === partA.id ? partB.id : partA.id;
-            conversation.speakerId = newSpeaker;
-            conversation.phases.set(newSpeaker, 'speak');
-            conversation.phases.set(newListener, 'listen');
-            conversation.respondTimer = 0;
-            const newSpeakerRel = newSpeaker === partA.id ? relAB : relBA;
-            const newSpeakerSelfTrust = newSpeaker === partA.id ? partA.selfTrust : partB.selfTrust;
-            resampleStance(newSpeakerRel, newSpeakerSelfTrust);
-            out.push({ kind: 'nominate', data: { speakerId: newSpeaker, sampledStance: newSpeakerRel.stance } });
-            rollTupleIndex(newSpeakerRel, newSpeaker, conversation);
+            if (stanceA < 0 && stanceB < 0) {
+                conversation.phases.set(partA.id, 'waiting');
+                conversation.phases.set(partB.id, 'waiting');
+            } else {
+                const newSpeaker = stanceA >= stanceB ? partA.id : partB.id;
+                const newListener = newSpeaker === partA.id ? partB.id : partA.id;
+                conversation.speakerId = newSpeaker;
+                conversation.phases.set(newSpeaker, 'speak');
+                conversation.phases.set(newListener, 'listen');
+                conversation.respondTimer = 0;
+                const newSpeakerRel = newSpeaker === partA.id ? relAB : relBA;
+                const newSpeakerSelfTrust = newSpeaker === partA.id ? partA.selfTrust : partB.selfTrust;
+                resampleStance(newSpeakerRel, newSpeakerSelfTrust);
+                out.push({ kind: 'nominate', data: { speakerId: newSpeaker, sampledStance: newSpeakerRel.stance } });
+                rollTupleIndex(newSpeakerRel, conversation);
+            }
         }
         tickBall(state, dt);
         state.simTime += dt;
@@ -583,7 +630,7 @@ export function tick(state: SimState, dt: number): SimEvent[] {
                 conversation.phases.set(newListener, 'listen');
                 conversation.respondTimer = 0;
                 const violatorRel = listeningPart === partA.id ? relAB : relBA;
-                rollTupleIndex(violatorRel, listeningPart, conversation);
+                rollTupleIndex(violatorRel, conversation);
             }
         } else {
             conversation.listenerViolationTimer = 0;
@@ -623,14 +670,19 @@ export function tick(state: SimState, dt: number): SimEvent[] {
 
         if (uttererPhase === 'speak') {
             if (regulated) {
-                conversation.respondTimer += dt;
-                if (conversation.respondTimer >= RESPOND_DELAY) {
-                    shouldSpeak = true;
-                    advanceAfter = true;
+                if (conversation.dysregulatedSpokePending) {
+                    conversation.dysregulatedSpokePending = false;
+                    tryAdvancePhase(state, out);
+                } else {
+                    conversation.respondTimer += dt;
+                    if (conversation.respondTimer >= RESPOND_DELAY) {
+                        shouldSpeak = true;
+                        advanceAfter = true;
+                    }
                 }
             } else if (uttererStance >= REGULATION_STANCE_LIMIT) {
-                const s = uttererStance + 0.3;
-                shouldSpeak = Math.random() < Math.max(0, s) ** 2 * SPEAK_BASE_RATE * dt;
+                const s = Math.min(1, Math.max(0, uttererStance + 0.3));
+                shouldSpeak = Math.random() < s * SPEAK_BASE_RATE * dt;
             }
         } else {
             if (regulated) {
@@ -643,13 +695,19 @@ export function tick(state: SimState, dt: number): SimEvent[] {
         }
 
         if (shouldSpeak) {
-            const text = getDialogue(uttererRel, uttererPhase, utterer, conversation);
+            if (!advanceAfter) rollTupleIndex(uttererRel, conversation);
+            const speakerRel = conversation.speakerId === partA.id ? relAB : relBA;
+            const text = getDialogue(speakerRel, uttererPhase, conversation);
             if (text) {
-                const msg: Message = { id: ++state.messageCounter, senderId: utterer, text, phase: uttererPhase, type: 'dialogue' };
+                const msg: Message = { id: ++state.messageCounter, senderId: utterer, text, phase: uttererPhase, type: 'dialogue', subtype: advanceAfter ? undefined : 'dysregulated' };
                 state.messages.push(msg);
                 out.push({ kind: 'message', data: msg });
                 applyStanceShock(utterer, uttererReceiver, uttererStance, state, out);
-                if (advanceAfter) tryAdvancePhase(state, out);
+                if (advanceAfter) {
+                    tryAdvancePhase(state, out);
+                } else {
+                    conversation.dysregulatedSpokePending = true;
+                }
             }
         }
     }
@@ -699,7 +757,7 @@ export function createState(setup: SetupValues, scenario: ScenarioConfig): SimSt
         effectiveStances: new Map(),
         therapistDeltas: new Map(),
         shockDeltas: new Map(),
-        activeTupleIndex: new Map(),
+        activeTupleIndex: 0,
         regulationScore: 0,
         respondTimer: 0,
         newCycleTimer: 0,
@@ -708,6 +766,7 @@ export function createState(setup: SetupValues, scenario: ScenarioConfig): SimSt
         ballVel: 0,
         ballUttererIsA: true,
         ballBias: 0.5,
+        dysregulatedSpokePending: false,
     };
 
     const state: SimState = {
