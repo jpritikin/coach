@@ -15,6 +15,20 @@ const LISTENER_VIOLATION_GRACE = 1.0;
 const REGULATION_RECOVER_RATE = 0.5;
 const REGULATION_DECAY_RATE = 0.3;
 const SPEAK_BASE_RATE = 0.5;
+export const DELTA_DECAY_RATE = 0.08;
+export const THERAPIST_NUDGE = 0.2;
+export const CYCLE_TRUST_BOOST_FACTOR = 0.5;
+export const CYCLE_STANCE_SOFTEN = 0.5;
+export const OVERFLOW_TRUST_PENALTY = 0.2;
+
+// Stance label thresholds (strict >): flooding > STANCE_FLOODING, etc.
+export const STANCE_FLOODING    =  0.6;
+export const STANCE_SHUTDOWN    = -0.6;
+
+// Trust band thresholds (strict <): hostile < TRUST_GUARDED, etc.
+export const TRUST_GUARDED      = 0.3;
+export const TRUST_OPENING      = 0.5;
+export const TRUST_COLLABORATIVE = 0.7;
 
 export interface ConversationDialogues {
     hostile?: string[][];
@@ -66,6 +80,8 @@ export interface ConversationState {
     ballUttererIsA: boolean;
     ballBias: number; // 0=all-A, 0.5=balanced, 1=all-B
     dysregulatedSpokePending: boolean;
+    // Consecutive dysregulated utterances received without a regulated break, per receiver
+    dysregStreak: Map<string, number>;
 }
 
 export interface Message {
@@ -130,10 +146,14 @@ export interface SimState {
     cyclesCompleted: number;
 }
 
+// k such that e^(5k) = 1.2 — streak multiplier reaches ~20% at n=5 dysregulated utterances in a row
+const STREAK_K = Math.log(1.2) / 5;
+
 // Returns [deltaIfDefault, deltaIfFlip, probFlip].
 // Default: push away from speaker stance. Flip (prob=receiver flipOdds): pull toward speaker stance.
-function shockParams(speakerStance: number, selfTrust: number, receiverRel: InterPartRelation): [number, number, number] {
-    const shockMag = 0.3 * Math.abs(speakerStance) * 2 / ((1 + selfTrust) * (1 + receiverRel.trust));
+function shockParams(speakerStance: number, selfTrust: number, receiverRel: InterPartRelation, streak = 0): [number, number, number] {
+    const streakMult = Math.exp(STREAK_K * streak);
+    const shockMag = streakMult * 0.3 * Math.abs(speakerStance) * 2 / ((1 + selfTrust) * (1 + receiverRel.trust));
     return [-Math.sign(speakerStance) * shockMag, Math.sign(speakerStance) * shockMag, receiverRel.stanceFlipOdds];
 }
 
@@ -144,13 +164,14 @@ export function nextShockDist(state: SimState, receiverId: string): [number, num
     const receiverRel = isReceiverA ? state.relAB : state.relBA;
     const selfTrust = isReceiverA ? partA.selfTrust : partB.selfTrust;
     const speakerStance = state.conversation.effectiveStances.get(speakerId) ?? 0;
-    return shockParams(speakerStance, selfTrust, receiverRel);
+    const streak = state.conversation.dysregStreak.get(receiverId) ?? 0;
+    return shockParams(speakerStance, selfTrust, receiverRel, streak);
 }
 
 export function getTrustBand(trust: number): TrustBand {
-    if (trust < 0.3) return 'hostile';
-    if (trust < 0.5) return 'guarded';
-    if (trust < 0.7) return 'opening';
+    if (trust < TRUST_GUARDED) return 'hostile';
+    if (trust < TRUST_OPENING) return 'guarded';
+    if (trust < TRUST_COLLABORATIVE) return 'opening';
     return 'collaborative';
 }
 
@@ -179,6 +200,22 @@ function resampleStance(rel: InterPartRelation, selfTrust: number): void {
     rel.stance = clamp(0.25 * rel.stance + 0.75 * sample);
 }
 
+function nominateSpeaker(speakerId: string, state: SimState, out: SimEvent[]): void {
+    const { partA, partB, relAB, relBA, conversation } = state;
+    const listenerId = speakerId === partA.id ? partB.id : partA.id;
+    conversation.speakerId = speakerId;
+    conversation.phases.set(speakerId, 'speak');
+    conversation.phases.set(listenerId, 'listen');
+    conversation.respondTimer = 0;
+    const rel = speakerId === partA.id ? relAB : relBA;
+    const selfTrust = speakerId === partA.id ? partA.selfTrust : partB.selfTrust;
+    resampleStance(rel, selfTrust);
+    conversation.therapistDeltas.delete(speakerId);
+    conversation.shockDeltas.delete(speakerId);
+    out.push({ kind: 'nominate', data: { speakerId, sampledStance: rel.stance } });
+    rollTupleIndex(rel, conversation);
+}
+
 export function addInterPartTrust(rel: InterPartRelation, delta: number): void {
     if (rel.trustFloor > 0 && delta < 0) delta *= 0.5;
     const newTrust = rel.trust + delta;
@@ -195,10 +232,10 @@ export function getEffectiveStance(stance: number, therapistDelta: number): numb
 }
 
 export function stanceDescription(stance: number): string {
-    if (stance > 0.6) return 'flooding';
-    if (stance > 0.3) return 'dysregulated';
-    if (stance > -0.3) return 'regulated';
-    if (stance > -0.6) return 'withdrawing';
+    if (stance > STANCE_FLOODING) return 'flooding';
+    if (stance > REGULATION_STANCE_LIMIT) return 'dysregulated';
+    if (stance > -REGULATION_STANCE_LIMIT) return 'regulated';
+    if (stance > STANCE_SHUTDOWN) return 'withdrawing';
     return 'shut down';
 }
 
@@ -251,10 +288,16 @@ function updateEffectiveStances(state: SimState): void {
     conversation.effectiveStances.set(partB.id, getEffectiveStance(relBA.stance, dB));
 }
 
-function applyStanceShock(speakerId: string, receiverId: string, speakerStance: number, state: SimState, out: SimEvent[]): void {
+function applyStanceShock(speakerId: string, receiverId: string, speakerStance: number, state: SimState, out: SimEvent[], dysregulated = false): void {
     const receiverRel = receiverId === state.partA.id ? state.relAB : state.relBA;
     const selfTrust = receiverId === state.partA.id ? state.partA.selfTrust : state.partB.selfTrust;
-    const [deltaDefault, deltaFlip, probFlip] = shockParams(speakerStance, selfTrust, receiverRel);
+    const streak = state.conversation.dysregStreak.get(receiverId) ?? 0;
+    const [deltaDefault, deltaFlip, probFlip] = shockParams(speakerStance, selfTrust, receiverRel, streak);
+    if (dysregulated) {
+        state.conversation.dysregStreak.set(receiverId, streak + 1);
+    } else {
+        state.conversation.dysregStreak.delete(receiverId);
+    }
     const shockDelta = Math.random() < probFlip ? deltaFlip : deltaDefault;
     const shockMag = Math.abs(shockDelta);
     if (shockMag === 0) return;
@@ -269,7 +312,7 @@ function applyStanceShock(speakerId: string, receiverId: string, speakerStance: 
     const effectiveStanceAfter = state.conversation.effectiveStances.get(receiverId) ?? receiverRel.stance;
     if (negOverflow > 0) {
         const trustBefore = receiverRel.trust;
-        addInterPartTrust(receiverRel, -0.2 * negOverflow);
+        addInterPartTrust(receiverRel, -OVERFLOW_TRUST_PENALTY * negOverflow);
         logTrustChange(state, receiverRel, trustBefore, speakerId, receiverId, 'overflow', out);
     }
     out.push({ kind: 'shock', data: { receiverId, shockDelta, effectiveStanceBefore, effectiveStanceAfter, accumulatedShockDelta: newShockDelta, simTime: state.simTime } });
@@ -391,9 +434,9 @@ function tryAdvancePhase(state: SimState, out: SimEvent[]): void {
 
     if (phaseS === 'listen' && phaseL === 'empathize') {
         const before = relSL.trust;
-        addInterPartTrust(relSL, 0.5 * (1 - relSL.trust));
+        addInterPartTrust(relSL, CYCLE_TRUST_BOOST_FACTOR * (1 - relSL.trust));
         logTrustChange(state, relSL, before, speakerId, listenerId, 'cycle complete', out);
-        relSL.stance = relSL.stance * 0.5;
+        relSL.stance = relSL.stance * CYCLE_STANCE_SOFTEN;
         state.cyclesCompleted++;
     }
 }
@@ -554,7 +597,7 @@ export function tick(state: SimState, dt: number): SimEvent[] {
     if (phaseA === 'waiting' && phaseB === 'waiting') {
         // Decay therapist deltas so Activate nudges work normally
         for (const [id, delta] of conversation.therapistDeltas) {
-            const newDelta = delta * Math.exp(-0.08 * dt);
+            const newDelta = delta * Math.exp(-DELTA_DECAY_RATE * dt);
             if (Math.abs(newDelta) < 0.001) conversation.therapistDeltas.delete(id);
             else conversation.therapistDeltas.set(id, newDelta);
         }
@@ -563,16 +606,7 @@ export function tick(state: SimState, dt: number): SimEvent[] {
         const effB = conversation.effectiveStances.get(partB.id)!;
         if (effA >= 0 || effB >= 0) {
             const speakerId = effA >= effB ? partA.id : partB.id;
-            const listenerId = speakerId === partA.id ? partB.id : partA.id;
-            conversation.speakerId = speakerId;
-            conversation.phases.set(speakerId, 'speak');
-            conversation.phases.set(listenerId, 'listen');
-            conversation.respondTimer = 0;
-            const speakerRel = speakerId === partA.id ? relAB : relBA;
-            const speakerSelfTrust = speakerId === partA.id ? partA.selfTrust : partB.selfTrust;
-            resampleStance(speakerRel, speakerSelfTrust);
-            out.push({ kind: 'nominate', data: { speakerId, sampledStance: speakerRel.stance } });
-            rollTupleIndex(speakerRel, conversation);
+            nominateSpeaker(speakerId, state, out);
         }
         state.simTime += dt;
         return out;
@@ -585,18 +619,18 @@ export function tick(state: SimState, dt: number): SimEvent[] {
             if (stanceA < 0 && stanceB < 0) {
                 conversation.phases.set(partA.id, 'waiting');
                 conversation.phases.set(partB.id, 'waiting');
+                out.push({
+                    kind: 'phase', data: {
+                        speakerId: partA.id, listenerId: partB.id,
+                        oldPhaseS: 'listen', oldPhaseL: 'listen',
+                        newPhaseS: 'waiting', newPhaseL: 'waiting',
+                        rawStanceA: relAB.stance, rawStanceB: relBA.stance,
+                        simTime: state.simTime,
+                    }
+                });
             } else {
                 const newSpeaker = stanceA >= stanceB ? partA.id : partB.id;
-                const newListener = newSpeaker === partA.id ? partB.id : partA.id;
-                conversation.speakerId = newSpeaker;
-                conversation.phases.set(newSpeaker, 'speak');
-                conversation.phases.set(newListener, 'listen');
-                conversation.respondTimer = 0;
-                const newSpeakerRel = newSpeaker === partA.id ? relAB : relBA;
-                const newSpeakerSelfTrust = newSpeaker === partA.id ? partA.selfTrust : partB.selfTrust;
-                resampleStance(newSpeakerRel, newSpeakerSelfTrust);
-                out.push({ kind: 'nominate', data: { speakerId: newSpeaker, sampledStance: newSpeakerRel.stance } });
-                rollTupleIndex(newSpeakerRel, conversation);
+                nominateSpeaker(newSpeaker, state, out);
             }
         }
         tickBall(state, dt);
@@ -645,12 +679,12 @@ export function tick(state: SimState, dt: number): SimEvent[] {
     }
 
     for (const [id, delta] of conversation.therapistDeltas) {
-        const newDelta = delta * Math.exp(-0.08 * dt);
+        const newDelta = delta * Math.exp(-DELTA_DECAY_RATE * dt);
         if (Math.abs(newDelta) < 0.001) conversation.therapistDeltas.delete(id);
         else conversation.therapistDeltas.set(id, newDelta);
     }
     for (const [id, delta] of conversation.shockDeltas) {
-        const newDelta = delta * Math.exp(-0.08 * dt);
+        const newDelta = delta * Math.exp(-DELTA_DECAY_RATE * dt);
         if (Math.abs(newDelta) < 0.001) conversation.shockDeltas.delete(id);
         else conversation.shockDeltas.set(id, newDelta);
     }
@@ -702,7 +736,7 @@ export function tick(state: SimState, dt: number): SimEvent[] {
                 const msg: Message = { id: ++state.messageCounter, senderId: utterer, text, phase: uttererPhase, type: 'dialogue', subtype: advanceAfter ? undefined : 'dysregulated' };
                 state.messages.push(msg);
                 out.push({ kind: 'message', data: msg });
-                applyStanceShock(utterer, uttererReceiver, uttererStance, state, out);
+                applyStanceShock(utterer, uttererReceiver, uttererStance, state, out, !advanceAfter);
                 if (advanceAfter) {
                     tryAdvancePhase(state, out);
                 } else {
@@ -767,6 +801,7 @@ export function createState(setup: SetupValues, scenario: ScenarioConfig): SimSt
         ballUttererIsA: true,
         ballBias: 0.5,
         dysregulatedSpokePending: false,
+        dysregStreak: new Map(),
     };
 
     const state: SimState = {

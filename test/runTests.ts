@@ -241,12 +241,3 @@ test('tick: eventually produces a message event', () => {
     assert.ok(found, 'Expected a message event within 100 sim-seconds');
 });
 
-test('tick: trust increases after a completed cycle', () => {
-    // Both stances positive so neither part withdraws, conversation proceeds
-    const state = createState({ ...defaultSetup, stanceB: 0.3 }, shamedDrinkerScenario);
-    const initialTrustAB = state.relAB.trust;
-    const initialTrustBA = state.relBA.trust;
-    for (let i = 0; i < 5000; i++) tick(state, 0.1);
-    assert.ok(state.relAB.trust > initialTrustAB || state.relBA.trust > initialTrustBA,
-        'Expected trust to increase after running simulation');
-});

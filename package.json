@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "concurrently \"npm run watch:ts\" \"hugo server -D\"",
+    "dev": "npm run gen:simdata && concurrently \"npm run watch:ts\" \"hugo server -D\"",
     "watch:ts": "tsc --watch",
     "build:ts": "tsc",
-    "build": "npm run build:ts && hugo --minify",
+    "gen:simdata": "npx tsx scripts/genSimData.ts",
+    "build": "npm run gen:simdata && npm run build:ts && hugo --minify",
     "start": "hugo server",
     "test": "npx tsx test/runTests.ts"
   },

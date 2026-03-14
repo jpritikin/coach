@@ -1,6 +1,7 @@
 import {
     tick, createState, getTrustBand, stanceDescription,
-    clamp, SetupValues, nextShockDist, drawInitialStance, SimEvent,
+    clamp, SetupValues, nextShockDist, drawInitialStance, SimEvent, getEffectiveStance,
+    THERAPIST_NUDGE,
 } from './ifsConversationSim.js';
 import { shamedDrinkerScenario } from './ifsConversationData.js';
 
@@ -381,6 +382,7 @@ interface EventRecord {
 
 interface Recording {
     setup: SetupValues;
+    simTime?: number;
     events: EventRecord[];
 }
 
@@ -519,6 +521,7 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
     container.innerHTML = simHTML();
 
     const state = createState(setup, shamedDrinkerScenario);
+    (window as any).__simState = state;
     let paused = false;
     let speed = 0.25;
     let lastTime: number | null = null;
@@ -540,7 +543,7 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
     const pauseBtn = getEl<HTMLButtonElement>(container, '#ifs-pause-btn');
 
     function onKey(e: KeyboardEvent): void {
-        if ((e.key === 'r' || e.key === 'R') && e.target === pauseBtn) downloadRecording(recording);
+        if ((e.key === 'r' || e.key === 'R') && e.target === pauseBtn) { recording.simTime = state.simTime; downloadRecording(recording); }
     }
 
     function wireControls(): void {
@@ -597,17 +600,19 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
                 flashUntil = performance.now() + 300;
                 const name = partId === state.partA.id ? state.partA.name : state.partB.name;
                 const action = delta < 0 ? 'calm' : 'activate';
+                const shockDelta = state.conversation.shockDeltas.get(partId) ?? 0;
+                const effStance = getEffectiveStance(rel.stance, newDelta + shockDelta);
                 recording.events.push({
                     t: +state.simTime.toFixed(3),
                     type: 'therapist',
-                    detail: `${action} ${name} Δ${delta >= 0 ? '+' : ''}${delta.toFixed(2)} → therapistDelta ${newDelta.toFixed(3)}`,
+                    detail: `${action} ${name} Δ${delta >= 0 ? '+' : ''}${delta.toFixed(2)} → therapistDelta ${newDelta.toFixed(3)} effStance ${effStance.toFixed(3)}`,
                 });
             });
         }
-        wireBtn('ifs-calm-a', state.partA.id, -0.2);
-        wireBtn('ifs-activate-a', state.partA.id, 0.2);
-        wireBtn('ifs-calm-b', state.partB.id, -0.2);
-        wireBtn('ifs-activate-b', state.partB.id, 0.2);
+        wireBtn('ifs-calm-a', state.partA.id, -THERAPIST_NUDGE);
+        wireBtn('ifs-activate-a', state.partA.id, THERAPIST_NUDGE);
+        wireBtn('ifs-calm-b', state.partB.id, -THERAPIST_NUDGE);
+        wireBtn('ifs-activate-b', state.partB.id, THERAPIST_NUDGE);
     }
     wireTherapistBtns();
 

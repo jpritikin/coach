@@ -3,3 +3,4 @@
 /.hugo_build.lock
 /static/js
 /node_modules
+/data/ifsConversation.json
