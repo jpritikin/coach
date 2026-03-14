@@ -1,0 +1,137 @@
+Writing guide for content/docs/ifs/conversation/_index.md
+===========================================================
+
+PURPOSE
+-------
+This page hosts a live IFIO (Intimacy From the Inside Out) conversation
+simulation between two parts. The prose in _index.md provides context for the reader
+and the <details> block explains mechanics before they watch. Write copy that is brief,
+accurate, and invites curiosity rather than over-explaining.
+
+
+STRUCTURE OF THE FILE
+---------------------
+The file has three sections:
+
+1. Hugo front matter (title, type, bookToc, weight) — do not change these.
+
+2. A <details><summary> block — the "How it works" explanation shown on demand.
+   Keep this technical but concise. It documents mechanics, not therapy theory.
+
+3. The simulation mount point — CSS link, <div id="ifs-conversation-root">, and
+   the module script. Do not move or rename these.
+
+
+DIALOGUE DATA (ifsConversationData.ts)
+---------------------------------------
+All spoken lines live in ifsConversationData.ts as a ScenarioConfig. Each scenario
+has two relationships: relAB (partA speaks to partB) and relBA (partB speaks to partA).
+
+Each relationship has a `dialogues` object with four trust bands:
+
+  hostile       trust < 0.3   — raw, defensive, blaming
+  guarded       0.3 ≤ trust < 0.5   — cautious, still self-protective
+  opening       0.5 ≤ trust < 0.7   — vulnerability emerging
+  collaborative 0.7 ≤ trust          — shared problem-solving
+
+Each band holds one or more dialogue tuples. A tuple is either 4 or 6 strings. The length
+determines whether the cycle is 4-step or 6-step — the sim detects this automatically.
+
+Each tuple is self-contained: it holds both the speaker's lines and the listener's responses.
+The sim always reads all lines from the speaker's relationship tuple.
+
+4-step tuple:
+  index 0  speak      — speaker's utterance
+  index 1  mirror     — listener reflecting back what was heard
+  index 2  validate   — speaker confirms or corrects the mirror
+  index 3  empathize  — listener expresses felt understanding
+
+6-step tuple (adds a repair loop between mirror and validate):
+  index 0  speak      — speaker's utterance
+  index 1  mirror     — listener's first attempt to reflect (misses something)
+  index 2  clarify    — speaker corrects or adds what was missed
+  index 3  mirror2    — listener tries again with the new information
+  index 4  validate   — speaker confirms the second mirror
+  index 5  empathize  — listener expresses felt understanding
+
+The sim picks a random tuple from the current trust band at the start of each cycle and
+uses that same tuple for all phases. Mix 4-step and 6-step tuples within a band to vary
+the rhythm. Keep all lines in the same emotional register and on the same topic.
+
+
+WRITING DIALOGUE TUPLES
+------------------------
+
+Phase voice guidelines:
+
+  speak      Authentic, present-tense feeling or observation. Charged but not performative.
+             Example: "I'm scared — not angry. Scared we'll end up like our parent."
+
+  mirror     Listener's reflection. Can be phrased as a statement or a question.
+             In a 6-step tuple this first mirror should substantially miss — misreading
+             intent, projecting a motive, or mistaking scope. A minor paraphrase error is
+             not enough; the speaker must need to correct a real misunderstanding.
+             Example (misses intent): "You're keeping score — cataloguing everything I do wrong."
+             Example (question form): "You're building a case against me?"
+             (The speaker was tracking their own fear, not building a case against the listener.)
+
+  clarify    Speaker corrects or extends what the mirror got wrong or incomplete.
+             Example: "More than frightened — I'm terrified we'll repeat the past."
+
+  mirror2    Listener tries again with the new information. Should land closer.
+             Example: "You're terrified of repeating what happened with our parent."
+
+  validate   Speaker confirms the mirror (or mirror2 in 6-step). May add a small detail.
+             Example: "Yes. The anger is on top. Underneath I'm terrified."
+
+  empathize  Listener responds with felt understanding — a shift, not just acknowledgment.
+             Example: "I didn't know fear was driving this. That changes something."
+
+Trust band tone guidelines:
+
+  hostile      Short, sharp lines. No softening. Accusations or demands are appropriate.
+  guarded      Slightly more specific. Still self-protective but hints at real need.
+  opening      Vulnerability with some residual guardedness. Risk is being taken.
+  collaborative Both parts orient toward the relationship rather than defending positions.
+               At this trust level, communication tends to flow without repair loops — 4-step
+               tuples are usually sufficient. Reserve 6-step for cases where even collaborative
+               parts still talk past each other on a specific topic.
+
+Avoid:
+- Therapy-speak ("I feel…", "my inner child…", "boundaries")
+- Narrating the mechanics ("now we are in the validate phase")
+- Lines longer than ~15 words
+- Redundancy between mirror and validate — they should add information, not repeat
+
+
+MECHANICS SUMMARY (for writing the <details> block)
+-----------------------------------------------------
+The IFIO cycle is either 4 or 6 steps per speaker turn, determined by the active tuple's length:
+
+  4-step: speak → mirror → validate → empathize
+  6-step: speak → mirror → clarify → mirror2 → validate → empathize
+
+In the 6-step path the first mirror is inadequate; the speaker clarifies and the listener
+mirrors again before validation proceeds.
+
+The cycle only advances when both parts are regulated (effective stance within ±0.3).
+If the listening part's stance exceeds that limit it becomes the new speaker (listener
+violation). Completing the empathize step grants a large trust bonus.
+
+Stance is a signed float [-1, 1]:
+  > 0.6    flooding
+  0.3–0.6  dysregulated
+  ±0.3     regulated
+  -0.3 to -0.6  withdrawing
+  < -0.6   shut down
+
+A part's effective stance = raw stance + therapist delta + shock delta.
+Therapist and shock deltas decay exponentially over time.
+
+Speaking shocks the listener: if speaker stance is positive, shock pushes listener
+negative (withdrawal); if negative, it pulls listener positive (attack). High trust
+and high self-trust dampen the shock magnitude. If the listener is already dysregulated
+negative, a flip may occur — the listener erupts positive and the previous speaker receives a counter-shocks.
+
+Between cycles both phases return to 'listen'. The part with more positive stance becomes the
+next speaker.
