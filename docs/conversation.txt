@@ -135,3 +135,8 @@ negative, a flip may occur — the listener erupts positive and the previous spe
 
 Between cycles both phases return to 'listen'. The part with more positive stance becomes the
 next speaker.
+
+Nags and jabs: while waiting to speak (phase = speak, both parts dysregulated), a flooded
+speaker fires extra utterances probabilistically — these are nags. The phase does not advance;
+each nag applies a stance shock. Non-speak phases (mirror, clarify, validate, empathize) simply
+stall when dysregulated — they never fire early.

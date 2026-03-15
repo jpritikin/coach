@@ -1,3 +1,13 @@
+.mobile-warning {
+    display: none;
+}
+
+@media screen and (max-width: 56rem) {
+    .mobile-warning {
+        display: block;
+    }
+}
+
 #ifs-conversation-root {
     font-family: system-ui, sans-serif;
     font-size: 0.9rem;

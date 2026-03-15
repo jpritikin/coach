@@ -7,6 +7,13 @@ weight: 25
 
 # Conversation
 
+<div class="mobile-warning book-hint warning">
+
+**Mobile detected — Nightmare difficulty unlocked.**
+This app is built for wide screens. Proceeding on a narrow device means smaller targets, cramped layouts, and no safety net. We respect the commitment. May your thumbs be true.
+
+</div>
+
 <details>
 <summary>Overview</summary>
 
@@ -110,6 +117,8 @@ The cycle is driven by the **speaker/listener role pair** and the current phase:
 
 The 6-step path is chosen automatically based on the dialogue tuple selected for that cycle (some trust bands only include 4-line tuples). It is the simulation's representation of a repair loop when the first mirror misses.
 
+All utterances within a single cycle — speaker and listener lines alike — come from the **same tuple**, selected at the start of that cycle from the speaker's relationship. A listener violation ends the cycle early and a new tuple is drawn for the next cycle.
+
 **Phase advancement** happens only when `regulated = true`. Each utterance fires after a {{< sim "respond_delay" >}}-second timer elapses. When dysregulated, only the **speaker** can still utter (probabilistically, see below); all other phases wait.
 
 **Cycle completion** (listener finishes Empathize):
@@ -144,7 +153,7 @@ shockMag   = streakMult × 0.3 × |speakerStance| × 2 / ((1 + selfTrust) × (1 
 
 `streak` counts consecutive dysregulated utterances the receiver has absorbed without a regulated break. At 5 consecutive dysregulated utterances the multiplier reaches ~1.20 (+20%), and it keeps growing exponentially. Any regulated utterance resets the receiver's streak to 0.
 
-By default the shock pushes the receiver **away** from the speaker's polarity (a positive speaker activates the receiver). With probability `flipOdds` — the same **Neuroticism** parameter set in the setup screen — it instead pulls the receiver **toward** the speaker's polarity, modelling a part that mirrors or is drawn into the other's state rather than reacting against it.
+By default the shock pushes the receiver toward the **opposite** polarity: a positive (activated) speaker pushes the receiver negative (withdrawal); a negative (withdrawn) speaker pulls the receiver positive (activation). With probability `flipOdds` — the same **Neuroticism** parameter set in the setup screen — the direction reverses, pulling the receiver **toward** the speaker's polarity, modelling a part that mirrors or is drawn into the other's state rather than reacting against it.
 
 The shock accumulates in `shockDelta` and decays exponentially: `shockDelta × e^(−{{< sim "delta_decay_rate" >}} × dt)`, returning to baseline in ~{{< sim "delta_half_life" >}} seconds if no further shocks arrive.
 
