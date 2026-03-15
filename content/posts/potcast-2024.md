@@ -8,4 +8,4 @@ menu = "main"
 
 [![Episode Graphics](episode.webp)](https://the-cannabis-potcast.simplecast.com/episodes/cannabinoid-quest)
 
-For more details, check out [my cannabis page]({{< relref "cannabis" >}}).
+For more details, check out [my cannabis page]({{< relref "/docs/me/psychoactive/cannabis" >}}).

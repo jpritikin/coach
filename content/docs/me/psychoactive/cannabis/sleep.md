@@ -10,7 +10,7 @@ weight: 30
 
 An ideal psychoactive sleep aid would have several characteristics:
 
-**Rapid onset with appropriate duration**: It should work quickly (15-30 minutes) to help initiate sleep, but last long enough to maintain sleep through the night without causing next-day drowsiness or "hangover" effects. Ideally, it would have a half-life of 6-8 hours.
+**Rapid onset with appropriate duration**: It should work quickly (15-30 minutes) to help initiate sleep, last long enough to maintain sleep through the night, but refrain from causing next-day drowsiness or "hangover" effects. Ideally, it would have a half-life of 6-8 hours.
 
 **Selective mechanism of action**: The drug should specifically target sleep-wake systems without broadly suppressing brain activity. It would ideally enhance natural sleep architecture rather than simply sedating.
 
@@ -51,7 +51,7 @@ The subjective experience is sedation, relaxation, and reduced thinking. CBN-O i
 
 **Minimal side effects**: I haven't noticed any effects the following day. Even during peak effects, cognitive impairment is mild.
 
-**Low dependence potential**: I haven't noticed any tolerance or withdrawal symptoms.
+**Low dependence potential**: I was forced to stop using a month ago because I couldn't find a reliable supplier. I haven't noticed any tolerance or withdrawal symptoms.
 
 **Wide therapeutic window**: No idea. I wouldn't want to take more than 12mg. At 12mg, the effects are similar to the alertness of THCV without the scatterbrain dissociation. This dose can actually keep you awake and alert during an evening drive.
 
