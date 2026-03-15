@@ -2,9 +2,9 @@ import { ScenarioConfig } from './ifsConversationSim.js';
 
 // Each tuple is self-contained. Index order:
 // 4-step: [speak, mirror, validate, empathize]
-// 6-step: [speak, mirror, clarify, mirror2, validate, empathize]
+// 6-step: [speak, mirror, clarify, mirror_again, validate, empathize]
 // Speaker lines: speak, clarify, validate
-// Listener lines: mirror, mirror2, empathize
+// Listener lines: mirror, mirror_again, empathize
 
 export const shamedDrinkerScenario: ScenarioConfig = {
     partA: { id: 'shamer', name: 'Shamer' },
@@ -30,7 +30,7 @@ export const shamedDrinkerScenario: ScenarioConfig = {
                     "You're going to destroy everything we've built.", // speak  (Shamer)
                     "You think we're going to lose our driver's license.",             // mirror (Drinker)
                     "Yes, but I'm trying to stop a worse collapse.", // clarify (Shamer)
-                    "You're scared of a comprehensive collapse.", // mirror2 (Drinker)
+                    "You're scared of a comprehensive collapse.", // mirror_again (Drinker)
                     "Right. I see it coming and I don't know how to stop it.", // validate (Shamer)
                     "I get your fear, but what can I do about it?", // empathize (Drinker)
                 ],
@@ -52,7 +52,7 @@ export const shamedDrinkerScenario: ScenarioConfig = {
                     "I keep track of every slip.",                 // speak  (Shamer)
                     "You're keeping score — cataloguing everything I do wrong.", // mirror (Drinker)
                     "No. I track them because each one terrified me.", // clarify (Shamer)
-                    "You're holding onto them out of fear, not to punish.", // mirror2 (Drinker)
+                    "You're holding onto them out of fear, not to punish.", // mirror_again (Drinker)
                     "Yes. Every slip I remember is a moment I was terrified.", // validate (Shamer)
                     "I thought you were building a case. You were just scared.", // empathize (Drinker)
                 ],
@@ -74,7 +74,7 @@ export const shamedDrinkerScenario: ScenarioConfig = {
                     "I learned to be loud from our parent. I didn't choose it.", // speak (Shamer)
                     "You inherited this harshness?",  // mirror (Drinker)
                     "More than inherited — it was the only way I knew to care.", // clarify (Shamer)
-                    "You were harsh because you never learned a quiet way.", // mirror2 (Drinker)
+                    "You were harsh because you never learned a quiet way.", // mirror_again (Drinker)
                     "Yes. Loud and harsh was the only version of care I was shown.", // validate (Shamer)
                     "I see you differently now.", // empathize (Drinker)
                 ],
@@ -116,7 +116,7 @@ export const shamedDrinkerScenario: ScenarioConfig = {
                     "I didn't ask for any of this.",               // speak  (Drinker)
                     "So you want credit for suffering?",           // mirror (Shamer)
                     "No. I want you to stop acting like I chose this.", // clarify (Drinker)
-                    "You're saying this wasn't a choice — it was the only way you knew.", // mirror2 (Shamer)
+                    "You're saying this wasn't a choice — it was the only way you knew.", // mirror_again (Shamer)
                     "Yes. I was surviving. There was nothing else available to me then.", // validate (Drinker)
                     "I didn't see it that way.", // empathize (Shamer)
                 ],
@@ -138,7 +138,7 @@ export const shamedDrinkerScenario: ScenarioConfig = {
                     "I'm not weak. I'm overwhelmed.",              // speak  (Drinker)
                     "You don't want to be seen as weak.",          // mirror (Shamer)
                     "Yes, but I need you to understand the difference.", // clarify (Drinker)
-                    "Weak and overwhelmed are not the same?", // mirror2 (Shamer)
+                    "Weak and overwhelmed are not the same?", // mirror_again (Shamer)
                     "Yes. Weak is a choice. Overwhelmed is what happens when too much lands at once.", // validate (Drinker)
                     "I've been treating them as the same. I can stop doing that.", // empathize (Shamer)
                 ],
@@ -160,7 +160,7 @@ export const shamedDrinkerScenario: ScenarioConfig = {
                     "I've been trying to put this down for a long time.", // speak (Drinker)
                     "Really?",                 // mirror (Shamer)
                     "I've been exhausted by trying and failing alone.", // clarify (Drinker)
-                    "You've been trying to stop alone, and it's worn you out.", // mirror2 (Shamer)
+                    "You've been trying to stop alone, and it's worn you out.", // mirror_again (Shamer)
                     "Yes. Every failed attempt costs something. I'm running low.", // validate (Drinker)
                     "I didn't know you were already fighting. I want to help now.", // empathize (Shamer)
                 ],

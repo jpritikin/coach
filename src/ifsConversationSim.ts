@@ -1,10 +1,10 @@
-export type IfioPhase = 'speak' | 'listen' | 'mirror' | 'clarify' | 'mirror2' | 'validate' | 'empathize' | 'waiting';
+export type IfioPhase = 'speak' | 'listen' | 'mirror' | 'clarify' | 'mirror_again' | 'validate' | 'empathize' | 'waiting';
 export type TrustBand = 'hostile' | 'guarded' | 'opening' | 'collaborative';
 
 // 4-step tuple indices: [speak, mirror, validate, empathize]
-// 6-step tuple indices: [speak, mirror, clarify, mirror2, validate, empathize]
+// 6-step tuple indices: [speak, mirror, clarify, mirror_again, validate, empathize]
 const PHASE_INDEX_4: Record<string, number> = { speak: 0, mirror: 1, validate: 2, empathize: 3 };
-const PHASE_INDEX_6: Record<string, number> = { speak: 0, mirror: 1, clarify: 2, mirror2: 3, validate: 4, empathize: 5 };
+const PHASE_INDEX_6: Record<string, number> = { speak: 0, mirror: 1, clarify: 2, mirror_again: 3, validate: 4, empathize: 5 };
 
 export const PHASE_INDEX = PHASE_INDEX_6;
 
@@ -74,6 +74,7 @@ export interface ConversationState {
     respondTimer: number;
     newCycleTimer: number;
     listenerViolationTimer: number;
+    speakerViolationTimer: number;
     // Ball: position 0=partA side, 1=partB side
     ballPos: number;
     ballVel: number;
@@ -91,6 +92,7 @@ export interface Message {
     phase: IfioPhase;
     type: 'dialogue' | 'trust';
     subtype?: 'cycle-complete' | 'overflow' | 'counter-shock' | 'dysregulated';
+    senderStance?: number;
 }
 
 export interface ShockEvent {
@@ -385,12 +387,12 @@ function logTrustChange(state: SimState, rel: InterPartRelation, before: number,
 }
 
 // Returns [newSpeakerPhase, newListenerPhase] or null if no transition applies.
-// sixStep: true when the active tuple has 6 entries (adds clarify + mirror2 between mirror and validate).
+// sixStep: true when the active tuple has 6 entries (adds clarify + mirror_again between mirror and validate).
 export function nextPhases(phaseS: IfioPhase, phaseL: IfioPhase, sixStep = false): [IfioPhase, IfioPhase] | null {
     if (phaseS === 'speak'    && phaseL === 'listen')    return ['listen', 'mirror'];
     if (phaseS === 'listen'   && phaseL === 'mirror')    return sixStep ? ['clarify', 'listen'] : ['validate', 'listen'];
-    if (phaseS === 'clarify'  && phaseL === 'listen')    return ['listen', 'mirror2'];
-    if (phaseS === 'listen'   && phaseL === 'mirror2')   return ['validate', 'listen'];
+    if (phaseS === 'clarify'  && phaseL === 'listen')    return ['listen', 'mirror_again'];
+    if (phaseS === 'listen'   && phaseL === 'mirror_again')   return ['validate', 'listen'];
     if (phaseS === 'validate' && phaseL === 'listen')    return ['listen', 'empathize'];
     if (phaseS === 'listen'   && phaseL === 'empathize') return ['listen', 'listen'];
     return null;
@@ -452,6 +454,7 @@ interface LookaheadState {
     respondTimer: number;
     newCycleTimer: number;
     listenerViolationTimer: number;
+    speakerViolationTimer: number;
     simTime: number;
 }
 
@@ -471,6 +474,7 @@ export function lookaheadUtterance(state: SimState, maxLook = 8): [boolean, numb
         respondTimer: conversation.respondTimer,
         newCycleTimer: conversation.newCycleTimer,
         listenerViolationTimer: conversation.listenerViolationTimer,
+        speakerViolationTimer: conversation.speakerViolationTimer,
         simTime: 0,
     };
 
@@ -502,45 +506,47 @@ export function lookaheadUtterance(state: SimState, maxLook = 8): [boolean, numb
             const phaseS = isA(ls.speakerId) ? ls.phaseA : ls.phaseB;
             const phaseL = isA(ls.speakerId) ? ls.phaseB : ls.phaseA;
 
-            // Mirror actual tick: listeningPart is who is passively listening
-            // speak/listen → listener; listen/mirror|mirror2|empathize → speaker; clarify/listen|validate/listen → listener
-            const listenerIsSpeaker = (phaseS === 'listen' && (phaseL === 'mirror' || phaseL === 'mirror2' || phaseL === 'empathize'));
-            const hasListeningPart = nextPhases(phaseS, phaseL, true) !== null;
-            let listeningIsA: boolean | null = null;
-            if (hasListeningPart) listeningIsA = listenerIsSpeaker ? isA(ls.speakerId) : !isA(ls.speakerId);
-
-            if (listeningIsA !== null) {
-                const listeningStance = listeningIsA ? ls.stanceA : ls.stanceB;
-                if (listeningStance > REGULATION_STANCE_LIMIT) {
-                    ls.listenerViolationTimer += dt;
-                    if (ls.listenerViolationTimer >= LISTENER_VIOLATION_GRACE) {
-                        ls.listenerViolationTimer = 0;
-                        const listenerId = listeningIsA ? partA.id : partB.id;
-                        ls.speakerId = listenerId;
-                        ls.phaseA = isA(ls.speakerId) ? 'speak' : 'listen';
-                        ls.phaseB = isA(ls.speakerId) ? 'listen' : 'speak';
-                        ls.respondTimer = 0;
-                    }
-                } else {
+            // Listener violation: role-listener floods → role swap
+            const listeningIsA = !isA(ls.speakerId);
+            const listeningStance = listeningIsA ? ls.stanceA : ls.stanceB;
+            if (listeningStance > REGULATION_STANCE_LIMIT) {
+                ls.listenerViolationTimer += dt;
+                if (ls.listenerViolationTimer >= LISTENER_VIOLATION_GRACE) {
                     ls.listenerViolationTimer = 0;
+                    ls.speakerId = listeningIsA ? partA.id : partB.id;
+                    ls.phaseA = isA(ls.speakerId) ? 'speak' : 'listen';
+                    ls.phaseB = isA(ls.speakerId) ? 'listen' : 'speak';
+                    ls.respondTimer = 0;
                 }
+            } else {
+                ls.listenerViolationTimer = 0;
             }
 
-            // Utterer is whoever has a non-listen phase (mirrors actual tick)
+            // Speaker dysregulated utterance — mirrors real tick logic
+            const speakerIsA = isA(ls.speakerId);
+            const speakerStance = speakerIsA ? ls.stanceA : ls.stanceB;
+            if (!regulated && speakerStance >= REGULATION_STANCE_LIMIT) {
+                if (phaseS === 'listen') {
+                    ls.speakerViolationTimer += dt;
+                    if (ls.speakerViolationTimer >= LISTENER_VIOLATION_GRACE) {
+                        ls.speakerViolationTimer = 0;
+                        return [speakerIsA, t + dt];
+                    }
+                } else {
+                    ls.speakerViolationTimer = 0;
+                    const s = Math.min(1, Math.max(0, speakerStance + 0.3));
+                    if (Math.random() < s * SPEAK_BASE_RATE * dt) return [speakerIsA, t + dt];
+                }
+            } else {
+                ls.speakerViolationTimer = 0;
+            }
+
+            // Normal utterance: whoever holds a non-listen phase, when regulated
             const uttererIsA = ls.phaseA !== 'listen';
             const uttererPhase = uttererIsA ? ls.phaseA : ls.phaseB;
-            const uttererStance = uttererIsA ? ls.stanceA : ls.stanceB;
-
-            if (uttererPhase !== 'listen') {
-                let fires = false;
-                if (regulated) {
-                    ls.respondTimer += dt;
-                    if (ls.respondTimer >= RESPOND_DELAY) fires = true;
-                } else if (uttererPhase === 'speak' && uttererStance >= REGULATION_STANCE_LIMIT) {
-                    const s = Math.min(1, Math.max(0, uttererStance + 0.3));
-                    fires = Math.random() < s * SPEAK_BASE_RATE * dt;
-                }
-                if (fires) return [uttererIsA, t + dt];
+            if (uttererPhase !== 'listen' && regulated) {
+                ls.respondTimer += dt;
+                if (ls.respondTimer >= RESPOND_DELAY) return [uttererIsA, t + dt];
             }
         }
     }
@@ -644,13 +650,7 @@ export function tick(state: SimState, dt: number): SimEvent[] {
     const phaseS = conversation.phases.get(speakerId)!;
     const phaseL = conversation.phases.get(listenerId)!;
 
-    let listeningPart: string | null = null;
-    if (phaseS === 'speak'    && phaseL === 'listen')   listeningPart = listenerId;
-    else if (phaseS === 'listen'   && phaseL === 'mirror')  listeningPart = speakerId;
-    else if (phaseS === 'clarify'  && phaseL === 'listen')  listeningPart = listenerId;
-    else if (phaseS === 'listen'   && phaseL === 'mirror2') listeningPart = speakerId;
-    else if (phaseS === 'validate' && phaseL === 'listen')  listeningPart = listenerId;
-    else if (phaseS === 'listen'   && phaseL === 'empathize') listeningPart = speakerId;
+    const listeningPart: string | null = phaseS !== 'waiting' ? listenerId : null;
 
     if (listeningPart) {
         const listeningStance = conversation.effectiveStances.get(listeningPart)!;
@@ -690,57 +690,71 @@ export function tick(state: SimState, dt: number): SimEvent[] {
     }
 
     const regulated = conversation.regulationScore > 0.5;
+    const speakerStance = conversation.effectiveStances.get(speakerId)!;
+    const speakerRel = speakerId === partA.id ? relAB : relBA;
 
-    const utterer = phaseS !== 'listen' ? speakerId : listenerId;
-    const uttererPhase = conversation.phases.get(utterer)!;
-    const uttererReceiver = utterer === speakerId ? listenerId : speakerId;
+    // Speaker dysregulated utterance — fires regardless of which phase slot speaker currently holds.
+    // When holding an active phase (speak/validate/clarify/mirror_again): probabilistic each tick.
+    // When holding listen (listener's turn): timer-gated with grace period.
+    // Either way: repeats the current or most recent speaker-phase line, don't advance phase.
+    function fireDysregulatedSpeak(): void {
+        let activePhase: string;
+        if (phaseS === 'validate' || phaseS === 'clarify' || phaseS === 'mirror_again') {
+            activePhase = phaseS;
+        } else if (phaseS === 'listen') {
+            activePhase = phaseL === 'empathize' ? 'validate' : phaseL === 'mirror_again' ? 'clarify' : 'speak';
+        } else {
+            activePhase = 'speak';
+            rollTupleIndex(speakerRel, conversation);
+        }
+        const text = getDialogue(speakerRel, activePhase, conversation);
+        if (text) {
+            const msg: Message = { id: ++state.messageCounter, senderId: speakerId, text, phase: 'speak', type: 'dialogue', subtype: 'dysregulated', senderStance: speakerStance };
+            state.messages.push(msg);
+            out.push({ kind: 'message', data: msg });
+            applyStanceShock(speakerId, listenerId, speakerStance, state, out, true);
+            conversation.dysregulatedSpokePending = true;
+        }
+    }
 
-    if (uttererPhase !== 'listen') {
-        const uttererStance = conversation.effectiveStances.get(utterer)!;
-        const uttererRel = utterer === partA.id ? relAB : relBA;
-
-        let shouldSpeak = false;
-        let advanceAfter = false;
-
-        if (uttererPhase === 'speak') {
-            if (regulated) {
-                if (conversation.dysregulatedSpokePending) {
-                    conversation.dysregulatedSpokePending = false;
-                    tryAdvancePhase(state, out);
-                } else {
-                    conversation.respondTimer += dt;
-                    if (conversation.respondTimer >= RESPOND_DELAY) {
-                        shouldSpeak = true;
-                        advanceAfter = true;
-                    }
-                }
-            } else if (uttererStance >= REGULATION_STANCE_LIMIT) {
-                const s = Math.min(1, Math.max(0, uttererStance + 0.3));
-                shouldSpeak = Math.random() < s * SPEAK_BASE_RATE * dt;
+    if (regulated && conversation.dysregulatedSpokePending) {
+        conversation.dysregulatedSpokePending = false;
+        conversation.speakerViolationTimer = 0;
+        if (phaseS !== 'listen')
+            tryAdvancePhase(state, out);
+    } else if (!regulated && speakerStance >= REGULATION_STANCE_LIMIT) {
+        if (phaseS === 'listen') {
+            conversation.speakerViolationTimer += dt;
+            if (conversation.speakerViolationTimer >= LISTENER_VIOLATION_GRACE) {
+                conversation.speakerViolationTimer = 0;
+                fireDysregulatedSpeak();
             }
         } else {
-            if (regulated) {
-                conversation.respondTimer += dt;
-                if (conversation.respondTimer >= RESPOND_DELAY) {
-                    shouldSpeak = true;
-                    advanceAfter = true;
-                }
-            }
+            conversation.speakerViolationTimer = 0;
+            const s = Math.min(1, Math.max(0, speakerStance + 0.3));
+            if (Math.random() < s * SPEAK_BASE_RATE * dt) fireDysregulatedSpeak();
         }
+    } else {
+        conversation.speakerViolationTimer = 0;
+    }
 
-        if (shouldSpeak) {
-            if (!advanceAfter) rollTupleIndex(uttererRel, conversation);
-            const speakerRel = conversation.speakerId === partA.id ? relAB : relBA;
-            const text = getDialogue(speakerRel, uttererPhase, conversation);
-            if (text) {
-                const msg: Message = { id: ++state.messageCounter, senderId: utterer, text, phase: uttererPhase, type: 'dialogue', subtype: advanceAfter ? undefined : 'dysregulated' };
-                state.messages.push(msg);
-                out.push({ kind: 'message', data: msg });
-                applyStanceShock(utterer, uttererReceiver, uttererStance, state, out, !advanceAfter);
-                if (advanceAfter) {
+    // Normal utterance path — whoever holds a non-listen phase this tick.
+    if (!conversation.dysregulatedSpokePending) {
+        const utterer = phaseS !== 'listen' ? speakerId : listenerId;
+        const uttererPhase = conversation.phases.get(utterer)!;
+        const uttererReceiver = utterer === speakerId ? listenerId : speakerId;
+
+        if (uttererPhase !== 'listen' && regulated) {
+            const uttererStance = conversation.effectiveStances.get(utterer)!;
+            conversation.respondTimer += dt;
+            if (conversation.respondTimer >= RESPOND_DELAY) {
+                const text = getDialogue(speakerRel, uttererPhase, conversation);
+                if (text) {
+                    const msg: Message = { id: ++state.messageCounter, senderId: utterer, text, phase: uttererPhase, type: 'dialogue' };
+                    state.messages.push(msg);
+                    out.push({ kind: 'message', data: msg });
+                    applyStanceShock(utterer, uttererReceiver, uttererStance, state, out, false);
                     tryAdvancePhase(state, out);
-                } else {
-                    conversation.dysregulatedSpokePending = true;
                 }
             }
         }
@@ -796,6 +810,7 @@ export function createState(setup: SetupValues, scenario: ScenarioConfig): SimSt
         respondTimer: 0,
         newCycleTimer: 0,
         listenerViolationTimer: 0,
+        speakerViolationTimer: 0,
         ballPos: 0.5,
         ballVel: 0,
         ballUttererIsA: true,

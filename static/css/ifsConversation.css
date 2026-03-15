@@ -257,6 +257,51 @@
     color: #7a3a8c;
 }
 
+.ifs-congrats-banner {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 100;
+    text-align: center;
+    padding: 2rem 2.5rem;
+    background: #fff;
+    border: 2px solid #3a6ea5;
+    border-radius: 12px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.22);
+    max-width: 480px;
+    width: 90%;
+}
+
+.ifs-congrats-banner h2 {
+    margin: 0 0 0.6rem;
+    color: #155724;
+    font-size: 1.4rem;
+}
+
+.ifs-congrats-banner p {
+    margin: 0.4rem 0;
+    color: #444;
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+.ifs-congrats-close {
+    margin-top: 1.2rem;
+    padding: 0.4rem 1.2rem;
+    background: #3a6ea5;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.95rem;
+    font-weight: bold;
+}
+
+.ifs-congrats-close:hover {
+    background: #2d5a8e;
+}
+
 .ifs-nominate-banner {
     position: absolute;
     top: 0.5rem;

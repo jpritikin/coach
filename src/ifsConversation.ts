@@ -26,10 +26,22 @@ function getEl<T extends Element>(parent: ParentNode, selector: string): T {
 
 // ---- UI helpers ----
 
-const DYSREGULATED_LABELS = ['Nag', 'Jab', 'Snap'];
+const DYSREGULATED_LABELS: [number, string][] = [
+    [0.5, 'Nag'],
+    [0.65, 'Jab'],
+    [0.75, 'Snap'],
+    [0.85, 'Accuse'],
+    [0.95, 'Shout'],
+    [1.01, 'Explode'],
+];
 
-function phaseLabel(phase: string, subtype?: string): string {
-    if (subtype === 'dysregulated') return DYSREGULATED_LABELS[Math.floor(Math.random() * DYSREGULATED_LABELS.length)];
+function phaseLabel(phase: string, subtype?: string, senderStance?: number): string {
+    if (subtype === 'dysregulated') {
+        const stance = senderStance ?? 1;
+        const label = DYSREGULATED_LABELS.find(([threshold]) => stance < threshold);
+        return label ? label[1] : 'Explode';
+    }
+    if (phase === 'mirror_again') return 'Mirror Again';
     return phase.charAt(0).toUpperCase() + phase.slice(1);
 }
 
@@ -380,7 +392,10 @@ interface EventRecord {
     sampledStance?: number;
 }
 
+const VERSION = '1.1.6';
+
 interface Recording {
+    version: string;
     setup: SetupValues;
     simTime?: number;
     events: EventRecord[];
@@ -425,6 +440,12 @@ function simHTML(): string {
                     Both parts are withdrawn. Use Activate to nominate a speaker.
                 </div>
             </div>
+        </div>
+        <div id="ifs-congrats-banner" class="ifs-congrats-banner" style="display:none">
+            <h2>You won!</h2>
+            <p>Both parts have reached deep mutual trust — the conversation has become truly collaborative.</p>
+            <p>Feel free to keep experimenting. The simulation will continue running.</p>
+            <button class="ifs-congrats-close">Continue</button>
         </div>
     `;
 }
@@ -529,9 +550,10 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
     let flashBtnId: string | null = null;
     let flashUntil = 0;
     let waitingStartTime: number | null = null;
+    let congratsShown = false;
     const BANNER_DELAY = 3000;
 
-    const recording: Recording = { setup, events: [] };
+    const recording: Recording = { version: VERSION, setup, events: [] };
     let lastMessageCount = 0;
 
     const statusEl = getEl<HTMLElement>(container, '.ifs-status');
@@ -615,6 +637,11 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
         wireBtn('ifs-activate-b', state.partB.id, THERAPIST_NUDGE);
     }
     wireTherapistBtns();
+
+    container.querySelector('.ifs-congrats-close')!.addEventListener('click', () => {
+        const banner = container.querySelector<HTMLElement>('#ifs-congrats-banner');
+        if (banner) banner.style.display = 'none';
+    });
 
     function wireTrustSlider(id: string, valId: string, part: typeof state.partA, onBinsUpdate: () => void): void {
         const slider = getEl<HTMLInputElement>(statusEl, `#${id}`);
@@ -729,6 +756,12 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
             if (bannerEl) bannerEl.style.display = 'none';
         }
 
+        if (!congratsShown && relAB.trust > 0.89 && relBA.trust > 0.89) {
+            congratsShown = true;
+            const banner = container.querySelector<HTMLElement>('#ifs-congrats-banner');
+            if (banner) banner.style.display = '';
+        }
+
         setClass('ifs-card-a', 'ifs-speaker', !bothWaiting && conversation.speakerId === partA.id);
         setText('ifs-phase-a', phaseLabel(phaseA));
         setText('ifs-stance-desc-a', stanceDescription(stanceA));
@@ -823,7 +856,7 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
                 const name = isA ? state.partA.name : state.partB.name;
                 div.className = `ifs-msg ${isA ? 'ifs-msg-left' : 'ifs-msg-right'}`;
                 div.innerHTML = `<span class="ifs-msg-sender">${name}</span>` +
-                    `<span class="ifs-msg-phase">[${phaseLabel(m.phase, m.subtype)}]</span>` +
+                    `<span class="ifs-msg-phase">[${phaseLabel(m.phase, m.subtype, m.senderStance)}]</span>` +
                     `<span class="ifs-msg-text">${m.text}</span>`;
             }
             logEl.appendChild(div);
@@ -857,5 +890,7 @@ function mount(container: HTMLElement): void {
 
 document.addEventListener('DOMContentLoaded', () => {
     const el = document.getElementById('ifs-conversation-root');
-    if (el) mount(el);
+    if (!el) return;
+    console.log(`IFS Conversation v${VERSION}`);
+    mount(el);
 });

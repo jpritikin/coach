@@ -132,13 +132,26 @@ All utterances within a single cycle — speaker and listener lines alike — co
 
 When regulated, each phase fires after a **{{< sim "respond_delay" >}}-second respond timer** resets on every phase transition.
 
-When dysregulated, only a speaker whose stance exceeds +{{< sim "regulation_stance_limit" >}} can speak early, with probability:
+When dysregulated, a speaker whose stance exceeds +{{< sim "regulation_stance_limit" >}} can speak early. The mechanism depends on which phase slot the speaker currently holds:
 
-```
-p(speak in dt) = clamp(stance + 0.3, 0, 1) × 0.5 × dt
-```
+- **Holding an active phase** (`speak`, `clarify`, `validate`): fires probabilistically each tick:
+  ```
+  p(speak in dt) = clamp(stance + 0.3, 0, 1) × 0.5 × dt
+  ```
+  A flooded speaker (+1.0) has ~65% chance per second; a barely-dysregulated speaker has ~30%. After firing, the phase does not advance until regulation returns.
 
-This means a flooded speaker (+1.0) has ~65% chance of speaking in any given second; a barely-dysregulated speaker (+{{< sim "regulation_stance_limit" >}}) has 30%. After an early dysregulated utterance fires, the phase does not advance until regulation returns — creating the "nag/jab/snap" effect without breaking the IFIO structure.
+- **Holding the listen slot** (waiting for the listener to mirror/empathize): fires after a grace-period timer (same duration as a listener violation). When regulation returns, the listener's turn resumes normally — no phase advance is deferred.
+
+The label shown reflects the speaker's stance intensity at the moment of utterance:
+
+| Stance | Label |
+|--------|-------|
+| < 0.50 | Nag |
+| < 0.65 | Jab |
+| < 0.75 | Snap |
+| < 0.85 | Accuse |
+| < 0.95 | Shout |
+| ≥ 0.95 | Explode |
 
 ---
 
@@ -194,11 +207,15 @@ Trust is a per-relationship value in [0, 1] (Shamer→Drinker and Drinker→Sham
 
 The active trust band selects which pool of dialogue tuples to draw from. A cycle completion pulls trust halfway to 1.0. Trust only decreases via shock overflow; the floor is 0 (or a configurable floor, unused in the default scenario).
 
+When both relationships exceed 0.89, a congratulations banner appears — the conversation has reached deep mutual trust.
+
 ---
 
 ### Listener violation
 
-If the **passively listening** part's effective stance exceeds +{{< sim "regulation_stance_limit" >}} for more than **1 second**, it becomes the new speaker — interrupting the current cycle. This models a part that cannot hold the listening role when flooded.
+If the **listener's** effective stance exceeds +{{< sim "regulation_stance_limit" >}} for more than **1 second**, it becomes the new speaker — interrupting the current cycle and rolling a new dialogue tuple. This models a part that cannot hold the listening role when flooded.
+
+The same grace-period timer also applies to the **speaker when holding the listen slot** (see Utterance timing above) — it fires an outburst without swapping roles or interrupting the cycle.
 
 ---
 
