@@ -26,12 +26,12 @@ The sim always reads all lines from the speaker's relationship tuple.
   index 3  empathize  — listener expresses felt understanding
 
 6-step tuple (adds a repair loop between mirror and validate):
-  index 0  speak      — speaker's utterance
-  index 1  mirror     — listener's first attempt to reflect (misses something)
-  index 2  clarify    — speaker corrects or adds what was missed
-  index 3  mirror2    — listener tries again with the new information
-  index 4  validate   — speaker confirms the second mirror
-  index 5  empathize  — listener expresses felt understanding
+  index 0  speak        — speaker's utterance
+  index 1  mirror       — listener's first attempt to reflect (misses something)
+  index 2  clarify      — speaker corrects or adds what was missed
+  index 3  mirror_again — listener tries again with the new information
+  index 4  validate     — speaker confirms the second mirror
+  index 5  empathize    — listener expresses felt understanding
 
 The sim picks a random tuple from the current trust band at the start of each cycle and
 uses that same tuple for all phases. Mix 4-step and 6-step tuples within a band to vary
@@ -57,10 +57,10 @@ Phase voice guidelines:
   clarify    Speaker corrects or extends what the mirror got wrong or incomplete.
              Example: "More than frightened — I'm terrified we'll repeat the past."
 
-  mirror2    Listener tries again with the new information. Should land closer.
-             Example: "You're terrified of repeating what happened with our parent."
+  mirror_again  Listener tries again with the new information. Should land closer.
+               Example: "You're terrified of repeating what happened with our parent."
 
-  validate   Speaker confirms the mirror (or mirror2 in 6-step). May add a small detail.
+  validate   Speaker confirms the mirror (or mirror_again in 6-step). May add a small detail.
              Example: "Yes. The anger is on top. Underneath I'm terrified."
 
   empathize  Listener responds with felt understanding — a shift, not just acknowledgment.

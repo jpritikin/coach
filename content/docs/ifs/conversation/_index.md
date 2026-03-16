@@ -213,7 +213,7 @@ When both relationships exceed 0.89, a congratulations banner appears — the co
 
 ### ListenRole violation
 
-If the **ListenRole part's** effective stance exceeds +{{< sim "regulation_stance_limit" >}} for more than **1 second**, it becomes the new SpeakRole part — interrupting the current cycle and rolling a new dialogue tuple. This models a part that cannot hold the ListenRole when flooded.
+If the **ListenRole part's** effective stance exceeds +{{< sim "regulation_stance_limit" >}} for more than **1 second**, it becomes the new SpeakRole part — interrupting the current cycle and rolling a new dialogue tuple. The newly promoted SpeakRole part immediately fires a dysregulated utterance, shocking the new ListenRole part toward negative stance. This breaks oscillation loops where both parts remain dysregulated indefinitely. This models a part that cannot hold the ListenRole when flooded.
 
 The same grace-period timer also applies to the **SpeakRole part when in the `listen` phase** (see Utterance timing above) — it fires an outburst without swapping roles or interrupting the cycle.
 

@@ -686,6 +686,27 @@ export function tick(state: SimState, dt: number): SimEvent[] {
                 };
                 state.messages.push(swapMsg);
                 out.push({ kind: 'message', data: swapMsg });
+                // Immediately fire a dysregulated utterance from the new SpeakRole (the violator).
+                // The shock pushes the new ListenRole toward negative stance, breaking the
+                // oscillation loop where both parts remain dysregulated indefinitely.
+                updateEffectiveStances(state);
+                const newSpeakerStance = conversation.effectiveStances.get(listenRolePart)!;
+                const utteranceText = getDialogue(violatorRel, 'speak', conversation);
+                if (utteranceText) {
+                    const utterMsg: Message = {
+                        id: ++state.messageCounter,
+                        senderId: listenRolePart,
+                        text: utteranceText,
+                        phase: 'speak',
+                        type: 'dialogue',
+                        subtype: 'dysregulated',
+                        senderStance: newSpeakerStance,
+                    };
+                    state.messages.push(utterMsg);
+                    out.push({ kind: 'message', data: utterMsg });
+                    applyStanceShock(listenRolePart, newListenRolePart, newSpeakerStance, state, out, true);
+                    conversation.dysregulatedSpokePending = true;
+                }
                 tickBall(state, dt);
                 state.simTime += dt;
                 return out;

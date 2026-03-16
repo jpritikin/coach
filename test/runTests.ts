@@ -112,12 +112,12 @@ test('nextPhases: listen/mirror → clarify/listen (6-step)', () => {
     assert.deepEqual(nextPhases('listen', 'mirror', true), ['clarify', 'listen']);
 });
 
-test('nextPhases: clarify/listen → listen/mirror2', () => {
-    assert.deepEqual(nextPhases('clarify', 'listen'), ['listen', 'mirror2']);
+test('nextPhases: clarify/listen → listen/mirror_again', () => {
+    assert.deepEqual(nextPhases('clarify', 'listen'), ['listen', 'mirror_again']);
 });
 
-test('nextPhases: listen/mirror2 → validate/listen', () => {
-    assert.deepEqual(nextPhases('listen', 'mirror2'), ['validate', 'listen']);
+test('nextPhases: listen/mirror_again → validate/listen', () => {
+    assert.deepEqual(nextPhases('listen', 'mirror_again'), ['validate', 'listen']);
 });
 
 test('nextPhases: validate/listen → listen/empathize', () => {
