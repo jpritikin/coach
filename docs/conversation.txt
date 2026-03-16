@@ -1,28 +1,7 @@
-Writing guide for content/docs/ifs/conversation/_index.md
-===========================================================
+Dialogue writing guide for ifsConversationData.ts
+==================================================
 
-PURPOSE
--------
-This page hosts a live IFIO (Intimacy From the Inside Out) conversation
-simulation between two parts. The prose in _index.md provides context for the reader
-and the <details> block explains mechanics before they watch. Write copy that is brief,
-accurate, and invites curiosity rather than over-explaining.
-
-
-STRUCTURE OF THE FILE
----------------------
-The file has three sections:
-
-1. Hugo front matter (title, type, bookToc, weight) — do not change these.
-
-2. A <details><summary> block — the "How it works" explanation shown on demand.
-   Keep this technical but concise. It documents mechanics, not therapy theory.
-
-3. The simulation mount point — CSS link, <div id="ifs-conversation-root">, and
-   the module script. Do not move or rename these.
-
-
-DIALOGUE DATA (ifsConversationData.ts)
+DIALOGUE DATA
 ---------------------------------------
 All spoken lines live in ifsConversationData.ts as a ScenarioConfig. Each scenario
 has two relationships: relAB (partA speaks to partB) and relBA (partB speaks to partA).
@@ -104,39 +83,3 @@ Avoid:
 - Redundancy between mirror and validate — they should add information, not repeat
 
 
-MECHANICS SUMMARY (for writing the <details> block)
------------------------------------------------------
-The IFIO cycle is either 4 or 6 steps per speaker turn, determined by the active tuple's length:
-
-  4-step: speak → mirror → validate → empathize
-  6-step: speak → mirror → clarify → mirror2 → validate → empathize
-
-In the 6-step path the first mirror is inadequate; the speaker clarifies and the listener
-mirrors again before validation proceeds.
-
-The cycle only advances when both parts are regulated (effective stance within ±0.3).
-If the listening part's stance exceeds that limit it becomes the new speaker (listener
-violation). Completing the empathize step grants a large trust bonus.
-
-Stance is a signed float [-1, 1]:
-  > 0.6    flooding
-  0.3–0.6  dysregulated
-  ±0.3     regulated
-  -0.3 to -0.6  withdrawing
-  < -0.6   shut down
-
-A part's effective stance = raw stance + therapist delta + shock delta.
-Therapist and shock deltas decay exponentially over time.
-
-Speaking shocks the listener: if speaker stance is positive, shock pushes listener
-negative (withdrawal); if negative, it pulls listener positive (attack). High trust
-and high self-trust dampen the shock magnitude. If the listener is already dysregulated
-negative, a flip may occur — the listener erupts positive and the previous speaker receives a counter-shocks.
-
-Between cycles both phases return to 'listen'. The part with more positive stance becomes the
-next speaker.
-
-Nags and jabs: while waiting to speak (phase = speak, both parts dysregulated), a flooded
-speaker fires extra utterances probabilistically — these are nags. The phase does not advance;
-each nag applies a stance shock. Non-speak phases (mirror, clarify, validate, empathize) simply
-stall when dysregulated — they never fire early.

@@ -11,7 +11,7 @@ export const PHASE_INDEX = PHASE_INDEX_6;
 export const REGULATION_STANCE_LIMIT = 0.3;
 export const RESPOND_DELAY = 3;
 export const NEW_CYCLE_DELAY = 4;
-const LISTENER_VIOLATION_GRACE = 1.0;
+const LISTEN_ROLE_VIOLATION_GRACE = 1.0;
 const REGULATION_RECOVER_RATE = 0.5;
 const REGULATION_DECAY_RATE = 0.3;
 const SPEAK_BASE_RATE = 0.5;
@@ -63,18 +63,18 @@ export interface Part {
 }
 
 export interface ConversationState {
-    speakerId: string;
+    speakRoleId: string;
     phases: Map<string, IfioPhase>;
     effectiveStances: Map<string, number>;
     therapistDeltas: Map<string, number>;
     shockDeltas: Map<string, number>;
-    // Active dialogue tuple index, rolled once per cycle for the speaker
+    // Active dialogue tuple index, rolled once per cycle for the SpeakRole part
     activeTupleIndex: number;
     regulationScore: number;
     respondTimer: number;
     newCycleTimer: number;
-    listenerViolationTimer: number;
-    speakerViolationTimer: number;
+    listenRoleViolationTimer: number;
+    speakRoleViolationTimer: number;
     // Ball: position 0=partA side, 1=partB side
     ballPos: number;
     ballVel: number;
@@ -113,19 +113,19 @@ export interface RawStanceEvent {
 }
 
 export interface PhaseTransitionEvent {
-    speakerId: string;
-    listenerId: string;
-    oldPhaseS: IfioPhase;
-    oldPhaseL: IfioPhase;
-    newPhaseS: IfioPhase;
-    newPhaseL: IfioPhase;
+    speakRoleId: string;
+    listenRoleId: string;
+    oldPhaseSR: IfioPhase;
+    oldPhaseLR: IfioPhase;
+    newPhaseSR: IfioPhase;
+    newPhaseLR: IfioPhase;
     rawStanceA: number;
     rawStanceB: number;
     simTime: number;
 }
 
 export interface NominateEvent {
-    speakerId: string;
+    speakRoleId: string;
     sampledStance: number;
 }
 
@@ -152,22 +152,22 @@ export interface SimState {
 const STREAK_K = Math.log(1.2) / 5;
 
 // Returns [deltaIfDefault, deltaIfFlip, probFlip].
-// Default: push away from speaker stance. Flip (prob=receiver flipOdds): pull toward speaker stance.
-function shockParams(speakerStance: number, selfTrust: number, receiverRel: InterPartRelation, streak = 0): [number, number, number] {
+// Default: push away from source stance. Flip (prob=receiver flipOdds): pull toward source stance.
+function shockParams(sourceStance: number, selfTrust: number, receiverRel: InterPartRelation, streak = 0): [number, number, number] {
     const streakMult = Math.exp(STREAK_K * streak);
-    const shockMag = streakMult * 0.3 * Math.abs(speakerStance) * 2 / ((1 + selfTrust) * (1 + receiverRel.trust));
-    return [-Math.sign(speakerStance) * shockMag, Math.sign(speakerStance) * shockMag, receiverRel.stanceFlipOdds];
+    const shockMag = streakMult * 0.3 * Math.abs(sourceStance) * 2 / ((1 + selfTrust) * (1 + receiverRel.trust));
+    return [-Math.sign(sourceStance) * shockMag, Math.sign(sourceStance) * shockMag, receiverRel.stanceFlipOdds];
 }
 
 export function nextShockDist(state: SimState, receiverId: string): [number, number, number] {
     const { partA, partB } = state;
     const isReceiverA = receiverId === partA.id;
-    const speakerId = isReceiverA ? partB.id : partA.id;
+    const sourceId = isReceiverA ? partB.id : partA.id;
     const receiverRel = isReceiverA ? state.relAB : state.relBA;
     const selfTrust = isReceiverA ? partA.selfTrust : partB.selfTrust;
-    const speakerStance = state.conversation.effectiveStances.get(speakerId) ?? 0;
+    const sourceStance = state.conversation.effectiveStances.get(sourceId) ?? 0;
     const streak = state.conversation.dysregStreak.get(receiverId) ?? 0;
-    return shockParams(speakerStance, selfTrust, receiverRel, streak);
+    return shockParams(sourceStance, selfTrust, receiverRel, streak);
 }
 
 export function getTrustBand(trust: number): TrustBand {
@@ -202,19 +202,19 @@ function resampleStance(rel: InterPartRelation, selfTrust: number): void {
     rel.stance = clamp(0.25 * rel.stance + 0.75 * sample);
 }
 
-function nominateSpeaker(speakerId: string, state: SimState, out: SimEvent[]): void {
+function nominateSpeakRole(speakRoleId: string, state: SimState, out: SimEvent[]): void {
     const { partA, partB, relAB, relBA, conversation } = state;
-    const listenerId = speakerId === partA.id ? partB.id : partA.id;
-    conversation.speakerId = speakerId;
-    conversation.phases.set(speakerId, 'speak');
-    conversation.phases.set(listenerId, 'listen');
+    const listenRoleId = speakRoleId === partA.id ? partB.id : partA.id;
+    conversation.speakRoleId = speakRoleId;
+    conversation.phases.set(speakRoleId, 'speak');
+    conversation.phases.set(listenRoleId, 'listen');
     conversation.respondTimer = 0;
-    const rel = speakerId === partA.id ? relAB : relBA;
-    const selfTrust = speakerId === partA.id ? partA.selfTrust : partB.selfTrust;
+    const rel = speakRoleId === partA.id ? relAB : relBA;
+    const selfTrust = speakRoleId === partA.id ? partA.selfTrust : partB.selfTrust;
     resampleStance(rel, selfTrust);
-    conversation.therapistDeltas.delete(speakerId);
-    conversation.shockDeltas.delete(speakerId);
-    out.push({ kind: 'nominate', data: { speakerId, sampledStance: rel.stance } });
+    conversation.therapistDeltas.delete(speakRoleId);
+    conversation.shockDeltas.delete(speakRoleId);
+    out.push({ kind: 'nominate', data: { speakRoleId, sampledStance: rel.stance } });
     rollTupleIndex(rel, conversation);
 }
 
@@ -272,12 +272,12 @@ function initConversation(state: SimState): void {
         conversation.phases.set(partA.id, 'waiting');
         conversation.phases.set(partB.id, 'waiting');
     } else {
-        const speakerId = stanceA >= stanceB ? partA.id : partB.id;
-        const listenerId = speakerId === partA.id ? partB.id : partA.id;
-        conversation.speakerId = speakerId;
-        conversation.phases.set(speakerId, 'speak');
-        conversation.phases.set(listenerId, 'listen');
-        const initRel = speakerId === partA.id ? relAB : relBA;
+        const speakRoleId = stanceA >= stanceB ? partA.id : partB.id;
+        const listenRoleId = speakRoleId === partA.id ? partB.id : partA.id;
+        conversation.speakRoleId = speakRoleId;
+        conversation.phases.set(speakRoleId, 'speak');
+        conversation.phases.set(listenRoleId, 'listen');
+        const initRel = speakRoleId === partA.id ? relAB : relBA;
         rollTupleIndex(initRel, conversation);
     }
 }
@@ -290,11 +290,11 @@ function updateEffectiveStances(state: SimState): void {
     conversation.effectiveStances.set(partB.id, getEffectiveStance(relBA.stance, dB));
 }
 
-function applyStanceShock(speakerId: string, receiverId: string, speakerStance: number, state: SimState, out: SimEvent[], dysregulated = false): void {
+function applyStanceShock(shockSourceId: string, receiverId: string, sourceStance: number, state: SimState, out: SimEvent[], dysregulated = false): void {
     const receiverRel = receiverId === state.partA.id ? state.relAB : state.relBA;
     const selfTrust = receiverId === state.partA.id ? state.partA.selfTrust : state.partB.selfTrust;
     const streak = state.conversation.dysregStreak.get(receiverId) ?? 0;
-    const [deltaDefault, deltaFlip, probFlip] = shockParams(speakerStance, selfTrust, receiverRel, streak);
+    const [deltaDefault, deltaFlip, probFlip] = shockParams(sourceStance, selfTrust, receiverRel, streak);
     if (dysregulated) {
         state.conversation.dysregStreak.set(receiverId, streak + 1);
     } else {
@@ -315,11 +315,11 @@ function applyStanceShock(speakerId: string, receiverId: string, speakerStance: 
     if (negOverflow > 0) {
         const trustBefore = receiverRel.trust;
         addInterPartTrust(receiverRel, -OVERFLOW_TRUST_PENALTY * negOverflow);
-        logTrustChange(state, receiverRel, trustBefore, speakerId, receiverId, 'overflow', out);
+        logTrustChange(state, receiverRel, trustBefore, shockSourceId, receiverId, 'overflow', out);
     }
     out.push({ kind: 'shock', data: { receiverId, shockDelta, effectiveStanceBefore, effectiveStanceAfter, accumulatedShockDelta: newShockDelta, simTime: state.simTime } });
 
-    // Flip: if receiver effective stance is dysregulated negative, shock may trigger a polarity reversal.
+    // Polarity flip: if receiver effective stance is dysregulated negative, shock may trigger a reversal.
     if (effectiveStanceAfter < -REGULATION_STANCE_LIMIT && Math.random() < receiverRel.stanceFlipOdds) {
         const receiverSelfTrust = receiverId === state.partA.id ? state.partA.selfTrust : state.partB.selfTrust;
         const s0 = effectiveStanceAfter;
@@ -328,10 +328,10 @@ function applyStanceShock(speakerId: string, receiverId: string, speakerStance: 
         receiverRel.stance = clamp(s1);
         state.conversation.shockDeltas.delete(receiverId);
         out.push({ kind: 'rawStance', data: { partId: receiverId, rawStanceBefore: rawBefore, rawStanceAfter: receiverRel.stance, reason: 'flip', simTime: state.simTime } });
-        const speakerRel2 = speakerId === state.partA.id ? state.relAB : state.relBA;
-        const speakerRawBefore = speakerRel2.stance;
-        speakerRel2.stance = clamp(speakerRel2.stance - (s1 - s0));
-        out.push({ kind: 'rawStance', data: { partId: speakerId, rawStanceBefore: speakerRawBefore, rawStanceAfter: speakerRel2.stance, reason: 'counter-shock', simTime: state.simTime } });
+        const sourceRel2 = shockSourceId === state.partA.id ? state.relAB : state.relBA;
+        const sourceRawBefore = sourceRel2.stance;
+        sourceRel2.stance = clamp(sourceRel2.stance - (s1 - s0));
+        out.push({ kind: 'rawStance', data: { partId: shockSourceId, rawStanceBefore: sourceRawBefore, rawStanceAfter: sourceRel2.stance, reason: 'counter-shock', simTime: state.simTime } });
         updateEffectiveStances(state);
         const pool = [...GENERIC_FLIP_UTTERANCES, ...(receiverRel.flipUtterances ?? [])];
         const utterance = pool[Math.floor(Math.random() * pool.length)];
@@ -345,21 +345,21 @@ function applyStanceShock(speakerId: string, receiverId: string, speakerStance: 
         state.messages.push(flipMsg);
         out.push({ kind: 'message', data: flipMsg });
 
-        // Reset phase: whoever flipped becomes speaker
-        const newListenerId = receiverId === state.partA.id ? state.partB.id : state.partA.id;
-        state.conversation.speakerId = receiverId;
+        // Flipped part becomes the new SpeakRole
+        const newListenRoleId = receiverId === state.partA.id ? state.partB.id : state.partA.id;
+        state.conversation.speakRoleId = receiverId;
         state.conversation.phases.set(receiverId, 'speak');
-        state.conversation.phases.set(newListenerId, 'listen');
+        state.conversation.phases.set(newListenRoleId, 'listen');
         state.conversation.respondTimer = 0;
         const flipperRel = receiverId === state.partA.id ? state.relAB : state.relBA;
         rollTupleIndex(flipperRel, state.conversation);
 
         const receiverName = receiverId === state.partA.id ? state.partA.name : state.partB.name;
-        const speakerName = speakerId === state.partA.id ? state.partA.name : state.partB.name;
+        const sourceName = shockSourceId === state.partA.id ? state.partA.name : state.partB.name;
         const msg2: Message = {
             id: ++state.messageCounter,
             senderId: receiverId,
-            text: `${receiverName} flipped: ${s0.toFixed(2)} → ${s1.toFixed(2)}; ${speakerName} counter-shock ${(-(s0 - s1)).toFixed(2)}`,
+            text: `${receiverName} flipped: ${s0.toFixed(2)} → ${s1.toFixed(2)}; ${sourceName} counter-shock ${(-(s0 - s1)).toFixed(2)}`,
             phase: 'listen',
             type: 'trust',
             subtype: 'counter-shock',
@@ -386,7 +386,7 @@ function logTrustChange(state: SimState, rel: InterPartRelation, before: number,
     out.push({ kind: 'message', data: msg });
 }
 
-// Returns [newSpeakerPhase, newListenerPhase] or null if no transition applies.
+// Returns [newSpeakRolePhase, newListenRolePhase] or null if no transition applies.
 // sixStep: true when the active tuple has 6 entries (adds clarify + mirror_again between mirror and validate).
 export function nextPhases(phaseS: IfioPhase, phaseL: IfioPhase, sixStep = false): [IfioPhase, IfioPhase] | null {
     if (phaseS === 'speak'    && phaseL === 'listen')    return ['listen', 'mirror'];
@@ -399,8 +399,8 @@ export function nextPhases(phaseS: IfioPhase, phaseL: IfioPhase, sixStep = false
 }
 
 function activeTupleLength(state: SimState): number {
-    const speakerId = state.conversation.speakerId;
-    const rel = speakerId === state.partA.id ? state.relAB : state.relBA;
+    const speakRoleId = state.conversation.speakRoleId;
+    const rel = speakRoleId === state.partA.id ? state.relAB : state.relBA;
     const band = getTrustBand(rel.trust);
     const pool = rel.dialogues?.[band];
     if (!pool || pool.length === 0) return 4;
@@ -409,26 +409,26 @@ function activeTupleLength(state: SimState): number {
 
 function tryAdvancePhase(state: SimState, out: SimEvent[]): void {
     const { partA, partB, relAB, relBA, conversation } = state;
-    const speakerId = conversation.speakerId;
-    const listenerId = speakerId === partA.id ? partB.id : partA.id;
-    const phaseS = conversation.phases.get(speakerId)!;
-    const phaseL = conversation.phases.get(listenerId)!;
-    const relSL = speakerId === partA.id ? relAB : relBA;
+    const speakRoleId = conversation.speakRoleId;
+    const listenRoleId = speakRoleId === partA.id ? partB.id : partA.id;
+    const phaseS = conversation.phases.get(speakRoleId)!;
+    const phaseL = conversation.phases.get(listenRoleId)!;
+    const relSL = speakRoleId === partA.id ? relAB : relBA;
 
     const sixStep = activeTupleLength(state) === 6;
     const next = nextPhases(phaseS, phaseL, sixStep);
     if (!next) return;
 
-    const [newPhaseS, newPhaseL] = next;
+    const [newPhaseSR, newPhaseLR] = next;
     conversation.respondTimer = 0;
-    conversation.phases.set(speakerId, newPhaseS);
-    conversation.phases.set(listenerId, newPhaseL);
+    conversation.phases.set(speakRoleId, newPhaseSR);
+    conversation.phases.set(listenRoleId, newPhaseLR);
 
     out.push({
         kind: 'phase', data: {
-            speakerId, listenerId,
-            oldPhaseS: phaseS, oldPhaseL: phaseL,
-            newPhaseS, newPhaseL,
+            speakRoleId, listenRoleId,
+            oldPhaseSR: phaseS, oldPhaseLR: phaseL,
+            newPhaseSR, newPhaseLR,
             rawStanceA: relAB.stance, rawStanceB: relBA.stance,
             simTime: state.simTime,
         }
@@ -437,7 +437,7 @@ function tryAdvancePhase(state: SimState, out: SimEvent[]): void {
     if (phaseS === 'listen' && phaseL === 'empathize') {
         const before = relSL.trust;
         addInterPartTrust(relSL, CYCLE_TRUST_BOOST_FACTOR * (1 - relSL.trust));
-        logTrustChange(state, relSL, before, speakerId, listenerId, 'cycle complete', out);
+        logTrustChange(state, relSL, before, speakRoleId, listenRoleId, 'cycle complete', out);
         relSL.stance = relSL.stance * CYCLE_STANCE_SOFTEN;
         state.cyclesCompleted++;
     }
@@ -445,7 +445,7 @@ function tryAdvancePhase(state: SimState, out: SimEvent[]): void {
 
 // Minimal scalar state for lookahead simulation (no dialogues, no messages)
 interface LookaheadState {
-    speakerId: string;
+    speakRoleId: string;
     phaseA: IfioPhase;
     phaseB: IfioPhase;
     stanceA: number;
@@ -453,8 +453,8 @@ interface LookaheadState {
     regulationScore: number;
     respondTimer: number;
     newCycleTimer: number;
-    listenerViolationTimer: number;
-    speakerViolationTimer: number;
+    listenRoleViolationTimer: number;
+    speakRoleViolationTimer: number;
     simTime: number;
 }
 
@@ -465,7 +465,7 @@ export function lookaheadUtterance(state: SimState, maxLook = 8): [boolean, numb
     const SUB = 0.05; // substep size in sim-seconds
 
     let ls: LookaheadState = {
-        speakerId: conversation.speakerId,
+        speakRoleId: conversation.speakRoleId,
         phaseA: conversation.phases.get(partA.id) ?? 'listen',
         phaseB: conversation.phases.get(partB.id) ?? 'listen',
         stanceA: conversation.effectiveStances.get(partA.id) ?? 0,
@@ -473,8 +473,8 @@ export function lookaheadUtterance(state: SimState, maxLook = 8): [boolean, numb
         regulationScore: conversation.regulationScore,
         respondTimer: conversation.respondTimer,
         newCycleTimer: conversation.newCycleTimer,
-        listenerViolationTimer: conversation.listenerViolationTimer,
-        speakerViolationTimer: conversation.speakerViolationTimer,
+        listenRoleViolationTimer: conversation.listenRoleViolationTimer,
+        speakRoleViolationTimer: conversation.speakRoleViolationTimer,
         simTime: 0,
     };
 
@@ -496,49 +496,49 @@ export function lookaheadUtterance(state: SimState, maxLook = 8): [boolean, numb
             ls.newCycleTimer += dt;
             if (ls.newCycleTimer >= NEW_CYCLE_DELAY) {
                 ls.newCycleTimer = 0;
-                ls.speakerId = ls.stanceA >= ls.stanceB ? partA.id : partB.id;
-                ls.phaseA = isA(ls.speakerId) ? 'speak' : 'listen';
-                ls.phaseB = isA(ls.speakerId) ? 'listen' : 'speak';
+                ls.speakRoleId = ls.stanceA >= ls.stanceB ? partA.id : partB.id;
+                ls.phaseA = isA(ls.speakRoleId) ? 'speak' : 'listen';
+                ls.phaseB = isA(ls.speakRoleId) ? 'listen' : 'speak';
                 ls.respondTimer = 0;
             }
         } else {
             ls.newCycleTimer = 0;
-            const phaseS = isA(ls.speakerId) ? ls.phaseA : ls.phaseB;
-            const phaseL = isA(ls.speakerId) ? ls.phaseB : ls.phaseA;
+            const phaseS = isA(ls.speakRoleId) ? ls.phaseA : ls.phaseB;
+            const phaseL = isA(ls.speakRoleId) ? ls.phaseB : ls.phaseA;
 
-            // Listener violation: role-listener floods → role swap
-            const listeningIsA = !isA(ls.speakerId);
-            const listeningStance = listeningIsA ? ls.stanceA : ls.stanceB;
-            if (listeningStance > REGULATION_STANCE_LIMIT) {
-                ls.listenerViolationTimer += dt;
-                if (ls.listenerViolationTimer >= LISTENER_VIOLATION_GRACE) {
-                    ls.listenerViolationTimer = 0;
-                    ls.speakerId = listeningIsA ? partA.id : partB.id;
-                    ls.phaseA = isA(ls.speakerId) ? 'speak' : 'listen';
-                    ls.phaseB = isA(ls.speakerId) ? 'listen' : 'speak';
+            // ListenRole violation: ListenRole part floods → role swap
+            const listenRoleIsA = !isA(ls.speakRoleId);
+            const listenRoleStance = listenRoleIsA ? ls.stanceA : ls.stanceB;
+            if (listenRoleStance > REGULATION_STANCE_LIMIT) {
+                ls.listenRoleViolationTimer += dt;
+                if (ls.listenRoleViolationTimer >= LISTEN_ROLE_VIOLATION_GRACE) {
+                    ls.listenRoleViolationTimer = 0;
+                    ls.speakRoleId = listenRoleIsA ? partA.id : partB.id;
+                    ls.phaseA = isA(ls.speakRoleId) ? 'speak' : 'listen';
+                    ls.phaseB = isA(ls.speakRoleId) ? 'listen' : 'speak';
                     ls.respondTimer = 0;
                 }
             } else {
-                ls.listenerViolationTimer = 0;
+                ls.listenRoleViolationTimer = 0;
             }
 
-            // Speaker dysregulated utterance — mirrors real tick logic
-            const speakerIsA = isA(ls.speakerId);
-            const speakerStance = speakerIsA ? ls.stanceA : ls.stanceB;
-            if (!regulated && speakerStance >= REGULATION_STANCE_LIMIT) {
+            // SpeakRole dysregulated utterance — mirrors real tick logic
+            const speakRoleIsA = isA(ls.speakRoleId);
+            const speakRoleStance = speakRoleIsA ? ls.stanceA : ls.stanceB;
+            if (!regulated && speakRoleStance >= REGULATION_STANCE_LIMIT) {
                 if (phaseS === 'listen') {
-                    ls.speakerViolationTimer += dt;
-                    if (ls.speakerViolationTimer >= LISTENER_VIOLATION_GRACE) {
-                        ls.speakerViolationTimer = 0;
-                        return [speakerIsA, t + dt];
+                    ls.speakRoleViolationTimer += dt;
+                    if (ls.speakRoleViolationTimer >= LISTEN_ROLE_VIOLATION_GRACE) {
+                        ls.speakRoleViolationTimer = 0;
+                        return [speakRoleIsA, t + dt];
                     }
                 } else {
-                    ls.speakerViolationTimer = 0;
-                    const s = Math.min(1, Math.max(0, speakerStance + 0.3));
-                    if (Math.random() < s * SPEAK_BASE_RATE * dt) return [speakerIsA, t + dt];
+                    ls.speakRoleViolationTimer = 0;
+                    const s = Math.min(1, Math.max(0, speakRoleStance + 0.3));
+                    if (Math.random() < s * SPEAK_BASE_RATE * dt) return [speakRoleIsA, t + dt];
                 }
             } else {
-                ls.speakerViolationTimer = 0;
+                ls.speakRoleViolationTimer = 0;
             }
 
             // Normal utterance: whoever holds a non-listen phase, when regulated
@@ -551,7 +551,7 @@ export function lookaheadUtterance(state: SimState, maxLook = 8): [boolean, numb
         }
     }
     // No utterance found within lookahead window — return midpoint as fallback
-    return [isA(state.conversation.speakerId), maxLook / 2];
+    return [isA(state.conversation.speakRoleId), maxLook / 2];
 }
 
 function tickBall(state: SimState, dt: number): void {
@@ -611,8 +611,8 @@ export function tick(state: SimState, dt: number): SimEvent[] {
         const effA = conversation.effectiveStances.get(partA.id)!;
         const effB = conversation.effectiveStances.get(partB.id)!;
         if (effA >= 0 || effB >= 0) {
-            const speakerId = effA >= effB ? partA.id : partB.id;
-            nominateSpeaker(speakerId, state, out);
+            const speakRoleId = effA >= effB ? partA.id : partB.id;
+            nominateSpeakRole(speakRoleId, state, out);
         }
         state.simTime += dt;
         return out;
@@ -627,16 +627,16 @@ export function tick(state: SimState, dt: number): SimEvent[] {
                 conversation.phases.set(partB.id, 'waiting');
                 out.push({
                     kind: 'phase', data: {
-                        speakerId: partA.id, listenerId: partB.id,
-                        oldPhaseS: 'listen', oldPhaseL: 'listen',
-                        newPhaseS: 'waiting', newPhaseL: 'waiting',
+                        speakRoleId: partA.id, listenRoleId: partB.id,
+                        oldPhaseSR: 'listen', oldPhaseLR: 'listen',
+                        newPhaseSR: 'waiting', newPhaseLR: 'waiting',
                         rawStanceA: relAB.stance, rawStanceB: relBA.stance,
                         simTime: state.simTime,
                     }
                 });
             } else {
-                const newSpeaker = stanceA >= stanceB ? partA.id : partB.id;
-                nominateSpeaker(newSpeaker, state, out);
+                const newSpeakRoleId = stanceA >= stanceB ? partA.id : partB.id;
+                nominateSpeakRole(newSpeakRoleId, state, out);
             }
         }
         tickBall(state, dt);
@@ -645,29 +645,53 @@ export function tick(state: SimState, dt: number): SimEvent[] {
     }
     conversation.newCycleTimer = 0;
 
-    const speakerId = conversation.speakerId;
-    const listenerId = speakerId === partA.id ? partB.id : partA.id;
-    const phaseS = conversation.phases.get(speakerId)!;
-    const phaseL = conversation.phases.get(listenerId)!;
+    const speakRoleId = conversation.speakRoleId;
+    const listenRoleId = speakRoleId === partA.id ? partB.id : partA.id;
+    const phaseS = conversation.phases.get(speakRoleId)!;
+    const phaseL = conversation.phases.get(listenRoleId)!;
 
-    const listeningPart: string | null = phaseS !== 'waiting' ? listenerId : null;
+    const listenRolePart: string | null = phaseS !== 'waiting' ? listenRoleId : null;
 
-    if (listeningPart) {
-        const listeningStance = conversation.effectiveStances.get(listeningPart)!;
-        if (listeningStance > REGULATION_STANCE_LIMIT) {
-            conversation.listenerViolationTimer += dt;
-            if (conversation.listenerViolationTimer >= LISTENER_VIOLATION_GRACE) {
-                conversation.listenerViolationTimer = 0;
-                const newListener = listeningPart === partA.id ? partB.id : partA.id;
-                conversation.speakerId = listeningPart;
-                conversation.phases.set(listeningPart, 'speak');
-                conversation.phases.set(newListener, 'listen');
+    if (listenRolePart) {
+        const listenRoleStance = conversation.effectiveStances.get(listenRolePart)!;
+        if (listenRoleStance > REGULATION_STANCE_LIMIT) {
+            conversation.listenRoleViolationTimer += dt;
+            if (conversation.listenRoleViolationTimer >= LISTEN_ROLE_VIOLATION_GRACE) {
+                conversation.listenRoleViolationTimer = 0;
+                const newListenRolePart = listenRolePart === partA.id ? partB.id : partA.id;
+                const oldPhaseSR = phaseS;
+                const oldPhaseLR = phaseL;
+                conversation.speakRoleId = listenRolePart;
+                conversation.phases.set(listenRolePart, 'speak');
+                conversation.phases.set(newListenRolePart, 'listen');
                 conversation.respondTimer = 0;
-                const violatorRel = listeningPart === partA.id ? relAB : relBA;
+                const violatorRel = listenRolePart === partA.id ? relAB : relBA;
                 rollTupleIndex(violatorRel, conversation);
+                out.push({
+                    kind: 'phase', data: {
+                        speakRoleId: listenRolePart, listenRoleId: newListenRolePart,
+                        oldPhaseSR, oldPhaseLR,
+                        newPhaseSR: 'speak', newPhaseLR: 'listen',
+                        rawStanceA: relAB.stance, rawStanceB: relBA.stance,
+                        simTime: state.simTime,
+                    }
+                });
+                const violatorName = listenRolePart === partA.id ? partA.name : partB.name;
+                const swapMsg: Message = {
+                    id: ++state.messageCounter,
+                    senderId: listenRolePart,
+                    text: `${violatorName} took over as SpeakRole (flooding while listening)`,
+                    phase: 'listen',
+                    type: 'trust',
+                };
+                state.messages.push(swapMsg);
+                out.push({ kind: 'message', data: swapMsg });
+                tickBall(state, dt);
+                state.simTime += dt;
+                return out;
             }
         } else {
-            conversation.listenerViolationTimer = 0;
+            conversation.listenRoleViolationTimer = 0;
         }
     }
 
@@ -690,65 +714,65 @@ export function tick(state: SimState, dt: number): SimEvent[] {
     }
 
     const regulated = conversation.regulationScore > 0.5;
-    const speakerStance = conversation.effectiveStances.get(speakerId)!;
-    const speakerRel = speakerId === partA.id ? relAB : relBA;
+    const speakRoleStance = conversation.effectiveStances.get(speakRoleId)!;
+    const speakRoleRel = speakRoleId === partA.id ? relAB : relBA;
 
-    // Speaker dysregulated utterance — fires regardless of which phase slot speaker currently holds.
+    // SpeakRole dysregulated utterance — fires regardless of which phase slot SpeakRole currently holds.
     // When holding an active phase (speak/validate/clarify/mirror_again): probabilistic each tick.
-    // When holding listen (listener's turn): timer-gated with grace period.
-    // Either way: repeats the current or most recent speaker-phase line, don't advance phase.
+    // When holding listen (ListenRole's turn): timer-gated with grace period.
+    // Either way: repeats the current or most recent SpeakRole-phase line, doesn't advance phase.
     function fireDysregulatedSpeak(): void {
-        let activePhase: string;
+        let activePhase: IfioPhase;
         if (phaseS === 'validate' || phaseS === 'clarify' || phaseS === 'mirror_again') {
             activePhase = phaseS;
         } else if (phaseS === 'listen') {
             activePhase = phaseL === 'empathize' ? 'validate' : phaseL === 'mirror_again' ? 'clarify' : 'speak';
         } else {
             activePhase = 'speak';
-            rollTupleIndex(speakerRel, conversation);
+            rollTupleIndex(speakRoleRel, conversation);
         }
-        const text = getDialogue(speakerRel, activePhase, conversation);
+        const text = getDialogue(speakRoleRel, activePhase, conversation);
         if (text) {
-            const msg: Message = { id: ++state.messageCounter, senderId: speakerId, text, phase: 'speak', type: 'dialogue', subtype: 'dysregulated', senderStance: speakerStance };
+            const msg: Message = { id: ++state.messageCounter, senderId: speakRoleId, text, phase: 'speak', type: 'dialogue', subtype: 'dysregulated', senderStance: speakRoleStance };
             state.messages.push(msg);
             out.push({ kind: 'message', data: msg });
-            applyStanceShock(speakerId, listenerId, speakerStance, state, out, true);
+            applyStanceShock(speakRoleId, listenRoleId, speakRoleStance, state, out, true);
             conversation.dysregulatedSpokePending = true;
         }
     }
 
     if (regulated && conversation.dysregulatedSpokePending) {
         conversation.dysregulatedSpokePending = false;
-        conversation.speakerViolationTimer = 0;
+        conversation.speakRoleViolationTimer = 0;
         if (phaseS !== 'listen')
             tryAdvancePhase(state, out);
-    } else if (!regulated && speakerStance >= REGULATION_STANCE_LIMIT) {
+    } else if (!regulated && speakRoleStance >= REGULATION_STANCE_LIMIT) {
         if (phaseS === 'listen') {
-            conversation.speakerViolationTimer += dt;
-            if (conversation.speakerViolationTimer >= LISTENER_VIOLATION_GRACE) {
-                conversation.speakerViolationTimer = 0;
+            conversation.speakRoleViolationTimer += dt;
+            if (conversation.speakRoleViolationTimer >= LISTEN_ROLE_VIOLATION_GRACE) {
+                conversation.speakRoleViolationTimer = 0;
                 fireDysregulatedSpeak();
             }
         } else {
-            conversation.speakerViolationTimer = 0;
-            const s = Math.min(1, Math.max(0, speakerStance + 0.3));
+            conversation.speakRoleViolationTimer = 0;
+            const s = Math.min(1, Math.max(0, speakRoleStance + 0.3));
             if (Math.random() < s * SPEAK_BASE_RATE * dt) fireDysregulatedSpeak();
         }
     } else {
-        conversation.speakerViolationTimer = 0;
+        conversation.speakRoleViolationTimer = 0;
     }
 
     // Normal utterance path — whoever holds a non-listen phase this tick.
     if (!conversation.dysregulatedSpokePending) {
-        const utterer = phaseS !== 'listen' ? speakerId : listenerId;
+        const utterer = phaseS !== 'listen' ? speakRoleId : listenRoleId;
         const uttererPhase = conversation.phases.get(utterer)!;
-        const uttererReceiver = utterer === speakerId ? listenerId : speakerId;
+        const uttererReceiver = utterer === speakRoleId ? listenRoleId : speakRoleId;
 
         if (uttererPhase !== 'listen' && regulated) {
             const uttererStance = conversation.effectiveStances.get(utterer)!;
             conversation.respondTimer += dt;
             if (conversation.respondTimer >= RESPOND_DELAY) {
-                const text = getDialogue(speakerRel, uttererPhase, conversation);
+                const text = getDialogue(speakRoleRel, uttererPhase, conversation);
                 if (text) {
                     const msg: Message = { id: ++state.messageCounter, senderId: utterer, text, phase: uttererPhase, type: 'dialogue' };
                     state.messages.push(msg);
@@ -800,7 +824,7 @@ export function createState(setup: SetupValues, scenario: ScenarioConfig): SimSt
     };
 
     const conversation: ConversationState = {
-        speakerId: partA.id,
+        speakRoleId: partA.id,
         phases: new Map(),
         effectiveStances: new Map(),
         therapistDeltas: new Map(),
@@ -809,8 +833,8 @@ export function createState(setup: SetupValues, scenario: ScenarioConfig): SimSt
         regulationScore: 0,
         respondTimer: 0,
         newCycleTimer: 0,
-        listenerViolationTimer: 0,
-        speakerViolationTimer: 0,
+        listenRoleViolationTimer: 0,
+        speakRoleViolationTimer: 0,
         ballPos: 0.5,
         ballVel: 0,
         ballUttererIsA: true,

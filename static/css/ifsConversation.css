@@ -63,6 +63,13 @@
     color: #222;
 }
 
+.ifs-role {
+    font-size: 0.75rem;
+    font-weight: normal;
+    letter-spacing: 0.05em;
+    color: #888;
+}
+
 .ifs-phase, .ifs-stance, .ifs-trust, .ifs-therapist-delta {
     margin: 0.2rem 0;
     color: #444;

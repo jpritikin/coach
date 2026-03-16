@@ -380,10 +380,10 @@ interface EventRecord {
     rawStanceAfter?: number;
     reason?: string;
     // phase extras
-    oldPhaseS?: string;
-    oldPhaseL?: string;
-    newPhaseS?: string;
-    newPhaseL?: string;
+    oldPhaseSR?: string;
+    oldPhaseLR?: string;
+    newPhaseSR?: string;
+    newPhaseLR?: string;
     rawStanceA?: number;
     rawStanceB?: number;
     // message extras
@@ -392,7 +392,7 @@ interface EventRecord {
     sampledStance?: number;
 }
 
-const VERSION = '1.1.6';
+const VERSION = '1.1.7';
 
 interface Recording {
     version: string;
@@ -437,7 +437,7 @@ function simHTML(): string {
                     <circle class="ifs-arc-ball" r="14" cx="-40" cy="-40"/>
                 </svg>
                 <div id="ifs-nominate-banner" class="ifs-nominate-banner" style="display:none">
-                    Both parts are withdrawn. Use Activate to nominate a speaker.
+                    Both parts are withdrawn. Use Activate to nominate a SpeakRole part.
                 </div>
             </div>
         </div>
@@ -455,7 +455,7 @@ function statusHTML(state: ReturnType<typeof createState>): string {
     return `
         <div class="ifs-status-grid">
             <div class="ifs-part-card" id="ifs-card-a">
-                <div class="ifs-part-name">${partA.name}</div>
+                <div class="ifs-part-name">${partA.name} — <span class="ifs-role" id="ifs-role-a"></span></div>
                 <div class="ifs-card-cols">
                     <div class="ifs-phase">Phase: <strong id="ifs-phase-a"></strong></div>
                     <div class="ifs-trust-val ifs-card-col-trust" id="ifs-trust-row-ab"><span id="ifs-trust-ab-emoji"></span> <strong id="ifs-trust-ab"></strong> <span class="ifs-band" id="ifs-band-ab"></span></div>
@@ -479,7 +479,7 @@ function statusHTML(state: ReturnType<typeof createState>): string {
             </div>
 
             <div class="ifs-part-card" id="ifs-card-b">
-                <div class="ifs-part-name">${partB.name}</div>
+                <div class="ifs-part-name">${partB.name} — <span class="ifs-role" id="ifs-role-b"></span></div>
                 <div class="ifs-card-cols">
                     <div class="ifs-phase">Phase: <strong id="ifs-phase-b"></strong></div>
                     <div class="ifs-trust-val ifs-card-col-trust" id="ifs-trust-row-ba"><span id="ifs-trust-ba-emoji"></span> <strong id="ifs-trust-ba"></strong> <span class="ifs-band" id="ifs-band-ba"></span></div>
@@ -690,25 +690,25 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
                 });
             } else if (e.kind === 'phase') {
                 const d = e.data;
-                const sName = d.speakerId === partA.id ? partA.name : partB.name;
-                const lName = d.listenerId === partA.id ? partA.name : partB.name;
+                const sName = d.speakRoleId === partA.id ? partA.name : partB.name;
+                const lName = d.listenRoleId === partA.id ? partA.name : partB.name;
                 recording.events.push({
                     t: +d.simTime.toFixed(3),
                     type: 'phase',
-                    detail: `${sName} ${d.oldPhaseS}→${d.newPhaseS}, ${lName} ${d.oldPhaseL}→${d.newPhaseL}`,
-                    oldPhaseS: d.oldPhaseS, oldPhaseL: d.oldPhaseL,
-                    newPhaseS: d.newPhaseS, newPhaseL: d.newPhaseL,
+                    detail: `${sName}(SR) ${d.oldPhaseSR}→${d.newPhaseSR}, ${lName}(LR) ${d.oldPhaseLR}→${d.newPhaseLR}`,
+                    oldPhaseSR: d.oldPhaseSR, oldPhaseLR: d.oldPhaseLR,
+                    newPhaseSR: d.newPhaseSR, newPhaseLR: d.newPhaseLR,
                     rawStanceA: +d.rawStanceA.toFixed(4),
                     rawStanceB: +d.rawStanceB.toFixed(4),
                 });
             } else if (e.kind === 'nominate') {
-                if (e.data.speakerId === partA.id) lastSampledA = e.data.sampledStance;
+                if (e.data.speakRoleId === partA.id) lastSampledA = e.data.sampledStance;
                 else lastSampledB = e.data.sampledStance;
-                const name = e.data.speakerId === partA.id ? partA.name : partB.name;
+                const name = e.data.speakRoleId === partA.id ? partA.name : partB.name;
                 recording.events.push({
                     t,
                     type: 'nominate',
-                    detail: `${name} nominated, sampledStance ${e.data.sampledStance.toFixed(3)}`,
+                    detail: `${name} nominated as SpeakRole, sampledStance ${e.data.sampledStance.toFixed(3)}`,
                     sampledStance: +e.data.sampledStance.toFixed(4),
                 });
             } else if (e.kind === 'message') {
@@ -762,7 +762,8 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
             if (banner) banner.style.display = '';
         }
 
-        setClass('ifs-card-a', 'ifs-speaker', !bothWaiting && conversation.speakerId === partA.id);
+        setClass('ifs-card-a', 'ifs-speaker', !bothWaiting && conversation.speakRoleId === partA.id);
+        setText('ifs-role-a', bothWaiting ? 'WAITING' : conversation.speakRoleId === partA.id ? 'SPEAKROLE' : 'LISTENROLE');
         setText('ifs-phase-a', phaseLabel(phaseA));
         setText('ifs-stance-desc-a', stanceDescription(stanceA));
         setText('ifs-delta-a', (dA >= 0 ? '+' : '') + dA.toFixed(2));
@@ -779,8 +780,8 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
         setText('ifs-trust-ba', relBA.trust.toFixed(2));
         setText('ifs-band-ba', getTrustBand(relBA.trust));
         setText('ifs-trust-ba-emoji', trustEmoji(getTrustBand(relBA.trust)));
-        setClass('ifs-trust-row-ab', 'ifs-trust-row-speaker', conversation.speakerId === partA.id);
-        setClass('ifs-trust-row-ba', 'ifs-trust-row-speaker', conversation.speakerId === partB.id);
+        setClass('ifs-trust-row-ab', 'ifs-trust-row-speaker', conversation.speakRoleId === partA.id);
+        setClass('ifs-trust-row-ba', 'ifs-trust-row-speaker', conversation.speakRoleId === partB.id);
 
         const regEl = container.querySelector('#ifs-regulation');
         if (regEl) {
@@ -790,7 +791,8 @@ function showSim(container: HTMLElement, setup: SetupValues, onReset: () => void
         setText('ifs-reg-score', pct(conversation.regulationScore));
         setText('ifs-cycles', String(state.cyclesCompleted));
 
-        setClass('ifs-card-b', 'ifs-speaker', !bothWaiting && conversation.speakerId === partB.id);
+        setClass('ifs-card-b', 'ifs-speaker', !bothWaiting && conversation.speakRoleId === partB.id);
+        setText('ifs-role-b', bothWaiting ? 'WAITING' : conversation.speakRoleId === partB.id ? 'SPEAKROLE' : 'LISTENROLE');
         setText('ifs-phase-b', phaseLabel(phaseB));
         setText('ifs-stance-desc-b', stanceDescription(stanceB));
         setText('ifs-delta-b', (dB >= 0 ? '+' : '') + dB.toFixed(2));

@@ -23,7 +23,7 @@ Two parts from the Alcohol Addiction scenario — **Shamer** and **Drinker** —
 
 **Stance** is the core metric for each part, ranging from −1 to +1. Negative means withdrawn or shut down; positive means activated or flooded. Both parts need to stay within ±{{< sim "regulation_stance_limit" >}} (the green zone) for the conversation to advance.
 
-**Each cycle** has the speaker **Speak → Validate**, with the listener **Mirror → Empathize** in between. Completing the Empathize step grants a large trust boost and softens the speaker's stance.
+**Each cycle** assigns one part the **SpeakRole** and the other the **ListenRole** for its duration. The SpeakRole part does **Speak → Validate**; the ListenRole part does **Mirror → Empathize** in between. Completing the Empathize step grants a large trust boost and softens the SpeakRole part's stance.
 
 **Trust** accumulates over completed cycles and determines how open and collaborative the dialogue becomes. It has four bands: *hostile → guarded → opening → collaborative*.
 
@@ -32,7 +32,7 @@ Two parts from the Alcohol Addiction scenario — **Shamer** and **Drinker** —
 | Button | When to use |
 |--------|-------------|
 | **Calm** | A part is dysregulated (stance > +{{< sim "regulation_stance_limit" >}}) — push it back toward center |
-| **Activate** | A part is withdrawn (stance < −{{< sim "regulation_stance_limit" >}}) — draw it back into engagement. Also use Activate when both parts are *waiting* (both withdrawn) to nominate a speaker |
+| **Activate** | A part is withdrawn (stance < −{{< sim "regulation_stance_limit" >}}) — draw it back into engagement. Also use Activate when both parts are *waiting* (neither has a SpeakRole yet) to nominate a SpeakRole part |
 
 The buttons glow when a nudge would help. The therapist delta decays over time, so repeated presses are needed to sustain the effect.
 
@@ -51,7 +51,7 @@ Each part holds a raw stance in [−1, +1]. Negative is withdrawn; positive is a
 effective_stance = clamp(raw_stance + therapist_delta + shock_delta, −1, +1)
 ```
 
-Stance is sampled at the start of each conversation and when a part is re-nominated as speaker. The sample draws from a normal distribution around the magnitude value, widened by low self-to-part trust:
+Stance is sampled at the start of each conversation and when a part is re-nominated as the SpeakRole part. The sample draws from a normal distribution around the magnitude value, widened by low self-to-part trust:
 
 ```
 stddev = (1 − selfTrust) / 4
@@ -93,38 +93,38 @@ The lag prevents a briefly mis-spoken line from immediately derailing the cycle.
 
 ### Conversation cycle
 
-The cycle is driven by the **speaker/listener role pair** and the current phase:
+Each cycle assigns one part the **SpeakRole** and the other the **ListenRole**. These roles persist until the cycle completes or a violation resets them. The `listen` phase (passive waiting) appears for both roles at different steps — it is a phase name, not a role.
 
 **4-step** (standard):
 
-| Step | Speaker | Listener |
-|------|---------|----------|
-| 1 | **Speak** | Listen |
-| 2 | Listen | **Mirror** |
-| 3 | **Validate** | Listen |
-| 4 | Listen | **Empathize** |
+| Step | SpeakRole | ListenRole |
+|------|-----------|------------|
+| 1 | **Speak** | `listen` |
+| 2 | `listen` | **Mirror** |
+| 3 | **Validate** | `listen` |
+| 4 | `listen` | **Empathize** |
 
 **6-step** (repair loop — when the selected dialogue tuple has 6 lines):
 
-| Step | Speaker | Listener |
-|------|---------|----------|
-| 1 | **Speak** | Listen |
-| 2 | Listen | **Mirror** |
-| 3 | **Clarify** | Listen |
-| 4 | Listen | **Mirror again** |
-| 5 | **Validate** | Listen |
-| 6 | Listen | **Empathize** |
+| Step | SpeakRole | ListenRole |
+|------|-----------|------------|
+| 1 | **Speak** | `listen` |
+| 2 | `listen` | **Mirror** |
+| 3 | **Clarify** | `listen` |
+| 4 | `listen` | **Mirror again** |
+| 5 | **Validate** | `listen` |
+| 6 | `listen` | **Empathize** |
 
 The 6-step path is chosen automatically based on the dialogue tuple selected for that cycle (some trust bands only include 4-line tuples). It is the simulation's representation of a repair loop when the first mirror misses.
 
-All utterances within a single cycle — speaker and listener lines alike — come from the **same tuple**, selected at the start of that cycle from the speaker's relationship. A listener violation ends the cycle early and a new tuple is drawn for the next cycle.
+All utterances within a single cycle — SpeakRole and ListenRole lines alike — come from the **same tuple**, selected at the start of that cycle from the SpeakRole part's relationship. A ListenRole violation ends the cycle early and a new tuple is drawn for the next cycle.
 
-**Phase advancement** happens only when `regulated = true`. Each utterance fires after a {{< sim "respond_delay" >}}-second timer elapses. When dysregulated, only the **speaker** can still utter (probabilistically, see below); all other phases wait.
+**Phase advancement** happens only when `regulated = true`. Each utterance fires after a {{< sim "respond_delay" >}}-second timer elapses. When dysregulated, only the **SpeakRole part** can still utter (probabilistically, see below); all other phases wait.
 
-**Cycle completion** (listener finishes Empathize):
-- Trust boost: `Δtrust = {{< sim "cycle_trust_boost_factor" >}} × (1 − trust)` — a large, diminishing-returns gain toward 1.0
-- Former speaker's raw stance softened: `raw_stance × {{< sim "cycle_stance_soften" >}}`
-- Roles reset; the part with the higher effective stance becomes the next speaker
+**Cycle completion** (ListenRole part finishes Empathize):
+- Trust boost (SpeakRole only): `Δtrust = {{< sim "cycle_trust_boost_factor" >}} × (1 − trust)` — a large, diminishing-returns gain toward 1.0
+- SpeakRole part's raw stance softened: `raw_stance × {{< sim "cycle_stance_soften" >}}`
+- Roles reset; the part with the higher effective stance becomes the next SpeakRole part
 
 ---
 
@@ -132,15 +132,15 @@ All utterances within a single cycle — speaker and listener lines alike — co
 
 When regulated, each phase fires after a **{{< sim "respond_delay" >}}-second respond timer** resets on every phase transition.
 
-When dysregulated, a speaker whose stance exceeds +{{< sim "regulation_stance_limit" >}} can speak early. The mechanism depends on which phase slot the speaker currently holds:
+When dysregulated, the SpeakRole part whose stance exceeds +{{< sim "regulation_stance_limit" >}} can speak early. The mechanism depends on which phase the SpeakRole part currently holds:
 
-- **Holding an active phase** (`speak`, `clarify`, `validate`): fires probabilistically each tick:
+- **Active phase** (`speak`, `clarify`, `validate`): fires probabilistically each tick:
   ```
   p(speak in dt) = clamp(stance + 0.3, 0, 1) × 0.5 × dt
   ```
-  A flooded speaker (+1.0) has ~65% chance per second; a barely-dysregulated speaker has ~30%. After firing, the phase does not advance until regulation returns.
+  A flooded SpeakRole part (+1.0) has ~65% chance per second; a barely-dysregulated one has ~30%. After firing, the phase does not advance until regulation returns.
 
-- **Holding the listen slot** (waiting for the listener to mirror/empathize): fires after a grace-period timer (same duration as a listener violation). When regulation returns, the listener's turn resumes normally — no phase advance is deferred.
+- **`listen` phase** (waiting for the ListenRole part to mirror/empathize): fires after a grace-period timer (same duration as a ListenRole violation). When regulation returns, the ListenRole part's turn resumes normally — no phase advance is deferred.
 
 The label shown reflects the speaker's stance intensity at the moment of utterance:
 
@@ -184,7 +184,7 @@ This models the relational cost of flooding a withdrawn part past its limit.
 
 ### Polarity flip
 
-When a shock lands on a receiver who is already dysregulated negative (effective stance < −{{< sim "regulation_stance_limit" >}}), there is a further chance equal to `flipOdds` of a **polarity flip**: the part's withdrawn energy suddenly reverses into activation:
+When a shock drives the receiver's effective stance below −{{< sim "regulation_stance_limit" >}}, there is a further chance equal to `flipOdds` of a **polarity flip**: the part's withdrawn energy suddenly reverses into activation:
 
 ```
 new_raw = drawInitialStance(−effective_stance, 0, selfTrust)
@@ -211,11 +211,11 @@ When both relationships exceed 0.89, a congratulations banner appears — the co
 
 ---
 
-### Listener violation
+### ListenRole violation
 
-If the **listener's** effective stance exceeds +{{< sim "regulation_stance_limit" >}} for more than **1 second**, it becomes the new speaker — interrupting the current cycle and rolling a new dialogue tuple. This models a part that cannot hold the listening role when flooded.
+If the **ListenRole part's** effective stance exceeds +{{< sim "regulation_stance_limit" >}} for more than **1 second**, it becomes the new SpeakRole part — interrupting the current cycle and rolling a new dialogue tuple. This models a part that cannot hold the ListenRole when flooded.
 
-The same grace-period timer also applies to the **speaker when holding the listen slot** (see Utterance timing above) — it fires an outburst without swapping roles or interrupting the cycle.
+The same grace-period timer also applies to the **SpeakRole part when in the `listen` phase** (see Utterance timing above) — it fires an outburst without swapping roles or interrupting the cycle.
 
 ---
 
@@ -223,13 +223,13 @@ The same grace-period timer also applies to the **speaker when holding the liste
 
 Each Calm/Activate press adds ±{{< sim "therapist_nudge" >}} to the part's `therapistDelta`. Multiple presses stack, clamped so the effective stance stays within [−1, +1]. The delta decays exponentially at the same rate as shock deltas (`e^(−{{< sim "delta_decay_rate" >}} × dt)`), halving roughly every {{< sim "delta_half_life" >}} seconds.
 
-In the **waiting** state (both parts withdrawn), therapist Activate raises a part's effective stance above 0, which nominates it as speaker and resamples its raw stance.
+In the **waiting** state (both parts withdrawn), therapist Activate raises a part's effective stance above 0, which nominates it as the SpeakRole part and resamples its raw stance.
 
 ---
 
-### Nomination and speaker selection
+### Nomination and SpeakRole selection
 
-At each cycle boundary the part with the **higher effective stance** is nominated as speaker. If both are negative, both enter *waiting*. On nomination the new speaker's raw stance is resampled (75% fresh draw, 25% memory of prior stance), and a new dialogue tuple is rolled from the current trust band's pool.
+At each cycle boundary the part with the **higher effective stance** is nominated as the SpeakRole part. If both are negative, both enter *waiting*. On nomination the new SpeakRole part's raw stance is resampled (75% fresh draw, 25% memory of prior stance), and a new dialogue tuple is rolled from the current trust band's pool.
 
 </details>
 
