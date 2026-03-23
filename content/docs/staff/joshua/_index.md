@@ -114,18 +114,6 @@ Make rapid progress with an intensive. Reach out to schedule eight or more hours
 - [Psychable](https://psychable.com/practitioners/internal-family-system-practitioner)
 {{% /details %}}
 
-## Endorsements
-
-{{% hint danger %}}
-{{% details "Disclaimer" %}}
-- I cannot solicit endorsements or testimonials from current clients. Such a request would violate ethical codes. It poses a risk of subjecting vulnerable individuals to coercion.
-
-- I hereby declare that I have not solicited the following endorsements.
-{{% /details %}}
-{{% /hint %}}
-
-- [Lyndsay MacPherson](https://www.facebook.com/groups/381892294305724/posts/505489025279383/?comment_id=505680095260276)
-
 ## Books
 
 {{% columns %}}
