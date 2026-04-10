@@ -144,6 +144,7 @@ There is likely cross-tolerance because both substances are [CB1](https://en.wik
 - [H4CBD](https://en.wikipedia.org/wiki/H4-CBD) (hydrogenated CBD) resembles CBD, particularly in the latter part of the trip. More cognitive and longer duration than CBD. H4CBD is not only stronger than CBD; it has a different character. H4CBD is serious, not blissful. H4CBD is a powerful antiemetic.
 - **CBN (cannabinol) offers a head high without narrowing focus. This is the most underrated cannabinoid.** 🤙🏼  
 <span style="color: brown;">Consider a cup of coffee in the morning. The first few sips often bring the most pleasure--the warmth, the aroma, the initial burst of flavor. By tuning into these sensations, we might find that a single well-brewed cup brings more satisfaction than drinking several cups mindlessly. The same principle applies to many pleasures in life.<br/>This approach isn't about deprivation--it's about discovering that *enough* often contains more joy than excess. When we eat until we're comfortably satisfied rather than stuffed, we feel energized rather than lethargic. The Japanese concept of *hari hachi bu*--eating until you're 80% full--captures this wisdom. It's not about rigid restriction, but rather finding that sweet spot where satisfaction lives.<br/>This principle extends beyond food to many areas of life--entertainment, shopping, work, even social media consumption. In the cannabis world of euphoria and bliss, arguable the most important dimension is finding contentment in sufficiency. That is one of the virtues of cannabinol. Cannabinol bolsters our innate wisdom to be satisfied.</span>
+- CBN-P (cannabiphorol) relaxation and reduced thinking without much cognitive impairment.
 - CBC (cannabichromene) holds the heart steady in a courageous propeller shape. The propeller blades are about two inches in diameter and centered near the sternum. The stationary propeller blades extend left and right. The blades start spinning above some threshold of THC activation. Beautiful, but not better than CBDV or CBT.[^turkey-cbc]
 - CBT (cannabicitran) holds the heart steady in a hollow, receptive shape while allowing a head high. Possibly more potentiating and gentler come-down than CBDV.[^turkey-cbt]
 - CBDV (cannabidivarin) holds the heart steady in a neutral shape while allowing a head high. A bit stimulating, but not incompatible with relaxation. 🤷 I usually prefer CBC or CBT.
@@ -635,12 +636,12 @@ Here's how I think about designing recipes. You look at each pie chart separatel
 | Δ10-THC:CBN:CBx 50mg + Δ9-THC-O 18mg | Great combo. I'm wondering if the CBN:CBx is doing anything (maybe not?). Cognitive impairment remains pretty mild. Only 1-2 hours of couchlock. Beautiful emotion feels like being a lightbulb. 🤙🏼 |
 | Δ8-THC:CBN-O:CBDv 6:2:1 25mg + Δ9-THC-O 9mg | Very beautiful with heavy couchlock. 🤙🏼 |
 | CBN-P:HHC-P 5:1 ? | 10mg CBN-P was too strong. 7.5mg CBN-P is managable with some mild cognitive impairment. 5mg CBN-P with 1mg HHC-P might be similar intensity to 10mg CBN-P. This makes me curious about CBN-P:HHC. But this is a lot of guesswork because I distrust the COA for the CBN-P. |
+| CBN-P:HHC 5:3 | Maybe not a great comparison with CBN-P:HHC-P but worth a try. Took 10mg CBN-P one day after CBN-P:HHC-P so tolerance might reduce impact of HHC. Yeah, I'm not sure whether I can feel HHC. |
 
 ### Agenda
 
 | Cannabinoids, ratio | Description, comments |
 | ----------------- | ------------------------ |
-| CBN-P:HHC 5:4 | Maybe not a great comparison with CBN-P:HHC-P but worth a try. |
 | Δ10-THC:CBN:CBx + Δ9-THC-O | Interesting |
 | Δ8-THC:CBN:CBx + Δ9-THC-B | Gotta explore ratios |
 | Δ10-THC:CBN:CBC 50:10:10 | Trial different CBN:CBC ratio |
