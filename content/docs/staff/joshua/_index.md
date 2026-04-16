@@ -124,7 +124,7 @@ In his groundbreaking new book, Joshua Pritikin explores the provocative idea th
 
 <--->
 
-[![Pritikin 202X](the-way-small.webp)](https://unburdened.biz/)
+{{< book-slider base="front-ordinary.webp" base-alt="Ordinary" overlay="front-cathedral.webp" overlay-alt="Cathedral" >}}
 
 {{% /columns %}}
 
