@@ -120,7 +120,7 @@ Make rapid progress with an intensive. Reach out to schedule eight or more hours
 
 In his groundbreaking new book, Joshua Pritikin explores the provocative idea that belief systems obstruct authentic religious experience. Building on James Carse's foundational work, "Religion Unburdened by Belief" takes this premise to its logical conclusion, offering a methodical investigation into what religion might look like when freed from the constraints of belief.
 
-[Available for preorder!](https://unburdened.biz/)
+<center><form><input class="glowing" type="button" onclick="window.open('https://unburdened.biz/', '_blank')" value="Order Now" /></form></center>
 
 <--->
 
