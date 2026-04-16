@@ -50,6 +50,10 @@ Everybody should have the opportunity to climb Maslow's pyramid.
 
 [James Carse](https://youtu.be/qdIP6HilbWE?t=3585)
 
+> Ironically, then, a good deal of evil in the world results from efforts to rid the world of evil.
+
+Sheldon Solomon, Jeff Greenberg & Tom Pyszczynski, 2016
+
 ## Meditation Techniques
 
 Meditation is more like a dance than a desk lamp 🪔. There are moves to learn.
