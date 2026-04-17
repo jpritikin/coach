@@ -78,15 +78,6 @@ Do not take THC without CBD.
 The combination of THC and CBD feels completely different than either molecule ingested alone.[^klein2011]
 {{% /hint %}}
 
-I am skeptical about the following infographic, but I tentatively agree that a ratio of 1:1 is a good place to start.
-The same ratio applies for both Δ8-THC and Δ9-THC.
-
-[![thc cbd ratio infographic](20210115_-Infographic-CBD-THC-1.jpg)](https://www.cannasouth.co.nz/2021/cbdthc-ratio/)
-
-{{% hint info %}}
-The combination of THC and CBD is obsolete. [Check out my favorite blends.](#favorites)
-{{% /hint %}}
-
 ## New cannabinoids
 
 Cannabis plants were traditionally categorized into two main types: sativa and indica, each known for distinct effects:
