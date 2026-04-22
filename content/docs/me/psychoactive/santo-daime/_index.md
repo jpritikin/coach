@@ -7,7 +7,7 @@ weight: 10
 draft: false
 ---
 
-# Santo Daime ☨
+# Santo Daime
 
 ## Introduction
 
