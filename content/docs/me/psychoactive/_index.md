@@ -106,6 +106,7 @@ I have first-hand experience with
 *   Psilocybin
 *   Salvia divinorum
 *   Mescaline 🌵
+*   5-MAPB (5-(2-methylaminopropyl)benzofuran), 80mg single occasion
 
 In general, I use psychoactive substances as [entheogens](https://en.wikipedia.org/wiki/Entheogen).
 My preferred substances generally align with the opinions of the 1972 Church of the Tree of Life.[^bigwood2024]
