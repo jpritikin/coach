@@ -39,6 +39,7 @@ Mental health professionals such as psychiatrists have often held a patronizing 
 
 - [Psilomethoxin, My Case Report (Addendum #1)](/posts/psilomethoxin-case-report-addendum1).
 - [Psilomethoxin, My Case Report (Addendum #2)](/posts/psilomethoxin-case-report-addendum2).
+- [Psilomethoxin, My Case Report (Addendum #3)](/posts/psilomethoxin-case-report-addendum3).
 
 ## Notes
 
