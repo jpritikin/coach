@@ -1,13 +1,13 @@
 ---
-title: Psychedelic-Assisted Psychotherapy
+title: Psychedelic-Assisted Therapy
 type: docs
 weight: 1
 bookToc: true
 ---
 
-# Psychedelic-Assisted Psychotherapy (PAT)
+# Psychedelic-Assisted Therapy (PAT)
 
-Psychedelic-assisted psychotherapy (PAT) combines a therapeutic-dose empathogen with counseling to support more rapid emotional processing, parts work, and healing.
+Psychedelic-assisted therapy (PAT) combines a therapeutic-dose empathogen with counseling to support more rapid emotional processing, parts work, and healing.
 
 ![5-MAPB molecular structure](5-MAPB-structure.svg)
 {.center}

@@ -22,10 +22,10 @@ bookCollapseSection: false
 - I partner with [Hand in Hand Parenting](https://www.handinhandparenting.org/) for childrearing issues. 🧑‍🧒‍🧒 Is your child obedient, cooperative, and joyful? Learn how to navigate family dynamics with ease. I roleplay the parent and you roleplay your child.
 - I provide *counseling* under [ORS 675.825(4)(a)](https://oregon.public.law/statutes/ors_675.825), which allows alternative counselors to practice legally in Oregon without a 🪪 license. Since I am **not** licensed in Oregon, I cannot describe myself 🤐 as a *psychotherapist*. [ORS 675.020](https://oregon.public.law/statutes/ors_675.020)
 {{% /details %}}
-{{% details "Psychedelic prep & integration 🍄/🐸" %}}
+{{% details "Psychedelic-assisted 🍄/🐸" %}}
 - Prepare to take your first psychedelic journey safely[^morgan2020]
 - Understand and integrate your psychedelic journey(s)
-- I do **not** prescribe, procure, or administer substances.
+- I do **not** prescribe, procure, or administer substances. [You can do that yourself.]({{< relref "/docs/services/optional/pat" >}})
 {{% /details %}}
 {{% details "Lifestyle, nutrition, & physical health 🥗" %}}
 - I have studied [nutrition]({{< relref "health" >}}) for many years and am trained to evaluate statistical evidence.
@@ -83,11 +83,11 @@ Make rapid progress with an intensive. Reach out to schedule eight or more hours
 
 ## Education
 
-{{% details "Internal Family Systems (Certified, Level 2)" %}}
+{{% details "Internal Family Systems (Certified, Level 3)" %}}
 | Date | Description |
 |------|-------------|
 | ? | [IFS Approved Clinical Counsultant](https://ifs-institute.com/trainings/ifs-certification/approved-clinical-consultants) -- Not yet! |
-| 2026 Apr | IFS Level 3 (registration completed) |
+| 2026 Apr | IFS Level 3 |
 | 2025 Apr | Program Assistant Development Workshop |
 | 2024 Jul | [IFS Certified Practitioner]({{< relref "certification" >}}) |
 | 2024 Feb | IFS and Past Lives with Bob Falconer |
