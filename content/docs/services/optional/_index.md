@@ -8,7 +8,7 @@ bookCollapseSection: true
 
 # Optional Add-ons
 
-## [Psychedelic Assisted Psychotherapy]({{< relref "pat" >}})
+## [Psychedelic-Assisted Therapy]({{< relref "pat" >}})
 
 Counseling sessions combined with a legal empathogen (5-MAPB) to support more rapid emotional processing and healing.
 
