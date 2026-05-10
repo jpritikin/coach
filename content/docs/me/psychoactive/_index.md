@@ -107,7 +107,7 @@ I have first-hand experience with
 *   Salvia divinorum
 *   Mescaline 🌵
 *   5-MAPB (5-(2-methylaminopropyl)benzofuran), 80mg single occasion
-*   Metocin (4-HO-MET)
+*   [Metocin]({{< relref "metocin" >}}) (4-HO-MET)
 *   5-MeO-DMT
 
 In general, I use psychoactive substances as [entheogens](https://en.wikipedia.org/wiki/Entheogen).
