@@ -28,7 +28,7 @@ bookCollapseSection: false
 - I do **not** prescribe, procure, or administer substances. [You can do that yourself.]({{< relref "/docs/services/optional/pat" >}})
 {{% /details %}}
 {{% details "Lifestyle, nutrition, & physical health 🥗" %}}
-- I have studied [nutrition]({{< relref "health" >}}) for many years and am trained to evaluate statistical evidence.
+- I have studied [nutrition](https://brambles.joshuapritikin.com/docs/me/health/) for many years and am trained to evaluate statistical evidence.
 - I am **not** a licensed dietician.[^capture-of-nutrition]
 - I am **not** a medical doctor.
 {{% /details %}}
