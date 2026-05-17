@@ -154,6 +154,10 @@ Carse, J. P. (2025). [*The religious case against belief*](https://carse-2025.pr
 <td class='rotate'><div>Dec 2019</div></td>
 </tr></table>
 
+## Brambles
+
+If this page has left you insatiably curious about Joshua Pritikin as a person, [Brambles](https://brambles.joshuapritikin.com/) exists. Manage expectations accordingly: lower them.
+
 ## Notes
 
 [^capture-of-nutrition]: Is it probably a good thing that I am not a licensed dietician given [The corporate capture of the nutrition profession in the USA: the case of the Academy of Nutrition and Dietetics (2022)](https://www.cambridge.org/core/journals/public-health-nutrition/article/corporate-capture-of-the-nutrition-profession-in-the-usa-the-case-of-the-academy-of-nutrition-and-dietetics/9FCF66087DFD5661DF1AF2AD54DA0DF9).
