@@ -11,13 +11,15 @@ bookCollapseSection: false
 
 <--->
 
+<img class="IFSCertified" alt="Certified" src="/images/ifs-certified.svg" />
+
 ## Zoom link
 
 [![Zoom link](zoom.webp)](https://us06web.zoom.us/j/7756484053)
 
 {{% /columns %}}
 
-Joshua works primarily with individuals and couples using IFS, and holds additional interests in psychedelics and nutrition that occasionally inform the work.
+Joshua works primarily with individuals and couples using IFS, and holds additional interests in nutrition and related topics that occasionally inform the work.
 
 {{% details "Individual & relationship issues (couple or dyad) ❤️" %}}
 - [IFS is similar to psychotherapy, addressing many of the same conditions.]({{< relref "dsm" >}})
