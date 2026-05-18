@@ -56,12 +56,6 @@ My rate is **$100 per hour**. Reserve time in 15 min increments. I do not accept
 
 This includes non-emergency support via text messages.[^emergency] I respond within 24 hours, but often sooner.
 
-{{% details "Too inexpensive? 💰" %}}
-I have no educational debt. I own a home. My daughter's college education is mostly paid for.
-Don't assume I lack expertise just because I'm not charging market rate.
-If you insist on paying me $250/hr, I will accept it.
-{{% /details %}}
-
 {{% details "Too pricy? 💰" %}}
 People with low income 🎱, or veterans or active military 🎖️ may request a sliding scale rate.
 {{% /details %}}
