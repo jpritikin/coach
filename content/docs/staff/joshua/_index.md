@@ -15,7 +15,7 @@ Joshua works primarily with individuals and couples using IFS. He brings an unus
 
 He is warm and direct. Sessions are unhurried. Clients often say they feel genuinely heard for the first time.
 
-<img class="IFSCertified" alt="Certified" src="/images/ifs-certified.svg" />
+<a href="{{< relref "certification" >}}"><img class="IFSCertified" alt="IFS Certified" src="/images/ifs-certified.svg" /></a>
 
 {{% /columns %}}
 

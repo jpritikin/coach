@@ -35,7 +35,7 @@ IFS is [evidence-based](https://www.foundationifs.org/research/evidence) and [tr
 
 <br/>
 
-<img class="IFSCertified" alt="Certified" src="/images/ifs-certified.svg" />
+<a href="{{< relref "certification" >}}"><img class="IFSCertified" alt="IFS Certified" src="/images/ifs-certified.svg" /></a>
 
 {{% /columns %}}
 
