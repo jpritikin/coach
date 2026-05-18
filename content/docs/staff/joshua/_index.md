@@ -84,7 +84,7 @@ Make rapid progress with an intensive. Reach out to schedule eight or more hours
 {{% details "Internal Family Systems (Certified, Level 3)" %}}
 | Date | Description |
 |------|-------------|
-| ? | [IFS Approved Clinical Counsultant](https://ifs-institute.com/trainings/ifs-certification/approved-clinical-consultants) -- Not yet! |
+| (goal) | [IFS Approved Clinical Consultant](https://ifs-institute.com/trainings/ifs-certification/approved-clinical-consultants) |
 | 2026 Apr | IFS Level 3 |
 | 2025 Apr | Program Assistant Development Workshop |
 | 2024 Jul | [IFS Certified Practitioner]({{< relref "certification" >}}) |
