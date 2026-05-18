@@ -123,38 +123,6 @@ function gtag_report_conversion(url) {
 }
 </script>
 
-<style>
-@media screen and (max-width: 56rem) {
-  #pageWidthTrigger {
-  visibility: hidden;
-  }
-}
-  #pageWidthTrigger:hover {
-      background: #eee;
-  }
-  #pageWidthTrigger {
-      position: fixed;
-      right: 0;
-      top: 0;
-      margin: 1em;
-      width: 48px;
-      z-index: 999;
-  }
-</style>
-<script>
-  const setupToggleWidth = (trigger, target) => {
-      if(!target || !trigger) {
-          console.warn("toggleDisplay: Make sure the target and trigger elements exist in the DOM.")
-          return
-      }
-      let defaultWidth = window.getComputedStyle(target).getPropertyValue('max-width')
-      trigger.addEventListener('click', e => {
-          target.style.maxWidth =
-              (target.style.maxWidth == 'none') ?
-              defaultWidth : 'none'
-      })
-  }
-</script>
 
 <!-- Unburdened Book -->
 <style>
