@@ -10,6 +10,8 @@ bookCollapseSection: false
 
 We gently help people turn toward their experience rather than away from it.
 
+Clients typically come in feeling stuck, overwhelmed, or shut down. Over time, they find themselves reacting less, understanding themselves better, and moving through life with more ease. Relationships become less fraught. Old wounds lose their grip. The change is gradual—and then it isn't.
+
 ## What does counseling look like?
 
 {{% columns %}}

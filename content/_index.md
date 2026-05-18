@@ -31,13 +31,19 @@ IFS is [evidence-based](https://www.foundationifs.org/research/evidence) and [tr
 
 <--->
 
-**[Joshua Pritikin]({{< relref "joshua" >}})** brings an unusually broad background to his IFS practice. A Ph.D. in quantitative psychology, more than 30 years of meditation, and decades of reading in philosophy and religion have all shaped how he understands the human mind—and how he sits with clients.
+**[Joshua Pritikin]({{< relref "joshua" >}})** is warm, direct, and genuinely curious about people. He holds a Ph.D. in psychology, is IFS Level 3 Certified, and brings more than 30 years of meditation to the work. Clients often say they feel heard in a way they haven't before.
 
 <br/>
 
 <img class="IFSCertified" alt="Certified" src="/images/ifs-certified.svg" />
 
 {{% /columns %}}
+
+## What to expect from a free consultation
+
+The consultation is a 20-minute conversation—no pressure, no commitment. You share a little about what's brought you here. Joshua explains how he works. Together you decide if it's a good fit.
+
+There's nothing to prepare. You just show up.
 
 <center><form><input class="glowing" type="button" onclick="window.open('https://joshua-pritikin.clientsecure.me/request/service', '_blank')" value="Book a Free Consultation" /></form></center>
 

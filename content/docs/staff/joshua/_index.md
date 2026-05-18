@@ -11,15 +11,17 @@ bookCollapseSection: false
 
 <--->
 
+Joshua works primarily with individuals and couples using IFS. He brings an unusually broad background to the work: a Ph.D. in quantitative psychology, more than 30 years of meditation practice, and deep reading in philosophy and religion. That breadth shapes how he listens—with patience, curiosity, and without a fixed agenda.
+
+He is warm and direct. Sessions are unhurried. Clients often say they feel genuinely heard for the first time.
+
 <img class="IFSCertified" alt="Certified" src="/images/ifs-certified.svg" />
+
+{{% /columns %}}
 
 ## Zoom link
 
 [![Zoom link](zoom.webp)](https://us06web.zoom.us/j/7756484053)
-
-{{% /columns %}}
-
-Joshua works primarily with individuals and couples using IFS, and holds additional interests in nutrition and related topics that occasionally inform the work.
 
 {{% details "Individual & relationship issues (couple or dyad) ❤️" %}}
 - [IFS is similar to psychotherapy, addressing many of the same conditions.]({{< relref "dsm" >}})
