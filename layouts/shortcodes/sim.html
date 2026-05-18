@@ -1,5 +1,0 @@
-{{- $d := site.Data.ifsConversation -}}
-{{- $parts := split (.Get 0) "." -}}
-{{- $val := $d -}}
-{{- range $parts -}}{{- $val = index $val . -}}{{- end -}}
-{{- $val -}}
