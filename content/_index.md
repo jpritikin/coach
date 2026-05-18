@@ -4,25 +4,33 @@ type: docs
 bookToc: false
 ---
 
-<script src="/flickity.pkgd.min.js"></script>
+Something is hurting. You may have tried to push through it, think your way out of it, or wait for it to pass. If that hasn't worked, you're in the right place.
 
-<div class="main-carousel"
-    data-flickity='{ "cellAlign": "center", "contain": true, "wrapAround": true, "autoPlay": 15000, "setGallerySize": false }' >
-<div class="carousel-cell"><img class="carousel-cell-image" src="animal_couple.webp" alt="Couples counseling" /></div>
-<div class="carousel-cell"><img class="carousel-cell-image" src="multitude_of_stories_within_the_head2.webp" alt="Multitude of stories within the head" /></div>
-</div>
+## You might be here because...
 
-Credit: Midjourney
-{.center}
+- Anxiety or depression is limiting your life
+- A relationship is struggling—with a partner, a family member, or yourself
+- You're carrying trauma that won't stay in the past
+- Grief, shame, or self-criticism feels relentless
+- An addiction or compulsion keeps pulling you back
+- You feel stuck, numb, or disconnected—and you don't know why
 
-We offer a serene and confidential environment to talk about matters of the heart. 💖
+## A different kind of counseling
 
-Our goal is to help you reprocess your psychological pain and suffering in a way that releases any detrimental limits on love, contentment, and positive self-concept (🤪 and 😬 → 😇).
+Most therapy puts the therapist in the expert role: diagnosing, advising, interpreting. **Internal Family Systems (IFS)** works differently. Rather than fixing you from the outside, IFS helps you access your own inner capacity for healing.
 
-We use **Internal Family Systems** (IFS). IFS is an [evidence-based](https://www.foundationifs.org/research/evidence) and [trauma-informed](https://www.verywellmind.com/trauma-informed-therapy-definition-and-techniques-5209445) model. ![IFS](/images/ifs-logo.webp)
+You have parts—inner voices, feelings, and patterns that developed for good reasons. IFS treats them with curiosity instead of judgment. The goal isn't to silence the hard parts of yourself. It's to understand them, and in doing so, free yourself from what's been holding you back.
 
-Traditional talk therapy puts therapists in an expert role. They diagnose problems, suggest solutions, teach coping skills, and interpret clients' dreams and behaviors. But IFS therapists serve as guides who help clients access their own inner healer. Clients learn to access their *Self* rather than relying on the therapist to fix problems. They build relationships with different parts of their personality by turning inward.
+IFS is [evidence-based](https://www.foundationifs.org/research/evidence) and [trauma-informed](https://www.verywellmind.com/trauma-informed-therapy-definition-about-techniques-5209445).
 
+## Ready to start?
+
+<center><form><input class="glowing" type="button" onclick="window.open('https://joshua-pritikin.clientsecure.me/request/service', '_blank')" value="Book a Free Consultation" /></form></center>
+
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
 [![Association for Coaching](/images/ac.webp)](https://www.associationforcoaching.com/members/?id=72534292)
