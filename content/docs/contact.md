@@ -11,7 +11,7 @@ bookToc: false
 
 Ready to talk? [Book a free consultation with Joshua]({{< relref "joshua" >}}) directly through the booking page.
 
-**Prefer to reach out first?** Send a text or email—contact details are shared once you book a free consultation or send an introductory message through SimplePractice.
+**Prefer to reach out first?** Email bro (at) estrelacounseling (dot) com or send an introductory message through SimplePractice.
 
 Joshua responds within 24 hours, usually sooner.
 

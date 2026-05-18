@@ -66,7 +66,7 @@ This includes non-emergency support via text messages.[^emergency] I respond wit
 Make rapid progress with an intensive. Reach out to schedule eight or more hours per week.
 {{% /details %}}
 
-## Education
+## Background & Training
 
 {{% details "Internal Family Systems (Certified, Level 3)" %}}
 | Date | Description |
@@ -90,6 +90,9 @@ Make rapid progress with an intensive. Reach out to schedule eight or more hours
 {{% details "Ph.D. Quantitative Psychology in 2016 from University of Virginia 🎓" %}}
 - See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bibliography/56367505/public/?sort=date&direction=ascending) for publications.
 {{% /details %}}
+
+## Me Online
+
 {{% details "Directory Listings" %}}
 - [IFS Institute](https://ifs-institute.com/practitioners/all/110287)
 - [Intimacy From the Inside Out (IFIO) Directory](https://www.toniherbineblank.com/therapist-directory.html)
@@ -100,7 +103,7 @@ Make rapid progress with an intensive. Reach out to schedule eight or more hours
 {{% /details %}}
 
 
-## Silly Photos
+{{% details "Silly Photos" %}}
 
 <table>
 <tr>
@@ -113,6 +116,8 @@ Make rapid progress with an intensive. Reach out to schedule eight or more hours
 </td>
 <td class='rotate'><div>Dec 2019</div></td>
 </tr></table>
+
+{{% /details %}}
 
 {{% details "More about Joshua as a person" %}}
 If this page has left you insatiably curious about Joshua Pritikin as a person, [Brambles](https://brambles.joshuapritikin.com/) exists. Manage expectations accordingly: lower them.

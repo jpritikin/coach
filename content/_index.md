@@ -25,6 +25,8 @@ You have parts—inner voices, feelings, and patterns that developed for good re
 
 IFS is [evidence-based](https://www.foundationifs.org/research/evidence) and [trauma-informed](https://www.verywellmind.com/trauma-informed-therapy-definition-about-techniques-5209445).
 
+Sessions are by video or phone. Joshua is Oregon-based and works with clients worldwide—no geographic restrictions.
+
 ## Meet your counselor
 
 {{% columns %}}

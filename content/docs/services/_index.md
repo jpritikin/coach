@@ -22,10 +22,6 @@ Clients typically come in feeling stuck, overwhelmed, or shut down. Over time, t
 
 As a default, I recommend 75-minute sessions every week.
 
-{{% details "When will I see results?" %}}
-I have a part that is impatient to see you healed too. It's my job to balance impatience with the time that is required to heal injury.
-{{% /details %}}
-
 <--->
 
 ### Couples & Dyads
@@ -33,10 +29,6 @@ I have a part that is impatient to see you healed too. It's my job to balance im
 [![Couples](chairs-three.webp)]({{< relref "services" >}})
 
 As a default, I recommend 90-minute sessions every week.
-
-{{% details "When will I see results?" %}}
-I have a part that is impatient to see you healed too. It's my job to balance impatience with the time that is required to heal injury.
-{{% /details %}}
 
 {{% /columns %}}
 
