@@ -35,8 +35,6 @@ IFS is [evidence-based](https://www.foundationifs.org/research/evidence) and [tr
 
 {{% /columns %}}
 
-## Ready to start?
-
 <center><form><input class="glowing" type="button" onclick="window.open('https://joshua-pritikin.clientsecure.me/request/service', '_blank')" value="Book a Free Consultation" /></form></center>
 
 <br/>
