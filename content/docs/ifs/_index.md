@@ -1,7 +1,7 @@
 ---
 title: Internal Family Systems (IFS)
 type: docs
-weight: 2
+weight: 5
 bookToc: false
 bookCollapseSection: false
 ---

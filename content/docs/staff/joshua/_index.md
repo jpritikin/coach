@@ -24,7 +24,6 @@ He is warm and direct. Sessions are unhurried. Clients often say they feel genui
 [![Zoom link](zoom.webp)](https://us06web.zoom.us/j/7756484053)
 
 {{% details "Individual & relationship issues (couple or dyad) ❤️" %}}
-- [IFS is similar to psychotherapy, addressing many of the same conditions.]({{< relref "dsm" >}})
 - I partner with [Hand in Hand Parenting](https://www.handinhandparenting.org/) for childrearing issues. 🧑‍🧒‍🧒 Is your child obedient, cooperative, and joyful? Learn how to navigate family dynamics with ease. I roleplay the parent and you roleplay your child.
 - I practice as a counselor under Oregon law, which recognizes alternative counselors alongside licensed therapists.[^legal] IFS Certification is the relevant credential for this work.
 {{% /details %}}
@@ -115,9 +114,9 @@ Make rapid progress with an intensive. Reach out to schedule eight or more hours
 <td class='rotate'><div>Dec 2019</div></td>
 </tr></table>
 
-## Brambles
-
+{{% details "More about Joshua as a person" %}}
 If this page has left you insatiably curious about Joshua Pritikin as a person, [Brambles](https://brambles.joshuapritikin.com/) exists. Manage expectations accordingly: lower them.
+{{% /details %}}
 
 ## Notes
 
