@@ -44,6 +44,12 @@ Credit: Midjourney
 
 {{% /columns %}}
 
+## Complaints
+
+As a [member](https://www.associationforcoaching.com/members/?id=72534292) of the Association for Coaching, I adhere to the [AC Global Code of Ethics](https://www.associationforcoaching.com/page/AboutCodeEthics).
+
+If you wish to open a formal complaint, visit https://www.associationforcoaching.com/page/ACComplaintsPolicy
+
 <br/>
 <br/>
 <br/>
