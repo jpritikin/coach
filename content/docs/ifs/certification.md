@@ -43,10 +43,9 @@ Trainings like IFS Level 1 or Level 3 only require attendance and are no guarant
 <br/>
 
 {{% details "Which is better, a licensed therapist or unlicensed practitioner?" %}}
-- Licensure is generally required for insurance reimbursement.
-However, unlicensed practitioners may agree to work for a lower hourly rate because they often enjoyed lower training costs.
-- Depending on the state, licensure often requires thousands of hours of training in many other therapeutic modalities besides IFS. This could lead to an experience that is not fully aligned with the IFS model.
-In contrast, many practitioners are IFS purists and have not received much training in other modalities.
+- IFS-focused practitioners are often unlicensed because licensure typically requires thousands of hours of training across many modalities beyond IFS—which can dilute the approach. An unlicensed IFS Certified practitioner may offer a more consistent IFS experience.
+- Unlicensed practitioners generally charge less, since their training costs are lower.
+- The main practical difference: licensure is required for insurance reimbursement.
 {{% /details %}}
 
 <br/>

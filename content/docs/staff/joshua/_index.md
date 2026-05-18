@@ -20,7 +20,7 @@ bookCollapseSection: false
 {{% details "Individual & relationship issues (couple or dyad) ❤️" %}}
 - [IFS is similar to psychotherapy, addressing many of the same conditions.]({{< relref "dsm" >}})
 - I partner with [Hand in Hand Parenting](https://www.handinhandparenting.org/) for childrearing issues. 🧑‍🧒‍🧒 Is your child obedient, cooperative, and joyful? Learn how to navigate family dynamics with ease. I roleplay the parent and you roleplay your child.
-- I provide *counseling* under [ORS 675.825(4)(a)](https://oregon.public.law/statutes/ors_675.825), which allows alternative counselors to practice legally in Oregon without a 🪪 license. Since I am **not** licensed in Oregon, I cannot describe myself 🤐 as a *psychotherapist*. [ORS 675.020](https://oregon.public.law/statutes/ors_675.020)
+- I practice as a counselor under Oregon law, which recognizes alternative counselors alongside licensed therapists.[^legal] IFS Certification is the relevant credential for this work.
 {{% /details %}}
 {{% details "Psychedelic-assisted 🍄/🐸" %}}
 - Prepare to take your first psychedelic journey safely[^morgan2020]
@@ -163,5 +163,7 @@ If this page has left you insatiably curious about Joshua Pritikin as a person, 
 [^capture-of-nutrition]: Is it probably a good thing that I am not a licensed dietician given [The corporate capture of the nutrition profession in the USA: the case of the Academy of Nutrition and Dietetics (2022)](https://www.cambridge.org/core/journals/public-health-nutrition/article/corporate-capture-of-the-nutrition-profession-in-the-usa-the-case-of-the-academy-of-nutrition-and-dietetics/9FCF66087DFD5661DF1AF2AD54DA0DF9).
 
 [^morgan2020]: Morgan, N. L. (2020). Integrating psychedelic experiences utilizing the Internal Family Systems therapeutic model. *Int. J. Soc. Sci. Manage. Rev 3,* 257–264. doi: [10.37602/IJSSMR.2020.3417](http://ijssmr.org/uploads2020/ijssmr03_123.pdf)
+
+[^legal]: I provide counseling under [ORS 675.825(4)(a)](https://oregon.public.law/statutes/ors_675.825). As an unlicensed counselor I cannot use the title *psychotherapist* ([ORS 675.020](https://oregon.public.law/statutes/ors_675.020)), but I am legally authorized to practice in Oregon.
 
 [^emergency]: [Go here for emergency support.]({{< relref "contact#currently-experiencing-a-crisis" >}})

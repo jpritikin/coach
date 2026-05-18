@@ -41,8 +41,7 @@ I see clients by video 📹 or audio-only 🎙️.
 For individual therapy, you may prefer audio-only ☎.[^audio-only]
 When working with dyads, video is highly recommended.[^one-way-video]
 
-I hail from Oregon (near California).[^native]
-As I am not licensed, I can work with anyone, anywhere in the world (time-zone permitting). 🌎
+I am Oregon-based (near California)[^native] and work with clients worldwide via video—no geographic restrictions. 🌎
 
 ## Notes
 
