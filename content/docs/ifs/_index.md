@@ -44,11 +44,3 @@ Note: Audio is very faint for the first minute.
 [Download](https://www.marielpastor.com/the-unburdened-system)
 
 {{% /columns %}}
-
-## Character Mapping: A Psychological Toolbox and Master Class for Actors, Writers, and Directors
-
-Initially launched in 2017 by Mariel Pastor, and seemingly will be relaunching soon:
-
-- https://www.marielpastor.com/character-mapping
-- [https://www.youtube.com/channel/UCBgeVPlMbWzMAxHHIsDieow](https://www.youtube.com/channel/UCBgeVPlMbWzMAxHHIsDieow)
-
