@@ -17,6 +17,8 @@ bookCollapseSection: false
 
 {{% /columns %}}
 
+Joshua works primarily with individuals and couples using IFS, and holds additional interests in psychedelics and nutrition that occasionally inform the work.
+
 {{% details "Individual & relationship issues (couple or dyad) ❤️" %}}
 - [IFS is similar to psychotherapy, addressing many of the same conditions.]({{< relref "dsm" >}})
 - I partner with [Hand in Hand Parenting](https://www.handinhandparenting.org/) for childrearing issues. 🧑‍🧒‍🧒 Is your child obedient, cooperative, and joyful? Learn how to navigate family dynamics with ease. I roleplay the parent and you roleplay your child.

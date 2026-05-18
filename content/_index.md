@@ -23,6 +23,18 @@ You have parts—inner voices, feelings, and patterns that developed for good re
 
 IFS is [evidence-based](https://www.foundationifs.org/research/evidence) and [trauma-informed](https://www.verywellmind.com/trauma-informed-therapy-definition-about-techniques-5209445).
 
+## Meet your counselor
+
+{{% columns %}}
+
+[![Joshua Pritikin](docs/staff/joshua/portrait.webp)]({{< relref "joshua" >}})
+
+<--->
+
+**[Joshua Pritikin]({{< relref "joshua" >}})** brings an unusually broad background to his IFS practice. A Ph.D. in quantitative psychology, more than 30 years of meditation, and decades of reading in philosophy and religion have all shaped how he understands the human mind—and how he sits with clients.
+
+{{% /columns %}}
+
 ## Ready to start?
 
 <center><form><input class="glowing" type="button" onclick="window.open('https://joshua-pritikin.clientsecure.me/request/service', '_blank')" value="Book a Free Consultation" /></form></center>
