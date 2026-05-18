@@ -53,8 +53,6 @@ I am Oregon-based (near California)[^native] and work with clients worldwide via
 
 ## Notes
 
-Room and chairs scene imagined by Midjourney.
-
 [^audio-only]: In the classical approach to psychotherapy, the client lies on a couch 🛋️ and does not look the therapist directly in the eye 👀 while speaking.
 
 [^native]: I acknowledge that I live on the traditional

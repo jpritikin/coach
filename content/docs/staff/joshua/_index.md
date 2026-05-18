@@ -28,15 +28,15 @@ He is warm and direct. Sessions are unhurried. Clients often say they feel genui
 - I partner with [Hand in Hand Parenting](https://www.handinhandparenting.org/) for childrearing issues. 🧑‍🧒‍🧒 Is your child obedient, cooperative, and joyful? Learn how to navigate family dynamics with ease. I roleplay the parent and you roleplay your child.
 - I practice as a counselor under Oregon law, which recognizes alternative counselors alongside licensed therapists.[^legal] IFS Certification is the relevant credential for this work.
 {{% /details %}}
-{{% details "Psychedelic-assisted 🍄/🐸" %}}
-- Prepare to take your first psychedelic journey safely[^morgan2020]
-- Understand and integrate your psychedelic journey(s)
-- I do **not** prescribe, procure, or administer substances. [You can do that yourself.]({{< relref "/docs/services/optional/pat" >}})
-{{% /details %}}
 {{% details "Lifestyle, nutrition, & physical health 🥗" %}}
 - I have studied [nutrition](https://brambles.joshuapritikin.com/docs/health/) for many years and am trained to evaluate statistical evidence.
 - I am **not** a licensed dietician.[^capture-of-nutrition]
 - I am **not** a medical doctor.
+{{% /details %}}
+{{% details "Specialty services" %}}
+- Prepare to take your first psychedelic journey safely[^morgan2020]
+- Understand and integrate your psychedelic journey(s)
+- I do **not** prescribe, procure, or administer substances. [You can do that yourself.]({{< relref "/docs/services/optional/pat" >}})
 {{% /details %}}
 
 {{% columns %}}
@@ -45,37 +45,23 @@ He is warm and direct. Sessions are unhurried. Clients often say they feel genui
 
 <center><form><input class="glowing" type="button" onclick="window.open('https://joshua-pritikin.clientsecure.me/request/service', '_blank')" value="Free Consultation" /></form></center>
 
-{{% hint info %}}
-{{% details "Reveal booking hints" %}}
-  - Enter your email address to *Sign in*. There is no password. If you don't receive the email invitation to login within five minutes, check your spam folder for `simplepractice.com`.
-  - Book a month in advance to ensure that you get your preferred time slots before my schedule fills up.
-{{% /details %}}
-{{% /hint %}}
+To sign in, enter your email—there's no password. If you don't receive the login email within five minutes, check your spam folder for `simplepractice.com`.
 
-<center><form><input class="glowing" type="button" onclick="window.open('https://joshua-pritikin.clientsecure.me/sign-in', '_blank')" value="Book Appointment" /></form></center>
+My schedule fills up; booking a few weeks ahead gets you your preferred time slot.
+
+<center><form><input class="glowing" type="button" onclick="window.open('https://joshua-pritikin.clientsecure.me/sign-in', '_blank')" value="Returning Client Sign-In" /></form></center>
 
 <--->
 
 ## Fees
 
-My rate is **$100 per hour**. Reserve time in 15 min increments. I do not accept insurance. 🎟️
+My rate is **$100 per hour**. Reserve time in 15-minute increments. I do not accept insurance.
+
+Sliding scale rates are available for people with low income, veterans, and active military—just ask.
 
 This includes non-emergency support via text messages.[^emergency] I respond within 24 hours, but often sooner.
 
-{{% details "Too pricy? 💰" %}}
-People with low income 🎱, or veterans or active military 🎖️ may request a sliding scale rate.
-{{% /details %}}
-
 {{% /columns %}}
-
-{{% hint info %}}
-{{% details "Long-lost clients program" %}}
-I get attached to my clients. If we haven't had an appointment for more than 6 months then you can receive a free hour.
-
-1. Make the booking as usual.
-2. Let me know that you wish to avail this offer during the session.
-{{% /details %}}
-{{% /hint %}}
 
 {{% details "Are you a highly motivated client?" %}}
 Make rapid progress with an intensive. Reach out to schedule eight or more hours per week.

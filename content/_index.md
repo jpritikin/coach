@@ -15,6 +15,8 @@ Something is hurting. You may have tried to push through it, think your way out 
 - An addiction or compulsion keeps pulling you back
 - You feel stuck, numb, or disconnected—and you don't know why
 
+<center><form><input class="glowing" type="button" onclick="window.open('https://joshua-pritikin.clientsecure.me/request/service', '_blank')" value="Book a Free Consultation" /></form></center>
+
 ## A different kind of counseling
 
 Most therapy puts the therapist in the expert role: diagnosing, advising, interpreting. **Internal Family Systems (IFS)** works differently. Rather than fixing you from the outside, IFS helps you access your own inner capacity for healing.
