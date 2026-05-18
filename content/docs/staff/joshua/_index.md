@@ -110,23 +110,6 @@ Make rapid progress with an intensive. Reach out to schedule eight or more hours
 - [Psychable](https://psychable.com/practitioners/internal-family-system-practitioner)
 {{% /details %}}
 
-{{% details "Books 📚" %}}
-
-{{< book-slider base="front-ordinary.webp" base-alt="Ordinary" overlay="front-cathedral.webp" overlay-alt="Cathedral" >}}
-
-In his groundbreaking new book, Joshua Pritikin explores the provocative idea that belief systems obstruct authentic religious experience. Building on James Carse's foundational work, "Religion Unburdened by Belief" takes this premise to its logical conclusion, offering a methodical investigation into what religion might look like when freed from the constraints of belief.
-
-<center><form><input class="glowing" type="button" onclick="window.open('https://unburdened.biz/', '_blank')" value="Order Now" /></form></center>
-
----
-
-[![Carse 2008](carse-2008.webp)](https://carse-2025.pritikin.eth.limo/docs/intro/)
-
-This transformative book reveals the crucial distinction between religion and belief systems. While rigid beliefs often lead to division, true religion thrives on mystery and openness to the unknown. Drawing from historical examples and world traditions, it shows how embracing "higher ignorance"—knowing the limits of what we can know—creates space for genuine spiritual exploration. For anyone seeking wisdom beyond dogma in our polarized world, this book offers a refreshing path forward.
-
-Carse, J. P. (2025). [*The religious case against belief*](https://carse-2025.pritikin.eth.limo/docs/intro/) (J. N. Pritikin, Trans.; 2nd ed.). Ethswarm.org (Original work published 2008)
-
-{{% /details %}}
 
 ## Silly Photos
 
