@@ -84,7 +84,7 @@ Make rapid progress with an intensive. Reach out to schedule eight or more hours
 | 2022 Sep to present | [IFS Continuity Program](https://learn.ifs-institute.com/ifs-continuity-program/) |
 {{% /details %}}
 {{% details "Meditation, more than 30 years 🧘🏻‍♂️" %}}
-- Check out my [2023 article on meditation](https://partsandself.org/ifs-and-meditation/) published in the IFS magazine PARTS & SELF!
+- Check out my [2023 article on meditation](https://partsandself.org/ifs-and-meditation/) published in the IFS magazine PARTS & SELF! Or you might prefer the 2026 [The Gentle Law](https://thegentlelaw.substack.com/p/what-is-the-goal-in-meditation) version.
 - Can provide cult recovery support.
 {{% /details %}}
 {{% details "Ph.D. Quantitative Psychology in 2016 from University of Virginia 🎓" %}}
