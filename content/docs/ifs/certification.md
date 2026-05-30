@@ -37,7 +37,7 @@ Certification provides assurance of a deep understanding of IFS and the skills t
 ## FAQ
 
 {{% details "Who has more expertise, (Level 1 trained & Certified) or (Level 3 trained & not Certified)?" %}}
-Trainings like IFS Level 1 or Level 3 only require attendance and are no guarantee that the material taught was mastered. IFS Certified offers assurance that a counselor has mastered the model and will be effective.
+Trainings like IFS Level 1 or Level 3 only require attendance and are no guarantee that the material taught was mastered. IFS Certification offers assurance that a counselor has mastered the model and will be effective.
 {{% /details %}}
 
 <br/>
