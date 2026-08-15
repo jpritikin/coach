@@ -7,7 +7,7 @@ bookToc: true
 
 # Annotated Bibliography
 
-You don't need to read any books to receive counseling.
+You don't need to read any books to work with an IFS practitioner.
 
 I put this page here to document my own journey learning the IFS model.
 These are the books that I feel are practice focused, actually teach you how to facilitate IFS sessions.

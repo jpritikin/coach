@@ -12,7 +12,7 @@ We gently help people turn toward their experience rather than away from it.
 
 Clients typically come in feeling stuck, overwhelmed, or shut down. Over time, they find themselves reacting less, understanding themselves better, and moving through life with more ease. Relationships become less fraught. Old wounds lose their grip. The change is gradual—and then it isn't.
 
-## What does counseling look like?
+## What does IFS practice look like?
 
 {{% columns %}}
 
@@ -32,20 +32,20 @@ As a default, I recommend 90-minute sessions every week.
 
 {{% /columns %}}
 
-The duration and frequency of therapy can vary depending on your needs and motivation.
+The duration and frequency of sessions can vary depending on your needs and motivation.
 During the no-fee consultation, we'll decide together what is the best fit. 😃
 
 ## Location
 
 I see clients by video 📹 or audio-only 🎙️.
-For individual therapy, you may prefer audio-only ☎.[^audio-only]
+For individual sessions, you may prefer audio-only ☎.[^audio-only]
 When working with dyads, video is highly recommended.[^one-way-video]
 
-I am Oregon-based (near California)[^native] and work with clients worldwide via video—no geographic restrictions. 🌎
+I am Oregon-based (near California)[^native] and work with clients by video, but telehealth eligibility depends on your state of residence. See the [Telehealth Eligibility by State]({{< relref "telehealth-eligibility" >}}) page before booking. 🌎
 
 ## Notes
 
-[^audio-only]: In the classical approach to psychotherapy, the client lies on a couch 🛋️ and does not look the therapist directly in the eye 👀 while speaking.
+[^audio-only]: In the classical approach to talk therapy, the client lies on a couch 🛋️ and does not look the practitioner directly in the eye 👀 while speaking.
 
 [^native]: I acknowledge that I live on the traditional
 territory of the Shasta; Confederated Tribes of Siletz Indians;

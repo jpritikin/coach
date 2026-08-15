@@ -25,7 +25,7 @@ He is warm and direct. Sessions are unhurried. Clients often say they feel genui
 
 {{% details "Individual & relationship issues (couple or dyad) ❤️" %}}
 - I partner with [Hand in Hand Parenting](https://www.handinhandparenting.org/) for childrearing issues. 🧑‍🧒‍🧒 Is your child obedient, cooperative, and joyful? Learn how to navigate family dynamics with ease. I roleplay the parent and you roleplay your child.
-- I practice as a counselor under Oregon law, which recognizes alternative counselors alongside licensed therapists.[^legal] IFS Certification is the relevant credential for this work.
+- I practice as an IFS practitioner under Oregon law, which recognizes unlicensed practitioners alongside licensed therapists.[^legal] IFS Certification is the relevant credential for this work.
 {{% /details %}}
 {{% details "Lifestyle, nutrition, & physical health 🥗" %}}
 - I have studied [nutrition](https://brambles.joshuapritikin.com/docs/health/) for many years and am trained to evaluate statistical evidence.
@@ -129,6 +129,6 @@ If this page has left you insatiably curious about Joshua Pritikin as a person, 
 
 [^morgan2020]: Morgan, N. L. (2020). Integrating psychedelic experiences utilizing the Internal Family Systems therapeutic model. *Int. J. Soc. Sci. Manage. Rev 3,* 257–264. doi: [10.37602/IJSSMR.2020.3417](http://ijssmr.org/uploads2020/ijssmr03_123.pdf)
 
-[^legal]: I provide counseling under [ORS 675.825(4)(a)](https://oregon.public.law/statutes/ors_675.825). As an unlicensed counselor I cannot use the title *psychotherapist* ([ORS 675.020](https://oregon.public.law/statutes/ors_675.020)), but I am legally authorized to practice in Oregon.
+[^legal]: I practice under [ORS 675.825(4)(a)](https://oregon.public.law/statutes/ors_675.825). As an unlicensed practitioner, I do not use restricted titles such as *counselor*, *psychotherapist*, or *therapist* ([ORS 675.020](https://oregon.public.law/statutes/ors_675.020)); I use *IFS practitioner*. I am legally authorized to practice in Oregon. Telehealth eligibility for clients outside Oregon depends on the client's state of location—see [Telehealth Eligibility by State]({{< relref "/docs/services/telehealth-eligibility" >}}).
 
 [^emergency]: [Go here for emergency support.]({{< relref "contact#currently-experiencing-a-crisis" >}})

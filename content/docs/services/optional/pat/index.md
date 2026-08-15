@@ -7,7 +7,7 @@ bookToc: true
 
 # Psychedelic-Assisted Therapy (PAT)
 
-Psychedelic-assisted therapy (PAT) combines a therapeutic-dose empathogen with counseling to support more rapid emotional processing, parts work, and healing.
+Psychedelic-assisted therapy (PAT) combines a therapeutic-dose empathogen with IFS practice to support more rapid emotional processing, parts work, and healing.
 
 ![5-MAPB molecular structure](5-MAPB-structure.svg)
 {.center}
@@ -22,12 +22,12 @@ You can source 5-MAPB from [Advanced Myco](https://advancedmyco.com/products/plu
 
 A PAT session typically unfolds in three phases:
 
-1. **Preparation** — We meet beforehand (standard counseling session) to set intentions, review your history, and address any concerns.
+1. **Preparation** — We meet beforehand (standard session) to set intentions, review your history, and address any concerns.
 2. **Medicine session** — You self-administer your chosen dose. The experience lasts 4–6 hours. I hold space via video conferencing while you remain safely in your own home. Doses in PLÜR tablets:
    - 3 tablets (~75 mg) — Light
    - 4 tablets (~100 mg) — Moderate
    - 5 tablets (~125 mg) — Standard
-3. **Integration** — We resume regular counseling sessions.
+3. **Integration** — We resume regular sessions.
 
 To allow adequate neurological recovery, medicine sessions are spaced at least 3 months apart.[^interval]
 

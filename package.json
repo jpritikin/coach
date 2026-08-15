@@ -3,14 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "concurrently \"npm run watch:ts\" \"hugo server -D\"",
-    "watch:ts": "tsc --watch",
-    "build:ts": "tsc",
-    "build": "npm run build:ts && hugo --minify",
+    "dev": "hugo server -D --poll 700ms",
+    "build": "hugo --minify",
     "start": "hugo server"
-  },
-  "devDependencies": {
-    "concurrently": "^9.2.1",
-    "typescript": "^5.7.3"
   }
 }

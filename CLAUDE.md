@@ -1,2 +1,3 @@
 - Don't edit javascript. Only edit typescript.
 - Don't assume the documentation is correct. The code is the spec and the documentation should eventually to follow it.
+- Don't touch ./public because it can confused `npm run dev`

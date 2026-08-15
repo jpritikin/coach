@@ -10,7 +10,7 @@ bookCollapseSection: true
 
 ## [Psychedelic-Assisted Therapy]({{< relref "pat" >}})
 
-Counseling sessions combined with a legal empathogen (5-MAPB) to support more rapid emotional processing and healing.
+Sessions combined with a legal empathogen (5-MAPB) to support more rapid emotional processing and healing.
 
 ## [House Call]({{< relref "house-call" >}})
 
