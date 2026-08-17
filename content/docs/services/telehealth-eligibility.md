@@ -8,7 +8,7 @@ bookHidden: true
 
 # Telehealth Eligibility by State
 
-Telehealth practice is governed by the laws of the state where **you, the client, are physically located** at the time of the session. Because I am not a licensed therapist, some states restrict or prohibit unlicensed practitioners from providing telehealth services to residents physically located there.
+Telehealth is governed by the laws of the state where **you, the client, are physically located** at the time of the session. Some states restrict unlicensed practitioners like me from serving residents.
 
 This page is a work in progress. These data reflect preliminary research only and are not legal advice. I am not a lawyer.
 
@@ -55,13 +55,13 @@ This page is a work in progress. These data reflect preliminary research only an
 .telehealth-state-green   { fill: url(#pattern-green); }
 .telehealth-state-red     { fill: #c0392b; }
 .telehealth-state-neutral { fill: #b0b0b0; }
-#telehealth-map-svg-holder g[id="OUTSIDE_USA"] circle { cursor: pointer; }
-#telehealth-map-svg-holder g[id="OUTSIDE_USA"]:hover circle {
+#telehealth-map-svg-holder g[id] circle { cursor: pointer; transition: opacity 0.1s ease; }
+#telehealth-map-svg-holder g[id]:hover circle {
   opacity: 0.75;
   stroke: #333;
   stroke-width: 1.5;
 }
-#telehealth-map-svg-holder g[id="OUTSIDE_USA"].telehealth-active circle {
+#telehealth-map-svg-holder g[id].telehealth-active circle {
   opacity: 1;
   stroke: #000;
   stroke-width: 4;
@@ -80,6 +80,10 @@ This page is a work in progress. These data reflect preliminary research only an
       color: 'green',
       note: '<a href="https://www.ilga.gov/Legislation/ILCS/Articles?ActID=1324&amp;ChapterID=24" target="_blank" rel="noopener">225 ILCS 107, Section 15</a> states: "This Act does not prohibit the practice of nonregulated professions whose practitioners are engaged in the delivery of human services as long as these practitioners do not represent themselves as or use the title of—" a restricted, licensed profession. I do not use restricted titles, so I am available to Illinois residents.'
     },
+    MA: {
+      color: 'green',
+      note: 'Unlicensed practice as "counselor" or "therapist" is expressly permitted if not held out as licensed. See <a href="https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter112/Section164" target="_blank" rel="noopener">Mass. Gen. Laws ch. 112, §164</a>.'
+    },
     MN: {
       color: 'green',
       note: 'Minnesota regulates unlicensed complementary and alternative health care practitioners under <a href="https://www.revisor.mn.gov/statutes/cite/146a" target="_blank" rel="noopener">Minn. Stat. Ch. 146A</a>. Prospective clients are required to read the <a href="https://www.revisor.mn.gov/statutes/cite/146A.11" target="_blank" rel="noopener">client bill of rights (Minn. Stat. §146A.11)</a> before I can work with you.'
@@ -95,6 +99,14 @@ This page is a work in progress. These data reflect preliminary research only an
     NY: {
       color: 'red',
       note: 'Treats "psychotherapy" as a restricted scope-of-practice activity shared among licensed professions. Unlicensed practice of psychology is a felony (<a href="https://www.nysenate.gov/legislation/laws/EDN/6512" target="_blank" rel="noopener">Ed. Law \u00a76512</a>). The NY Office of the Professions says that individuals/organizations may provide "instruction, advice, support, encouragement or information," which is the narrow lane coaches rely on. But it is not clear whether my services fit within that lane.'
+    },
+    DC: {
+      color: 'red',
+      note: 'Its psychology act is broad, non-diagnosis-dependent, and has prior drafting history explicitly folding "coaching" into regulated practice. Unlicensed practice of a health occupation in DC is a criminal offense under <a href="https://code.dccouncil.gov/us/dc/council/code/sections/3-1210.07" target="_blank" rel="noopener">DC Code § 3-1210.07</a>.'
+    },
+    WA: {
+      color: 'green',
+      note: 'Liability is restricted to representing yourself as a licensed psychologist. See <a href="https://app.leg.wa.gov/rcw/default.aspx?cite=18.83.020" target="_blank" rel="noopener">RCW 18.83.020</a>.'
     },
     OUTSIDE_USA: { color: 'green', note: 'Cross-border practice may still be subject to the laws of your own country.' }
   };
