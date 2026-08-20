@@ -108,6 +108,10 @@ This page is a work in progress. These data reflect preliminary research only an
       color: 'green',
       note: 'Liability is restricted to representing yourself as a licensed psychologist. See <a href="https://app.leg.wa.gov/rcw/default.aspx?cite=18.83.020" target="_blank" rel="noopener">RCW 18.83.020</a>.'
     },
+    TX: {
+      color: 'red',
+      note: '<a href="https://statutes.capitol.texas.gov/?tab=1&amp;code=OC&amp;chapter=OC.501&amp;artSec=501.003" target="_blank" rel="noopener">Tex. Occ. Code §501.003(c)(3)</a> exempts advice, counsel, or guidance offered through "an organized or structured program or peer support service" designed to support a self-identified goal of changing or improving mental, emotional, or behavioral health, which might cover this work. But <a href="https://codes.findlaw.com/tx/occupations-code/occ-sect-503-003/" target="_blank" rel="noopener">Chapter 503 (professional counseling)</a> separately restricts unlicensed counseling, and it is not clear the §501.003(c)(3) exemption carries over to Chapter 503.'
+    },
     OUTSIDE_USA: { color: 'green', note: 'Cross-border practice may still be subject to the laws of your own country.' }
   };
   var DEFAULT_NOTE = 'Not yet reviewed. Please raise this during the free consultation.';
