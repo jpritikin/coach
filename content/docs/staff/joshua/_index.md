@@ -83,12 +83,10 @@ Make rapid progress with an intensive. Reach out to schedule eight or more hours
 | 2022 Nov | IFS Level 1 🍀🚀 |
 | 2022 Sep to present | [IFS Continuity Program](https://learn.ifs-institute.com/ifs-continuity-program/) |
 {{% /details %}}
-{{% details "Meditation, more than 30 years 🧘🏻‍♂️" %}}
+{{% details "Writing and Research 🎓" %}}
+- Ph.D. Quantitative Psychology in 2016 from University of Virginia. See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bibliography/56367505/public/?sort=date&direction=ascending) for publications.
 - Check out my [2023 article on meditation](https://partsandself.org/ifs-and-meditation/) published in the IFS magazine PARTS & SELF! Or you might prefer the 2026 [The Gentle Law](https://thegentlelaw.substack.com/p/what-is-the-goal-in-meditation) version.
-- Can provide cult recovery support.
-{{% /details %}}
-{{% details "Ph.D. Quantitative Psychology in 2016 from University of Virginia 🎓" %}}
-- See [NCBI](https://www.ncbi.nlm.nih.gov/sites/myncbi/1JSuQtfn5RykSS/bibliography/56367505/public/?sort=date&direction=ascending) for publications.
+- Author of a 2026 philosophical book with a chapter on IFS—written down as his practice standard, and one he holds himself to session after session. [Learn more.](https://unburdened.biz)
 {{% /details %}}
 
 ## Me Online
