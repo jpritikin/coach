@@ -300,11 +300,11 @@ This page is a work in progress. These data reflect preliminary research only an
 
       var hintText = statusEl.textContent;
 
-      function render(region, name, info) {
+      function render(region, name, info, bringToFront) {
         clearActive();
         if (region) {
           region.classList.add('telehealth-active');
-          region.parentNode.appendChild(region);
+          if (bringToFront) region.parentNode.appendChild(region);
           statusEl.innerHTML = '<strong>' + name + ':</strong> ' + info.note;
         } else {
           statusEl.textContent = hintText;
@@ -334,7 +334,7 @@ This page is a work in progress. These data reflect preliminary research only an
             render(null);
           } else {
             locked = region;
-            render(region, name, info);
+            render(region, name, info, true);
           }
         });
         region.setAttribute('tabindex', '0');
