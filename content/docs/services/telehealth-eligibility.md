@@ -70,6 +70,7 @@ This page is a work in progress. These data reflect preliminary research only an
 .telehealth-legend .swatch { display: inline-block; width: 0.9em; height: 0.9em; margin-right: 0.35em; border-radius: 2px; vertical-align: -0.1em; }
 .swatch-red     { background: #c0392b; }
 .swatch-neutral { background: #b0b0b0; }
+#telehealth-map-svg-holder g#DC text { fill: #fff; }
 </style>
 
 <script>
