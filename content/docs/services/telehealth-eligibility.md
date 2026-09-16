@@ -314,7 +314,7 @@ This page is a work in progress. These data reflect preliminary research only an
       regions.forEach(function (region) {
         var code = region.id;
         var info = infoFor(code);
-        var target = region.tagName.toLowerCase() === 'g' ? region.querySelector('circle') : region;
+        var target = region.tagName.toLowerCase() === 'g' ? region.querySelector('circle.telehealth-bubble') : region;
         target.classList.add('telehealth-state-' + info.color);
         var name = region.getAttribute('data-name') || code;
 
