@@ -54,7 +54,7 @@ My schedule fills up; booking a few weeks ahead gets you your preferred time slo
 
 ## Fees
 
-My rate is **$100 per hour**. Reserve time in 15-minute increments. I do not accept insurance.
+My rate is **$200 per hour**. Reserve time in 15-minute increments. I do not accept insurance.
 
 Sliding scale rates are available for people with low income, veterans, and active military—just ask.
 
