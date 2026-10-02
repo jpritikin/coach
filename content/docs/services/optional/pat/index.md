@@ -16,7 +16,7 @@ Psychedelic-assisted therapy (PAT) combines a therapeutic-dose empathogen with I
 
 I recommend **5-MAPB** (5-(N-methyl-2-aminopropyl)benzofuran), a legal, unscheduled empathogen with a pharmacological profile <span class="hover-swap" data-hover="very different from" data-href="#fn:1">similar to</span> MDMA.[^analogue] Like MDMA, 5-MAPB promotes feelings of emotional openness, empathy, and reduced fear creating a window in which difficult material becomes more accessible. 5-MAPB is also less physically stimulating than MDMA—a good fit for the sedentary, seated work of a talk-therapy session.[^erowid-5mapb]
 
-You can source 5-MAPB from [Advanced Myco](https://advancedmyco.com/products/plur-personal-pack-10-tabs) (PLÜR Beyond Molly Heart Tabs), an American supplier that publishes third-party Certificates of Analysis (COAs). See the manufacturer's product page for the latest COA; a sample COA from January 2026 is [available here](COA-PLUR-260112.pdf).
+You can source 5-MAPB from [xumtrip](https://xumtrip.com/product/plur-immerse/) (PLÜR IMMERSE), an American supplier that publishes third-party Certificates of Analysis (COAs). See the manufacturer's product page for the latest COA; a sample COA from January 2026 is [available here](COA-PLUR-260112.pdf).
 
 ## How a Session Works
 
@@ -33,7 +33,7 @@ To allow adequate neurological recovery, medicine sessions are spaced at least 3
 
 ## Contraindications
 
-I am not a doctor and cannot provide medical advice. Please review the manufacturer's product page for safety information and consult your physician before proceeding: [Advanced Myco — PLÜR Beyond Molly](https://advancedmyco.com/products/plur-personal-pack-10-tabs).
+I am not a doctor and cannot provide medical advice. Please review the manufacturer's product page for safety information and consult your physician before proceeding.
 
 ## Legal Status
 
